@@ -1,16 +1,97 @@
 {
-  "last_updated": "October 22, 2026 16:26 UTC",
-  "total_count": 225,
+  "last_updated": "October 22, 2026 20:21 UTC",
+  "total_count": 226,
   "articles": [
     {
-      "title": "‘No indications’ PHP code flaw has led to government systems being hacked, cyber security official says – UK politics live",
-      "link": "https://www.theguardian.com/politics/live/2026/oct/22/john-healey-chancellor-budget-red-tape-small-businsesses-jackdaw-oil-latest-news-updates",
-      "source": "The Guardian Australia",
-      "date": "2026-10-22T16:16:40+00:00",
+      "title": "Market integrity in a digital age",
+      "link": "https://www.fca.org.uk/news/speeches/market-integrity-digital-age",
+      "source": "FCA UK Regulatory News",
+      "date": "2026-10-22T22:01:00+00:00",
       "display_date": "Oct 22, 2026",
-      "summary": "Some 32 government services are offline while work is carried out to address potential cybersecurity issues, a minister has said Tell us: have you been affected by the PHP code flaw? The Office for National Statistics has also published a report on the gender pay gap . It says: T...",
+      "summary": "Speech by Nikhil Rathi, FCA chief executive at the Corporation of the City of London’s annual City Dinner, Mansion House. The success of the UK’s financial servicesIn August, flight cancellations left my sons and I with an extra day in Boston. A Red Sox game, perhaps?No, the Rath...",
       "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Trump Must Sit for Deposition in BBC Lawsuit, Judge Orders",
+      "link": "https://www.wsj.com/politics/trump-must-sit-for-deposition-in-bbc-lawsuit-judge-orders-3ea44939?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-10-22T19:09:00+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "The president sued the broadcaster for defamation over its editing of his speech in a documentary about Jan. 6, 2021.",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "Every Briton should stockpile water and food supplies, government advises",
+      "link": "https://www.theguardian.com/politics/2026/oct/22/britain-prepare-infrastructure-attacks-hostile-states-wes-streeting",
+      "source": "The Guardian Australia",
+      "date": "2026-10-22T18:10:11+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "Be Ready campaign aims to prepare UK for impact of climate crisis, technological dependency and threats by hostile state Every Briton is being urged to stock up to nine litres of bottled water and three days’ worth of food in new government guidance designed to ensure that househ...",
+      "topics": [
+        "Regulatory Change",
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "Bank of America, Part II: Transaction Monitoring",
+      "link": "https://www.radicalcompliance.com/2026/10/22/bank-of-america-part-ii-transaction-monitoring/",
+      "source": "Radical Compliance",
+      "date": "2026-10-22T17:56:01+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "Today we return to Bank of America and the huge anti-money laundering case it settled with federal regulators earlier this month. This case is all about ineffective transaction monitoring and the many compliance failures that followed, so let’s examine the system that Bank of Ame...",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "Ecuador opposition leader arrested in money laundering investigation - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kbUVhT3NUV2N3c1I0Q1NGNXg0VXhKYXc1aWNIa09lTFotZS1Pb0dMU0hsLTJKeEdzRFhBN1JCNGc5SUc3VmRIcENZSXlyVWU2MGwwMmNVYlpWWXZ0QTVVZmV4ZEpDcjFTWC1vQWZ2bUw?oc=5",
+      "source": "Financial Times",
+      "date": "2026-10-22T17:47:15+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "Ecuador opposition leader arrested in money laundering investigation Financial Times",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "Virginia Dem Louise Lucas, 82, indicted on drug trafficking, money laundering and bribery charges - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPaW12OEpwaVJOZlRIT3pmeGRXRk9seXR4NXF5UmNSak5vWWpCUk1lc1ZMZTFPWXczTnMxX2V4MmtMajZsZDU2d2dpVFBYYks0cHZlRHFDUDdmMVk2NDlIMlNXU2ZaWHhNSjFPNTB3TWZfeWl6NWE1TUZ1SXh5bmNVaGs5eF9NbUg1a0Y1UnFjMUU4NGNPNng3cXRMQzdQUkVJYnJxWWI0dFB2SHI4R29HRlE4bm1kdGVVc1MzalZ0UHZZcFkzWDdtUDRQaFc0YmhMMGkwUGp0TWhnVXhHQkNhaFJUOU9udUl3Wjd6U3pnVkFxd2pUMWl5d1k5R1FTYW9z?oc=5",
+      "source": "The Australian",
+      "date": "2026-10-22T17:36:11+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "Virginia Dem Louise Lucas, 82, indicted on drug trafficking, money laundering and bribery charges The Australian",
+      "topics": [
+        "Enforcement Actions",
+        "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "With UK Deadline Near, Just 9% of Multinationals Have Completed ID Checks",
+      "link": "https://www.corporatecomplianceinsights.com/news-roundup-october-22-2026/",
+      "source": "Corporate Compliance Insights",
+      "date": "2026-10-22T17:19:29+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "Plus: Directors downgrade own boards’ effectiveness; skipping human review of AI guidance triples fine rate; ransomware gangs turn to physical threats against staff The post With UK Deadline Near, Just 9% of Multinationals Have Completed ID Checks appeared first on Corporate Comp...",
+      "topics": [
+        "Enforcement Actions",
+        "Regulatory Change",
         "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "US regulator is probing suspicious Iran oil trading, official says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPem1fOEZ2aU10cDBTVHhDUXFuN3ZTU1l3ZXR4dkpMUUNCazJDMEk4V0UxT01nZ2tNckxuTllmYXhNeUlhSTQzbzg5dHN2aVNjMUpnNnU0T2FJWmNtTGZ4ZTg0UXNjRFhReHlDbThZalczOHdVZFBKLU9pVEp3YTBTS096QUdKVm4tbTdlQzJSYWQ5eGhDZ05FSjJJWFhNYkt2dHZERzg1Zmltc2xKUkd1UjBXUEpTdjNC?oc=5",
+      "source": "Reuters",
+      "date": "2026-10-22T16:30:32+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "US regulator is probing suspicious Iran oil trading, official says Reuters",
+      "topics": [
+        "Regulatory Change"
       ]
     },
     {
@@ -102,6 +183,194 @@
       ]
     },
     {
+      "title": "Siemens SIMATIC S7 Webserver API",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-10",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-10-22T12:00:00+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "View CSAF Summary .NET Client Library for SIMATIC S7 Webserver API contains multiple vulnerabilities that could allow an attacker to obtain sensitive information or write arbitrary files outside the intended download directory. Siemens has released a new version for .NET Client L...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "Siemens APOGEE, TALON and Desigo PXC/PXM Products",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-08",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-10-22T12:00:00+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "View CSAF Summary The products listed below contain multiple vulnerabilities that could allow an attacker to cause a denial of service and potentially impact the availability of the affected device. Siemens has released new versions for several affected products and recommends to...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "Siemens RUGGEDCOM CROSSBOW",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-12",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-10-22T12:00:00+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "View CSAF Summary RUGGEDCOM CROSSBOW contains multiple vulnerabilities that could allow an attacker to execute arbitrary SQL commands on the underlying database, retrieve sensitive administrative credentials, escalate privileges, and perform unauthorized operations such as modify...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "Siemens RUGGEDCOM APE1808 Devices",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-18",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-10-22T12:00:00+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "View CSAF Summary Nozomi Networks has published information on vulnerabilities in Nozomi Guardian/CMC. This advisory lists the related Siemens Industrial products affected by these vulnerabilities. Siemens recommends to contact customer support to receive patch and update informa...",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Siemens Industrial Edge App Publisher",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-02",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-10-22T12:00:00+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "View CSAF Summary The Industrial Edge App Publisher contains a vulnerability chain involving improper certificate validation and the rendering of unescaped data from backend responses. These issues can be combined to allow an attacker on the network to impersonate the management ...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "Siemens SIMATIC S7-1500 CPU 1518(F)-4 PN/DP MFP",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-11",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-10-22T12:00:00+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "View CSAF Summary Multiple vulnerabilities have been identified in the additional GNU/Linux subsystem of the firmware version V3.1.7 for the SIMATIC S7-1500 CPU 1518(F)-4 PN/DP MFP (incl. SIPLUS variant). Siemens is preparing fixes and recommends specific mitigations for products...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "Siemens WinCC",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-13",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-10-22T12:00:00+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "View CSAF Summary Multiple SIMATIC WinCC versions are affected by a database privilege escalation vulnerability that could allow an authenticated user with access to the database to execute commands on the underlying host system. Siemens has released new versions for several affe...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "Siemens Industrial Edge Device Kit",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-09",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-10-22T12:00:00+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "View CSAF Summary Users of Industrial Edge Devices are advised to consult the respective Security Advisories for their devices (for Siemens Industrial Edge devices see Additional Information). Industrial Edge Device Kit contains multiple path traversal vulnerabilities that could ...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "Siemens Capital Embedded AR Classic",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-04",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-10-22T12:00:00+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "View CSAF Summary The products listed below contain an out-of-bounds read vulnerability that could allow an attacker to cause abnormal product behavior, instability, or denial of service. Siemens has released a new version for Capital Embedded AR Classic R20-11 and recommends upd...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "InterSystems Corporation InterSystems IRIS for Health",
+      "link": "https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-295-01",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-10-22T12:00:00+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to view transmitted data and use that data to log into the device. The following versions of InterSystems Corporation InterSystems IRIS for Health are affected: InterSystems IRIS for Health 20...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "Siemens PSS(R)SINCAL",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-06",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-10-22T12:00:00+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "View CSAF Summary PSS(R)SINCAL uses WibuKey third-party product that contains an out-of-bounds write vulnerability. An attacker could exploit this vulnerability to cause a system crash, resulting in a denial-of-service condition. This affects PSS SINCAL only when configured to us...",
+      "topics": [
+        "Cybersecurity Risk",
+        "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "Siemens Software Center",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-03",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-10-22T12:00:00+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "View CSAF Summary The affected application loads dynamic-link libraries (DLLs) from an uncontrolled search path. This could allow an authenticated local attacker to place a specially crafted DLL in a directory that the application searches, leading to arbitrary code execution wit...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "Siemens RUGGEDCOM CROSSBOW Station Access Controller",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-15",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-10-22T12:00:00+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "View CSAF Summary RUGGEDCOM CROSSBOW Station Access Controller (SAC) contains multiple vulnerabilities in the integrated SQLite component that could allow an attacker to execute arbitrary code, cause a denial of service, or obtain sensitive information. Siemens has released a new...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "Siemens SIMATIC IPCs",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-07",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-10-22T12:00:00+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "View CSAF Summary The products listed below contain a vulnerability that could allow an attacker to boot an operating system or UEFI application signed with that test key, bypassing UEFI Secure Boot protections even when Secure Boot is enabled. Siemens has released new versions f...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "Siemens Industrial Edge Devices",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-17",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-10-22T12:00:00+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "View CSAF Summary Siemens Industrial Edge Devices contain multiple path traversal vulnerabilities that could facilitate an authenticated remote attacker to access sensitive internal information. Siemens has released new versions for several affected products and recommends to upd...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "Siemens SIMATIC S7 PLCs Web Server",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-14",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-10-22T12:00:00+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "View CSAF Summary SIMATIC S7-1500 devices contain multiple vulnerabilities in the web server that could allow an attacker to execute malicious code in an authorized user’s browser session and perform PLC operations within the scope of that user’s authorization. Siemens is prepari...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "Siemens SENTRON 3NA COM Fuse",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-05",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-10-22T12:00:00+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "View CSAF Summary SENTRON 3NA COM Fuse contains a Denial-of-Service vulnerability. Improper handling of a network management message could allow an attacker to trigger a denial-of-service (DoS) condition. Successful exploitation may require the affected network to be re-establish...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
       "title": "Managing AI Token Consumption for Operational Resilience",
       "link": "https://www.cisa.gov/resources-tools/resources/managing-ai-token-consumption-operational-resilience",
       "source": "CISA Cybersecurity Advisories",
@@ -112,6 +381,28 @@
         "Regulatory Change",
         "Cybersecurity Risk",
         "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "Siemens SIMATIC S7-1500 TM MFP",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-16",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-10-22T12:00:00+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "View CSAF Summary Multiple vulnerabilities have been identified in the additional GNU/Linux subsystem of the SIMATIC S7-1500 TM MFP V1.1.1. Siemens is preparing fixes and recommends specific mitigations for products where fixes are not or not yet available. The following versions...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "Kiloview E3 NDI Encoder",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-01",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-10-22T12:00:00+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "View CSAF Summary Successful exploitation of this these vulnerabilities could allow an attacker to fully compromise the device. The following versions of Kiloview E3 NDI Encoder are affected: E3 Firmware <1.30 (CVE-2026-109122, CVE-2026-111100, CVE-2026-96616, CVE-2026-105265, CV...",
+      "topics": [
+        "Cybersecurity Risk"
       ]
     },
     {
@@ -145,6 +436,17 @@
       "summary": "Plus, Meta loses in data-privacy case.",
       "topics": [
         "Data Privacy"
+      ]
+    },
+    {
+      "title": "Nippon Life India AMC gets regulatory nod to settle Yes Bank bond case - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbGxwdXlDdlFuaC0wbzM0QWpHSWwyZ2tZLVJMNU9wdEl0UWtTWm1nTHRhcm44cFBicVJIa3Q0Um9CbUdBcU5BRXd5a0R3Wl9tZE96eTJiWWhuUkpwNTJ6U2V0eDJpVzRaVmh2UU1LUEpWR1phNUViWFlHSW9YLXIwVjVFY0JobGpsZ2lPTVNSTzhfRVhwWExkVVZsbUZxT2pBaFdUVS1FQnBldEdWbjNqWm5Ubzk?oc=5",
+      "source": "Reuters",
+      "date": "2026-10-22T10:45:28+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "Nippon Life India AMC gets regulatory nod to settle Yes Bank bond case Reuters",
+      "topics": [
+        "Regulatory Change"
       ]
     },
     {
@@ -247,18 +549,6 @@
       ]
     },
     {
-      "title": "Largest fine ever: Meta ordered to pay $36bn in data privacy case - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNX0VmUXhpQzg3ZUd1UEppcWtPRE90WGh0dVpwSUNZemlCSlhaaW8xVGk1NkZHXzJYLXh3d3lzQUJpNWZHYzh0SUhnM010aWRYeE9SUndvT3phYVNWTy1NOVRkMVZ0SUs2ZmpDNFFIUl94MHM4YjRNX1lLcXRrRnc0R0NwNkh3N3ZkR2puWjlNZmtIS2FVZ0F2VTR0dzNYRU56SGlFYjZQazE1bXp5QW1OQjdsVXlraGNDLV9CTTFMUHgwSFQxWV8tN3hqLWdQc3FXYWtIT3BWem1aajNsN09iVnBFUk5HdGctaVlGU2xyd0todWg2RHEwenQ4VXJkZw?oc=5",
-      "source": "The Australian",
-      "date": "2026-10-21T23:11:01+00:00",
-      "display_date": "Oct 21, 2026",
-      "summary": "Largest fine ever: Meta ordered to pay $36bn in data privacy case The Australian",
-      "topics": [
-        "Enforcement Actions",
-        "Data Privacy"
-      ]
-    },
-    {
       "title": "UAE expands AML/CFT regime with tougher penalties and wider sector reach",
       "link": "https://www.complianceweek.com/aml/uae-expands-aml-cft-regime-with-tougher-penalties-and-wider-sector-reach/",
       "source": "Compliance Week",
@@ -267,17 +557,6 @@
       "summary": "The UAE’s new AML/CFT law adds criminal offenses, harsher penalties, and new compliance duties for firms and individuals. The post UAE expands AML/CFT regime with tougher penalties and wider sector reach appeared first on Compliance Week .",
       "topics": [
         "AML & Sanctions"
-      ]
-    },
-    {
-      "title": "A Simple Guide to China’s Very Complicated Policy Universe - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5FdHRYcEMxR0tlaHljNXFFLUNURDZaSGxzZmxydUtDRkZDVWNQRU4tQjJwV1JrSEF2TFZYb2hqa0ItRlh6cm13emJWN2RaZllDYUNmWjVMRlJtejdTRGFpQU43Z0xvN3lBQURB?oc=5",
-      "source": "Bloomberg.com",
-      "date": "2026-10-21T21:00:00+00:00",
-      "display_date": "Oct 21, 2026",
-      "summary": "A Simple Guide to China’s Very Complicated Policy Universe Bloomberg.com",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
@@ -536,17 +815,6 @@
       ]
     },
     {
-      "title": "UK’s top banking regulator to set targets with five-year strategy - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPalBRX2xOWGxweDRha09QVXF5RUpXZzBuTmRlblpzbThhcl9xeGtyU0I5ZTVTYmVBSjk5Ui1GQnZiM2pld0oyY1FST3VVd0xHSGZTWjA1ZHRoa2swYTRWVHVGOEplU25PRFdwbVlBMWY4LXFfNFJFOVlRVDE1WEdQMmotUlY?oc=5",
-      "source": "Financial Times",
-      "date": "2026-10-21T04:03:03+00:00",
-      "display_date": "Oct 21, 2026",
-      "summary": "UK’s top banking regulator to set targets with five-year strategy Financial Times",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "Fast-fashion giant Shein outperforms several Australian retailers on ethics, report says",
       "link": "https://www.theguardian.com/fashion/2026/oct/21/fast-fashion-giant-shein-outperforms-several-australian-retailers-on-ethics",
       "source": "The Guardian Australia",
@@ -680,28 +948,6 @@
       ]
     },
     {
-      "title": "Insurer Rolls Out Policy to Protect Data Centers Against Growing Backlash - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNei1KY2RNLUdMcDFXWVdpVTQ1MzgtRGxZUEJFMmx4YmN0RlVDWkhpMEhuWHdpSzUyM0lEc3BMZ0U1NW11Mlp4MUZ0LS1FM1RzMXpWVGEyQ1U3b3lkcFRIaWZaZERIc09YaXVrRXJxVnFHUV9USVZsbk5WQnJPUTlvTGxvYUlSaW12OGJBSURwcmI3MU1YSjkxM0ZWQ3VnWXlZTHQ5U05PZkEySzBJTTlwbzN1cEl5dw?oc=5",
-      "source": "Bloomberg.com",
-      "date": "2026-10-20T12:00:26+00:00",
-      "display_date": "Oct 20, 2026",
-      "summary": "Insurer Rolls Out Policy to Protect Data Centers Against Growing Backlash Bloomberg.com",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Hitachi Energy MicroSCADA X SYS600 Product",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-293-04",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-10-20T12:00:00+00:00",
-      "display_date": "Oct 20, 2026",
-      "summary": "View CSAF Summary Hitachi Energy is aware of multiple vulnerabilities that affect MicroSCADA X SYS600 product versions listed in this document. These vulnerabilities can be exploited to carry out various attacks on the product. Please refer to the Recommended Immediate Actions fo...",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
       "title": "#StopRansomware: SafePay Ransomware",
       "link": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-293a",
       "source": "CISA Cybersecurity Advisories",
@@ -725,6 +971,17 @@
       ]
     },
     {
+      "title": "Hitachi Energy MicroSCADA X SYS600 Product",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-293-04",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-10-20T12:00:00+00:00",
+      "display_date": "Oct 20, 2026",
+      "summary": "View CSAF Summary Hitachi Energy is aware of multiple vulnerabilities that affect MicroSCADA X SYS600 product versions listed in this document. These vulnerabilities can be exploited to carry out various attacks on the product. Please refer to the Recommended Immediate Actions fo...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
       "title": "HMS Networks PEAK-System PCAN Windows drivers",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-293-01",
       "source": "CISA Cybersecurity Advisories",
@@ -736,23 +993,23 @@
       ]
     },
     {
-      "title": "Moxa AIG-302 ThingsPro Edge",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-293-03",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-10-20T12:00:00+00:00",
-      "display_date": "Oct 20, 2026",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to obtain and disclose sensitive information. The following versions of Moxa AIG-302 ThingsPro Edge are affected: Moxa AIG-302 ThingsPro Edge firmware <=1.4.0 (CVE-2026-109812, CVE-2026-109...",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
       "title": "CISA Adds Six Known Exploited Vulnerabilities to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/10/20/cisa-adds-six-known-exploited-vulnerabilities-catalog",
       "source": "CISA Cybersecurity Advisories",
       "date": "2026-10-20T12:00:00+00:00",
       "display_date": "Oct 20, 2026",
       "summary": "CISA has added six new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-96652 Plex Media Server Server-Side Request Forgery (SSRF) Vulnerability CVE-2026-96654 Plex Media Server Improper Neutralization of En...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "Moxa AIG-302 ThingsPro Edge",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-293-03",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-10-20T12:00:00+00:00",
+      "display_date": "Oct 20, 2026",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to obtain and disclose sensitive information. The following versions of Moxa AIG-302 ThingsPro Edge are affected: Moxa AIG-302 ThingsPro Edge firmware <=1.4.0 (CVE-2026-109812, CVE-2026-109...",
       "topics": [
         "Cybersecurity Risk"
       ]
@@ -1225,17 +1482,6 @@
       ]
     },
     {
-      "title": "CISA Urges Patching Critical Vulnerability in BeyondTrust Remote Support",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/10/16/cisa-urges-patching-critical-vulnerability-beyondtrust-remote-support",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-10-16T12:00:00+00:00",
-      "display_date": "Oct 16, 2026",
-      "summary": "CISA is aware of critical authentication bypass vulnerability CVE-2026-102764 , affecting BeyondTrust Remote Support (formerly Bomgar) versions 26.2.3 and earlier. Patches are available for supported versions (24.3.1 and later); organizations using older versions must upgrade fir...",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
       "title": "Cyber Threat Actors Use a Variety of Techniques to Target Election and Campaign Officials",
       "link": "https://www.cisa.gov/resources-tools/resources/cyber-threat-actors-use-variety-techniques-target-election-and-campaign-officials",
       "source": "CISA Cybersecurity Advisories",
@@ -1247,23 +1493,23 @@
       ]
     },
     {
+      "title": "CISA Urges Patching Critical Vulnerability in BeyondTrust Remote Support",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/10/16/cisa-urges-patching-critical-vulnerability-beyondtrust-remote-support",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-10-16T12:00:00+00:00",
+      "display_date": "Oct 16, 2026",
+      "summary": "CISA is aware of critical authentication bypass vulnerability CVE-2026-102764 , affecting BeyondTrust Remote Support (formerly Bomgar) versions 26.2.3 and earlier. Patches are available for supported versions (24.3.1 and later); organizations using older versions must upgrade fir...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
       "title": "Key Practices for Incident Readiness and Response in Super Intelligence Training and Evaluation",
       "link": "https://www.cisa.gov/resources-tools/resources/key-practices-incident-readiness-and-response-super-intelligence-training-and-evaluation",
       "source": "CISA Cybersecurity Advisories",
       "date": "2026-10-16T12:00:00+00:00",
       "display_date": "Oct 16, 2026",
       "summary": "The National Institute of Standards and Technology (NIST), National Security Agency’s Super Intelligence Security Center (NSA SISC) and Cybersecurity and Infrastructure Security Agency (CISA) published Key Practices for Incident Readiness and Response in Super Intelligence Traini...",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/10/16/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-10-16T12:00:00+00:00",
-      "display_date": "Oct 16, 2026",
-      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2025-61624 Fortinet Multiple Products Path Traversal Vulnerability CVE-2026-102764 BeyondTrust Remote Support Authentication Bypass by Spoof...",
       "topics": [
         "Cybersecurity Risk"
       ]
@@ -1346,17 +1592,6 @@
       ]
     },
     {
-      "title": "Trump demands death penalty for anyone who kills a firefighter - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTTJ0Um5yOVoydnUxQXVEbnZxeTc3Vy1WN3dsVlZSc0UxZnpVRmRLc3ZHakxlbWVFUUwweTRTTGdRakdoZHhZTDdBeUlfcmxnZVhCdVppVWJ4R2ZlRjRLOVdhVnI2QWVqb0xRRzY3ZTVKMlA3S2p6cURad2szcXNWVXFZVzVpbGRjNHhsbTc0emdVbEhUV185a1dJMHZ0dFJHVlhpQnRQTzRQOV9EaTRZZDFJU3B2alM4bHhhekhXRlp1NldEUVdGVmJmV3MwWnZNUC1sdEVR?oc=5",
-      "source": "The Australian",
-      "date": "2026-10-15T19:41:04+00:00",
-      "display_date": "Oct 15, 2026",
-      "summary": "Trump demands death penalty for anyone who kills a firefighter The Australian",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
       "title": "ePayments Systems Limited enters special administration",
       "link": "https://www.fca.org.uk/news/news-stories/epayments-systems-limited-enters-special-administration",
       "source": "FCA UK Regulatory News",
@@ -1376,74 +1611,6 @@
       "summary": "On 14 October 2026, Jarvis Investment Management Limited (Jarvis Investment) entered special administration. Adam Stephens and Philip Hemming of S&W Partners LLP were appointed as special administrators. Jarvis Investment (FRN 116413) is FCA authorised and regulated to provide we...",
       "topics": [
         "Regulatory Change"
-      ]
-    },
-    {
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/10/15/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-10-15T12:00:00+00:00",
-      "display_date": "Oct 15, 2026",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-21589 Atlassian Multiple Products Files or Directories Accessible to External Parties Vulnerability This type of vulnerability is a frequ...",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "CISA Malcolm",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-280-01",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-10-15T12:00:00+00:00",
-      "display_date": "Oct 15, 2026",
-      "summary": "View CSAF Summary The following versions of CISA Malcolm are affected: Malcolm <=v26.07.1 (CVE-2026-107336, CVE-2026-107361, CVE-2026-107337, CVE-2026-107335, CVE-2026-107334) Malcolm <=v26.08.0 (CVE-2026-107333, CVE-2026-107362) CVSS Vendor Equipment v3 8.1 CISA Malcolm 6 Vulner...",
-      "topics": [
-        "Cybersecurity Risk",
-        "Operational & Enterprise Risk"
-      ]
-    },
-    {
-      "title": "Eclipse Foundation Eclipse Milo",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-288-01",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-10-15T12:00:00+00:00",
-      "display_date": "Oct 15, 2026",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to delete protected data, recover user credentials and impersonate legitimate users, or cause the server to stop responding to all clients. The following versions of Eclipse Foundation Ecli...",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "Guangzhou Juan IoT Technology EseeCloud",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-288-02",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-10-15T12:00:00+00:00",
-      "display_date": "Oct 15, 2026",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to gain control over affected IP cameras. The following versions of Guangzhou Juan IoT Technology EseeCloud are affected: EseeCloud App <=4.9.6 (CVE-2026-107617, CVE-2026-97858, CVE-2026-10...",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "J4Care dcm4che",
-      "link": "https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-288-02",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-10-15T12:00:00+00:00",
-      "display_date": "Oct 15, 2026",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to delete stored medical images, disclose patient information, inject forged studies, reassign patient records, overwrite files, and cause a denial-of-service condition. The following versi...",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "Thermo Fisher Torrent Suite Software",
-      "link": "https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-288-01",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-10-15T12:00:00+00:00",
-      "display_date": "Oct 15, 2026",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to read arbitrary files on the Torrent Server. The following versions of Thermo Fisher Torrent Suite Software are affected: Torrent Suite Software <=5.18 (CVE-2026-107777) CVSS Vendor Equipmen...",
-      "topics": [
-        "Cybersecurity Risk",
-        "Operational & Enterprise Risk"
       ]
     },
     {
@@ -1490,17 +1657,6 @@
       "topics": [
         "Enforcement Actions",
         "AML & Sanctions",
-        "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/10/14/cisa-adds-four-known-exploited-vulnerabilities-catalog",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-10-14T12:00:00+00:00",
-      "display_date": "Oct 14, 2026",
-      "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-0322 Palo Alto Networks PAN-OS Code Injection Vulnerability CVE-2026-76519 Cisco Secure Email Gateway Relative Path Traversal Vulnerab...",
-      "topics": [
         "Cybersecurity Risk"
       ]
     },
@@ -1580,50 +1736,6 @@
       "summary": "The FCA has conducted a major operation to disrupt a suspected organised criminal group for engaging in insider dealing and money laundering. On 13 October, 3 individuals were arrested following a joint operation by the FCA and the National Crime Agency (NCA). More than 100 FCA a...",
       "topics": [
         "AML & Sanctions"
-      ]
-    },
-    {
-      "title": "Almost Half of Defense Contractors Pressing Ahead With CMMC Despite Phase 2 Pause",
-      "link": "https://www.corporatecomplianceinsights.com/news-roundup-october-13-2026/",
-      "source": "Corporate Compliance Insights",
-      "date": "2026-10-13T15:07:26+00:00",
-      "display_date": "Oct 13, 2026",
-      "summary": "Plus: Three-fourths of risk leaders citing added pressure The post Almost Half of Defense Contractors Pressing Ahead With CMMC Despite Phase 2 Pause appeared first on Corporate Compliance Insights .",
-      "topics": [
-        "Operational & Enterprise Risk"
-      ]
-    },
-    {
-      "title": "CISA Urges Patching Newly Exploited Vulnerability in Ivanti Connect Secure",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/10/13/cisa-urges-patching-newly-exploited-vulnerability-ivanti-connect-secure",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-10-13T12:00:00+00:00",
-      "display_date": "Oct 13, 2026",
-      "summary": "CISA is aware of Ivanti’s disclosure of a newly exploited vulnerability, CVE-2026-104935 , affecting Ivanti Connect Secure versions 25.1.1.1 and prior, 25.1.2.2 and prior, and 22.8R2.4 and prior. CISA is aware of cyber threat actors exploiting this zero-day authentication bypass ...",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "Swann Communications SWIFI-SE2KIC",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-286-02",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-10-13T12:00:00+00:00",
-      "display_date": "Oct 13, 2026",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to view video information without authentication. The following versions of Swann Communications SWIFI-SE2KIC are affected: SWIFI-SE2KIC firmware <=2.0.22 (CVE-2026-107605, CVE-2026-107606,...",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "Inductive Automation Ignition Software",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-286-01",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-10-13T12:00:00+00:00",
-      "display_date": "Oct 13, 2026",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an authenticated low-level user to escalate their privileges to a higher level. The following versions of Inductive Automation Ignition Software are affected: Ignition >=8.1.0|<=8.1.54 (CVE-2026-92817) Ig...",
-      "topics": [
-        "Cybersecurity Risk"
       ]
     },
     {
@@ -1761,51 +1873,6 @@
       ]
     },
     {
-      "title": "Grid Protection Alliance openPDC and openHistorian",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-281-02",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-10-08T12:00:00+00:00",
-      "display_date": "Oct 08, 2026",
-      "summary": "View CSAF Summary The following versions of Grid Protection Alliance openPDC and openHistorian are affected: openPDC <2.9.477, <2.9.482 (CVE-2026-104629, CVE-2026-100730, CVE-2026-105281, CVE-2026-85479, CVE-2026-101022) openPDC (Docker image) <2.9.477, <2.9.482 (CVE-2026-104629,...",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "Satel Netco Design",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-281-03",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-10-08T12:00:00+00:00",
-      "display_date": "Oct 08, 2026",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to execute arbitrary scripts in a user's browser, consume excessive system resources, enumerate files, create or modify files, and potentially execute arbitrary code. The following versions...",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "Red Lion Controls N-Tron 700 Series (Update A)",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-281-01",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-10-08T12:00:00+00:00",
-      "display_date": "Oct 08, 2026",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow a malicious user to access the device and gain administrative access. This access would allow the user to view, edit, and upload configuration files. Further, a malicious user can cause the switch to r...",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "Chinese Government-linked Cyber Threat Actors Combine Automated and Hands-on Hacking Tools to Steal Sensitive Data",
-      "link": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-281a",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-10-08T12:00:00+00:00",
-      "display_date": "Oct 08, 2026",
-      "summary": "Advisory at a Glance Title Chinese Government-linked Cyber Threat Actors Combine Automated and Hands-on Hacking Tools to Steal Sensitive Data Original Publication October 8, 2026 Executive Summary Chinese government-linked cyber threat actors, enabled by the Integrity Technology ...",
-      "topics": [
-        "Regulatory Change",
-        "Cybersecurity Risk"
-      ]
-    },
-    {
       "title": "Justice Dept. Fraud Factors, Part II",
       "link": "https://www.radicalcompliance.com/2026/10/07/justice-dept-fraud-factors-part-ii/",
       "source": "Radical Compliance",
@@ -1850,17 +1917,6 @@
       ]
     },
     {
-      "title": "A Warning on Export Compliance Expertise",
-      "link": "https://www.radicalcompliance.com/2026/10/06/a-warning-on-export-compliance-expertise/",
-      "source": "Radical Compliance",
-      "date": "2026-10-06T17:54:40+00:00",
-      "display_date": "Oct 06, 2026",
-      "summary": "A technology company in Boston is settling charges that it violated U.S. export control rules by selling goods to sanctioned Chinese customers, and get this: as part of the deal, the company must designate two employees as its new export compliance team and send the pair to gover...",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
       "title": "SEC to Host Virtual National Compliance Outreach Seminar for Investment Companies and Investment Advisers",
       "link": "https://www.sec.gov/newsroom/press-releases/2026-102-sec-host-virtual-national-compliance-outreach-seminar-investment-companies-investment-advisers",
       "source": "SEC Press Releases",
@@ -1869,39 +1925,6 @@
       "summary": "The Securities and Exchange Commission’s Compliance Outreach Program announced today that it will host a virtual national seminar for investment companies and investment advisers on November 19, 2026. The purpose of the event is to help chief compliance…",
       "topics": [
         "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "Hitachi Energy Asset Suite",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-279-03",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-10-06T12:00:00+00:00",
-      "display_date": "Oct 06, 2026",
-      "summary": "View CSAF Summary Hitachi Energy is aware of unauthenticated servlet access vulnerabilities that affect Asset Suite product versions listed in this document. These vulnerabilities can be exploited to potentially cause confidentiality, integrity and availability impact on the prod...",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "Johnson Controls EasyIO FG",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-279-01",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-10-06T12:00:00+00:00",
-      "display_date": "Oct 06, 2026",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to gain full unauthorized access to the device. The following versions of Johnson Controls EasyIO FG are affected: EasyIO FG firmware <=2.0b52 (CVE-2026-27872, CVE-2026-27873) CVSS Vendor E...",
-      "topics": [
-        "Operational & Enterprise Risk"
-      ]
-    },
-    {
-      "title": "Hitachi Energy SOI",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-279-04",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-10-06T12:00:00+00:00",
-      "display_date": "Oct 06, 2026",
-      "summary": "View CSAF Summary Hitachi Energy is aware of RCE (Remote Code Execution) vulnerability in Apache ActiveMQ component of SOI product versions listed in this document. These vulnerabilities can be exploited to carry out various attacks affecting confidentiality, integrity, and avail...",
-      "topics": [
-        "Cybersecurity Risk"
       ]
     },
     {
@@ -2112,17 +2135,6 @@
       "summary": "We asked the Court to make Arthur Temlett, trading as Abacus Insurance Consultants ('Abacus'), bankrupt. This is known as sequestration in Scotland. The Sheriff granted our application on 27 August 2026. Emma Porter of Aver Chartered Accountants ('Aver') was appointed as trustee....",
       "topics": [
         "Regulatory Change"
-      ]
-    },
-    {
-      "title": "FCA secures money back for victims of crypto fraud",
-      "link": "https://www.fca.org.uk/news/press-releases/fca-secures-money-back-victims-crypto-fraud",
-      "source": "FCA UK Regulatory News",
-      "date": "2026-09-28T14:08:00+00:00",
-      "display_date": "Sep 28, 2026",
-      "summary": "Victims of a £1.5m crypto investment fraud will recover lost funds after the FCA obtained confiscation orders against Raymondip Bedi and Patrick Mavanga. At a hearing at Southwark Crown Court on 28 September 2026, Raymondip Bedi was ordered to pay £603,404.28 and Patrick Mavanga ...",
-      "topics": [
-        "Enforcement Actions"
       ]
     },
     {
