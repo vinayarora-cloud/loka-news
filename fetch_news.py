@@ -8,50 +8,18 @@ import feedparser
 from bs4 import BeautifulSoup
 from dateutil import parser as date_parser
 
-# Curated feeds: Regulators, Global Outlets, and Australian Mainstream News
+# Curated feeds: Regulators, Global Outlets, Australian Media, and Yahoo Finance
 FEED_SOURCES = [
     # =========================================================================
-    # 1. AUSTRALIAN MAINSTREAM NEWS MEDIA
+    # 1. GLOBAL NEWS COMPANIES & FINANCIAL MEDIA
     # =========================================================================
-    # Australian Press Wire Query: AFR, The Australian, SMH, The Age, ABC, SBS, Guardian AU, News.com.au
+    # Yahoo Finance (filtered for risk and compliance)
     {
-        "name": "Australian Financial & Mainstream Media",
-        "url": "https://news.google.com/rss/search?q=(compliance+OR+regulatory+OR+sanctions+OR+enforcement+OR+%22money+laundering%22+OR+ASIC+OR+APRA+OR+AUSTRAC+OR+ACCC+OR+OAIC+OR+%22cyber+risk%22+OR+penalty)+when:7d+(site:afr.com+OR+site:theaustralian.com.au+OR+site:abc.net.au+OR+site:smh.com.au+OR+site:theage.com.au+OR+site:theguardian.com+OR+site:sbs.com.au+OR+site:news.com.au)&hl=en-AU&gl=AU&ceid=AU:en",
-        "default_category": "Regulatory Change",
-        "filter_relevance": True
-    },
-    # ABC News (Australia) - Business Desk
-    {
-        "name": "ABC News Business (AU)",
-        "url": "https://www.abc.net.au/news/feed/51892/rss.xml",
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/news/rssindex",
         "default_category": "General Risk",
         "filter_relevance": True
     },
-    # The Sydney Morning Herald - Business & Markets
-    {
-        "name": "The Sydney Morning Herald",
-        "url": "https://www.smh.com.au/rss/business.xml",
-        "default_category": "General Risk",
-        "filter_relevance": True
-    },
-    # The Age (Melbourne) - Business & Corporate
-    {
-        "name": "The Age",
-        "url": "https://www.theage.com.au/rss/business.xml",
-        "default_category": "General Risk",
-        "filter_relevance": True
-    },
-    # The Guardian Australia - Business & Regulation
-    {
-        "name": "The Guardian Australia",
-        "url": "https://www.theguardian.com/au/business/rss",
-        "default_category": "General Risk",
-        "filter_relevance": True
-    },
-
-    # =========================================================================
-    # 2. GLOBAL NEWS COMPANIES & FINANCIAL PRESS
-    # =========================================================================
     # Global Wires (Reuters, Bloomberg, Financial Times)
     {
         "name": "Global Financial Wire (Reuters / Bloomberg / FT)",
@@ -59,14 +27,14 @@ FEED_SOURCES = [
         "default_category": "Regulatory Change",
         "filter_relevance": True
     },
-    # Wall Street Journal
+    # Wall Street Journal Business
     {
         "name": "Wall Street Journal",
         "url": "https://feeds.content.dowjones.io/public/rss/WSJcomUSBusiness",
         "default_category": "General Risk",
         "filter_relevance": True
     },
-    # CNBC Business
+    # CNBC Business & Regulation
     {
         "name": "CNBC",
         "url": "https://www.cnbc.com/id/10001147/device/rss/rss.html",
@@ -75,7 +43,46 @@ FEED_SOURCES = [
     },
 
     # =========================================================================
-    # 3. GLOBAL & REGIONAL REGULATORY AUTHORITIES
+    # 2. AUSTRALIAN MAINSTREAM NEWS MEDIA
+    # =========================================================================
+    # Australian Press Wire: AFR, The Australian, SMH, The Age, ABC, SBS, Guardian AU, News.com.au
+    {
+        "name": "Australian Financial & Mainstream Media",
+        "url": "https://news.google.com/rss/search?q=(compliance+OR+regulatory+OR+sanctions+OR+enforcement+OR+%22money+laundering%22+OR+ASIC+OR+APRA+OR+AUSTRAC+OR+ACCC+OR+OAIC+OR+%22cyber+risk%22+OR+penalty)+when:7d+(site:afr.com+OR+site:theaustralian.com.au+OR+site:abc.net.au+OR+site:smh.com.au+OR+site:theage.com.au+OR+site:theguardian.com+OR+site:sbs.com.au+OR+site:news.com.au)&hl=en-AU&gl=AU&ceid=AU:en",
+        "default_category": "Regulatory Change",
+        "filter_relevance": True
+    },
+    # ABC News (Australia) Business Desk
+    {
+        "name": "ABC News Business (AU)",
+        "url": "https://www.abc.net.au/news/feed/51892/rss.xml",
+        "default_category": "General Risk",
+        "filter_relevance": True
+    },
+    # The Sydney Morning Herald Business
+    {
+        "name": "The Sydney Morning Herald",
+        "url": "https://www.smh.com.au/rss/business.xml",
+        "default_category": "General Risk",
+        "filter_relevance": True
+    },
+    # The Age Business
+    {
+        "name": "The Age",
+        "url": "https://www.theage.com.au/rss/business.xml",
+        "default_category": "General Risk",
+        "filter_relevance": True
+    },
+    # The Guardian Australia
+    {
+        "name": "The Guardian Australia",
+        "url": "https://www.theguardian.com/au/business/rss",
+        "default_category": "General Risk",
+        "filter_relevance": True
+    },
+
+    # =========================================================================
+    # 3. GLOBAL REGULATORY & ENFORCEMENT BODIES
     # =========================================================================
     {
         "name": "SEC Press Releases",
@@ -155,7 +162,7 @@ FEED_SOURCES = [
     }
 ]
 
-# Topic classification keywords (including Australian statutory bodies and terminology)
+# Topic classification keywords
 TOPIC_KEYWORDS = {
     "Enforcement Actions": [
         "enforcement", "penalty", "fined", "fine", "sanction", "settlement", 
@@ -246,7 +253,7 @@ def fetch_all_feeds():
     seen_titles = set()
 
     headers = {
-        "User-Agent": "LokaNewsAggregator/1.0 (Compliance Desk; contact@lokanews.local)",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) LokaNewsAggregator/1.0 (Compliance Desk; contact@lokanews.local)",
         "Accept": "application/rss+xml, application/xml, text/xml;q=0.9, */*;q=0.8"
     }
 
@@ -284,7 +291,7 @@ def fetch_all_feeds():
                 seen_links.add(link)
                 seen_titles.add(title_key)
 
-                # Extract specific publisher name if available (e.g. from Google News RSS feeds)
+                # Extract specific publisher name if available (e.g., from Google News feeds)
                 display_source = source_name
                 if hasattr(entry, 'source') and hasattr(entry.source, 'title') and entry.source.title:
                     display_source = entry.source.title
