@@ -1,7 +1,119 @@
 {
-  "last_updated": "October 22, 2026 12:27 UTC",
-  "total_count": 224,
+  "last_updated": "October 22, 2026 16:26 UTC",
+  "total_count": 225,
   "articles": [
+    {
+      "title": "‘No indications’ PHP code flaw has led to government systems being hacked, cyber security official says – UK politics live",
+      "link": "https://www.theguardian.com/politics/live/2026/oct/22/john-healey-chancellor-budget-red-tape-small-businsesses-jackdaw-oil-latest-news-updates",
+      "source": "The Guardian Australia",
+      "date": "2026-10-22T16:16:40+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "Some 32 government services are offline while work is carried out to address potential cybersecurity issues, a minister has said Tell us: have you been affected by the PHP code flaw? The Office for National Statistics has also published a report on the gender pay gap . It says: T...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "Optivolt Raises $32 Million to Make Solar Panels Smarter",
+      "link": "https://www.esgtoday.com/optivolt-raises-32-million-to-make-solar-panels-smarter/?utm_source=rss&utm_medium=rss&utm_campaign=optivolt-raises-32-million-to-make-solar-panels-smarter",
+      "source": "ESG Today",
+      "date": "2026-10-22T15:59:33+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "Power electronics company Optivolt announced that it has raised $32 million in a Series A […]",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "Laboratory operator Quest reports cyber breach affecting patient records - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObWV3NGM1S1J4RHVYM2xFZlZOM1FNekxQQ3hDeUd5OGx3eXc0bjNkd1J6alZPYUtnQUpUX1R4X2xEYnNHVXM0Q1d2VzhoYkduRk5YZ1hNalV2dEhYYUFFX3RDUF9HZmRsVkhHbzE3WXJ0WHZ0UXJkaW52ajZQbndhSVNlbi14Nnh6WUR0OHVIb3lVdHhCMTVvejRpYU9iblVwZHlMalQtT2hJRzJpZVVYV1ZDZ1hiVnE1alM2MnhpeFFVTkE?oc=5",
+      "source": "Reuters",
+      "date": "2026-10-22T15:35:43+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "Laboratory operator Quest reports cyber breach affecting patient records Reuters",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "How Does Your Third-Party Risk Management Program Compare?",
+      "link": "https://www.complianceweek.com/diligent-compliance-ethics/how-does-your-third-party-risk-management-program-compare/",
+      "source": "Compliance Week",
+      "date": "2026-10-22T15:06:09+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "ECI Compliance Week and Diligent have partnered on a new benchmarking survey of ethics, compliance, and risk professionals, asking how their organizations are managing third-party risk today. The post How Does Your Third-Party Risk Management Program Compare? appeared first on Co...",
+      "topics": [
+        "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "OCC Announces Enforcement Actions for October 2026",
+      "link": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-93.html",
+      "source": "Office of the Comptroller of the Currency",
+      "date": "2026-10-22T15:00:00+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "The Office of the Comptroller of the Currency (OCC) today released enforcement actions for October 2026.",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "GRC Business Roundup: Casepoint, Aravo, Smarsh, VinciWorks & More",
+      "link": "https://www.corporatecomplianceinsights.com/grc-business-roundup-casepoint-aravo-smarsh-vinciworks-more/",
+      "source": "Corporate Compliance Insights",
+      "date": "2026-10-22T14:39:50+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "The business of GRC is ever-expanding, GRC technology is one of the fastest-growing segments in enterprise software, and compliance professions are rapidly evolving. Here’s the latest from across the industry. Product launches Communications compliance company Casepoint launched ...",
+      "topics": [
+        "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "UK Channels Oil & Gas Revenues into New £2 Billion Clean Energy Wealth Fund",
+      "link": "https://www.esgtoday.com/uk-channels-oil-gas-revenues-into-new-2-billion-clean-energy-fund/?utm_source=rss&utm_medium=rss&utm_campaign=uk-channels-oil-gas-revenues-into-new-2-billion-clean-energy-fund",
+      "source": "ESG Today",
+      "date": "2026-10-22T14:18:42+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "The UK government announced the establishment of a new Energy Wealth Fund, focused on investing […]",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "EIB Unveils €30 Billion Climate Adaptation Plan",
+      "link": "https://www.esgtoday.com/eib-unveils-e30-billion-climate-adaptation-plan/?utm_source=rss&utm_medium=rss&utm_campaign=eib-unveils-e30-billion-climate-adaptation-plan",
+      "source": "ESG Today",
+      "date": "2026-10-22T13:38:35+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "The European Investment Bank (EIB) Group announced a new plan to deliver at least €30 […]",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "Coca-Cola, Nestlé, and Danone Agree to Improve Recycling Claims Following EU Greenwashing Complaint",
+      "link": "https://www.esgtoday.com/coca-cola-nestle-and-danone-agree-to-improve-recycling-claims-following-eu-greenwashing-complaint/?utm_source=rss&utm_medium=rss&utm_campaign=coca-cola-nestle-and-danone-agree-to-improve-recycling-claims-following-eu-greenwashing-complaint",
+      "source": "ESG Today",
+      "date": "2026-10-22T12:46:26+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "Food and beverage giants Coca-Cola, Nestlé, and Danone have committed to change recycling claims advertised on […]",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "Managing AI Token Consumption for Operational Resilience",
+      "link": "https://www.cisa.gov/resources-tools/resources/managing-ai-token-consumption-operational-resilience",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-10-22T12:00:00+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "CISA, the Canadian Centre for Cyber Security (Cyber Centre), and partners are releasing joint guidance, Managing AI Token Consumption for Operational Resilience , to help organizations understand and manage token usage in support of operations. As organizations adopt third-party ...",
+      "topics": [
+        "Regulatory Change",
+        "Cybersecurity Risk",
+        "Operational & Enterprise Risk"
+      ]
+    },
     {
       "title": "GM Ventures Leads $108 Million Raise for Peak Energy to Break into Data Center Power Market",
       "link": "https://www.esgtoday.com/gm-ventures-leads-108-million-raise-for-peak-energy-to-break-into-data-center-power-market/?utm_source=rss&utm_medium=rss&utm_campaign=gm-ventures-leads-108-million-raise-for-peak-energy-to-break-into-data-center-power-market",
@@ -155,6 +267,17 @@
       "summary": "The UAE’s new AML/CFT law adds criminal offenses, harsher penalties, and new compliance duties for firms and individuals. The post UAE expands AML/CFT regime with tougher penalties and wider sector reach appeared first on Compliance Week .",
       "topics": [
         "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "A Simple Guide to China’s Very Complicated Policy Universe - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5FdHRYcEMxR0tlaHljNXFFLUNURDZaSGxzZmxydUtDRkZDVWNQRU4tQjJwV1JrSEF2TFZYb2hqa0ItRlh6cm13emJWN2RaZllDYUNmWjVMRlJtejdTRGFpQU43Z0xvN3lBQURB?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-10-21T21:00:00+00:00",
+      "display_date": "Oct 21, 2026",
+      "summary": "A Simple Guide to China’s Very Complicated Policy Universe Bloomberg.com",
+      "topics": [
+        "Regulatory Change"
       ]
     },
     {
@@ -380,6 +503,17 @@
       ]
     },
     {
+      "title": "Trump says fraud investigations make 'very big dent' in overseas scams - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOV1R4TWFDN2k5T1RwZjQ4dUxmeF9QY2x6SWdzYmhnRFhLY3hwVWUxN1pUcFVEd0tKSS13MUVPRTRCU0RKeUlKcFBZWGFUWjN1VW5fYzBMWGhhclo4QmZOaV94SmtXRGlVRUExS1BkaFRNZk45TDAwbjVfM1Uwd0V2cUtVa2ZLTHlyVHdhWWRtbEwwSWNvdmxTbUs4UQ?oc=5",
+      "source": "Reuters",
+      "date": "2026-10-21T10:04:00+00:00",
+      "display_date": "Oct 21, 2026",
+      "summary": "Trump says fraud investigations make 'very big dent' in overseas scams Reuters",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
       "title": "ASIC probes Gemi as $150m in investor funds frozen in Adgemis fallout - The Australian",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNRmpPZFphRlNveEZpV1EyeHpTMTEwTXg5RHlkUFFTa1RqRjdrUUh2VDJsb0VTT3NfYk0yS1UzQUhhbENCWHFWMFJsbVZNX1VMUE9KaUkySmpoNUlUdlBTNWNjRU5EYzB3NkpydnhOVDJ4eEVjM05YQUp2YmstejVrVm81VjQyVnliczBabW5la0U3VHd4UXFTOFk5eEJvNTk5WFQtaUJ0alp4NnQzYkd5enNpb183NnJCV2RzZzNrOW9oOThXcTdCUHpIdF85cTMxQUVwS0VldnRFUWotNlFaMnRZa0JKNGZIYmF1N2RCLUpOdWUwUEpTTGlOVjVfdw?oc=5",
       "source": "The Australian",
@@ -391,17 +525,6 @@
       ]
     },
     {
-      "title": "Canada Reconsiders Oil & Gas “Abatement” Category in Sustainable Finance Taxonomy",
-      "link": "https://www.esgtoday.com/canada-reconsiders-oil-gas-abatement-category-in-sustainable-finance-taxonomy/?utm_source=rss&utm_medium=rss&utm_campaign=canada-reconsiders-oil-gas-abatement-category-in-sustainable-finance-taxonomy",
-      "source": "ESG Today",
-      "date": "2026-10-21T07:15:02+00:00",
-      "display_date": "Oct 21, 2026",
-      "summary": "The Canadian Taxonomy and Transition Planning Council announced the release of final Methodology Report for Canada’s […]",
-      "topics": [
-        "ESG & Sustainability"
-      ]
-    },
-    {
       "title": "ASIC investigating Adgemis backers’ freeze on $150m investor capital - AFR",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQU3pfVkx2SWpRdllBTnhITVI2V3cwYVhyUXFjb3lpQ0N4Wm9Vd010X0VQY00ycmxLVmVQN3ZfLXQxLWx5dFlOc21lUDB4NW5ldFlhNnlnZU92VHJKMERBdW5KdThBUktLcDc2YVdLdkVkUW5tM0taZy1xc3piNlduVUFyMlZsREF3Skl6d0c4Q1M1RHl0b2JrcWVGQmRuZjdDbzlLLWdKVUhuLVgtSlF3SjhBcktJSWJTdzBvTmVROFU?oc=5",
       "source": "AFR",
@@ -410,6 +533,17 @@
       "summary": "ASIC investigating Adgemis backers’ freeze on $150m investor capital AFR",
       "topics": [
         "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "UK’s top banking regulator to set targets with five-year strategy - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPalBRX2xOWGxweDRha09QVXF5RUpXZzBuTmRlblpzbThhcl9xeGtyU0I5ZTVTYmVBSjk5Ui1GQnZiM2pld0oyY1FST3VVd0xHSGZTWjA1ZHRoa2swYTRWVHVGOEplU25PRFdwbVlBMWY4LXFfNFJFOVlRVDE1WEdQMmotUlY?oc=5",
+      "source": "Financial Times",
+      "date": "2026-10-21T04:03:03+00:00",
+      "display_date": "Oct 21, 2026",
+      "summary": "UK’s top banking regulator to set targets with five-year strategy Financial Times",
+      "topics": [
+        "Regulatory Change"
       ]
     },
     {
@@ -510,17 +644,6 @@
       "summary": "Brokers Gear Up for Compute Futures Ahead of Regulatory Approval Bloomberg.com",
       "topics": [
         "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Google, McKinsey Sign 320,000 Ton Carbon Removal Deals from Brazil Nature Restoration Project",
-      "link": "https://www.esgtoday.com/google-mckinsey-sign-deals-for-320000-carbon-credits-from-brazil-nature-restoration-project/?utm_source=rss&utm_medium=rss&utm_campaign=google-mckinsey-sign-deals-for-320000-carbon-credits-from-brazil-nature-restoration-project",
-      "source": "ESG Today",
-      "date": "2026-10-20T14:44:53+00:00",
-      "display_date": "Oct 20, 2026",
-      "summary": "San Francisco-based carbon removal company Working Trees announced that it has signed a series of […]",
-      "topics": [
-        "ESG & Sustainability"
       ]
     },
     {
@@ -635,28 +758,6 @@
       ]
     },
     {
-      "title": "Amazon Backs New Advanced Nuclear Power Project at a Former Coal Plant",
-      "link": "https://www.esgtoday.com/amazon-backs-new-advanced-nuclear-energy-project-at-a-former-coal-plant/?utm_source=rss&utm_medium=rss&utm_campaign=amazon-backs-new-advanced-nuclear-energy-project-at-a-former-coal-plant",
-      "source": "ESG Today",
-      "date": "2026-10-20T11:46:54+00:00",
-      "display_date": "Oct 20, 2026",
-      "summary": "Ohio-based electric utility American Electric Power (AEP), nuclear technology company X-energy and Amazon announced a […]",
-      "topics": [
-        "ESG & Sustainability"
-      ]
-    },
-    {
-      "title": "EU Invests $3.8 Billion in More Than 75 Net Zero Technology Projects",
-      "link": "https://www.esgtoday.com/eu-invests-3-8-billion-in-more-than-75-net-zero-technology-projects/?utm_source=rss&utm_medium=rss&utm_campaign=eu-invests-3-8-billion-in-more-than-75-net-zero-technology-projects",
-      "source": "ESG Today",
-      "date": "2026-10-20T10:56:46+00:00",
-      "display_date": "Oct 20, 2026",
-      "summary": "The European Commission today announced the selection of 77 zero-focused technology projects to receive €3.4 […]",
-      "topics": [
-        "ESG & Sustainability"
-      ]
-    },
-    {
       "title": "EssilorLuxottica's smart glasses boom runs into tougher regulatory scrutiny - Reuters",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRUlCblM5Wml5OGoxZGVzZEF0LUlqclJLZXhhWWI2VExPSF9rT01OYk5FQng1NVRwNnJIQWpOUWRGNGV2cXFpdVBkR3RoTWZud1djVm9XMVYtODJMc1BQT3RlY3dpM2QxZ2pjMXFpdlBMVmYyZUd3YW51dmw3VnpicWlnWERCd0h4NkNHY25RSmtYMHFoYlpEVWp3ZnBzNU5MTFgzLXFneDBVQ1ZZVWhEb0s4cDVUWExKUXdvQlpDemRESEZEb3dxaTVGWm9vQQ?oc=5",
       "source": "Reuters",
@@ -754,17 +855,6 @@
       "summary": "Although the crypto industry’s legitimization took a hit on Sept. 15 when the CLARITY Act failed to advance in the Senate, the industry still exists, and banks must find ways to remain in regulatory compliance. The post Banks entering crypto must close transaction monitoring gaps...",
       "topics": [
         "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Opinion | The Northeast Climate Revolt",
-      "link": "https://www.wsj.com/opinion/northeast-energy-climate-elections-maura-healey-kathy-hochul-d96539ee?mod=pls_whats_news_us_business_f",
-      "source": "Wall Street Journal",
-      "date": "2026-10-19T21:43:00+00:00",
-      "display_date": "Oct 19, 2026",
-      "summary": "Anti-fossil fuel policies that raise utility bills have Democrats in the region playing defense this election year.",
-      "topics": [
-        "ESG & Sustainability"
       ]
     },
     {
@@ -1090,17 +1180,6 @@
       ]
     },
     {
-      "title": "OCC report on ‘debanking’ at nine largest US banks claims reputation risk policies result in denial of services",
-      "link": "https://www.complianceweek.com/banking/occ-report-on-debanking-at-nine-largest-us-banks-claims-reputation-risk-policies-result-in-denial-of-services/",
-      "source": "Compliance Week",
-      "date": "2026-10-16T20:24:28+00:00",
-      "display_date": "Oct 16, 2026",
-      "summary": "A report by the Office of the Comptroller of the Currency (OCC) finds that the nine largest US banks it oversees have used reputation risk policies to deny services to businesses and individuals based on social, political, and religious views as well as lawful banking activities....",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "Judge Threatens Trump With Sanctions to Testify in BBC Lawsuit - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNVdwLS1hQURJSWIwMU5SWXRic0szNnQ3MjlXMXh5X2FqT2psM0M2U1VCM1pEVVRTMkJOcmdmaTZQNHFiWEpIYVc2aWNqTVZkcmlHdmdwN1lHSEo4ZV93LW5YYTBFY2dHMDRHb01idmNYdkg5ZUhjd1hMTzI3T3Vrb3lpNm5rMHd5cEk3VTJTTEo4LVlPRGFabzJPcTJJR3ZtREhZSVE3N1JtSk5XeFVOVFJzbw?oc=5",
       "source": "Bloomberg.com",
@@ -1234,17 +1313,6 @@
       ]
     },
     {
-      "title": "Indonesia regulator fines entities for trading violations in shares of three listed firms - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPT19xNkFlWGlKRk14ZTJVYnFwTGM0eEIxeGdLdUN4OE5NekIyOWJkSVNuZWdZdW1NYndTYU1RUF9EQm1kdklJaHNWMjg2TFNNaU1PZkJmdGdtb0FIaExBb0tUdV85a3ZDdVgwLU9IOXNQWTVvRDQ0ZGJINTdQYWJ2ZUt5S3BXbnFHMXBPazh3Y0dWaXBuQ2RscXBmb2FadnVKWkxNTXQ5bDRmWl9aaDh1bWxhaF9fR210?oc=5",
-      "source": "Reuters",
-      "date": "2026-10-16T10:11:21+00:00",
-      "display_date": "Oct 16, 2026",
-      "summary": "Indonesia regulator fines entities for trading violations in shares of three listed firms Reuters",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "Crown lifts revenue but warns on debt load as regulatory risk lingers - AFR",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSWRHTVdCd2N3QVc3YmhiWFdvaGJ2Qy1LYXZLV2ZvbFBjTG1UcWdhZ1VRZnVidlFFdXpRQUdJSGxiS2JiQllRZEpxMXA5c2VEb0llVzdQTERlUnJ3Qmo5NVBIcy1hQTRnd3k2R3VlRTk3R1lXQkFzNGhleHVlQk1zVnBndUlmaFNQMllVQllMM0J0eU16eTZOWTdEaGMyLXo2NzFadW5jS1lOOUpvclVCZnhLMmJjdnJOQ2xkTUxNWmZua3cyM2RnR2NDalE3cjA?oc=5",
       "source": "AFR",
@@ -1286,17 +1354,6 @@
       "summary": "Trump demands death penalty for anyone who kills a firefighter The Australian",
       "topics": [
         "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "US plan to ease shadow fleet sanctions unlikely to free up many tankers, analysts say - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQb2ZEWmpzTWpPVmpkN0hxSkJ1cmlCc3lSRjZHdmRMRG94Vjk4ZXhNdzJweDFCY1FER1l1eE9STG1EZjR2Ql9qTXRyVHF2ZTl0Y2tGUjRUOG54MDJPdV9iSGRXaVRGbUcxMGhBMHRtMmFGUFNpc0hYQ0c3VW1UT0ZDSDlTZEV1RExiT1JocDVTQU5SSFVMSmJfYmtvZzlkWF8xal81dkVRUENPVDFEdG9QY1M3RFhGSjRSQ1VtNmM1S09xWjJQSHpkZGl3?oc=5",
-      "source": "Reuters",
-      "date": "2026-10-15T18:25:28+00:00",
-      "display_date": "Oct 15, 2026",
-      "summary": "US plan to ease shadow fleet sanctions unlikely to free up many tankers, analysts say Reuters",
-      "topics": [
-        "AML & Sanctions"
       ]
     },
     {
@@ -1534,17 +1591,6 @@
       "summary": "Plus: Three-fourths of risk leaders citing added pressure The post Almost Half of Defense Contractors Pressing Ahead With CMMC Despite Phase 2 Pause appeared first on Corporate Compliance Insights .",
       "topics": [
         "Operational & Enterprise Risk"
-      ]
-    },
-    {
-      "title": "GRC Business Roundup: Caseware, Confide, FS Vector, SignWell, Schellman & More",
-      "link": "https://www.corporatecomplianceinsights.com/grc-business-roundup-caseware-confide-fs-vector-signwell-schellman-more/",
-      "source": "Corporate Compliance Insights",
-      "date": "2026-10-13T14:49:42+00:00",
-      "display_date": "Oct 13, 2026",
-      "summary": "The business of GRC is ever-expanding, GRC technology is one of the fastest-growing segments in enterprise software, and compliance professions are rapidly evolving. Here’s the latest from across the industry. New products & platforms Cybersecurity and GRC company Njordium Cyber ...",
-      "topics": [
-        "Cybersecurity Risk"
       ]
     },
     {
@@ -1826,17 +1872,6 @@
       ]
     },
     {
-      "title": "Hitachi Energy REB500",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-279-05",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-10-06T12:00:00+00:00",
-      "display_date": "Oct 06, 2026",
-      "summary": "View CSAF Summary Hitachi Energy is aware of open-source software vulnerabilities that affect REB500 product versions listed in this document. These vulnerabilities can be exploited to carry out Denial of Service (DoS) attack on the product. Please refer to the Recommended Immedi...",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
       "title": "Hitachi Energy Asset Suite",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-279-03",
       "source": "CISA Cybersecurity Advisories",
@@ -2022,17 +2057,6 @@
       "summary": "The Securities and Exchange Commission today voted to propose rule amendments that would facilitate capital formation in the public and private markets by expanding retail investor choice and promoting innovation in regulated fund structures while…",
       "topics": [
         "Regulatory Change"
-      ]
-    },
-    {
-      "title": "OCC Reports Second Quarter 2026 Bank Trading Revenue",
-      "link": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-83.html",
-      "source": "Office of the Comptroller of the Currency",
-      "date": "2026-09-30T15:00:00+00:00",
-      "display_date": "Sep 30, 2026",
-      "summary": "The Office of the Comptroller of the Currency (OCC) reported cumulative trading revenue of U.S. commercial banks and savings associations of $21.6 billion in the second quarter of 2026. The second quarter trading revenue was $5.3 billion, or 32.5 percent, more than in the previou...",
-      "topics": [
-        "Operational & Enterprise Risk"
       ]
     },
     {
@@ -2243,17 +2267,6 @@
       "summary": "The Securities and Exchange Commission’s Investor Advisory Committee will host a public meeting at the SEC Headquarters in Washington D.C. on Sept. 10 at 10 a.m. ET to discuss artificial intelligence technologies in the public markets and the SEC’s…",
       "topics": [
         "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Tech giants are trying to obliterate privacy. Australia has a rare chance to take back part of their power | Lizzie O'Shea",
-      "link": "https://www.theguardian.com/commentisfree/2026/sep/02/tech-giants-australia-privacy-act-legislation-laws",
-      "source": "The Guardian Australia",
-      "date": "2026-09-02T03:00:05+00:00",
-      "display_date": "Sep 02, 2026",
-      "summary": "‘Pervert glasses’ are selling out, tick-a-box consent is broken and the spectre of surveillance is invading all aspects of our lives Get our breaking news email , free app or daily news podcast A mere five years after the government first started talking about it, new changes hav...",
-      "topics": [
-        "Data Privacy"
       ]
     },
     {
