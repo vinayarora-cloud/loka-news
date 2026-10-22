@@ -1,16 +1,82 @@
 {
-  "last_updated": "October 22, 2026 08:29 UTC",
-  "total_count": 229,
+  "last_updated": "October 22, 2026 12:27 UTC",
+  "total_count": 224,
   "articles": [
     {
-      "title": "UCB Shares Jump After Demand for Immunology Drug Bimzelx Boosts Outlook",
-      "link": "https://www.wsj.com/business/retail/ucb-shares-jump-after-demand-for-immunology-drug-bimzelx-boosts-outlook-73a9ff8a?mod=pls_whats_news_us_business_f",
-      "source": "Wall Street Journal",
-      "date": "2026-10-22T08:23:00+00:00",
+      "title": "GM Ventures Leads $108 Million Raise for Peak Energy to Break into Data Center Power Market",
+      "link": "https://www.esgtoday.com/gm-ventures-leads-108-million-raise-for-peak-energy-to-break-into-data-center-power-market/?utm_source=rss&utm_medium=rss&utm_campaign=gm-ventures-leads-108-million-raise-for-peak-energy-to-break-into-data-center-power-market",
+      "source": "ESG Today",
+      "date": "2026-10-22T11:12:50+00:00",
       "display_date": "Oct 22, 2026",
-      "summary": "Shares were up 13%—erasing losses in the year to date—after the company raised its annual guidance for the second time this year, citing strong U.S. demand for its blockbuster drug.",
+      "summary": "Energy storage technology startup Peak Energy announced that it has raised $108 million in a […]",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "Leeds office move",
+      "link": "https://www.fca.org.uk/news/news-stories/leeds-office-move",
+      "source": "FCA UK Regulatory News",
+      "date": "2026-10-22T11:00:00+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "We have signed an agreement for a new office at 2 Wellington Place, which will become our long-term home in Leeds from 2028. The new office will provide 36,097 sq ft of space for our growing Leeds presence.Our Leeds office, currently at 6 Queen Street, has continued to grow since...",
       "topics": [
         "Regulatory Change"
+      ]
+    },
+    {
+      "title": "PE Firms Are Holding Investments Longer—and Changing Leaders More",
+      "link": "https://www.wsj.com/cfo-journal/pe-firms-are-holding-investments-longerand-changing-leaders-more-2d0bb31a?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-10-22T10:55:00+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "Plus, Meta loses in data-privacy case.",
+      "topics": [
+        "Data Privacy"
+      ]
+    },
+    {
+      "title": "ISSB Releases Proposed Nature-Related Reporting Requirements",
+      "link": "https://www.esgtoday.com/issb-releases-proposed-nature-related-reporting-requirements/?utm_source=rss&utm_medium=rss&utm_campaign=issb-releases-proposed-nature-related-reporting-requirements",
+      "source": "ESG Today",
+      "date": "2026-10-22T10:33:49+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "The IFRS Foundation’s International Sustainability Standards Board (ISSB) announced the release of the initial exposure draft […]",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "Republican backlash over Russia policy poses challenge for Trump in Congress - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaDFDZkZKQWR4NUxYR1dscU5tbnl5STNSam5nVW9fNnVNUm9TOGktNjNFQy1maTJ6ZlpWWnY3ejdPMEtnQlRxcjNrZWpLOUhYNjdLdER6dEhDXzlZMmpZX1ZzLWZYUi1UMUxDTkZxa1ZvcEFjUjh3eFVEVDREaWttdEV2V0pxdEpRZ1VtUDEwcE9pTTFXa3V3azFwRWpwTVRrdkZKb0xQUWg1bkhFcXNXN1hiY3hyZG1YNms2bzNUTQ?oc=5",
+      "source": "Reuters",
+      "date": "2026-10-22T10:26:35+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "Republican backlash over Russia policy poses challenge for Trump in Congress Reuters",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Greece says it is implementing sanctions linked to Iran - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMFJaZ0t6eFMxSzJVenJlSEdyVkFjWXVuYmsxUy14ajVPdWZEMEUybm1ySE5zbzE1N05TNlVaeW1rZmNHOWVkLWxMQ193QzlRMTdYMGFYZmk2TzROdWptVDB5LXAtV3BiSW9nVERSSTF0bkpLWGVSREdja21vcFpGcnZmb1UtbUtFdE9QSUtVZENOMzJURl9Rd1lEbGZTVW1ISk5PamhUaUhGZw?oc=5",
+      "source": "Reuters",
+      "date": "2026-10-22T09:14:18+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "Greece says it is implementing sanctions linked to Iran Reuters",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "Citi Structures New Outcome Bond with Returns Tied to Generation of Carbon Credits",
+      "link": "https://www.esgtoday.com/citi-structures-new-outcome-bond-note-with-returns-tied-to-generation-of-carbon-credits/?utm_source=rss&utm_medium=rss&utm_campaign=citi-structures-new-outcome-bond-note-with-returns-tied-to-generation-of-carbon-credits",
+      "source": "ESG Today",
+      "date": "2026-10-22T08:44:02+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "Citi announced that it has structured a new $72 million “Carbon Removal-Linked Note” to finance […]",
+      "topics": [
+        "ESG & Sustainability"
       ]
     },
     {
@@ -20,28 +86,6 @@
       "date": "2026-10-22T06:18:33+00:00",
       "display_date": "Oct 22, 2026",
       "summary": "China’s chemical compliance landscape is moving into a broader phase. For companies that manufacture, import, distribute, or use chemicals in China, compliance is increasingly about more than substance registration, as recent developments tie registration to hazardous-chemical op...",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Roche Posts Higher Sales on Growth Across Pharma, Diagnostics Units",
-      "link": "https://www.wsj.com/health/pharma/roche-posts-higher-sales-on-growth-across-pharma-diagnostics-units-1ff34004?mod=pls_whats_news_us_business_f",
-      "source": "Wall Street Journal",
-      "date": "2026-10-22T05:39:00+00:00",
-      "display_date": "Oct 22, 2026",
-      "summary": "Roche reiterated its full-year guidance and said it is prepared to launch its giredestrant breast-cancer pill later this year.",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Kuehne + Nagel Lifts Guidance Again After Growth Across Business",
-      "link": "https://www.wsj.com/business/earnings/kuehne-nagel-lifts-guidance-again-after-growth-across-business-86fa11be?mod=pls_whats_news_us_business_f",
-      "source": "Wall Street Journal",
-      "date": "2026-10-22T05:39:00+00:00",
-      "display_date": "Oct 22, 2026",
-      "summary": "The Swiss transport and logistics company said demand from cloud infrastructure and semiconductor customers is driving volume growth.",
       "topics": [
         "Regulatory Change"
       ]
@@ -103,17 +147,6 @@
       ]
     },
     {
-      "title": "ASIC probes Gemi as $150m in investor funds frozen in Adgemis fallout - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNRmpPZFphRlNveEZpV1EyeHpTMTEwTXg5RHlkUFFTa1RqRjdrUUh2VDJsb0VTT3NfYk0yS1UzQUhhbENCWHFWMFJsbVZNX1VMUE9KaUkySmpoNUlUdlBTNWNjRU5EYzB3NkpydnhOVDJ4eEVjM05YQUp2YmstejVrVm81VjQyVnliczBabW5la0U3VHd4UXFTOFk5eEJvNTk5WFQtaUJ0alp4NnQzYkd5enNpb183NnJCV2RzZzNrOW9oOThXcTdCUHpIdF85cTMxQUVwS0VldnRFUWotNlFaMnRZa0JKNGZIYmF1N2RCLUpOdWUwUEpTTGlOVjVfdw?oc=5",
-      "source": "The Australian",
-      "date": "2026-10-21T22:32:40+00:00",
-      "display_date": "Oct 21, 2026",
-      "summary": "ASIC probes Gemi as $150m in investor funds frozen in Adgemis fallout The Australian",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
       "title": "UAE expands AML/CFT regime with tougher penalties and wider sector reach",
       "link": "https://www.complianceweek.com/aml/uae-expands-aml-cft-regime-with-tougher-penalties-and-wider-sector-reach/",
       "source": "Compliance Week",
@@ -122,17 +155,6 @@
       "summary": "The UAE’s new AML/CFT law adds criminal offenses, harsher penalties, and new compliance duties for firms and individuals. The post UAE expands AML/CFT regime with tougher penalties and wider sector reach appeared first on Compliance Week .",
       "topics": [
         "AML & Sanctions"
-      ]
-    },
-    {
-      "title": "A Simple Guide to China’s Very Complicated Policy Universe - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5FdHRYcEMxR0tlaHljNXFFLUNURDZaSGxzZmxydUtDRkZDVWNQRU4tQjJwV1JrSEF2TFZYb2hqa0ItRlh6cm13emJWN2RaZllDYUNmWjVMRlJtejdTRGFpQU43Z0xvN3lBQURB?oc=5",
-      "source": "Bloomberg.com",
-      "date": "2026-10-21T21:00:00+00:00",
-      "display_date": "Oct 21, 2026",
-      "summary": "A Simple Guide to China’s Very Complicated Policy Universe Bloomberg.com",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
@@ -166,6 +188,18 @@
       "summary": "Vodafone's owner TPG says it was forced to speak publicly about its frustration over scam calls after reports to the regulator were not addressed.",
       "topics": [
         "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Jackdaw approval is a step towards a grownup North Sea policy",
+      "link": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/oct/21/jackdaw-approval-step-towards-grownup-north-sea-policy",
+      "source": "The Guardian Australia",
+      "date": "2026-10-21T17:12:32+00:00",
+      "display_date": "Oct 21, 2026",
+      "summary": "Government decision is about how much oil and gas is sensible for UK to produce on the way to net zero Business live – latest updates Andy Burnham hit the nail on the (well)head in his first fortnight as prime minister when he said : “The question isn’t whether Britain will still...",
+      "topics": [
+        "Regulatory Change",
+        "ESG & Sustainability"
       ]
     },
     {
@@ -291,17 +325,6 @@
       ]
     },
     {
-      "title": "The Morning Risk Report: Instacart Settles Employment Discrimination Case",
-      "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-instacart-settles-employment-discrimination-case-57ee23b8?mod=pls_whats_news_us_business_f",
-      "source": "Wall Street Journal",
-      "date": "2026-10-21T11:32:00+00:00",
-      "display_date": "Oct 21, 2026",
-      "summary": "Plus: EU to use sanctions against human traffickers, and Anthropic’s new risk disclosures.",
-      "topics": [
-        "AML & Sanctions"
-      ]
-    },
-    {
       "title": "Who Defines Compliance When Regulators Leave SaaS-Shaped Gaps?",
       "link": "https://www.corporatecomplianceinsights.com/who-defines-compliance-when-regulators-leave-saas-shaped-gaps/",
       "source": "Corporate Compliance Insights",
@@ -354,6 +377,17 @@
       "summary": "Singapore-based renewable energy developer Peak Energy and Hyundai Motor Securities’ Vencore Rooftop Equity Fund announced […]",
       "topics": [
         "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "ASIC probes Gemi as $150m in investor funds frozen in Adgemis fallout - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNRmpPZFphRlNveEZpV1EyeHpTMTEwTXg5RHlkUFFTa1RqRjdrUUh2VDJsb0VTT3NfYk0yS1UzQUhhbENCWHFWMFJsbVZNX1VMUE9KaUkySmpoNUlUdlBTNWNjRU5EYzB3NkpydnhOVDJ4eEVjM05YQUp2YmstejVrVm81VjQyVnliczBabW5la0U3VHd4UXFTOFk5eEJvNTk5WFQtaUJ0alp4NnQzYkd5enNpb183NnJCV2RzZzNrOW9oOThXcTdCUHpIdF85cTMxQUVwS0VldnRFUWotNlFaMnRZa0JKNGZIYmF1N2RCLUpOdWUwUEpTTGlOVjVfdw?oc=5",
+      "source": "The Australian",
+      "date": "2026-10-21T08:43:00+00:00",
+      "display_date": "Oct 21, 2026",
+      "summary": "ASIC probes Gemi as $150m in investor funds frozen in Adgemis fallout The Australian",
+      "topics": [
+        "Enforcement Actions"
       ]
     },
     {
@@ -634,28 +668,6 @@
       ]
     },
     {
-      "title": "Rabot Raises $56 Million to Create Virtual Power Plants with Home Clean Energy Devices",
-      "link": "https://www.esgtoday.com/rabot-raises-56-million-to-create-virtual-power-plants-with-home-clean-energy-devices/?utm_source=rss&utm_medium=rss&utm_campaign=rabot-raises-56-million-to-create-virtual-power-plants-with-home-clean-energy-devices",
-      "source": "ESG Today",
-      "date": "2026-10-20T07:11:40+00:00",
-      "display_date": "Oct 20, 2026",
-      "summary": "Climate tech and renewable energy company Rabot Energy announced that it has raised €50 million […]",
-      "topics": [
-        "ESG & Sustainability"
-      ]
-    },
-    {
-      "title": "AIIB Invests $100 Million in TPG’s Global South-Focused Climate Solutions Strategy",
-      "link": "https://www.esgtoday.com/aiib-invests-100-million-in-tpgs-global-south-focused-climate-solutions-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=aiib-invests-100-million-in-tpgs-global-south-focused-climate-solutions-strategy",
-      "source": "ESG Today",
-      "date": "2026-10-20T07:02:25+00:00",
-      "display_date": "Oct 20, 2026",
-      "summary": "The Asian Infrastructure Investment Bank (AIIB) announced an investment of up to $100 million in […]",
-      "topics": [
-        "ESG & Sustainability"
-      ]
-    },
-    {
       "title": "ASIC says it did not pay MinRes offices a visit during two-year probe - AFR",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQkZjbm1zZWoyanloYnR1WFVxb1ZENjJvaWNGQWZGLVBpNllLRGFUX2E2S1M3LV9nT2FBWFJXOEtxamJYZEZBYnVsOGFYYzJqTlJzNEw5RFV2Qy1UdXNJcXRjQ3hWQVhsTFRoTk52cVVyRWx4ZWoxN3BWbkhmeTRPRzNVakRnQVFPcllscTNNaENnLUtkc2lNX1Y4NVpHUFRTQXZvaU1TSVJGeDI5LS1rbTJ5Q0JmWk13S2NseWdOOA?oc=5",
       "source": "AFR",
@@ -742,17 +754,6 @@
       "summary": "Although the crypto industry’s legitimization took a hit on Sept. 15 when the CLARITY Act failed to advance in the Senate, the industry still exists, and banks must find ways to remain in regulatory compliance. The post Banks entering crypto must close transaction monitoring gaps...",
       "topics": [
         "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Blackstone Raises $8.7 Billion for Energy Transition Fund",
-      "link": "https://www.esgtoday.com/blackstone-raises-8-7-billion-for-energy-transition-fund/?utm_source=rss&utm_medium=rss&utm_campaign=blackstone-raises-8-7-billion-for-energy-transition-fund",
-      "source": "ESG Today",
-      "date": "2026-10-19T23:01:37+00:00",
-      "display_date": "Oct 19, 2026",
-      "summary": "Alternative asset manager Blackstone announced that it has raised $8.7 billion for the fifth vintage […]",
-      "topics": [
-        "ESG & Sustainability"
       ]
     },
     {
@@ -979,18 +980,6 @@
       ]
     },
     {
-      "title": "World leaders must wise up to threat of cyber-attacks or rogue fridges will be least of their worries | Heather Stewart",
-      "link": "https://www.theguardian.com/business/2026/oct/18/world-leaders-threat-cyber-attacks-rogue-fridges-financial-system",
-      "source": "The Guardian Australia",
-      "date": "2026-10-18T11:46:50+00:00",
-      "display_date": "Oct 18, 2026",
-      "summary": "Global cooperation seems unlikely despite AI increasing the risk of digital fraud and the need to protect the financial system Rogue French fridges were an unlikely talking point for the world’s leading economists, central bankers and finance chiefs meeting in a sultry Bangkok la...",
-      "topics": [
-        "Enforcement Actions",
-        "Cybersecurity Risk"
-      ]
-    },
-    {
       "title": "Winning has faith in ‘love rat’ CEO despite explosive ASIC claims - The Australian",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNWjI0Z3ZJVW03UHVQMUlkRDkydko4QnJEY0ZSUlpVX1BjeE1PWDNXSVJzaWkxVkxDcGNQRmJNSVRGNWgyOS0yYk9WVEtodmpEcmZreW1sb2lmem5UeVdkT1ZoVXc1X2FEdzhmTTJzcVJLNjBvZ0xjQ0E4eDZPS0hoZW5VUklZVFVfUjFvY1dnYWtTcFEzWUU3Y1pYVHlSMGRXOXhyX2k5SU5mZjhER0hsZkc0RTJDbzZ0cUpkLWxzY0dULVpQakV2UlhCbHpOV3NGejBFV2NNM0tMM2podDZrUmFOa3FhQQ?oc=5",
       "source": "The Australian",
@@ -1035,17 +1024,6 @@
       ]
     },
     {
-      "title": "Zelensky says Trump could lift more Russia sanctions - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMUxRbHFfN1FQaEczd3hVUjVseFY3cUxDUkVPcm8zN2dfaHZ1bVl5VlVUUHBmTWVQN0pnZjRvSkROZnJLaGVxMkVOeU90cXRTdlNGa2RETUE3Uzd0ZkVkSnl4NmI3ZEN5TUdCZVlCT0x6SExtMzlCZ045QmFFdHJNOU1kd0d5SDFHb0ZiOFNFX1k2bERycUZITUo1ZUtoNWVVMUVSMlhIdkI1cndtbjJvcWNBd3BWQ3V2TDRKcFdnbklyVkk0UFhka2xqRENqbVRETnpSdXBJRmF0QQ?oc=5",
-      "source": "The Australian",
-      "date": "2026-10-17T19:10:00+00:00",
-      "display_date": "Oct 17, 2026",
-      "summary": "Zelensky says Trump could lift more Russia sanctions The Australian",
-      "topics": [
-        "AML & Sanctions"
-      ]
-    },
-    {
       "title": "PODCAST: Trump drops Russia sanctions, Israeli settlers attack US photojournalist, Oregon police say teacher and parent stopped school shooter - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT0dJdVBKODhFcV9obk9fUElwNnV0bHFDQTVDcE12RldOVFpnSzRsQ1ZqYVBtbHlmQnJiZGtUdkk2d0tiaTBKMEZDbmkwZFFxcEd1aTVvSmlQMTVXSkMwQ1FTb3FOdnhVYXhVbXlKWGFIVjBNZGZQc2NwMHBKRGhwSUFBb214bUxaRW9iZm85a0FpajViTkhCdldWdHI5LWQwY2hSYk5BdUFrV2xXU05mUlFwWndZN2QtcDJmWTFtRFk?oc=5",
       "source": "Reuters",
@@ -1085,17 +1063,6 @@
       "date": "2026-10-17T09:45:05+00:00",
       "display_date": "Oct 17, 2026",
       "summary": "Trump Halts New Russia Energy Sanctions to Ease Diesel Costs Bloomberg.com",
-      "topics": [
-        "AML & Sanctions"
-      ]
-    },
-    {
-      "title": "Trump waives new Russia sanctions as Ukraine ties slump - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUDBIWFdHdGNiVnNhMXR4SkNUT1RPSTl0ckw1Nk90aVYwbFZhb1U5cXpHRUM1eXEwRzdIQWdPVXZqaXZPRjZEUDFDLWJSem1hSVRURlFLUlBZWTFrRVc4eVZ6R1NmaWd0akM5ZHg0NU9HZEtiY2ZEQnp1MFZNcG5fOUFLUGl5ZmNWWVpNS2p3V2xlWEE5UGZFZkVneWx3U3k0V2VnUnRqa3ZuY05UN1BERnFKRGJ3N1J6SWVyU21HMHRudXl3N0xHT3AzaTFxZ09JRk9hekgxNENLSXoxRi1tZmtmUmFydkdOUHc?oc=5",
-      "source": "The Australian",
-      "date": "2026-10-17T04:30:00+00:00",
-      "display_date": "Oct 17, 2026",
-      "summary": "Trump waives new Russia sanctions as Ukraine ties slump The Australian",
       "topics": [
         "AML & Sanctions"
       ]
@@ -1420,18 +1387,6 @@
       "topics": [
         "Cybersecurity Risk",
         "Operational & Enterprise Risk"
-      ]
-    },
-    {
-      "title": "Bank of America shares drop after third-quarter revenue miss and regulatory penalty",
-      "link": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
-      "source": "CNBC",
-      "date": "2026-10-14T20:20:46+00:00",
-      "display_date": "Oct 14, 2026",
-      "summary": "Bank of America shares fell Wednesday after the company posted weaker-than-expected trading revenue and the impact of a $1.2 billion Treasury fine.",
-      "topics": [
-        "Enforcement Actions",
-        "Regulatory Change"
       ]
     },
     {
@@ -2144,17 +2099,6 @@
       "summary": "Victims of a £1.5m crypto investment fraud will recover lost funds after the FCA obtained confiscation orders against Raymondip Bedi and Patrick Mavanga. At a hearing at Southwark Crown Court on 28 September 2026, Raymondip Bedi was ordered to pay £603,404.28 and Patrick Mavanga ...",
       "topics": [
         "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "InterestMe Financial Planning Limited (IMFP) and the appointed representative InterestMe Advisers Limited (IMA) enter administration",
-      "link": "https://www.fca.org.uk/news/news-stories/imfp-appointed-representative-ima-enter-administration",
-      "source": "FCA UK Regulatory News",
-      "date": "2026-09-28T13:21:00+00:00",
-      "display_date": "Sep 28, 2026",
-      "summary": "On 24 September 2026, IMFP and IMA entered administration. Robert Goodhew and Geoff Bouchier of Kroll Advisory Limited were appointed joint administrators for both firms. The joint administrators are responsible for managing the affairs of the firms during the administration proc...",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
