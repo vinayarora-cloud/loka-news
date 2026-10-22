@@ -1,0 +1,375 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>LOKA News — Risk & Compliance Intelligence</title>
+  <style>
+    :root {
+      --bg: #f8fafc;
+      --surface: #ffffff;
+      --border: #e2e8f0;
+      --text-main: #0f172a;
+      --text-muted: #64748b;
+      --primary: #0284c7;
+      --primary-dark: #0369a1;
+      --badge-bg: #f1f5f9;
+      --badge-text: #334155;
+      --header-bg: #0f172a;
+    }
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background-color: var(--bg);
+      color: var(--text-main);
+      line-height: 1.5;
+      -webkit-font-smoothing: antialiased;
+    }
+    header {
+      background-color: var(--header-bg);
+      color: #ffffff;
+      padding: 1.75rem 1rem;
+      border-bottom: 1px solid #1e293b;
+    }
+    .header-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
+    }
+    @media (min-width: 768px) {
+      .header-inner {
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+      }
+    }
+    .brand-title {
+      font-size: 1.5rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+    .brand-tag {
+      background-color: #0284c7;
+      color: #fff;
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      padding: 0.15rem 0.5rem;
+      border-radius: 4px;
+      font-weight: 600;
+      letter-spacing: 0.05em;
+    }
+    .header-meta {
+      font-size: 0.825rem;
+      color: #94a3b8;
+    }
+    main {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 2rem 1rem;
+    }
+    .filter-panel {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 1.25rem;
+      margin-bottom: 1.75rem;
+      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.03);
+    }
+    .search-box {
+      width: 100%;
+      padding: 0.75rem 1rem;
+      font-size: 0.95rem;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      outline: none;
+      transition: border-color 0.2s, box-shadow 0.2s;
+    }
+    .search-box:focus {
+      border-color: var(--primary);
+      box-shadow: 0 0 0 3px rgba(2, 132, 199, 0.15);
+    }
+    .topics-bar {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      margin-top: 1rem;
+    }
+    .topic-btn {
+      background: var(--badge-bg);
+      border: 1px solid transparent;
+      color: var(--badge-text);
+      font-size: 0.8rem;
+      font-weight: 500;
+      padding: 0.35rem 0.75rem;
+      border-radius: 9999px;
+      cursor: pointer;
+      transition: all 0.15s ease-in-out;
+    }
+    .topic-btn:hover {
+      background: #e2e8f0;
+    }
+    .topic-btn.active {
+      background: var(--text-main);
+      color: #ffffff;
+      border-color: var(--text-main);
+    }
+    .status-bar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 1rem;
+      font-size: 0.875rem;
+      color: var(--text-muted);
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 1.25rem;
+    }
+    @media (min-width: 680px) {
+      .grid {
+        grid-template-columns: repeat(2, 1fr);
+      }
+    }
+    @media (min-width: 1024px) {
+      .grid {
+        grid-template-columns: repeat(3, 1fr);
+      }
+    }
+    .card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 1.25rem;
+      display: flex;
+      flex-direction: column;
+      transition: transform 0.15s ease, box-shadow 0.15s ease;
+    }
+    .card:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 6px 16px rgba(0, 0, 0, 0.05);
+    }
+    .card-meta {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.75rem;
+      color: var(--text-muted);
+      margin-bottom: 0.75rem;
+    }
+    .card-source {
+      font-weight: 600;
+      color: var(--primary-dark);
+      text-transform: uppercase;
+      letter-spacing: 0.02em;
+    }
+    .card-title {
+      font-size: 1.05rem;
+      font-weight: 600;
+      color: var(--text-main);
+      line-height: 1.4;
+      margin-bottom: 0.5rem;
+    }
+    .card-summary {
+      font-size: 0.875rem;
+      color: var(--text-muted);
+      line-height: 1.5;
+      margin-bottom: 1.25rem;
+      flex-grow: 1;
+    }
+    .card-footer {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.35rem;
+      align-items: center;
+      justify-content: space-between;
+      border-top: 1px solid #f1f5f9;
+      padding-top: 0.75rem;
+      margin-top: auto;
+    }
+    .tags-container {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.35rem;
+    }
+    .tag {
+      font-size: 0.7rem;
+      background: #f1f5f9;
+      color: #475569;
+      padding: 0.15rem 0.4rem;
+      border-radius: 4px;
+    }
+    .read-link {
+      font-size: 0.825rem;
+      font-weight: 600;
+      color: var(--primary);
+      text-decoration: none;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.25rem;
+    }
+    .read-link:hover {
+      text-decoration: underline;
+    }
+    .empty-state {
+      grid-column: 1 / -1;
+      text-align: center;
+      padding: 4rem 1rem;
+      color: var(--text-muted);
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <div class="header-inner">
+      <div>
+        <div class="brand-title">
+          <span>LOKA News</span>
+          <span class="brand-tag">Risk &amp; Compliance</span>
+        </div>
+        <p class="header-meta">Real-time consolidated intelligence from regulatory and industry authorities</p>
+      </div>
+      <div id="lastUpdated" class="header-meta">Syncing feeds...</div>
+    </div>
+  </header>
+
+  <main>
+    <section class="filter-panel">
+      <input type="text" id="searchInput" class="search-box" placeholder="Search by keyword, regulator, entity, or standard..." autocomplete="off">
+      <div class="topics-bar" id="topicsContainer">
+        <!-- Buttons injected dynamically -->
+      </div>
+    </section>
+
+    <div class="status-bar">
+      <span id="articleCount">Loading records...</span>
+    </div>
+
+    <section id="articlesGrid" class="grid">
+      <!-- Article cards injected dynamically -->
+    </section>
+  </main>
+
+  <script>
+    let articlesData = [];
+    let activeTopic = "All";
+    let searchQuery = "";
+
+    const TOPIC_OPTIONS = [
+      "All",
+      "Regulatory Change",
+      "Enforcement Actions",
+      "AML & Sanctions",
+      "Cybersecurity Risk",
+      "Data Privacy",
+      "ESG & Sustainability",
+      "Operational & Enterprise Risk"
+    ];
+
+    async function loadArticles() {
+      try {
+        const response = await fetch(`data/articles.json?t=${Date.now()}`);
+        if (!response.ok) throw new Error("Articles file unavailable");
+        const data = await response.json();
+        
+        articlesData = data.articles || [];
+        document.getElementById("lastUpdated").textContent = `Updated: ${data.last_updated || 'Recent'}`;
+        buildTopicButtons();
+        render();
+      } catch (err) {
+        document.getElementById("articlesGrid").innerHTML = `
+          <div class="empty-state">
+            <h3>Initial ingest in progress</h3>
+            <p>The first scheduled data collection run has not completed yet. Please run the workflow manually or wait a few moments.</p>
+          </div>`;
+        document.getElementById("articleCount").textContent = "0 articles available";
+      }
+    }
+
+    function buildTopicButtons() {
+      const container = document.getElementById("topicsContainer");
+      container.innerHTML = "";
+      TOPIC_OPTIONS.forEach(topic => {
+        const btn = document.createElement("button");
+        btn.className = `topic-btn ${topic === activeTopic ? 'active' : ''}`;
+        btn.textContent = topic;
+        btn.onclick = () => {
+          activeTopic = topic;
+          document.querySelectorAll(".topic-btn").forEach(b => b.classList.remove("active"));
+          btn.classList.add("active");
+          render();
+        };
+        container.appendChild(btn);
+      });
+    }
+
+    function render() {
+      const grid = document.getElementById("articlesGrid");
+      const filtered = articlesData.filter(item => {
+        const matchesTopic = (activeTopic === "All") || (item.topics && item.topics.includes(activeTopic));
+        const searchTarget = `${item.title} ${item.summary} ${item.source}`.toLowerCase();
+        const matchesSearch = !searchQuery || searchTarget.includes(searchQuery);
+        return matchesTopic && matchesSearch;
+      });
+
+      document.getElementById("articleCount").textContent = `Showing ${filtered.length} of ${articlesData.length} stories`;
+
+      if (filtered.length === 0) {
+        grid.innerHTML = `
+          <div class="empty-state">
+            <h3>No matching articles</h3>
+            <p>Try clearing your search query or selecting a different risk topic.</p>
+          </div>`;
+        return;
+      }
+
+      grid.innerHTML = filtered.map(item => `
+        <article class="card">
+          <div class="card-meta">
+            <span class="card-source">${escapeHtml(item.source)}</span>
+            <time datetime="${item.date}">${escapeHtml(item.display_date)}</time>
+          </div>
+          <h2 class="card-title">${escapeHtml(item.title)}</h2>
+          <p class="card-summary">${escapeHtml(item.summary)}</p>
+          <div class="card-footer">
+            <div class="tags-container">
+              ${(item.topics || []).map(t => `<span class="tag">${escapeHtml(t)}</span>`).join('')}
+            </div>
+            <a href="${item.link}" target="_blank" rel="noopener noreferrer" class="read-link">
+              Read <span>&rarr;</span>
+            </a>
+          </div>
+        </article>
+      `).join("");
+    }
+
+    function escapeHtml(str) {
+      if (!str) return "";
+      return str.replace(/[&<>'"]/g, tag => ({
+        '&': '&amp;',
+        '<': '&lt;',
+        '>': '&gt;',
+        "'": '&#39;',
+        '"': '&quot;'
+      }[tag] || tag));
+    }
+
+    document.getElementById("searchInput").addEventListener("input", (e) => {
+      searchQuery = e.target.value.trim().toLowerCase();
+      render();
+    });
+
+    loadArticles();
+  </script>
+</body>
+</html>
