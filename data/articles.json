@@ -1,7 +1,62 @@
 {
-  "last_updated": "October 22, 2026 05:27 UTC",
-  "total_count": 230,
+  "last_updated": "October 22, 2026 08:29 UTC",
+  "total_count": 229,
   "articles": [
+    {
+      "title": "UCB Shares Jump After Demand for Immunology Drug Bimzelx Boosts Outlook",
+      "link": "https://www.wsj.com/business/retail/ucb-shares-jump-after-demand-for-immunology-drug-bimzelx-boosts-outlook-73a9ff8a?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-10-22T08:23:00+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "Shares were up 13%—erasing losses in the year to date—after the company raised its annual guidance for the second time this year, citing strong U.S. demand for its blockbuster drug.",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "China’s chemical compliance rules reach deeper into manufacturers’ supply chains",
+      "link": "https://www.complianceweek.com/best-practices/chinas-chemical-compliance-rules-reach-deeper-into-manufacturers-supply-chains/",
+      "source": "Compliance Week",
+      "date": "2026-10-22T06:18:33+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "China’s chemical compliance landscape is moving into a broader phase. For companies that manufacture, import, distribute, or use chemicals in China, compliance is increasingly about more than substance registration, as recent developments tie registration to hazardous-chemical op...",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Roche Posts Higher Sales on Growth Across Pharma, Diagnostics Units",
+      "link": "https://www.wsj.com/health/pharma/roche-posts-higher-sales-on-growth-across-pharma-diagnostics-units-1ff34004?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-10-22T05:39:00+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "Roche reiterated its full-year guidance and said it is prepared to launch its giredestrant breast-cancer pill later this year.",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Kuehne + Nagel Lifts Guidance Again After Growth Across Business",
+      "link": "https://www.wsj.com/business/earnings/kuehne-nagel-lifts-guidance-again-after-growth-across-business-86fa11be?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-10-22T05:39:00+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "The Swiss transport and logistics company said demand from cloud infrastructure and semiconductor customers is driving volume growth.",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "KPMG ban on government work extended after 'serious ethical failings'",
+      "link": "https://www.abc.net.au/news/2026-10-22/audit-leaks-scandal-kpmg-ban-on-government-work-extends-to-2027/107297484",
+      "source": "ABC News Business (AU)",
+      "date": "2026-10-22T05:35:31+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "The federal government extends its ban on KPMG bidding for new government work until at least the end of February, following allegations its audit partners misused client data then mishandled a whistleblower's complaint.",
+      "topics": [
+        "Operational & Enterprise Risk"
+      ]
+    },
     {
       "title": "UK competition watchdog fines three companies $8 million for misleading sales claims and obscure pricing",
       "link": "https://www.complianceweek.com/retail/uk-competition-watchdog-fines-three-companies-8-million-for-misleading-sales-claims-and-obscure-pricing/",
@@ -14,7 +69,7 @@
       ]
     },
     {
-      "title": "He Self-Funded a $45-Million Nicolas Cage Movie. Then It Was Stolen.",
+      "title": "He Self-Funded a $45 Million Nicolas Cage Movie. Then It Was Stolen.",
       "link": "https://www.wsj.com/business/media/he-self-funded-a-45-million-nicolas-cage-movie-then-it-was-stolen-4aa75bd6?mod=pls_whats_news_us_business_f",
       "source": "Wall Street Journal",
       "date": "2026-10-22T00:00:00+00:00",
@@ -33,6 +88,18 @@
       "summary": "Ukraine is using a basic Starshield service, which uses Starlink’s standard equipment with different features",
       "topics": [
         "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Largest fine ever: Meta ordered to pay $36bn in data privacy case - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNX0VmUXhpQzg3ZUd1UEppcWtPRE90WGh0dVpwSUNZemlCSlhaaW8xVGk1NkZHXzJYLXh3d3lzQUJpNWZHYzh0SUhnM010aWRYeE9SUndvT3phYVNWTy1NOVRkMVZ0SUs2ZmpDNFFIUl94MHM4YjRNX1lLcXRrRnc0R0NwNkh3N3ZkR2puWjlNZmtIS2FVZ0F2VTR0dzNYRU56SGlFYjZQazE1bXp5QW1OQjdsVXlraGNDLV9CTTFMUHgwSFQxWV8tN3hqLWdQc3FXYWtIT3BWem1aajNsN09iVnBFUk5HdGctaVlGU2xyd0todWg2RHEwenQ4VXJkZw?oc=5",
+      "source": "The Australian",
+      "date": "2026-10-21T23:11:01+00:00",
+      "display_date": "Oct 21, 2026",
+      "summary": "Largest fine ever: Meta ordered to pay $36bn in data privacy case The Australian",
+      "topics": [
+        "Enforcement Actions",
+        "Data Privacy"
       ]
     },
     {
@@ -55,6 +122,17 @@
       "summary": "The UAE’s new AML/CFT law adds criminal offenses, harsher penalties, and new compliance duties for firms and individuals. The post UAE expands AML/CFT regime with tougher penalties and wider sector reach appeared first on Compliance Week .",
       "topics": [
         "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "A Simple Guide to China’s Very Complicated Policy Universe - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5FdHRYcEMxR0tlaHljNXFFLUNURDZaSGxzZmxydUtDRkZDVWNQRU4tQjJwV1JrSEF2TFZYb2hqa0ItRlh6cm13emJWN2RaZllDYUNmWjVMRlJtejdTRGFpQU43Z0xvN3lBQURB?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-10-21T21:00:00+00:00",
+      "display_date": "Oct 21, 2026",
+      "summary": "A Simple Guide to China’s Very Complicated Policy Universe Bloomberg.com",
+      "topics": [
+        "Regulatory Change"
       ]
     },
     {
@@ -88,29 +166,6 @@
       "summary": "Vodafone's owner TPG says it was forced to speak publicly about its frustration over scam calls after reports to the regulator were not addressed.",
       "topics": [
         "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Energy secretary leaning towards rejecting Rosebank oilfield",
-      "link": "https://www.theguardian.com/environment/2026/oct/21/energy-secretary-leaning-towards-rejecting-rosebank-oilfield",
-      "source": "The Guardian Australia",
-      "date": "2026-10-21T17:15:23+00:00",
-      "display_date": "Oct 21, 2026",
-      "summary": "Exclusive: Officials say Miatta Fahnbulleh minded not to give approval in victory for climate campaigners Miatta Fahnbulleh is minded to reject the giant Rosebank oilfield, sources have told the Guardian, in what would be a blow for the North Sea energy industry and a major victo...",
-      "topics": [
-        "ESG & Sustainability"
-      ]
-    },
-    {
-      "title": "Jackdaw approval is a step towards a grownup North Sea policy",
-      "link": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/oct/21/jackdaw-approval-step-towards-grownup-north-sea-policy",
-      "source": "The Guardian Australia",
-      "date": "2026-10-21T17:12:32+00:00",
-      "display_date": "Oct 21, 2026",
-      "summary": "Government decision is about how much oil and gas is sensible for UK to produce on the way to net zero Business live – latest updates Andy Burnham hit the nail on the (well)head in his first fortnight as prime minister when he said : “The question isn’t whether Britain will still...",
-      "topics": [
-        "Regulatory Change",
-        "ESG & Sustainability"
       ]
     },
     {
@@ -296,20 +351,9 @@
       "source": "ESG Today",
       "date": "2026-10-21T10:08:30+00:00",
       "display_date": "Oct 21, 2026",
-      "summary": "Singapore-based renewable energy developer Peak Energy and Hyundai Motor Securities announced the launch of HMS-Peak […]",
+      "summary": "Singapore-based renewable energy developer Peak Energy and Hyundai Motor Securities’ Vencore Rooftop Equity Fund announced […]",
       "topics": [
         "Operational & Enterprise Risk"
-      ]
-    },
-    {
-      "title": "Soaring Energy Prices Spur U.K. to Approve Controversial Gas Field",
-      "link": "https://www.wsj.com/business/energy-oil/jackdaw-gas-field-gets-green-light-from-u-k-government-19994ecc?mod=pls_whats_news_us_business_f",
-      "source": "Wall Street Journal",
-      "date": "2026-10-21T09:48:00+00:00",
-      "display_date": "Oct 21, 2026",
-      "summary": "The decision brings an end to an approvals process that had stalled on climate concerns, and primes operations to kick off within weeks.",
-      "topics": [
-        "ESG & Sustainability"
       ]
     },
     {
@@ -869,6 +913,17 @@
       ]
     },
     {
+      "title": "Trump Faces Widening GOP Anger Over Russia Sanctions Waiver - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdlBhMEdBRVg3TkZWNHNYNDc3ZVdfRVhpVmtWQUlhY2t2eW9vTW5wdTNLX0pUUDdyUXdUcU5neVFrLVp1ZXZ2R1VVM1h5YnZFQ3NVM0hraDZwUzBJMHRBb0NYa2JjRTZEbmJnMW5MNW9FcV9vbzhBSU5odzlBcTRTTGIzSEJHLU1NZVFnRHRHSGdfZVdmSnJzRzFVQTlsbTRfS05Pd05kb3lDWWE5cEJKbTMzRncyQQ?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-10-19T05:50:00+00:00",
+      "display_date": "Oct 19, 2026",
+      "summary": "Trump Faces Widening GOP Anger Over Russia Sanctions Waiver Bloomberg.com",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
       "title": "Morning Bid: Markets left to figure out sanctions - Reuters",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15Zk9kSXZkOVBJMWZjbXNlSmI2a2F6VG5EUFFfcHlMUjhaX25qaW1qWGNCVFpRaUlMN042UHdTNEh1eHY0MUFmS2RLZTJOd2VLRTlkX082UFNjTHdSZjBlQTB4b0hpeXlzY2UzZXlTNWoyX1pOVi1RTVV6UEhtOG8?oc=5",
       "source": "Reuters",
@@ -975,28 +1030,6 @@
       "date": "2026-10-17T23:45:00+00:00",
       "display_date": "Oct 17, 2026",
       "summary": "Trump waives sanctions against Russia just before new law takes effect The Australian",
-      "topics": [
-        "AML & Sanctions"
-      ]
-    },
-    {
-      "title": "Trump Faces Widening GOP Anger Over Russia Sanctions Waiver - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdlBhMEdBRVg3TkZWNHNYNDc3ZVdfRVhpVmtWQUlhY2t2eW9vTW5wdTNLX0pUUDdyUXdUcU5neVFrLVp1ZXZ2R1VVM1h5YnZFQ3NVM0hraDZwUzBJMHRBb0NYa2JjRTZEbmJnMW5MNW9FcV9vbzhBSU5odzlBcTRTTGIzSEJHLU1NZVFnRHRHSGdfZVdmSnJzRzFVQTlsbTRfS05Pd05kb3lDWWE5cEJKbTMzRncyQQ?oc=5",
-      "source": "Bloomberg.com",
-      "date": "2026-10-17T19:31:49+00:00",
-      "display_date": "Oct 17, 2026",
-      "summary": "Trump Faces Widening GOP Anger Over Russia Sanctions Waiver Bloomberg.com",
-      "topics": [
-        "AML & Sanctions"
-      ]
-    },
-    {
-      "title": "Ted Cruz claims Trump waiving Russia sanctions is a ‘mistake’ - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPd1FiN2Etd2tEcVByelN2SVFvQ08tOXkwN1hQTFhMSUZhNmN1TlI3WTZBaERoZkxmY0l4OGp5RUJzVVl0aTBKMVo0RjJTWWpuYUk0aHJMVTNLZjRWOW52V1Nxc213aGxldktBaGFkVXRSTGJjb0IwdElVZ3dWUGtMZEVjQ0RiR2pVUnJlYmNMY2VrbkZOZk5jbDZSS3g2UnN6NnE1WnROd1k4Sm84OExTRmVKYl8tYnFxdkQtUGs5eDdkMmZ0YlVjUjZHc0xsdlRWQkllRVdEcFU1REkzOFJSZg?oc=5",
-      "source": "The Australian",
-      "date": "2026-10-17T19:26:45+00:00",
-      "display_date": "Oct 17, 2026",
-      "summary": "Ted Cruz claims Trump waiving Russia sanctions is a ‘mistake’ The Australian",
       "topics": [
         "AML & Sanctions"
       ]
@@ -1278,17 +1311,6 @@
       ]
     },
     {
-      "title": "Securing AI systems from cyber threats is a top priority, according to PwC’s Global Digital Trust Insights Survey",
-      "link": "https://www.complianceweek.com/artificial-intelligence/securing-ai-systems-from-cyber-threats-is-a-top-priority-according-to-pwcs-global-digital-trust-insights-survey/",
-      "source": "Compliance Week",
-      "date": "2026-10-16T01:47:21+00:00",
-      "display_date": "Oct 16, 2026",
-      "summary": "Cyber threats against AI systems are a top threat that business and security leaders say they feel least prepared to address, according to PwC’s 2027 Global Digital Trust Insights survey. The post Securing AI systems from cyber threats is a top priority, according to PwC’s Global...",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
       "title": "Trump demands death penalty for anyone who kills a firefighter - The Australian",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTTJ0Um5yOVoydnUxQXVEbnZxeTc3Vy1WN3dsVlZSc0UxZnpVRmRLc3ZHakxlbWVFUUwweTRTTGdRakdoZHhZTDdBeUlfcmxnZVhCdVppVWJ4R2ZlRjRLOVdhVnI2QWVqb0xRRzY3ZTVKMlA3S2p6cURad2szcXNWVXFZVzVpbGRjNHhsbTc0emdVbEhUV185a1dJMHZ0dFJHVlhpQnRQTzRQOV9EaTRZZDFJU3B2alM4bHhhekhXRlp1NldEUVdGVmJmV3MwWnZNUC1sdEVR?oc=5",
       "source": "The Australian",
@@ -1330,17 +1352,6 @@
       "summary": "On 14 October 2026, Jarvis Investment Management Limited (Jarvis Investment) entered special administration. Adam Stephens and Philip Hemming of S&W Partners LLP were appointed as special administrators. Jarvis Investment (FRN 116413) is FCA authorised and regulated to provide we...",
       "topics": [
         "Regulatory Change"
-      ]
-    },
-    {
-      "title": "US issues fresh Iran-related sanctions, Treasury website shows - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONEJZZXJmaFZ1b2c5eDlJMjhKMFRXX3JkNVJha1J1N29IWUJHRGphZ1M1czQ0Z1EtQzBub3gxNk5iT3FnNEdRM3dEbjVvdGhac2JjOGdmNGVCVFJMZW9GZzVGeEFCOEFualphSFJVNEM0eUZmVGhDdC1oaU9UR2lzRmltQVJ6RUtTZGJVV29pZ2tKZ3pBT2o0RU5lQzlYNzdZOWFfdENZNS13LVNhMEJSSGRfXzRXQQ?oc=5",
-      "source": "Reuters",
-      "date": "2026-10-15T16:45:20+00:00",
-      "display_date": "Oct 15, 2026",
-      "summary": "US issues fresh Iran-related sanctions, Treasury website shows Reuters",
-      "topics": [
-        "AML & Sanctions"
       ]
     },
     {
@@ -1409,29 +1420,6 @@
       "topics": [
         "Cybersecurity Risk",
         "Operational & Enterprise Risk"
-      ]
-    },
-    {
-      "title": "APRA reveals a whistleblower’s identity in TV comedy case study - AFR",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZ25aMUUwRHc2Tks5dXAzUVFlNE1lUWFad3hfbUJaU2VvaW45NWdRZlkweHFUSXdlRzlrMERZNGotRmtJdlR0OGlXaE1fOU9vb3JuT29RaVk4RFJrbUpFemxpVnI3Z29uekpGc3FVV1lvNGFGRlY2eDZlenNPUzVGVWtTRzlObTQxVXpVRzYwbVlRWDcxU0NZZDJuOUtBOXgxWm1fSFdBbG1PM3RMQ2tFVw?oc=5",
-      "source": "AFR",
-      "date": "2026-10-15T07:13:00+00:00",
-      "display_date": "Oct 15, 2026",
-      "summary": "APRA reveals a whistleblower’s identity in TV comedy case study AFR",
-      "topics": [
-        "Regulatory Change",
-        "Operational & Enterprise Risk"
-      ]
-    },
-    {
-      "title": "FSIGA - QUARTERLY REPORT TO TRUSTEE AND ASIC Yours sincerely - AFR",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTGE0a1BMb2lSYmRGTlpWNGJOdFZCVG9jUEpDbWVLNGtIcGFobXREaU82bWlLc2Vaa2hwcDBWbktEalBETlBrVUF3MXAzTlhVN3ZBWGVLWkt5TlVzQzdBUElwNFN1TjhrV2c3bERCekt6dFZ5UjhXOC1WOEo3YlppY2RsQWNCUzRCRHlQTkhNbw?oc=5",
-      "source": "AFR",
-      "date": "2026-10-15T07:00:00+00:00",
-      "display_date": "Oct 15, 2026",
-      "summary": "FSIGA - QUARTERLY REPORT TO TRUSTEE AND ASIC Yours sincerely AFR",
-      "topics": [
-        "Enforcement Actions"
       ]
     },
     {
