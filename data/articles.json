@@ -1,7 +1,174 @@
 {
-  "last_updated": "October 22, 2026 04:58 UTC",
-  "total_count": 127,
+  "last_updated": "October 22, 2026 05:23 UTC",
+  "total_count": 231,
   "articles": [
+    {
+      "title": "UK competition watchdog fines three companies $8 million for misleading sales claims and obscure pricing",
+      "link": "https://www.complianceweek.com/retail/uk-competition-watchdog-fines-three-companies-8-million-for-misleading-sales-claims-and-obscure-pricing/",
+      "source": "Compliance Week",
+      "date": "2026-10-22T01:10:48+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "The UK Competition and Markets Authority has fined three well-known businesses, including Wayfair and Appliances Direct, $8 million for using misleading sales tactics. The post UK competition watchdog fines three companies $8 million for misleading sales claims and obscure pricin...",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "He Self-Funded a $45-Million Nicolas Cage Movie. Then It Was Stolen.",
+      "link": "https://www.wsj.com/business/media/he-self-funded-a-45-million-nicolas-cage-movie-then-it-was-stolen-4aa75bd6?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-10-22T00:00:00+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "A little-known producer sued Netflix for $105 million after a drive containing the film went missing from the streamer’s offices.",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "How Does the Ukrainian Military Use Starlink?",
+      "link": "https://www.wsj.com/business/telecom/how-does-the-ukrainian-military-use-starlink-e1faa11b?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-10-21T23:49:00+00:00",
+      "display_date": "Oct 21, 2026",
+      "summary": "Ukraine is using a basic Starshield service, which uses Starlink’s standard equipment with different features",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "ASIC probes Gemi as $150m in investor funds frozen in Adgemis fallout - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNRmpPZFphRlNveEZpV1EyeHpTMTEwTXg5RHlkUFFTa1RqRjdrUUh2VDJsb0VTT3NfYk0yS1UzQUhhbENCWHFWMFJsbVZNX1VMUE9KaUkySmpoNUlUdlBTNWNjRU5EYzB3NkpydnhOVDJ4eEVjM05YQUp2YmstejVrVm81VjQyVnliczBabW5la0U3VHd4UXFTOFk5eEJvNTk5WFQtaUJ0alp4NnQzYkd5enNpb183NnJCV2RzZzNrOW9oOThXcTdCUHpIdF85cTMxQUVwS0VldnRFUWotNlFaMnRZa0JKNGZIYmF1N2RCLUpOdWUwUEpTTGlOVjVfdw?oc=5",
+      "source": "The Australian",
+      "date": "2026-10-21T22:32:40+00:00",
+      "display_date": "Oct 21, 2026",
+      "summary": "ASIC probes Gemi as $150m in investor funds frozen in Adgemis fallout The Australian",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "UAE expands AML/CFT regime with tougher penalties and wider sector reach",
+      "link": "https://www.complianceweek.com/aml/uae-expands-aml-cft-regime-with-tougher-penalties-and-wider-sector-reach/",
+      "source": "Compliance Week",
+      "date": "2026-10-21T21:09:15+00:00",
+      "display_date": "Oct 21, 2026",
+      "summary": "The UAE’s new AML/CFT law adds criminal offenses, harsher penalties, and new compliance duties for firms and individuals. The post UAE expands AML/CFT regime with tougher penalties and wider sector reach appeared first on Compliance Week .",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "US sanctions Greece-, Panama-based law firm over aid to Iranian shipping - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZFh4ZEdDSDhEcmZJWFR1VDVOUDVaYTR6aURwNjEzRnpsVGV4aTl1RFR3LVZpa1ZRZW5DY1ByTnBXZmk3RVl4VHRZM0x6UGRnUWp1dUJJUWItY3lYU3dmZ1RBYU1OLTdjc3JXOVB3V09mM051WGM1dEJsaW1WQXRmd3BmVXRaRUZMNzR4bkVBY3RTNWt1aXYxcGdWZVdUMy0xNUNzMlpJMkpyR0RaQVdKbUNENzFIdw?oc=5",
+      "source": "Reuters",
+      "date": "2026-10-21T18:37:59+00:00",
+      "display_date": "Oct 21, 2026",
+      "summary": "US sanctions Greece-, Panama-based law firm over aid to Iranian shipping Reuters",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "US Aims Iran ‘Shadow Fleet’ Sanctions at Law Firm, Shippers - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOc0IyUXo0UUJMVVpzdEd1RVBOUGprY05ycTNSV3AtRWJfdW8yT3l3WWVpckJoTWFsM09oWWg3M0xXNXRXSm9sX2M4V25RX2g4bFVlUWFSeXg3azBFN0ZSaGNEb1ducXlDa1pid3BkTm85elpnTjluRzNmYVV3Z1dfZndNcGRUcTNZbDZtWldPc21rY3E0QnZRQVMya3dhMkw3M19XWG5uTXVKS0E?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-10-21T18:04:15+00:00",
+      "display_date": "Oct 21, 2026",
+      "summary": "US Aims Iran ‘Shadow Fleet’ Sanctions at Law Firm, Shippers Bloomberg.com",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "Vodafone says 24 million scam calls came via Aussie Broadband",
+      "link": "https://www.abc.net.au/news/2026-10-22/vodafone-aussie-broadband-company-symbio-carrying-scam-calls/107282346",
+      "source": "ABC News Business (AU)",
+      "date": "2026-10-21T18:00:00+00:00",
+      "display_date": "Oct 21, 2026",
+      "summary": "Vodafone's owner TPG says it was forced to speak publicly about its frustration over scam calls after reports to the regulator were not addressed.",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Meta ordered to pay $25 billion penalty to New Mexico in data privacy case - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYWNTZTVrUDY5dUhLcUduTzg1NGZDUWx1VTNVbFRNV3hOcXo0TG51MDBMRm5WQU9STGRPZGhLNml2dTFMb1h2b1hLelA4QU5KV3pRLWktdDVhOEFxWDY5VW1URmZEVm9QcDg0WEp2Zmo2V1RIcFpCdk1zeFFhdU1VeHl4QUVZeGZxU3ZJLV9UUzZYWG85Ujl0RkRMbGhMd2RBWkdDNnJpbnBNQXduV3FBLXZTYlk2Y2xhVzFSbmthRFJERU0?oc=5",
+      "source": "Reuters",
+      "date": "2026-10-21T17:27:00+00:00",
+      "display_date": "Oct 21, 2026",
+      "summary": "Meta ordered to pay $25 billion penalty to New Mexico in data privacy case Reuters",
+      "topics": [
+        "Enforcement Actions",
+        "Data Privacy"
+      ]
+    },
+    {
+      "title": "Energy secretary leaning towards rejecting Rosebank oilfield",
+      "link": "https://www.theguardian.com/environment/2026/oct/21/energy-secretary-leaning-towards-rejecting-rosebank-oilfield",
+      "source": "The Guardian Australia",
+      "date": "2026-10-21T17:15:23+00:00",
+      "display_date": "Oct 21, 2026",
+      "summary": "Exclusive: Officials say Miatta Fahnbulleh minded not to give approval in victory for climate campaigners Miatta Fahnbulleh is minded to reject the giant Rosebank oilfield, sources have told the Guardian, in what would be a blow for the North Sea energy industry and a major victo...",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "Jackdaw approval is a step towards a grownup North Sea policy",
+      "link": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/oct/21/jackdaw-approval-step-towards-grownup-north-sea-policy",
+      "source": "The Guardian Australia",
+      "date": "2026-10-21T17:12:32+00:00",
+      "display_date": "Oct 21, 2026",
+      "summary": "Government decision is about how much oil and gas is sensible for UK to produce on the way to net zero Business live – latest updates Andy Burnham hit the nail on the (well)head in his first fortnight as prime minister when he said : “The question isn’t whether Britain will still...",
+      "topics": [
+        "Regulatory Change",
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "From AI Outputs to Compliance Decisions: A Practical Guide for Compliance Professionals",
+      "link": "https://www.complianceweek.com/scheduled-webcast/from-ai-outputs-to-compliance-decisions-a-practical-guide-for-compliance-professionals/",
+      "source": "Compliance Week",
+      "date": "2026-10-21T17:06:28+00:00",
+      "display_date": "Oct 21, 2026",
+      "summary": "AI is changing how compliance teams find information, assess risk, and support business decisions, but not every AI-enabled workflow is appropriate for every task. The post From AI Outputs to Compliance Decisions: A Practical Guide for Compliance Professionals appeared first on C...",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Europe risks startup exodus as regulation, funding and skill gaps hamper AI adoption, AWS EMEA head says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWlBCRzNNN1hVU0RydnVDdzB6MUtiWVlURnFsTHBMcXlhMWxjMnFvZHVfbmFzSmRPbEtlRlUzQVFxUUgwbEhDdHR5eFFOZXFxdWJ2M0tUTi1DRU4xa2lFMFBEVHdmc25KZUNlVGV2bVA1SnczQ3pCeGE1cjgzV1hVbk9hVjdOTmNOeFEtZEJsVHNpNllLWGtHSWZnd3UxMmFwa2pPVDdMTW8xUm42dmxXbmMxQS1HUDJHektqMnZ1bUJ6OFpFVF9DYzhUSHhIQ0VNTEVnRkdiWGg?oc=5",
+      "source": "Reuters",
+      "date": "2026-10-21T16:53:43+00:00",
+      "display_date": "Oct 21, 2026",
+      "summary": "Europe risks startup exodus as regulation, funding and skill gaps hamper AI adoption, AWS EMEA head says Reuters",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "FCC chair says broadcast networks could violate regulatory obligations by airing 'fake polls' - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaTJlRG9JenVUb2Z1NWxDR2xxeDMxVTgySDl0RGNKbmsxTkU1M1k2U1F3NURwYk5HWk43TEJHaTk3WEpUWXhMZGlmLUdkVGtPWmV6UmNpNzlpTFExbm5wWVNrMzltT3RraWNBZmhMOWE5WnRVNnl1WlFiMDI1V0pld0NoOHZWX1R5WkJBN2J3bkU3Y19DaG9obU43cjhJRGN3ZGNJR2dmQkhkMXdZbHdqbWZER093c1hoYzlSNERiRGczX3ZLTFJkQWRKV1FzTTdkM0JGamJR?oc=5",
+      "source": "Reuters",
+      "date": "2026-10-21T16:46:34+00:00",
+      "display_date": "Oct 21, 2026",
+      "summary": "FCC chair says broadcast networks could violate regulatory obligations by airing 'fake polls' Reuters",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Russia and US discuss sanctions-hit Lukoil's foreign assets, Kremlin says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOXFuTlNJOXJUX2VvaVV0Wjd1U2o4ZTRNNnVkRms0RWlsWXVmYWdaZDE3VnJMN1hPaXNILW5MaUlvVC11VnpPYUhMQXU2NDdDYWg2c1NMRlhSMDViMmxybkdWZkZGTl9ydTk5ZmlCcENnd0hNWDlsODFIOWx4bXAwZWZjcmIyaWctYzJoWnNGZXlBVGliN0xNQk5MMzdKalF6RFFiRmhBb1NMTHkxMWc?oc=5",
+      "source": "Reuters",
+      "date": "2026-10-21T16:34:09+00:00",
+      "display_date": "Oct 21, 2026",
+      "summary": "Russia and US discuss sanctions-hit Lukoil's foreign assets, Kremlin says Reuters",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
     {
       "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
       "link": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
@@ -25,12 +192,35 @@
       ]
     },
     {
+      "title": "Fraud Division Whistleblower Program: Zzzz",
+      "link": "https://www.radicalcompliance.com/2026/10/21/fraud-division-whistleblower-program-zzzz/",
+      "source": "Radical Compliance",
+      "date": "2026-10-21T14:20:14+00:00",
+      "display_date": "Oct 21, 2026",
+      "summary": "Brace yourselves, compliance officers! The Trump Administration has launched a new whistleblower program under the auspices of the Fraud Division at the Justice Department, including “fast track” rewards of $10,000 to $30,000 as soon as a tip results in a criminal charge — althou...",
+      "topics": [
+        "Enforcement Actions",
+        "Operational & Enterprise Risk"
+      ]
+    },
+    {
       "title": "Reshaping regulation, deliberately",
       "link": "https://www.fca.org.uk/news/speeches/reshaping-regulation-deliberately",
       "source": "FCA UK Regulatory News",
       "date": "2026-10-21T13:07:00+00:00",
       "display_date": "Oct 21, 2026",
       "summary": "Speech by Sarah Pritchard, deputy chief executive, at Investment Association Annual Dinner 2026. Reform: more than writing rulesIn this sector, we’re just past peak rule making. The scale of change has been significant – and deliberate.But we’re not done yet.We want to see growth...",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "LMG Retail Q&A Advisory - AFR",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQb3pwNDBtNkt0ZVZwVV9saDdRdWpxY3VlNUpYZWhhdmdVTG9fNHBwUEtzUnFiUTA5cEIySlJVbzVUNE53ZzVGbVUydTY5WU5nMUpFMGVGV2plQVBHRV94SVVyUEFEb2hGUURPLTU3a2lGSVhFVi1pU0VGbzAzT1JVaWZuelVvUDNVQTEwUlBZRQ?oc=5",
+      "source": "AFR",
+      "date": "2026-10-21T12:01:16+00:00",
+      "display_date": "Oct 21, 2026",
+      "summary": "LMG Retail Q&A Advisory AFR",
       "topics": [
         "Regulatory Change"
       ]
@@ -47,9 +237,42 @@
       ]
     },
     {
+      "title": "Akzo Nobel in Talks to Shed European Refinishing Unit for Axalta Merger Nod",
+      "link": "https://www.wsj.com/business/deals/akzo-nobel-in-talks-to-shed-european-refinishing-unit-for-axalta-merger-nod-9e194ad0?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-10-21T11:36:00+00:00",
+      "display_date": "Oct 21, 2026",
+      "summary": "EXCLUSIVE: Akzo Nobel is seeking to secure regulatory clearance for its proposed merger with U.S. peer Axalta Coating Systems, the company’s chief executive said.",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "The Morning Risk Report: Instacart Settles Employment Discrimination Case",
+      "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-instacart-settles-employment-discrimination-case-57ee23b8?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-10-21T11:32:00+00:00",
+      "display_date": "Oct 21, 2026",
+      "summary": "Plus: EU to use sanctions against human traffickers, and Anthropic’s new risk disclosures.",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "Who Defines Compliance When Regulators Leave SaaS-Shaped Gaps?",
+      "link": "https://www.corporatecomplianceinsights.com/who-defines-compliance-when-regulators-leave-saas-shaped-gaps/",
+      "source": "Corporate Compliance Insights",
+      "date": "2026-10-21T11:01:03+00:00",
+      "display_date": "Oct 21, 2026",
+      "summary": "EU and G7 Russian diamond sanctions highlight a pattern the compliance community has seen again and again: regulators establishing requirements without prescribing verification methods, leaving technology vendors to define practical standards. CCI contributing writer Gordon Felle...",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
       "title": "OCC Advances U.S. Digital Asset Leadership with Final Rule to Implement GENIUS Act",
       "link": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-92.html",
-      "source": "OCC News Releases",
+      "source": "Office of the Comptroller of the Currency",
       "date": "2026-10-21T11:00:00+00:00",
       "display_date": "Oct 21, 2026",
       "summary": "The Office of the Comptroller of the Currency (OCC) today announced a final rule to implement the Guiding and Establishing National Innovation for U.S. Stablecoins (GENIUS) Act.",
@@ -91,6 +314,17 @@
       ]
     },
     {
+      "title": "Soaring Energy Prices Spur U.K. to Approve Controversial Gas Field",
+      "link": "https://www.wsj.com/business/energy-oil/jackdaw-gas-field-gets-green-light-from-u-k-government-19994ecc?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-10-21T09:48:00+00:00",
+      "display_date": "Oct 21, 2026",
+      "summary": "The decision brings an end to an approvals process that had stalled on climate concerns, and primes operations to kick off within weeks.",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
       "title": "Canada Reconsiders Oil & Gas “Abatement” Category in Sustainable Finance Taxonomy",
       "link": "https://www.esgtoday.com/canada-reconsiders-oil-gas-abatement-category-in-sustainable-finance-taxonomy/?utm_source=rss&utm_medium=rss&utm_campaign=canada-reconsiders-oil-gas-abatement-category-in-sustainable-finance-taxonomy",
       "source": "ESG Today",
@@ -102,6 +336,117 @@
       ]
     },
     {
+      "title": "ASIC investigating Adgemis backers’ freeze on $150m investor capital - AFR",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQU3pfVkx2SWpRdllBTnhITVI2V3cwYVhyUXFjb3lpQ0N4Wm9Vd010X0VQY00ycmxLVmVQN3ZfLXQxLWx5dFlOc21lUDB4NW5ldFlhNnlnZU92VHJKMERBdW5KdThBUktLcDc2YVdLdkVkUW5tM0taZy1xc3piNlduVUFyMlZsREF3Skl6d0c4Q1M1RHl0b2JrcWVGQmRuZjdDbzlLLWdKVUhuLVgtSlF3SjhBcktJSWJTdzBvTmVROFU?oc=5",
+      "source": "AFR",
+      "date": "2026-10-21T06:19:00+00:00",
+      "display_date": "Oct 21, 2026",
+      "summary": "ASIC investigating Adgemis backers’ freeze on $150m investor capital AFR",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "Fast-fashion giant Shein outperforms several Australian retailers on ethics, report says",
+      "link": "https://www.theguardian.com/fashion/2026/oct/21/fast-fashion-giant-shein-outperforms-several-australian-retailers-on-ethics",
+      "source": "The Guardian Australia",
+      "date": "2026-10-21T02:36:15+00:00",
+      "display_date": "Oct 21, 2026",
+      "summary": "Ghanda and Windsor Smith are among lowest-rated in Baptist World Aid ethical fashion report based on metrics such as wages and sustainability Get our breaking news email , free app or daily news podcast Online fast-fashion giant Shein is outperforming many Australian high street ...",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "Professional Life: Big four’s climate fee bonanza - AFR",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWDNyUjZJdWlvOGlfaHdrenFRMHBfNUJhV2ZhM1hLUUZkR1FGY2lWT3czVGluWFp6eElHM01RSFFFZXVQZ1lYM1F2blNmSDJQM00wWkNjVVVPenozRmlxWTJKWFcwa0N2LU1nZU54N0hMZTZlN203dWtodmNTeTdxOGhKNUJPTHRScjZ3eFVrM3hDalhZS2EtbmV2MVlHc00?oc=5",
+      "source": "AFR",
+      "date": "2026-10-21T01:01:00+00:00",
+      "display_date": "Oct 21, 2026",
+      "summary": "Professional Life: Big four’s climate fee bonanza AFR",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "Netflix posts third-quarter earnings beat, but shares fall on advertising and revenue guidance",
+      "link": "https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html",
+      "source": "CNBC",
+      "date": "2026-10-20T22:29:45+00:00",
+      "display_date": "Oct 20, 2026",
+      "summary": "Wall Street and investors will be looking for Netflix to provide additional details about the company's strategy following recent organizational changes",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Opinion | A Buyout for Iran’s ‘Shadow Fleet’",
+      "link": "https://www.wsj.com/opinion/a-buyout-for-irans-shadow-fleet-82749edc?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-10-20T21:03:00+00:00",
+      "display_date": "Oct 20, 2026",
+      "summary": "The U.S. can exploit sanctions to suppress the black market.",
+      "topics": [
+        "AML & Sanctions",
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "General Motors beats Wall Street's Q3 earnings expectations, narrows full-year guidance",
+      "link": "https://www.cnbc.com/2026/10/20/general-motors-gm-earnings-q3-2026.html",
+      "source": "CNBC",
+      "date": "2026-10-20T20:08:44+00:00",
+      "display_date": "Oct 20, 2026",
+      "summary": "GM narrowed its 2026 earnings guidance and raised its adjusted automotive free cash flow outlook after beating Wall Street’s third-quarter estimates.",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "When in Rome? The Risks of Ethics & Compliance Bending to Local Norms",
+      "link": "https://www.corporatecomplianceinsights.com/when-in-rome-the-risks-of-ethics-compliance-bending-to-local-norms/",
+      "source": "Corporate Compliance Insights",
+      "date": "2026-10-20T19:59:32+00:00",
+      "display_date": "Oct 20, 2026",
+      "summary": "The question of whether ethics are universal or local is as old as philosophy, and the AI race has made it urgent again The post When in Rome? The Risks of Ethics & Compliance Bending to Local Norms appeared first on Corporate Compliance Insights .",
+      "topics": [
+        "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "US Sanctions China’s Y Combinator in Google AI Secrets Case - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSWpoclBQZGh5ZzFZX25ESkYzTy1JV1dTQXhFUkhsODdZZ1VUOUlFaDFjaDBkYlRIeUZEQzJoOXZyTmFkeFNxNkxKQ1l3QmFRRlhkQWM0WnlLOXdySUlwX0t5UHNXZjFzUHhfOWZoam1CWmNjdXNnQ1pMUnZFYUxCenVfd3l4SjNsM1lfTG1jdXkzRkFfdnpSdjVpSk51UnFsQmZMM0xCZmJIcWlPMjMw?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-10-20T19:35:17+00:00",
+      "display_date": "Oct 20, 2026",
+      "summary": "US Sanctions China’s Y Combinator in Google AI Secrets Case Bloomberg.com",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "Notes on Building AI Accountability",
+      "link": "https://www.radicalcompliance.com/2026/10/20/notes-on-building-ai-accountability/",
+      "source": "Radical Compliance",
+      "date": "2026-10-20T17:43:27+00:00",
+      "display_date": "Oct 20, 2026",
+      "summary": "Last week I had the privilege of moderating a webinar on imposing human accountability for AI systems. The conversation was excellent, with some terrific insights on the oversight structures businesses will need — but holy poop, compliance officers have so much work to do here. L...",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Brokers Gear Up for Compute Futures Ahead of Regulatory Approval - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONklheXJqUHpxSTVuWjBENWFzaHNCd2ppaE1OMWZ4Y1F3Y3FzOXB6X2dKTThSdkUyNzIwMW9BZHNnSVVEQ2RtbTh6UWo0aDhodFlXdmZpZkRWN3RsZlJmdXp5VzAxd0pULUl0eERLZXhBOV9VMm04UXozOW01amhvajdvd0ZuVTUtVEcwUTEzSXViSXZ2YWUxMTZwWFluRkxSdFN1Y3RjZ3VYZldjVVIzaldnVnhQUQ?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-10-20T16:10:12+00:00",
+      "display_date": "Oct 20, 2026",
+      "summary": "Brokers Gear Up for Compute Futures Ahead of Regulatory Approval Bloomberg.com",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
       "title": "Google, McKinsey Sign 320,000 Ton Carbon Removal Deals from Brazil Nature Restoration Project",
       "link": "https://www.esgtoday.com/google-mckinsey-sign-deals-for-320000-carbon-credits-from-brazil-nature-restoration-project/?utm_source=rss&utm_medium=rss&utm_campaign=google-mckinsey-sign-deals-for-320000-carbon-credits-from-brazil-nature-restoration-project",
       "source": "ESG Today",
@@ -110,6 +455,17 @@
       "summary": "San Francisco-based carbon removal company Working Trees announced that it has signed a series of […]",
       "topics": [
         "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "AI in the Audit Room",
+      "link": "https://www.complianceweek.com/artificial-intelligence/ai-in-the-audit-room/",
+      "source": "Compliance Week",
+      "date": "2026-10-20T14:21:17+00:00",
+      "display_date": "Oct 20, 2026",
+      "summary": "Most organizations now use AI, and most have a policy for it. Far fewer test whether that policy works. When errors surface, it’s often internal audit that finds them, after the output has already reached the board, a regulator, or the public. The post AI in the Audit Room appear...",
+      "topics": [
+        "Regulatory Change"
       ]
     },
     {
@@ -130,6 +486,17 @@
       "date": "2026-10-20T12:51:00+00:00",
       "display_date": "Oct 20, 2026",
       "summary": "The U.S. Securities and Exchange Commission (SEC) and the Financial Services Agency of Japan (FSA) convened the Autumn SEC-FSA Financial Regulatory Dialogue in Tokyo on Oct. 19, 2026.The SEC–FSA Dialogue builds upon longstanding efforts between the two…",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Insurer Rolls Out Policy to Protect Data Centers Against Growing Backlash - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNei1KY2RNLUdMcDFXWVdpVTQ1MzgtRGxZUEJFMmx4YmN0RlVDWkhpMEhuWHdpSzUyM0lEc3BMZ0U1NW11Mlp4MUZ0LS1FM1RzMXpWVGEyQ1U3b3lkcFRIaWZaZERIc09YaXVrRXJxVnFHUV9USVZsbk5WQnJPUTlvTGxvYUlSaW12OGJBSURwcmI3MU1YSjkxM0ZWQ3VnWXlZTHQ5U05PZkEySzBJTTlwbzN1cEl5dw?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-10-20T12:00:26+00:00",
+      "display_date": "Oct 20, 2026",
+      "summary": "Insurer Rolls Out Policy to Protect Data Centers Against Growing Backlash Bloomberg.com",
       "topics": [
         "Regulatory Change"
       ]
@@ -224,6 +591,17 @@
       ]
     },
     {
+      "title": "EssilorLuxottica's smart glasses boom runs into tougher regulatory scrutiny - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRUlCblM5Wml5OGoxZGVzZEF0LUlqclJLZXhhWWI2VExPSF9rT01OYk5FQng1NVRwNnJIQWpOUWRGNGV2cXFpdVBkR3RoTWZud1djVm9XMVYtODJMc1BQT3RlY3dpM2QxZ2pjMXFpdlBMVmYyZUd3YW51dmw3VnpicWlnWERCd0h4NkNHY25RSmtYMHFoYlpEVWp3ZnBzNU5MTFgzLXFneDBVQ1ZZVWhEb0s4cDVUWExKUXdvQlpDemRESEZEb3dxaTVGWm9vQQ?oc=5",
+      "source": "Reuters",
+      "date": "2026-10-20T09:05:00+00:00",
+      "display_date": "Oct 20, 2026",
+      "summary": "EssilorLuxottica's smart glasses boom runs into tougher regulatory scrutiny Reuters",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
       "title": "Rabot Raises $56 Million to Create Virtual Power Plants with Home Clean Energy Devices",
       "link": "https://www.esgtoday.com/rabot-raises-56-million-to-create-virtual-power-plants-with-home-clean-energy-devices/?utm_source=rss&utm_medium=rss&utm_campaign=rabot-raises-56-million-to-create-virtual-power-plants-with-home-clean-energy-devices",
       "source": "ESG Today",
@@ -246,6 +624,95 @@
       ]
     },
     {
+      "title": "ASIC says it did not pay MinRes offices a visit during two-year probe - AFR",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQkZjbm1zZWoyanloYnR1WFVxb1ZENjJvaWNGQWZGLVBpNllLRGFUX2E2S1M3LV9nT2FBWFJXOEtxamJYZEZBYnVsOGFYYzJqTlJzNEw5RFV2Qy1UdXNJcXRjQ3hWQVhsTFRoTk52cVVyRWx4ZWoxN3BWbkhmeTRPRzNVakRnQVFPcllscTNNaENnLUtkc2lNX1Y4NVpHUFRTQXZvaU1TSVJGeDI5LS1rbTJ5Q0JmWk13S2NseWdOOA?oc=5",
+      "source": "AFR",
+      "date": "2026-10-20T06:54:00+00:00",
+      "display_date": "Oct 20, 2026",
+      "summary": "ASIC says it did not pay MinRes offices a visit during two-year probe AFR",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "Former Rex chairman fined $800,000, disqualified for misleading market - AFR",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWlg2a2dZWE5vcTNsbkZUTUJmRWhCUEdnQnBYVXFkOE9DVmhHZUg1WS1sQXlpX1p0NFFkOXljR3M1VnFBczdsMFQyZXRUbmJfRHJveUR5em5YSXhLOEo5YVl1NjFULWRlRElRTlpsYnlzdkVuY2ZaaGRRTHNXUngyS1JxSDBwcmwzT3dLUVZzV1VLb3dTNlBQYUhTaVZCQXVLSWp2cTRxdkNYV0NYOEtjY3l6TVZVV21QYUJxWUY2dUt1dw?oc=5",
+      "source": "AFR",
+      "date": "2026-10-20T06:44:00+00:00",
+      "display_date": "Oct 20, 2026",
+      "summary": "Former Rex chairman fined $800,000, disqualified for misleading market AFR",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "Blackbird secures payday at start-up First AML as Five V comes calling - AFR",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRE9vSnE1VWViSmhxWGQ2NFYxMHBmRFloZmhZeC0tbXIyRHc0Ri1mRTBsMlRZdFAzbGtuUkQ0R2JGQkdfMDJzYl85QXBXNURqcWl1aGR2V3pudWlpakM2d1lzVy1Od011T1JzTDNscXFnbnBOS2tsc0h6T0hBbG9NcDF0Y2d3Zm1lSjJiZDVSSm1MYlJQVFFRQ25MRU5xRjloV1N6bHdzTlZnUDlTeDhJM0s5SGdzSlpDZXc?oc=5",
+      "source": "AFR",
+      "date": "2026-10-20T04:55:00+00:00",
+      "display_date": "Oct 20, 2026",
+      "summary": "Blackbird secures payday at start-up First AML as Five V comes calling AFR",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "superloop.com Appendix 4G and Corporate Governance Statement - AFR",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYVJZNVE5VVlhZUNLMzJfbFRkSk5JQVlMVXlSWnVRX3RGT1NzclVPZXlldklwSDFkWUVWZUZ3Z3ZOSXUxeVpOOXRKUmtRbzhKR0VwZW1YYUk3WTJ2UTdKVVhNeENEOC1tZzVsUmtha0FCVS12YURhWlNSQkpWMEVJZ0tSa0VHNFNEM1d6YnZnYw?oc=5",
+      "source": "AFR",
+      "date": "2026-10-20T04:33:57+00:00",
+      "display_date": "Oct 20, 2026",
+      "summary": "superloop.com Appendix 4G and Corporate Governance Statement AFR",
+      "topics": [
+        "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "Climate-Related Disclosures 2026 - AFR",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaldBamxvdG1vWE1xb3BvTG94bW11d3h1Ty1DNWx0aEEySWdKaHVtUm5BazJFQXR0ZVdaTTZJQUJBNHVxRkFHRmU2eHdQd2xPVl9oQ09uOU12RTlrUlZXWVVGa09UYU5MVkRuQ0FMTDVNVVBNcXFRQ0dIcGxwMVRrdzg0M1hFclRPdG5nVDBsaw?oc=5",
+      "source": "AFR",
+      "date": "2026-10-20T02:52:22+00:00",
+      "display_date": "Oct 20, 2026",
+      "summary": "Climate-Related Disclosures 2026 AFR",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "More litigation, higher court losses push ASIC $90m into the red - AFR",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeFBqVnVIcGdtNHdjMUdzcVpJS3ZBUmdQWEFyamJuRGtmOENTRWYyNm9sTzRoRGVyUVQwSER5MjdfNEpKN1pmRXlQVEFiVUNfdTh0WEx1VjhQaE9hTzBlbFRDZ3RVVTBfVVlhQ2ZvUnFhZDI2QUJ2S0hjcFd0ZGJoZTY4dGM2ZVd6b095V1lSR1ZlNUVYLXM3Qmt0YnY4bll6Uk1fcGhKMmZwZERaUXJwNjF2UlU?oc=5",
+      "source": "AFR",
+      "date": "2026-10-20T02:16:00+00:00",
+      "display_date": "Oct 20, 2026",
+      "summary": "More litigation, higher court losses push ASIC $90m into the red AFR",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "UK proposes new cross-regulatory, multi-agency approach to clamp down on money laundering",
+      "link": "https://www.complianceweek.com/aml/uk-proposes-new-cross-regulatory-multi-agency-approach-to-clamp-down-on-money-laundering/",
+      "source": "Compliance Week",
+      "date": "2026-10-20T01:32:04+00:00",
+      "display_date": "Oct 20, 2026",
+      "summary": "The UK government has published its anti-money laundering and asset recovery strategy, which sets out a multi-agency, cross-regulatory response to money laundering and criminal asset recovery over the next three years. The post UK proposes new cross-regulatory, multi-agency appro...",
+      "topics": [
+        "Regulatory Change",
+        "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "Banks entering crypto must close transaction monitoring gaps, experts say",
+      "link": "https://www.complianceweek.com/cryptocurrency-and-digital-assets/banks-entering-crypto-must-close-transaction-monitoring-gaps-experts-say/",
+      "source": "Compliance Week",
+      "date": "2026-10-20T01:04:37+00:00",
+      "display_date": "Oct 20, 2026",
+      "summary": "Although the crypto industry’s legitimization took a hit on Sept. 15 when the CLARITY Act failed to advance in the Senate, the industry still exists, and banks must find ways to remain in regulatory compliance. The post Banks entering crypto must close transaction monitoring gaps...",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
       "title": "Blackstone Raises $8.7 Billion for Energy Transition Fund",
       "link": "https://www.esgtoday.com/blackstone-raises-8-7-billion-for-energy-transition-fund/?utm_source=rss&utm_medium=rss&utm_campaign=blackstone-raises-8-7-billion-for-energy-transition-fund",
       "source": "ESG Today",
@@ -254,6 +721,62 @@
       "summary": "Alternative asset manager Blackstone announced that it has raised $8.7 billion for the fifth vintage […]",
       "topics": [
         "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "Opinion | The Northeast Climate Revolt",
+      "link": "https://www.wsj.com/opinion/northeast-energy-climate-elections-maura-healey-kathy-hochul-d96539ee?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-10-19T21:43:00+00:00",
+      "display_date": "Oct 19, 2026",
+      "summary": "Anti-fossil fuel policies that raise utility bills have Democrats in the region playing defense this election year.",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "US, Cuba trade barbs at UN ahead of sanctions vote - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU0VYTGZPd2RmZlZvZWJBZmRHbEsxWFdtYXF3b1ZJVU9FZmRncmoxSERRWldzS0Z0TTJsbVRoLThDT2FfZi1XVHB2QkhmemJGX0M2S3RsUVBTSnN1engtaURsamc3TGxRa0E2RmpVaEJOdVFCQlVhaDJWaG5qQzVCNkRYckxRMmdOZElvLU1zZjROb1p2X1AxYUVB?oc=5",
+      "source": "Reuters",
+      "date": "2026-10-19T21:05:43+00:00",
+      "display_date": "Oct 19, 2026",
+      "summary": "US, Cuba trade barbs at UN ahead of sanctions vote Reuters",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "US Allows Dark-Fleet Tankers to Shed Sanctions, Wright Says - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQXzR2UF9wUDNocnlfSDhDc2xseUM3SjNaR2M2MmpEa1pfYkdTbVFMRE5XVmRmOW9YLV9VaFZzOVUxcXVzRUZZMzhER1VhRW1yb1lPcWp2NEZhOTJMSWpqdkhYSmF4TFdwRlVKclUxSDJtQk1VZldXSXY4aU9jcDFKVHYxRldabHZ2Y09wZF9DSHNRbzRFWDlWNHN6VzV6T2NaeElSM2VoRFQ3aGJmS1pjelNieDU4RV9XMDlwSW5lYw?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-10-19T20:50:09+00:00",
+      "display_date": "Oct 19, 2026",
+      "summary": "US Allows Dark-Fleet Tankers to Shed Sanctions, Wright Says Bloomberg.com",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "China's securities regulator vows to prioritise market stability as global risks mount - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSmZGVFlJV21Id3g4Z3g4ZkNnRExYaGtuRVZORFpYb2pRZkRBYmpjbzNZVWotUUVhYzdyOHNtU3VOVldqWnRFVERMR1NqNWtzVlBqcWVPTkdVcVdKSGRLQTFrUVpoc3JoaktaX3YtalFTcDdCdXd4c0RiNWxRTjdGYnlaVWZJclp6RFBuTVlxRWw0SHBQTzJOMmhZclJqSWNqVnFFSUVMaEwwYXc2UUo4c2lwOEFzUXJrZ1VvRVlpOEFNb0JUNFpqV1lySXA?oc=5",
+      "source": "Reuters",
+      "date": "2026-10-19T19:29:55+00:00",
+      "display_date": "Oct 19, 2026",
+      "summary": "China's securities regulator vows to prioritise market stability as global risks mount Reuters",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "‘Rogue’ AI raises liability and insurance questions for developers and deployers",
+      "link": "https://www.complianceweek.com/artificial-intelligence/rogue-ai-raises-liability-and-insurance-questions-for-developers-and-deployers/",
+      "source": "Compliance Week",
+      "date": "2026-10-19T18:37:16+00:00",
+      "display_date": "Oct 19, 2026",
+      "summary": "Insurance companies anticipate multi-million-dollar claims if AI developers are sued over AI wrongdoing. Recent examples of AI autonomously hacking third-party systems and evading controls have increased concern about liability cases for both developers and deployers. The post ‘R...",
+      "topics": [
+        "Enforcement Actions",
+        "Operational & Enterprise Risk"
       ]
     },
     {
@@ -279,6 +802,74 @@
       ]
     },
     {
+      "title": "Trump's Russia sanctions waiver eases India's energy woes, lifts trade deal chances - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPX1JDdGd6aEZHMGQ5OXppVnA5d3FlSzNmbDdjOURNajl2Sjg3T0VrRzRLSC1DdVpLekQ5ZHBVdjQ1eV9UcF81anZNVklVYjZnQlNfQUlWRVMtNzEwVVVDQWlYTmQtU29FOU5xTFlGYTFUVV90bXI3dXU5UU5IUG9ZNjNYVHNUdzNjT3JXb244bm84d240TG56ZDVLbXNhMWpucjVTZXdtaTZQYjViOFU3bDZnZlFEQjduUDBfMWdwMVBXUFl3VFRJ?oc=5",
+      "source": "Reuters",
+      "date": "2026-10-19T11:36:11+00:00",
+      "display_date": "Oct 19, 2026",
+      "summary": "Trump's Russia sanctions waiver eases India's energy woes, lifts trade deal chances Reuters",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "The Vendor’s AI Model Did Not Change. But Its Risk Did.",
+      "link": "https://www.corporatecomplianceinsights.com/humans-bahind-vendor-ai-can-introduce-risk/",
+      "source": "Corporate Compliance Insights",
+      "date": "2026-10-19T11:30:57+00:00",
+      "display_date": "Oct 19, 2026",
+      "summary": "Version numbers only tell you so much The post The Vendor’s AI Model Did Not Change. But Its Risk Did. appeared first on Corporate Compliance Insights .",
+      "topics": [
+        "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "Before Employees Speak Up: What the UN’s New Anti-Corruption Guide Gets Right",
+      "link": "https://www.corporatecomplianceinsights.com/before-employees-speak-up-what-uns-new-anti-corruption-guide-gets-right/",
+      "source": "Corporate Compliance Insights",
+      "date": "2026-10-19T11:30:34+00:00",
+      "display_date": "Oct 19, 2026",
+      "summary": "The conditions and technology need to be in place for sound employee reporting The post Before Employees Speak Up: What the UN’s New Anti-Corruption Guide Gets Right appeared first on Corporate Compliance Insights .",
+      "topics": [
+        "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "Your General Counsel Might Have One Foot Out the Door. Is Compliance Ready?",
+      "link": "https://www.corporatecomplianceinsights.com/compliance-needs-gc-exit-plal/",
+      "source": "Corporate Compliance Insights",
+      "date": "2026-10-19T11:30:28+00:00",
+      "display_date": "Oct 19, 2026",
+      "summary": "A sudden GC departure can upend investigations, derail regulatory strategy and leave compliance leaders scrambling to fill a critical leadership vacuum. The post Your General Counsel Might Have One Foot Out the Door. Is Compliance Ready? appeared first on Corporate Compliance Ins...",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Coalition promises to force ‘attitudinal reset’ at ASIC, APRA - AFR",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT1BzTTVZcUNoel9faG53c2lHbVlBMFoyenl6RUs2eXRIVmxjTklNazM2WnFJcEpxUlp2dVp2OGRzQm0wTVF1YmxCMzdfTVRWenhuRlloa3pXckd0OWlaTEZvaWJETDJ5c2JlOFNsVHU5akdFV0ttcG1WNHJZVU4wMkpldEY3dTBIamV0akV2YUM3WlQ0MmJtXzJuZXQ?oc=5",
+      "source": "AFR",
+      "date": "2026-10-19T11:30:00+00:00",
+      "display_date": "Oct 19, 2026",
+      "summary": "Coalition promises to force ‘attitudinal reset’ at ASIC, APRA AFR",
+      "topics": [
+        "Enforcement Actions",
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "UK urges firms not to take part in E1 settlement tender or risk sanctions - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeG9CWEV1Z3N0eDN1b2U5TEw4Y21TVm51OWtfUFQ4UEhyVm9jZkpLQUFraHFaajdGeEctTWtVZmlWT3pkWGtVZXR0QzJmcC1wS1paMDVBQ3FVTUdGUWZ2TlZOdmRYRUJBMFNBeml4RjgtQlhaMW9TdFJNSzRBU2RjRGI1MmRadmI0azlNTGJQQ01EU3FhWXNsX0FyQkN2OHJKcUR6ckdwMExWanJfSVNJVFdMM1ZseGRMME43QUJR?oc=5",
+      "source": "Reuters",
+      "date": "2026-10-19T09:54:50+00:00",
+      "display_date": "Oct 19, 2026",
+      "summary": "UK urges firms not to take part in E1 settlement tender or risk sanctions Reuters",
+      "topics": [
+        "Enforcement Actions",
+        "AML & Sanctions"
+      ]
+    },
+    {
       "title": "Building the future of finance in the age of AI",
       "link": "https://www.fca.org.uk/news/speeches/building-future-finance-age-ai",
       "source": "FCA UK Regulatory News",
@@ -287,6 +878,283 @@
       "summary": "Jessica Rusu, FCA chief data, information and intelligence officerat Bloomberg's UK Policy Series. The Mills ReviewThat is why we commissioned the Mills Review, published in July, focused on how AI could reshape retail financial services by 2030.Some developments we anticipated a...",
       "topics": [
         "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Morning Bid: Markets left to figure out sanctions - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15Zk9kSXZkOVBJMWZjbXNlSmI2a2F6VG5EUFFfcHlMUjhaX25qaW1qWGNCVFpRaUlMN042UHdTNEh1eHY0MUFmS2RLZTJOd2VLRTlkX082UFNjTHdSZjBlQTB4b0hpeXlzY2UzZXlTNWoyX1pOVi1RTVV6UEhtOG8?oc=5",
+      "source": "Reuters",
+      "date": "2026-10-19T04:31:00+00:00",
+      "display_date": "Oct 19, 2026",
+      "summary": "Morning Bid: Markets left to figure out sanctions Reuters",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "Rubio says Trump to take up to 60 days to weigh Russia sanctions - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRlRkQlBQYXFvck1VQUYxcVpwM2dEVDMwQThIY3ZHRldBd0M0dmV5NXFnZlBXMnpuUnozQlhLbkg4ZjZCT3kzVW5mcnl3RVEwUXRpdUJsZGViRlE1MFdJbHZWZ3pRTXNOUDQtOTRsQU5nSzd4a3d5Z3c2dTkzZWZSNlZsbXZBamFSMS1qVEVnaHc2MTZJUHZ4YU1zS0hfNVM4eVE?oc=5",
+      "source": "Reuters",
+      "date": "2026-10-19T04:30:41+00:00",
+      "display_date": "Oct 19, 2026",
+      "summary": "Rubio says Trump to take up to 60 days to weigh Russia sanctions Reuters",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "Court rejects Gemi’s bid for ASIC to pay legal costs - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOUm4zM1RZR2xFSENVdEdqN1p4a2ItaWtUaHZoUVZRanlLOGxYRmVSY2FycGc5VGVRaWtzN0RFd3IzM01ubVVhM18wQ0ZkS3JrVmVDRmF0V2hPTVh5TnotdDVvSmk4bXVoMGNlYmNMSVI4RUtEWTE4Tk5LUjI5Q29hc0NYQUxOdkE3aFZRbWZpWVhQNzNsUmZHZFc2LUMxZmVnWm9zaWJ4cjNRRGRNX29KelFNbzNsVlhwZXJZRWlwd0lCTlRUdWN1VUdic2NSQmpYaVptRjNVakVQdGV3MjMzNmhzX1FwdDNad19zQXRBVDlaRHQwOEVUeFNTdms?oc=5",
+      "source": "The Australian",
+      "date": "2026-10-19T02:10:00+00:00",
+      "display_date": "Oct 19, 2026",
+      "summary": "Court rejects Gemi’s bid for ASIC to pay legal costs The Australian",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "UK Signals ‘Different View’ From Trump on Russia Sanctions - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRTMtYlhaaWtFbVBlWXFUYUd4YjNYN0RKeWMzLTFTYlE1Wk1QRGNHSmZfZXpyWmwxMFZkM21Pc3RvUk1peWEzRkRnWGkxTGVPNGRZTkpzdU4ybFJfSzhrS3FDTVpEcW9FRHVHYjNTZGJsS2p0VTdqamFRYkF2S01OOTBDS0t1YVBDbUVXWmlVR1d5S01UNnJqUkdxcUlMSDlaQkNuVzBjWGk2b1k?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-10-18T18:44:13+00:00",
+      "display_date": "Oct 18, 2026",
+      "summary": "UK Signals ‘Different View’ From Trump on Russia Sanctions Bloomberg.com",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "NY AG Candidate calls for stricter enforcement of subway assaults - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQa0h0RWhuU1FHOVVqdUlfWHhFTVhnYk9GUTZ4WUxnN3Z3RkdSckxRcXFESzJ5a3pMU2Z4OUZRUjAxMTBiS3c2MmU5aU1VMFRJWFVtX1ItbVkzVENtQmRuTXV3LURyWGRhZ3lXWVRBaEk1bVFmck9weGEtMnZhaW9iQmdCOExvN2tzWFhKdGpqR3MwMFRMdUZ6aEk3R0xNM2h6VkF3cFFtY3Qxa0NJVUlpMEdRQUJvVHY4ZzYzczRVY01BYzdKVEZZUmU1bERsSWMtdkFjR1JEdVRRdw?oc=5",
+      "source": "The Australian",
+      "date": "2026-10-18T16:29:50+00:00",
+      "display_date": "Oct 18, 2026",
+      "summary": "NY AG Candidate calls for stricter enforcement of subway assaults The Australian",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "World leaders must wise up to threat of cyber-attacks or rogue fridges will be least of their worries | Heather Stewart",
+      "link": "https://www.theguardian.com/business/2026/oct/18/world-leaders-threat-cyber-attacks-rogue-fridges-financial-system",
+      "source": "The Guardian Australia",
+      "date": "2026-10-18T11:46:50+00:00",
+      "display_date": "Oct 18, 2026",
+      "summary": "Global cooperation seems unlikely despite AI increasing the risk of digital fraud and the need to protect the financial system Rogue French fridges were an unlikely talking point for the world’s leading economists, central bankers and finance chiefs meeting in a sultry Bangkok la...",
+      "topics": [
+        "Enforcement Actions",
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "Winning has faith in ‘love rat’ CEO despite explosive ASIC claims - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNWjI0Z3ZJVW03UHVQMUlkRDkydko4QnJEY0ZSUlpVX1BjeE1PWDNXSVJzaWkxVkxDcGNQRmJNSVRGNWgyOS0yYk9WVEtodmpEcmZreW1sb2lmem5UeVdkT1ZoVXc1X2FEdzhmTTJzcVJLNjBvZ0xjQ0E4eDZPS0hoZW5VUklZVFVfUjFvY1dnYWtTcFEzWUU3Y1pYVHlSMGRXOXhyX2k5SU5mZjhER0hsZkc0RTJDbzZ0cUpkLWxzY0dULVpQakV2UlhCbHpOV3NGejBFV2NNM0tMM2podDZrUmFOa3FhQQ?oc=5",
+      "source": "The Australian",
+      "date": "2026-10-18T04:29:00+00:00",
+      "display_date": "Oct 18, 2026",
+      "summary": "Winning has faith in ‘love rat’ CEO despite explosive ASIC claims The Australian",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "Trump faces backlash over Russia sanctions waiver - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZmdodUJOM2hsOUlxV3RwenlCWDh3VGs0UldpOFpqTnU3b0djTVJpNWVFamhDRHFJYnZVNkt4bTMtVW1IbHZVWWlFYmhBUUdtSFRsS2ozcFRCVGtPTERJd0RieF9xMTczWS1OZnV3RmNlN25jV0daVzJfWVNkc1Bqdk05NFBRRWhOdWhMVjhtclJFRGtyS21sUEI3d2IzcFZBd0ZZLUJpUGhGd043aEl3S1NPQmxReWFaRXJ4WXFCUFZ2LXFa?oc=5",
+      "source": "The Australian",
+      "date": "2026-10-18T02:11:31+00:00",
+      "display_date": "Oct 18, 2026",
+      "summary": "Trump faces backlash over Russia sanctions waiver The Australian",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "One million Australians in ‘unsustainable’ super funds: APRA - AFR",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSlQwenJFX28zbGpuNE82Qmd2Z2t0Ty1OVU5OaWJnSWstRGVUM25QcFZ1dFFrUkg1cW1wN1MySVVtQlhCckdNS19TN2pzZy1vaUNyTVduVWlNMnJ4ZXFJNEVtZV9FanRPQlRRbVBNTGVteDVJbXM0NFJwQXdnVjFmenRQNHB0TzJ3WkUwczluT2hiQ2plRm5VUUpQcWtUbldQQnEtVkFpSFNOU24wYTdN?oc=5",
+      "source": "AFR",
+      "date": "2026-10-18T02:01:00+00:00",
+      "display_date": "Oct 18, 2026",
+      "summary": "One million Australians in ‘unsustainable’ super funds: APRA AFR",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Trump waives sanctions against Russia just before new law takes effect - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQRGxJZEZ4TG9uYU1oUzdZRXg2U04tRDlnS3BIOUhHc2JRdi02cXBOUXhvZFNaekFCZ0FYQlI0Rm1pMU9ac0dNc0plT0pYOXAwZGxyRkFhOEtXdDFaZk5IMWdjR3ZBSy01WmVKWXFZMGJhVzFaMmc5LVZxUWl1eTJwTWRQd3ZJY3ZBaWkydDJYN1J6YTdVWkxkbXNNRHBCdjA1Mm54dkVRQXBOY0F2VjVHRTF5OVlWVW1TSV9CMTBzaGEyTGhDZXVEOU1lOWxYdXlzZVp3SmxOd1dZSWdISDQ0N0lZWTNncUV1WndQbG5lcTVRZnN0RGd4SGhaSnFxYlpYQUJwTkI2SXAweS1K?oc=5",
+      "source": "The Australian",
+      "date": "2026-10-17T23:45:00+00:00",
+      "display_date": "Oct 17, 2026",
+      "summary": "Trump waives sanctions against Russia just before new law takes effect The Australian",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "Trump Faces Widening GOP Anger Over Russia Sanctions Waiver - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdlBhMEdBRVg3TkZWNHNYNDc3ZVdfRVhpVmtWQUlhY2t2eW9vTW5wdTNLX0pUUDdyUXdUcU5neVFrLVp1ZXZ2R1VVM1h5YnZFQ3NVM0hraDZwUzBJMHRBb0NYa2JjRTZEbmJnMW5MNW9FcV9vbzhBSU5odzlBcTRTTGIzSEJHLU1NZVFnRHRHSGdfZVdmSnJzRzFVQTlsbTRfS05Pd05kb3lDWWE5cEJKbTMzRncyQQ?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-10-17T19:31:49+00:00",
+      "display_date": "Oct 17, 2026",
+      "summary": "Trump Faces Widening GOP Anger Over Russia Sanctions Waiver Bloomberg.com",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "Ted Cruz claims Trump waiving Russia sanctions is a ‘mistake’ - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPd1FiN2Etd2tEcVByelN2SVFvQ08tOXkwN1hQTFhMSUZhNmN1TlI3WTZBaERoZkxmY0l4OGp5RUJzVVl0aTBKMVo0RjJTWWpuYUk0aHJMVTNLZjRWOW52V1Nxc213aGxldktBaGFkVXRSTGJjb0IwdElVZ3dWUGtMZEVjQ0RiR2pVUnJlYmNMY2VrbkZOZk5jbDZSS3g2UnN6NnE1WnROd1k4Sm84OExTRmVKYl8tYnFxdkQtUGs5eDdkMmZ0YlVjUjZHc0xsdlRWQkllRVdEcFU1REkzOFJSZg?oc=5",
+      "source": "The Australian",
+      "date": "2026-10-17T19:26:45+00:00",
+      "display_date": "Oct 17, 2026",
+      "summary": "Ted Cruz claims Trump waiving Russia sanctions is a ‘mistake’ The Australian",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "Zelensky says Trump could lift more Russia sanctions - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMUxRbHFfN1FQaEczd3hVUjVseFY3cUxDUkVPcm8zN2dfaHZ1bVl5VlVUUHBmTWVQN0pnZjRvSkROZnJLaGVxMkVOeU90cXRTdlNGa2RETUE3Uzd0ZkVkSnl4NmI3ZEN5TUdCZVlCT0x6SExtMzlCZ045QmFFdHJNOU1kd0d5SDFHb0ZiOFNFX1k2bERycUZITUo1ZUtoNWVVMUVSMlhIdkI1cndtbjJvcWNBd3BWQ3V2TDRKcFdnbklyVkk0UFhka2xqRENqbVRETnpSdXBJRmF0QQ?oc=5",
+      "source": "The Australian",
+      "date": "2026-10-17T19:10:00+00:00",
+      "display_date": "Oct 17, 2026",
+      "summary": "Zelensky says Trump could lift more Russia sanctions The Australian",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "PODCAST: Trump drops Russia sanctions, Israeli settlers attack US photojournalist, Oregon police say teacher and parent stopped school shooter - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT0dJdVBKODhFcV9obk9fUElwNnV0bHFDQTVDcE12RldOVFpnSzRsQ1ZqYVBtbHlmQnJiZGtUdkk2d0tiaTBKMEZDbmkwZFFxcEd1aTVvSmlQMTVXSkMwQ1FTb3FOdnhVYXhVbXlKWGFIVjBNZGZQc2NwMHBKRGhwSUFBb214bUxaRW9iZm85a0FpajViTkhCdldWdHI5LWQwY2hSYk5BdUFrV2xXU05mUlFwWndZN2QtcDJmWTFtRFk?oc=5",
+      "source": "Reuters",
+      "date": "2026-10-17T16:55:53+00:00",
+      "display_date": "Oct 17, 2026",
+      "summary": "PODCAST: Trump drops Russia sanctions, Israeli settlers attack US photojournalist, Oregon police say teacher and parent stopped school shooter Reuters",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "Zelenskiy criticizes Trump's waiver of sanctions on Russia as 'wrong' - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUWRsWXNvbUVMb01QdTFTbEhpSGhZLVZYVXZramJkQjg2RXUzbXRaZjZlcnY1QTNoeU1zQzhhOEhwOFZVSkRySFFZNWI3RjZtUHJLaDhybEhWVzFBTF9uVlZjWlNSQk5aX25iZ0EySjRQYjR5aVRiM1VERjVFWmpTOTR0Y1ZhNUtaTHpTaWdZZVRPUmppTUJtYl9IZlhGQnM3WkVSNmRreVBjaDF5anFfSHhqN1ZUc2p3cjRoU0pyUzRkZjlBM05B?oc=5",
+      "source": "Reuters",
+      "date": "2026-10-17T14:39:22+00:00",
+      "display_date": "Oct 17, 2026",
+      "summary": "Zelenskiy criticizes Trump's waiver of sanctions on Russia as 'wrong' Reuters",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "Donald Trump exempts Russia from further sanctions mandated by new law - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaXNIdDdhLWJTcFJ3TmN4YUNHRGZSWmxRcWZ1NUVDVmYyLVBWNE04NWdCUExyTG1Jd3VDYW5BWVlFQWtlaFZEQV9BcjFyY2tkUmpxYWxMZjAtbGtfbGtCeUxJVmRJcDMtMk42N0hMSUFHRDdlbC1oYXVUTW13NC1Za2h2LWo?oc=5",
+      "source": "Financial Times",
+      "date": "2026-10-17T09:53:31+00:00",
+      "display_date": "Oct 17, 2026",
+      "summary": "Donald Trump exempts Russia from further sanctions mandated by new law Financial Times",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "Trump Halts New Russia Energy Sanctions to Ease Diesel Costs - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQjdOTlgtZzZTczBVX3kxZFZGdUhKTFU5blRvREhYVGp6WTRhMEVUdHN0dkg4eHMzOXI1QXFZRVZROVVDejVJT2M0SjRNS3dHTW5ZTHNvaE9zdTlLb1JuTGlQSGx6eGVfTFE2cXBuTE9jbnE1Snd5Y0V2U0FlWkNLanVnWjEybUJpa0tmM2l0OGRyWHFIWW5nNXFGVkF1aDltZnYwR1BFY0RoWHdUR2c?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-10-17T09:45:05+00:00",
+      "display_date": "Oct 17, 2026",
+      "summary": "Trump Halts New Russia Energy Sanctions to Ease Diesel Costs Bloomberg.com",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "Trump waives new Russia sanctions as Ukraine ties slump - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUDBIWFdHdGNiVnNhMXR4SkNUT1RPSTl0ckw1Nk90aVYwbFZhb1U5cXpHRUM1eXEwRzdIQWdPVXZqaXZPRjZEUDFDLWJSem1hSVRURlFLUlBZWTFrRVc4eVZ6R1NmaWd0akM5ZHg0NU9HZEtiY2ZEQnp1MFZNcG5fOUFLUGl5ZmNWWVpNS2p3V2xlWEE5UGZFZkVneWx3U3k0V2VnUnRqa3ZuY05UN1BERnFKRGJ3N1J6SWVyU21HMHRudXl3N0xHT3AzaTFxZ09JRk9hekgxNENLSXoxRi1tZmtmUmFydkdOUHc?oc=5",
+      "source": "The Australian",
+      "date": "2026-10-17T04:30:00+00:00",
+      "display_date": "Oct 17, 2026",
+      "summary": "Trump waives new Russia sanctions as Ukraine ties slump The Australian",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "Trump waives many Russia-related sanctions, tariffs - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPLWQtZVdORmV1MUFvQzBNSzhqNGJBWEhwcmUwWnNiVUt2YXc5MnYyTlFPbjlyd1REQlF6c0xJZzZ3NzBxbUFhQjhGb190czEzSWJvdkVXSVJlOVBvUmpkSHhOeUYyNTkzMjZ1UGJ1TXZOSEJ2ZG9FTEpNRUVRS3gzNDAwaHFhNnNmU1ZmeFotYWhGUjYzS1hmUlE3MFl4dUpqOFg1bE1MZ1VXNkdCV1dnTHp6eFJERXFvNkFwRENOT1hFM0R2Zm5FRFpTbUIwNFhoWHcyRFF6SnowX0Y0NEF3MmItNmVSaEhPRjh1UnZqZVo0V3ZQX2JmMmJWb0dEUE95Ukd5RA?oc=5",
+      "source": "The Australian",
+      "date": "2026-10-17T02:45:00+00:00",
+      "display_date": "Oct 17, 2026",
+      "summary": "Trump waives many Russia-related sanctions, tariffs The Australian",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "UK backs SFO proposal to reward whistleblowers to curb economic crimes",
+      "link": "https://www.complianceweek.com/whistleblowers/uk-backs-sfo-proposal-to-reward-whistleblowers-to-curb-economic-crimes/",
+      "source": "Compliance Week",
+      "date": "2026-10-16T21:43:22+00:00",
+      "display_date": "Oct 16, 2026",
+      "summary": "The UK has called for feedback on plans to reform its whistleblowing laws so that people who come forward with information that leads to a corporate conviction can be financially rewarded, as in the US. The post UK backs SFO proposal to reward whistleblowers to curb economic crim...",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "OCC report on ‘debanking’ at nine largest US banks claims reputation risk policies result in denial of services",
+      "link": "https://www.complianceweek.com/banking/occ-report-on-debanking-at-nine-largest-us-banks-claims-reputation-risk-policies-result-in-denial-of-services/",
+      "source": "Compliance Week",
+      "date": "2026-10-16T20:24:28+00:00",
+      "display_date": "Oct 16, 2026",
+      "summary": "A report by the Office of the Comptroller of the Currency (OCC) finds that the nine largest US banks it oversees have used reputation risk policies to deny services to businesses and individuals based on social, political, and religious views as well as lawful banking activities....",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Judge Threatens Trump With Sanctions to Testify in BBC Lawsuit - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNVdwLS1hQURJSWIwMU5SWXRic0szNnQ3MjlXMXh5X2FqT2psM0M2U1VCM1pEVVRTMkJOcmdmaTZQNHFiWEpIYVc2aWNqTVZkcmlHdmdwN1lHSEo4ZV93LW5YYTBFY2dHMDRHb01idmNYdkg5ZUhjd1hMTzI3T3Vrb3lpNm5rMHd5cEk3VTJTTEo4LVlPRGFabzJPcTJJR3ZtREhZSVE3N1JtSk5XeFVOVFJzbw?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-10-16T16:57:06+00:00",
+      "display_date": "Oct 16, 2026",
+      "summary": "Judge Threatens Trump With Sanctions to Testify in BBC Lawsuit Bloomberg.com",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "Spain to file CAS appeal over FIFA penalty for Islamophobic chants - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa1c0QndtVk4wNndxTVotb1NmcVRRTGR4ODRWVVc0cm4zRlhvNnIyMDZKMUhNVVc3NXlGQndLQnFmNlp0RTE0cXFGYUlsMXEwVkRHNFpSVDFnVE9pS3J4anU0ckYzLTdhLUxnTEpTaENHOG9jTzMzOVkyS2hhTVoyNkkwRzZQc2owUnhBRGVJX2xZU2tiYzBkeDNnS2liNGZnd0tRUGVNTjJWUTQ?oc=5",
+      "source": "Reuters",
+      "date": "2026-10-16T15:16:07+00:00",
+      "display_date": "Oct 16, 2026",
+      "summary": "Spain to file CAS appeal over FIFA penalty for Islamophobic chants Reuters",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "Compliance Jobs Report: Oct. 16",
+      "link": "https://www.radicalcompliance.com/2026/10/16/compliance-jobs-report-oct-16-2/",
+      "source": "Radical Compliance",
+      "date": "2026-10-16T14:42:38+00:00",
+      "display_date": "Oct 16, 2026",
+      "summary": "This week the Compliance Jobs Report has new hires at Andersen, Fordham University, Amazon, Getinge, Sutter Health, and more (including a surprising number of new hires in Sweden). TJX just promoted a long-time veteran into the CCO role, and we have job leads in pharmaceuticals, ...",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "EVs are holding value better than expected – and it has a lot to do with Australia’s cost of living",
+      "link": "https://www.theguardian.com/environment/2026/oct/17/second-hand-electric-vehicles-ev-value-australia-petrol-prices",
+      "source": "The Guardian Australia",
+      "date": "2026-10-16T14:00:15+00:00",
+      "display_date": "Oct 16, 2026",
+      "summary": "The appeal of electric vehicles is financial as much as environmental for many drivers Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here The electric vehicles were splattered after a concrete spray incident, but repairable. Eager to recoup th...",
+      "topics": [
+        "Cybersecurity Risk",
+        "ESG & Sustainability"
       ]
     },
     {
@@ -345,6 +1213,116 @@
       ]
     },
     {
+      "title": "A Third of Compliance Leaders See Strategic Advising in Their Future",
+      "link": "https://www.corporatecomplianceinsights.com/news-roundup-october-16-2026/",
+      "source": "Corporate Compliance Insights",
+      "date": "2026-10-16T11:00:56+00:00",
+      "display_date": "Oct 16, 2026",
+      "summary": "Plus: Directors’ AI use rises 30%; Money flow worries more than half of mission-driven organizations; Cyber threats lead risk for 2027; AI in lending concerns a third of banking professionals The post A Third of Compliance Leaders See Strategic Advising in Their Future appeared f...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "GRC Business Roundup: Optro, Caseware, MCO, AlphaSense, DataBee & More",
+      "link": "https://www.corporatecomplianceinsights.com/grc-business-roundup-optro-caseware-mco-alphasense-databee-more/",
+      "source": "Corporate Compliance Insights",
+      "date": "2026-10-16T11:00:36+00:00",
+      "display_date": "Oct 16, 2026",
+      "summary": "The business of GRC is ever-expanding, GRC technology is one of the fastest-growing segments in enterprise software, and compliance professions are rapidly evolving. Here’s the latest from across the industry. New products & platforms Optro, a GRC intelligence provider, released ...",
+      "topics": [
+        "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "US considers removing sanctions on some shadow fleet vessels to cut freight rates, official says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdC1hR0pwcGJWU2NSX0szSlhYNlBMYUc2Y1ktS0NseE5MeEVKdE9jUVVqUHlva3dxeDg4NXRTQXM0UlpyMWJlTHNSN1ZiOWFqcWdIX1NNcGRhYzBsak5iVnZrYnJaX2xGbkRLcjNrQmFkUUd2ejVHWm0ydVJ2RVJhS1VFbkRhTHg5MVJXbnJDQ3YtRmVLWWpKU2xwUXNZSzMtUWI4cjJfaXp4djM0V2lQQmc4X2VsaVkxMHFpVUZ2bWNLaldpQnBNZmNn?oc=5",
+      "source": "Reuters",
+      "date": "2026-10-16T10:53:15+00:00",
+      "display_date": "Oct 16, 2026",
+      "summary": "US considers removing sanctions on some shadow fleet vessels to cut freight rates, official says Reuters",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "Indonesia regulator fines entities for trading violations in shares of three listed firms - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPT19xNkFlWGlKRk14ZTJVYnFwTGM0eEIxeGdLdUN4OE5NekIyOWJkSVNuZWdZdW1NYndTYU1RUF9EQm1kdklJaHNWMjg2TFNNaU1PZkJmdGdtb0FIaExBb0tUdV85a3ZDdVgwLU9IOXNQWTVvRDQ0ZGJINTdQYWJ2ZUt5S3BXbnFHMXBPazh3Y0dWaXBuQ2RscXBmb2FadnVKWkxNTXQ5bDRmWl9aaDh1bWxhaF9fR210?oc=5",
+      "source": "Reuters",
+      "date": "2026-10-16T10:11:21+00:00",
+      "display_date": "Oct 16, 2026",
+      "summary": "Indonesia regulator fines entities for trading violations in shares of three listed firms Reuters",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Crown lifts revenue but warns on debt load as regulatory risk lingers - AFR",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSWRHTVdCd2N3QVc3YmhiWFdvaGJ2Qy1LYXZLV2ZvbFBjTG1UcWdhZ1VRZnVidlFFdXpRQUdJSGxiS2JiQllRZEpxMXA5c2VEb0llVzdQTERlUnJ3Qmo5NVBIcy1hQTRnd3k2R3VlRTk3R1lXQkFzNGhleHVlQk1zVnBndUlmaFNQMllVQllMM0J0eU16eTZOWTdEaGMyLXo2NzFadW5jS1lOOUpvclVCZnhLMmJjdnJOQ2xkTUxNWmZua3cyM2RnR2NDalE3cjA?oc=5",
+      "source": "AFR",
+      "date": "2026-10-16T06:25:00+00:00",
+      "display_date": "Oct 16, 2026",
+      "summary": "Crown lifts revenue but warns on debt load as regulatory risk lingers AFR",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "ASIC bans adviser over Shield super scandal - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOc2pvd3gzMlBvUmdKckxqQnBBNEpJdTN0LU5fTF8wS2M3bHRwVHYtV01nc1g5Um1oYTRINXBWQnpUMks3YzUwdFNFSVp4eVVLY21CLV9femxna1NyNHlQVUhhMjFYeWZFaFhDZ0FyUEI4TmpPa3BKZUdadDRsU3hxSFM4RTBUUHh1bkNPSC1ZeS1MZTFndUl3b0Vyd0xodWM2eDBadl9BWjRhWFFpcXY0TzhnU1BkajRmbno5amgyOEtScDhINkM3TTNZSmdMZUpqTUEwNDNyTDQ1YWZHWURwUDFpMmVYUXFjZGhwZ2djX05PRVlRNzY2NDhqZ3BNaVI0?oc=5",
+      "source": "The Australian",
+      "date": "2026-10-16T05:35:00+00:00",
+      "display_date": "Oct 16, 2026",
+      "summary": "ASIC bans adviser over Shield super scandal The Australian",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "Mapping AI Agents’ Compliance Risks",
+      "link": "https://www.radicalcompliance.com/2026/10/15/mapping-ai-agents-compliance-risks/",
+      "source": "Radical Compliance",
+      "date": "2026-10-16T01:51:27+00:00",
+      "display_date": "Oct 16, 2026",
+      "summary": "Here’s a fresh perspective on the compliance risks of AI systems. Rather than yet another survey of GRC professionals expressing their fears that AI agents will go glitchy and introduce compliance risk, an AI research lab had a bunch of frontier models build privacy-sensitive web...",
+      "topics": [
+        "Data Privacy"
+      ]
+    },
+    {
+      "title": "Securing AI systems from cyber threats is a top priority, according to PwC’s Global Digital Trust Insights Survey",
+      "link": "https://www.complianceweek.com/artificial-intelligence/securing-ai-systems-from-cyber-threats-is-a-top-priority-according-to-pwcs-global-digital-trust-insights-survey/",
+      "source": "Compliance Week",
+      "date": "2026-10-16T01:47:21+00:00",
+      "display_date": "Oct 16, 2026",
+      "summary": "Cyber threats against AI systems are a top threat that business and security leaders say they feel least prepared to address, according to PwC’s 2027 Global Digital Trust Insights survey. The post Securing AI systems from cyber threats is a top priority, according to PwC’s Global...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "Trump demands death penalty for anyone who kills a firefighter - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTTJ0Um5yOVoydnUxQXVEbnZxeTc3Vy1WN3dsVlZSc0UxZnpVRmRLc3ZHakxlbWVFUUwweTRTTGdRakdoZHhZTDdBeUlfcmxnZVhCdVppVWJ4R2ZlRjRLOVdhVnI2QWVqb0xRRzY3ZTVKMlA3S2p6cURad2szcXNWVXFZVzVpbGRjNHhsbTc0emdVbEhUV185a1dJMHZ0dFJHVlhpQnRQTzRQOV9EaTRZZDFJU3B2alM4bHhhekhXRlp1NldEUVdGVmJmV3MwWnZNUC1sdEVR?oc=5",
+      "source": "The Australian",
+      "date": "2026-10-15T19:41:04+00:00",
+      "display_date": "Oct 15, 2026",
+      "summary": "Trump demands death penalty for anyone who kills a firefighter The Australian",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "US plan to ease shadow fleet sanctions unlikely to free up many tankers, analysts say - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQb2ZEWmpzTWpPVmpkN0hxSkJ1cmlCc3lSRjZHdmRMRG94Vjk4ZXhNdzJweDFCY1FER1l1eE9STG1EZjR2Ql9qTXRyVHF2ZTl0Y2tGUjRUOG54MDJPdV9iSGRXaVRGbUcxMGhBMHRtMmFGUFNpc0hYQ0c3VW1UT0ZDSDlTZEV1RExiT1JocDVTQU5SSFVMSmJfYmtvZzlkWF8xal81dkVRUENPVDFEdG9QY1M3RFhGSjRSQ1VtNmM1S09xWjJQSHpkZGl3?oc=5",
+      "source": "Reuters",
+      "date": "2026-10-15T18:25:28+00:00",
+      "display_date": "Oct 15, 2026",
+      "summary": "US plan to ease shadow fleet sanctions unlikely to free up many tankers, analysts say Reuters",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
       "title": "ePayments Systems Limited enters special administration",
       "link": "https://www.fca.org.uk/news/news-stories/epayments-systems-limited-enters-special-administration",
       "source": "FCA UK Regulatory News",
@@ -364,6 +1342,17 @@
       "summary": "On 14 October 2026, Jarvis Investment Management Limited (Jarvis Investment) entered special administration. Adam Stephens and Philip Hemming of S&W Partners LLP were appointed as special administrators. Jarvis Investment (FRN 116413) is FCA authorised and regulated to provide we...",
       "topics": [
         "Regulatory Change"
+      ]
+    },
+    {
+      "title": "US issues fresh Iran-related sanctions, Treasury website shows - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONEJZZXJmaFZ1b2c5eDlJMjhKMFRXX3JkNVJha1J1N29IWUJHRGphZ1M1czQ0Z1EtQzBub3gxNk5iT3FnNEdRM3dEbjVvdGhac2JjOGdmNGVCVFJMZW9GZzVGeEFCOEFualphSFJVNEM0eUZmVGhDdC1oaU9UR2lzRmltQVJ6RUtTZGJVV29pZ2tKZ3pBT2o0RU5lQzlYNzdZOWFfdENZNS13LVNhMEJSSGRfXzRXQQ?oc=5",
+      "source": "Reuters",
+      "date": "2026-10-15T16:45:20+00:00",
+      "display_date": "Oct 15, 2026",
+      "summary": "US issues fresh Iran-related sanctions, Treasury website shows Reuters",
+      "topics": [
+        "AML & Sanctions"
       ]
     },
     {
@@ -435,9 +1424,56 @@
       ]
     },
     {
+      "title": "APRA reveals a whistleblower’s identity in TV comedy case study - AFR",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZ25aMUUwRHc2Tks5dXAzUVFlNE1lUWFad3hfbUJaU2VvaW45NWdRZlkweHFUSXdlRzlrMERZNGotRmtJdlR0OGlXaE1fOU9vb3JuT29RaVk4RFJrbUpFemxpVnI3Z29uekpGc3FVV1lvNGFGRlY2eDZlenNPUzVGVWtTRzlObTQxVXpVRzYwbVlRWDcxU0NZZDJuOUtBOXgxWm1fSFdBbG1PM3RMQ2tFVw?oc=5",
+      "source": "AFR",
+      "date": "2026-10-15T07:13:00+00:00",
+      "display_date": "Oct 15, 2026",
+      "summary": "APRA reveals a whistleblower’s identity in TV comedy case study AFR",
+      "topics": [
+        "Regulatory Change",
+        "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "FSIGA - QUARTERLY REPORT TO TRUSTEE AND ASIC Yours sincerely - AFR",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTGE0a1BMb2lSYmRGTlpWNGJOdFZCVG9jUEpDbWVLNGtIcGFobXREaU82bWlLc2Vaa2hwcDBWbktEalBETlBrVUF3MXAzTlhVN3ZBWGVLWkt5TlVzQzdBUElwNFN1TjhrV2c3bERCekt6dFZ5UjhXOC1WOEo3YlppY2RsQWNCUzRCRHlQTkhNbw?oc=5",
+      "source": "AFR",
+      "date": "2026-10-15T07:00:00+00:00",
+      "display_date": "Oct 15, 2026",
+      "summary": "FSIGA - QUARTERLY REPORT TO TRUSTEE AND ASIC Yours sincerely AFR",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "Bank of America shares drop after third-quarter revenue miss and regulatory penalty",
+      "link": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
+      "source": "CNBC",
+      "date": "2026-10-14T20:20:46+00:00",
+      "display_date": "Oct 14, 2026",
+      "summary": "Bank of America shares fell Wednesday after the company posted weaker-than-expected trading revenue and the impact of a $1.2 billion Treasury fine.",
+      "topics": [
+        "Enforcement Actions",
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Bank of America’s Huge AML Settlement",
+      "link": "https://www.radicalcompliance.com/2026/10/14/bank-of-americas-huge-aml-settlement/",
+      "source": "Radical Compliance",
+      "date": "2026-10-14T17:14:51+00:00",
+      "display_date": "Oct 14, 2026",
+      "summary": "U.S. financial regulators just slammed Bank of America with $1.2 billion in penalties for long-running, widespread failures in its anti-money laundering and sanctions compliance programs. Compliance officers will spend ages digesting all the lessons here, on everything from compl...",
+      "topics": [
+        "Enforcement Actions",
+        "AML & Sanctions"
+      ]
+    },
+    {
       "title": "Comptroller Gould Discusses Findings of Debanking Report",
       "link": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-91.html",
-      "source": "OCC News Releases",
+      "source": "Office of the Comptroller of the Currency",
       "date": "2026-10-14T16:00:00+00:00",
       "display_date": "Oct 14, 2026",
       "summary": "Comptroller of the Currency Jonathan V. Gould today discussed findings of the Office of the Comptroller of the Currency's newly-released report on large banks' debanking activities during a press conference held in Lexington, Kentucky, with U.S. Congressman Andy Barr.",
@@ -483,12 +1519,23 @@
     {
       "title": "OCC Releases Report on Large Banks’ Debanking Activities",
       "link": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-90.html",
-      "source": "OCC News Releases",
+      "source": "Office of the Comptroller of the Currency",
       "date": "2026-10-14T11:15:00+00:00",
       "display_date": "Oct 14, 2026",
       "summary": "The Office of the Comptroller of the Currency (OCC) today released a report of its findings from its supervisory review of debanking activities at the nine largest national banks it supervises: JPMorgan Chase Bank, Bank of America, Citibank, Wells Fargo Bank, U.S. Bank, Capital O...",
       "topics": [
         "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "Earned Wage Access: A Popular Payroll Perk, an Employer’s Liability",
+      "link": "https://www.corporatecomplianceinsights.com/earned-wage-access-popular-payroll-perk-employers-liability/",
+      "source": "Corporate Compliance Insights",
+      "date": "2026-10-14T11:00:11+00:00",
+      "display_date": "Oct 14, 2026",
+      "summary": "Earned wage access — letting employees draw compensation they've already earned before payday — is among the fastest-growing benefits in the market, and among the most unevenly regulated. Federal guidance has flipped three times in five years and a dozen states have written their...",
+      "topics": [
+        "Regulatory Change"
       ]
     },
     {
@@ -500,6 +1547,17 @@
       "summary": "Today, the Consumer Financial Protection Bureau (CFPB) announced the next step in its work to advance President Trump’s fight against the debanking of businesses and individuals on the basis of their constitutionally protected rights",
       "topics": [
         "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "The IMF says we need to make ‘urgent choices’. But are they choices the Albanese government is willing to make? | Grogonomics",
+      "link": "https://www.theguardian.com/business/grogonomics/2026/oct/14/imf-world-economic-outlook-urgent-choices-albanese-australia",
+      "source": "The Guardian Australia",
+      "date": "2026-10-14T02:01:04+00:00",
+      "display_date": "Oct 14, 2026",
+      "summary": "The IMF is not a body that needs to worry about elections or the political cost of interest rates or inflation Get our new political email , free app or daily news podcast The IMF on Tuesday released its latest World Economic Outlook, suggesting “Resilience Under Strain, Urgent C...",
+      "topics": [
+        "Operational & Enterprise Risk"
       ]
     },
     {
@@ -516,7 +1574,7 @@
     {
       "title": "OCC Imposes $750 Million Assessment Against Bank of America for Deficient BSA/AML Compliance",
       "link": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-89.html",
-      "source": "OCC News Releases",
+      "source": "Office of the Comptroller of the Currency",
       "date": "2026-10-13T20:15:00+00:00",
       "display_date": "Oct 13, 2026",
       "summary": "The Office of the Comptroller of the Currency (OCC) today announced a $750 million civil money penalty against Bank of America, N.A. (bank), for violations of the Bank Secrecy Act and its implementing regulations, including 12 CFR 21.21 and 12 CFR 21.11. This amount is the larges...",
@@ -534,6 +1592,28 @@
       "summary": "The FCA has conducted a major operation to disrupt a suspected organised criminal group for engaging in insider dealing and money laundering. On 13 October, 3 individuals were arrested following a joint operation by the FCA and the National Crime Agency (NCA). More than 100 FCA a...",
       "topics": [
         "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "Almost Half of Defense Contractors Pressing Ahead With CMMC Despite Phase 2 Pause",
+      "link": "https://www.corporatecomplianceinsights.com/news-roundup-october-13-2026/",
+      "source": "Corporate Compliance Insights",
+      "date": "2026-10-13T15:07:26+00:00",
+      "display_date": "Oct 13, 2026",
+      "summary": "Plus: Three-fourths of risk leaders citing added pressure The post Almost Half of Defense Contractors Pressing Ahead With CMMC Despite Phase 2 Pause appeared first on Corporate Compliance Insights .",
+      "topics": [
+        "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "GRC Business Roundup: Caseware, Confide, FS Vector, SignWell, Schellman & More",
+      "link": "https://www.corporatecomplianceinsights.com/grc-business-roundup-caseware-confide-fs-vector-signwell-schellman-more/",
+      "source": "Corporate Compliance Insights",
+      "date": "2026-10-13T14:49:42+00:00",
+      "display_date": "Oct 13, 2026",
+      "summary": "The business of GRC is ever-expanding, GRC technology is one of the fastest-growing segments in enterprise software, and compliance professions are rapidly evolving. Here’s the latest from across the industry. New products & platforms Cybersecurity and GRC company Njordium Cyber ...",
+      "topics": [
+        "Cybersecurity Risk"
       ]
     },
     {
@@ -592,6 +1672,18 @@
       ]
     },
     {
+      "title": "Freight Case Gives Lessons in Sanctions Risk",
+      "link": "https://www.radicalcompliance.com/2026/10/12/freight-case-gives-lessons-in-sanctions-risk/",
+      "source": "Radical Compliance",
+      "date": "2026-10-12T15:12:43+00:00",
+      "display_date": "Oct 12, 2026",
+      "summary": "Today we have another glimpse into the challenges of sanctions compliance, courtesy of a cross-border logistics business in Los Angeles fined $175,000 last week for poor sanctions screening procedures. The case is small, but it does offer several useful lessons that sanctions com...",
+      "topics": [
+        "Enforcement Actions",
+        "AML & Sanctions"
+      ]
+    },
+    {
       "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
       "link": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
       "source": "Krebs on Security",
@@ -600,6 +1692,17 @@
       "summary": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sou...",
       "topics": [
         "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "Compliance Jobs Report: Oct. 9",
+      "link": "https://www.radicalcompliance.com/2026/10/09/compliance-jobs-report-oct-9-2/",
+      "source": "Radical Compliance",
+      "date": "2026-10-09T15:48:07+00:00",
+      "display_date": "Oct 09, 2026",
+      "summary": "New internal audit exec at OpenAI, new CCO at Phillips 66, new head of compliance at Rutgers — it’s another big Compliance Jobs Report this week. We have lots of other hiring news too, plus promotions at Wise, Sandoz, Diageo, WSFS, and elsewhere. Job leads are in home tech, cloud...",
+      "topics": [
+        "Regulatory Change"
       ]
     },
     {
@@ -627,7 +1730,7 @@
     {
       "title": "OCC Allows National Banks and Federal Savings Associations in Alabama, Florida, and Mississippi Affected by Hurricane Isaias to Close",
       "link": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-88.html",
-      "source": "OCC News Releases",
+      "source": "Office of the Comptroller of the Currency",
       "date": "2026-10-08T21:30:00+00:00",
       "display_date": "Oct 08, 2026",
       "summary": "The Office of the Comptroller of the Currency (OCC) today issued a proclamation allowing national banks, federal savings associations, and federal branches and agencies of foreign banks to close offices in areas of Alabama and Mississippi affected by Hurricane Isaias.",
@@ -638,13 +1741,24 @@
     {
       "title": "OCC Assesses $350 Million Civil Money Penalty Against American Express",
       "link": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-87.html",
-      "source": "OCC News Releases",
+      "source": "Office of the Comptroller of the Currency",
       "date": "2026-10-08T20:30:00+00:00",
       "display_date": "Oct 08, 2026",
       "summary": "The Office of the Comptroller of the Currency (OCC) today announced a cease-and-desist order and a $350 million civil money penalty against American Express National Bank, Sandy, Utah (bank), for deficiencies in the bank's Bank Secrecy Act (BSA) and anti-money laundering (AML) co...",
       "topics": [
         "Enforcement Actions",
         "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "Report: AI Agent Governance a Hot Mess",
+      "link": "https://www.radicalcompliance.com/2026/10/08/report-ai-agent-governance-a-hot-mess/",
+      "source": "Radical Compliance",
+      "date": "2026-10-08T20:19:23+00:00",
+      "display_date": "Oct 08, 2026",
+      "summary": "Another week, another survey confirming what every GRC professional already knows by now: that internal control failures over AI agents are rampant in the corporate world, IT teams struggle to see all the AI agents operating on their systems, and a large number of companies say A...",
+      "topics": [
+        "Operational & Enterprise Risk"
       ]
     },
     {
@@ -715,6 +1829,17 @@
       ]
     },
     {
+      "title": "Justice Dept. Fraud Factors, Part II",
+      "link": "https://www.radicalcompliance.com/2026/10/07/justice-dept-fraud-factors-part-ii/",
+      "source": "Radical Compliance",
+      "date": "2026-10-07T19:20:52+00:00",
+      "display_date": "Oct 07, 2026",
+      "summary": "Today I want to revisit the Justice Department’s new criteria for corporate enforcement by the new National Fraud Division. Specifically, now that the Fraud Division has specific factors it will consider when deciding whether to prosecute a company, how are compliance teams suppo...",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
       "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
       "link": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
       "source": "Krebs on Security",
@@ -728,7 +1853,7 @@
     {
       "title": "Comptroller Gould Announces New Efforts to Combat Financial Fraud in Minnesota",
       "link": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-86.html",
-      "source": "OCC News Releases",
+      "source": "Office of the Comptroller of the Currency",
       "date": "2026-10-07T13:00:00+00:00",
       "display_date": "Oct 07, 2026",
       "summary": "Comptroller of the Currency Jonathan V. Gould today convened a panel of community bankers in Minneapolis, Minnesota, to discuss ongoing efforts to combat financial fraud.",
@@ -745,6 +1870,17 @@
       "summary": "The Securities and Exchange Commission today moved for entry of a final judgment by consent against Stephen Kenneth Leech II, the former co-chief investment officer of registered investment adviser Western Asset Management Company LLC, whom the SEC…",
       "topics": [
         "Data Privacy"
+      ]
+    },
+    {
+      "title": "A Warning on Export Compliance Expertise",
+      "link": "https://www.radicalcompliance.com/2026/10/06/a-warning-on-export-compliance-expertise/",
+      "source": "Radical Compliance",
+      "date": "2026-10-06T17:54:40+00:00",
+      "display_date": "Oct 06, 2026",
+      "summary": "A technology company in Boston is settling charges that it violated U.S. export control rules by selling goods to sanctioned Chinese customers, and get this: as part of the deal, the company must designate two employees as its new export compliance team and send the pair to gover...",
+      "topics": [
+        "Enforcement Actions"
       ]
     },
     {
@@ -816,7 +1952,7 @@
     {
       "title": "OCC Hails 2026 Update to U.S. National Strategy for Financial Literacy",
       "link": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-85.html",
-      "source": "OCC News Releases",
+      "source": "Office of the Comptroller of the Currency",
       "date": "2026-10-05T20:30:00+00:00",
       "display_date": "Oct 05, 2026",
       "summary": "The Office of the Comptroller of the Currency (OCC) today hailed the 2026 update to the U.S. National Strategy for Financial Literacy, underscoring the agency's commitment to helping Americans develop practical skills to make sound financial decisions, build greater financial sec...",
@@ -871,7 +2007,7 @@
     {
       "title": "OCC Releases CRA Performance Evaluations for 13 National Banks and Federal Savings Associations",
       "link": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-84.html",
-      "source": "OCC News Releases",
+      "source": "Office of the Comptroller of the Currency",
       "date": "2026-10-01T17:00:00+00:00",
       "display_date": "Oct 01, 2026",
       "summary": "The Office of the Comptroller of the Currency (OCC) today released a list of Community Reinvestment Act (CRA) performance evaluations that became public during the period of September 1, 2026, through September 30, 2026.",
@@ -899,6 +2035,18 @@
       "summary": "The Securities and Exchange Commission’s Division of Examinations today published its new handbook, “The SEC Exam Handbook: A Practical Guide on Process and Engagement,” which replaces and expands upon the previous examination brochure by providing…",
       "topics": [
         "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "The green light for the largest coalmine in NSW history is shocking proof that our governance systems are betraying Australians | Georgina Woods",
+      "link": "https://www.theguardian.com/commentisfree/2026/oct/01/nsw-coalmine-approval-hunter-valley-climate-crisis-lock-the-gate",
+      "source": "The Guardian Australia",
+      "date": "2026-10-01T03:00:25+00:00",
+      "display_date": "Oct 01, 2026",
+      "summary": "There is no greater treachery than this failure to face up to the climate crisis. How can we now fend off despair? The Independent Planning Commission’s published reasons for approving the largest coalmine in New South Wales history in the context of mounting death, disaster and ...",
+      "topics": [
+        "ESG & Sustainability",
+        "Operational & Enterprise Risk"
       ]
     },
     {
@@ -948,7 +2096,7 @@
     {
       "title": "OCC Reports Second Quarter 2026 Bank Trading Revenue",
       "link": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-83.html",
-      "source": "OCC News Releases",
+      "source": "Office of the Comptroller of the Currency",
       "date": "2026-09-30T15:00:00+00:00",
       "display_date": "Sep 30, 2026",
       "summary": "The Office of the Comptroller of the Currency (OCC) reported cumulative trading revenue of U.S. commercial banks and savings associations of $21.6 billion in the second quarter of 2026. The second quarter trading revenue was $5.3 billion, or 32.5 percent, more than in the previou...",
@@ -1175,6 +2323,17 @@
       "summary": "The Securities and Exchange Commission’s Investor Advisory Committee will host a public meeting at the SEC Headquarters in Washington D.C. on Sept. 10 at 10 a.m. ET to discuss artificial intelligence technologies in the public markets and the SEC’s…",
       "topics": [
         "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Tech giants are trying to obliterate privacy. Australia has a rare chance to take back part of their power | Lizzie O'Shea",
+      "link": "https://www.theguardian.com/commentisfree/2026/sep/02/tech-giants-australia-privacy-act-legislation-laws",
+      "source": "The Guardian Australia",
+      "date": "2026-09-02T03:00:05+00:00",
+      "display_date": "Sep 02, 2026",
+      "summary": "‘Pervert glasses’ are selling out, tick-a-box consent is broken and the spectre of surveillance is invading all aspects of our lives Get our breaking news email , free app or daily news podcast A mere five years after the government first started talking about it, new changes hav...",
+      "topics": [
+        "Data Privacy"
       ]
     },
     {
