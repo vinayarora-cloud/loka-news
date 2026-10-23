@@ -1,7 +1,51 @@
 {
-  "last_updated": "October 23, 2026 04:23 UTC",
-  "total_count": 228,
+  "last_updated": "October 23, 2026 08:26 UTC",
+  "total_count": 229,
   "articles": [
+    {
+      "title": "Corporate Governance Statement 2026 - AFR",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVkFVTVU1U19SY1VXN1NCeEZYRmRJaV9vWTE0WWVmczNjNmxpY283enNuZ1dKQ2Fib1RhRDhKUVlXMG1TU0QtRUluZ3FLMnhmeUx5VThMcHkzTjdTV2lXbjVNMEt3SE9wRGFQWEFaSmxqM1NfV3V6cEdMUThteEFfbS1LQjM2RFI2NEFud3Z0OA?oc=5",
+      "source": "AFR",
+      "date": "2026-10-23T05:52:13+00:00",
+      "display_date": "Oct 23, 2026",
+      "summary": "Corporate Governance Statement 2026 AFR",
+      "topics": [
+        "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "Safran Confirms Guidance as Revenue Jumps",
+      "link": "https://www.wsj.com/business/safran-confirms-guidance-as-revenue-jumps-984356b4?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-10-23T05:37:00+00:00",
+      "display_date": "Oct 23, 2026",
+      "summary": "The French aerospace-industry supplier said the metric was pushed higher by double-digit growth across its propulsion and equipment and defense units.",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Britain’s gas security needs reinforcement. Last-minute deals with Belgium are not a proper fix",
+      "link": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/oct/23/britains-gas-security-needs-reinforcement-last-minute-deals-with-belgium-are-not-a-proper-fix",
+      "source": "The Guardian Australia",
+      "date": "2026-10-23T05:00:02+00:00",
+      "display_date": "Oct 23, 2026",
+      "summary": "The UK still imports 60% of its gas and, even with Jackdaw, its energy supply and resilience problems are not going away After the overdue approval of the Jackdaw field in the North Sea, here comes a reminder that Britain still imports almost 60% of its gas and the stuff has to c...",
+      "topics": [
+        "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "‘Watch out, I’ll wait for you outside’: Aldi repealed self-serve checkout policy that fuelled abuse, threats",
+      "link": "https://www.smh.com.au/business/companies/watch-out-i-ll-wait-for-you-outside-aldi-self-serve-checkouts-fuel-abuse-threats-20261023-p617w2.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+      "source": "The Sydney Morning Herald",
+      "date": "2026-10-23T04:57:59+00:00",
+      "display_date": "Oct 23, 2026",
+      "summary": "Aldi has repealed its policy of mandatory bag checks conducted on customers that became a lightning rod of frustration for shoppers and staff.",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
     {
       "title": "Compliance takeaways from the SEC’s new examination handbook",
       "link": "https://www.complianceweek.com/regulatory-policy/compliance-takeaways-from-the-secs-new-examination-handbook/",
@@ -9,17 +53,6 @@
       "date": "2026-10-23T01:22:32+00:00",
       "display_date": "Oct 23, 2026",
       "summary": "The SEC’s new exam handbook spells out what to expect at every stage, from the first call to the deficiency letter. Here’s how to prepare. The post Compliance takeaways from the SEC’s new examination handbook appeared first on Compliance Week .",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Market integrity in a digital age",
-      "link": "https://www.fca.org.uk/news/speeches/market-integrity-digital-age",
-      "source": "FCA UK Regulatory News",
-      "date": "2026-10-22T22:01:00+00:00",
-      "display_date": "Oct 22, 2026",
-      "summary": "Speech by Nikhil Rathi, FCA chief executive at the Corporation of the City of London’s annual City Dinner, Mansion House. The success of the UK’s financial servicesIn August, flight cancellations left my sons and I with an extra day in Boston. A Red Sox game, perhaps?No, the Rath...",
       "topics": [
         "Regulatory Change"
       ]
@@ -87,6 +120,17 @@
       "date": "2026-10-22T20:40:55+00:00",
       "display_date": "Oct 22, 2026",
       "summary": "Reports from banks and other financial institutions have helped identify about $270 million in federal aid funds linked to suspicious financial activity, the US Treasury Department said Monday. The post Bank reports help FinCEN identify $270M in possible student aid schemes appea...",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Market integrity in a digital age",
+      "link": "https://www.fca.org.uk/news/speeches/market-integrity-digital-age",
+      "source": "FCA UK Regulatory News",
+      "date": "2026-10-22T20:01:00+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "Speech by Nikhil Rathi, FCA chief executive at the Corporation of the City of London’s annual City Dinner, Mansion House. The success of the UK’s financial servicesIn August, flight cancellations left my sons and I with an extra day in Boston. A Red Sox game, perhaps?No, the Rath...",
       "topics": [
         "Regulatory Change"
       ]
@@ -552,7 +596,7 @@
       "title": "German regulator revokes license of Bank Saderat Iran in Hamburg - Reuters",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNLUpGcUpQSDMwN3g2aktoXzFtWXpvNWlaWjhRaks5YzNMRGgwYU5tZ2xiNm1fN1pVZVFzOWVsRlVqdUljN0xQenJlSnJkLVRYQmd3ZG1SeW9kVFVMT2FnT0Q3b3hGVHNadlRGZTlYSV9lazVIQWI2ZV90aWhyWWlJSXdZWlNDNG52S3BVcFQwUERITHNPanJGTVRYVHJDdDkydEFnVWY3QlREdFBzaUlOLQ?oc=5",
       "source": "Reuters",
-      "date": "2026-10-22T05:39:00+00:00",
+      "date": "2026-10-22T05:49:42+00:00",
       "display_date": "Oct 22, 2026",
       "summary": "German regulator revokes license of Bank Saderat Iran in Hamburg Reuters",
       "topics": [
@@ -604,6 +648,18 @@
       ]
     },
     {
+      "title": "Largest fine ever: Meta ordered to pay $36bn in data privacy case - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNX0VmUXhpQzg3ZUd1UEppcWtPRE90WGh0dVpwSUNZemlCSlhaaW8xVGk1NkZHXzJYLXh3d3lzQUJpNWZHYzh0SUhnM010aWRYeE9SUndvT3phYVNWTy1NOVRkMVZ0SUs2ZmpDNFFIUl94MHM4YjRNX1lLcXRrRnc0R0NwNkh3N3ZkR2puWjlNZmtIS2FVZ0F2VTR0dzNYRU56SGlFYjZQazE1bXp5QW1OQjdsVXlraGNDLV9CTTFMUHgwSFQxWV8tN3hqLWdQc3FXYWtIT3BWem1aajNsN09iVnBFUk5HdGctaVlGU2xyd0todWg2RHEwenQ4VXJkZw?oc=5",
+      "source": "The Australian",
+      "date": "2026-10-21T23:30:00+00:00",
+      "display_date": "Oct 21, 2026",
+      "summary": "Largest fine ever: Meta ordered to pay $36bn in data privacy case The Australian",
+      "topics": [
+        "Enforcement Actions",
+        "Data Privacy"
+      ]
+    },
+    {
       "title": "UAE expands AML/CFT regime with tougher penalties and wider sector reach",
       "link": "https://www.complianceweek.com/aml/uae-expands-aml-cft-regime-with-tougher-penalties-and-wider-sector-reach/",
       "source": "Compliance Week",
@@ -612,17 +668,6 @@
       "summary": "The UAE’s new AML/CFT law adds criminal offenses, harsher penalties, and new compliance duties for firms and individuals. The post UAE expands AML/CFT regime with tougher penalties and wider sector reach appeared first on Compliance Week .",
       "topics": [
         "AML & Sanctions"
-      ]
-    },
-    {
-      "title": "A Simple Guide to China’s Very Complicated Policy Universe - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5FdHRYcEMxR0tlaHljNXFFLUNURDZaSGxzZmxydUtDRkZDVWNQRU4tQjJwV1JrSEF2TFZYb2hqa0ItRlh6cm13emJWN2RaZllDYUNmWjVMRlJtejdTRGFpQU43Z0xvN3lBQURB?oc=5",
-      "source": "Bloomberg.com",
-      "date": "2026-10-21T21:00:00+00:00",
-      "display_date": "Oct 21, 2026",
-      "summary": "A Simple Guide to China’s Very Complicated Policy Universe Bloomberg.com",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
@@ -755,17 +800,6 @@
       "date": "2026-10-21T13:07:00+00:00",
       "display_date": "Oct 21, 2026",
       "summary": "Speech by Sarah Pritchard, deputy chief executive, at Investment Association Annual Dinner 2026. Reform: more than writing rulesIn this sector, we’re just past peak rule making. The scale of change has been significant – and deliberate.But we’re not done yet.We want to see growth...",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "LMG Retail Q&A Advisory - AFR",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQb3pwNDBtNkt0ZVZwVV9saDdRdWpxY3VlNUpYZWhhdmdVTG9fNHBwUEtzUnFiUTA5cEIySlJVbzVUNE53ZzVGbVUydTY5WU5nMUpFMGVGV2plQVBHRV94SVVyUEFEb2hGUURPLTU3a2lGSVhFVi1pU0VGbzAzT1JVaWZuelVvUDNVQTEwUlBZRQ?oc=5",
-      "source": "AFR",
-      "date": "2026-10-21T12:01:16+00:00",
-      "display_date": "Oct 21, 2026",
-      "summary": "LMG Retail Q&A Advisory AFR",
       "topics": [
         "Regulatory Change"
       ]
@@ -1335,6 +1369,17 @@
       ]
     },
     {
+      "title": "War of words erupts between Trump and Zelensky over Russia sanctions waiver - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUmNqank2dXpaaHVuSUplRm9QUmxidnc2VFJMSTZYS2VJZ1N3M0ljVkRZYWJ5NXYzVF9mS0duTU1pQWYxajRxZXNSM2t5ZE1PY2QtdE45TnlGTmZNYldDWW05am1TbTBBMjBzenAybjh1VnlMTmNpYnd6TEFkR29kc29EUzF3Y1BQT29VX0M4VVliQU52YkRzNXF5WHVGYnpxcnFlemNDNnNrUUt2ZkZkZDV6aG9PUTZTaXd0YnFaSGw0QUNfMWozNnJZTVZMZWxGV2RadU95YmUzLUlNeE5UYkc4VFJubkk?oc=5",
+      "source": "The Australian",
+      "date": "2026-10-18T22:55:59+00:00",
+      "display_date": "Oct 18, 2026",
+      "summary": "War of words erupts between Trump and Zelensky over Russia sanctions waiver The Australian",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
       "title": "UK Signals ‘Different View’ From Trump on Russia Sanctions - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRTMtYlhaaWtFbVBlWXFUYUd4YjNYN0RKeWMzLTFTYlE1Wk1QRGNHSmZfZXpyWmwxMFZkM21Pc3RvUk1peWEzRkRnWGkxTGVPNGRZTkpzdU4ybFJfSzhrS3FDTVpEcW9FRHVHYjNTZGJsS2p0VTdqamFRYkF2S01OOTBDS0t1YVBDbUVXWmlVR1d5S01UNnJqUkdxcUlMSDlaQkNuVzBjWGk2b1k?oc=5",
       "source": "Bloomberg.com",
@@ -1575,39 +1620,6 @@
       "summary": "US considers removing sanctions on some shadow fleet vessels to cut freight rates, official says Reuters",
       "topics": [
         "AML & Sanctions"
-      ]
-    },
-    {
-      "title": "Crown lifts revenue but warns on debt load as regulatory risk lingers - AFR",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSWRHTVdCd2N3QVc3YmhiWFdvaGJ2Qy1LYXZLV2ZvbFBjTG1UcWdhZ1VRZnVidlFFdXpRQUdJSGxiS2JiQllRZEpxMXA5c2VEb0llVzdQTERlUnJ3Qmo5NVBIcy1hQTRnd3k2R3VlRTk3R1lXQkFzNGhleHVlQk1zVnBndUlmaFNQMllVQllMM0J0eU16eTZOWTdEaGMyLXo2NzFadW5jS1lOOUpvclVCZnhLMmJjdnJOQ2xkTUxNWmZua3cyM2RnR2NDalE3cjA?oc=5",
-      "source": "AFR",
-      "date": "2026-10-16T06:25:00+00:00",
-      "display_date": "Oct 16, 2026",
-      "summary": "Crown lifts revenue but warns on debt load as regulatory risk lingers AFR",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Crown in for long haul with $200m ‘fine dining’ revamp on cards - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbVVJcDhSOER5dzBxRUJkRnA2bDdFekszdU1mYmQwWDkyRFBLa0YyTzZCbTVGVWRpdHdtSy1rVUppdWJIRmt4SkNTXzd2M2J4UWNlZmdRdHY4ZDR1VlNWNzRrTmJ3cVo0N0JwYXNRWm45TUZsRFdfdTZ3dHFvNG5QRXFkQlVFdGtCbllkaUt2bVpCWUVzN1M4LWhONUtkWEJkMGF6SHpGYV9ZQmhQRHQ3UE1ZZTBtam1JOGE1ekY5TnBibUJleFlwQjVn?oc=5",
-      "source": "The Australian",
-      "date": "2026-10-16T06:00:00+00:00",
-      "display_date": "Oct 16, 2026",
-      "summary": "Crown in for long haul with $200m ‘fine dining’ revamp on cards The Australian",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "ASIC bans adviser over Shield super scandal - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOc2pvd3gzMlBvUmdKckxqQnBBNEpJdTN0LU5fTF8wS2M3bHRwVHYtV01nc1g5Um1oYTRINXBWQnpUMks3YzUwdFNFSVp4eVVLY21CLV9femxna1NyNHlQVUhhMjFYeWZFaFhDZ0FyUEI4TmpPa3BKZUdadDRsU3hxSFM4RTBUUHh1bkNPSC1ZeS1MZTFndUl3b0Vyd0xodWM2eDBadl9BWjRhWFFpcXY0TzhnU1BkajRmbno5amgyOEtScDhINkM3TTNZSmdMZUpqTUEwNDNyTDQ1YWZHWURwUDFpMmVYUXFjZGhwZ2djX05PRVlRNzY2NDhqZ3BNaVI0?oc=5",
-      "source": "The Australian",
-      "date": "2026-10-16T05:35:00+00:00",
-      "display_date": "Oct 16, 2026",
-      "summary": "ASIC bans adviser over Shield super scandal The Australian",
-      "topics": [
-        "Enforcement Actions"
       ]
     },
     {
