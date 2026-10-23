@@ -1,6 +1,6 @@
 {
-  "last_updated": "October 23, 2026 16:27 UTC",
-  "total_count": 228,
+  "last_updated": "October 23, 2026 20:19 UTC",
+  "total_count": 225,
   "articles": [
     {
       "title": "Compliance Jobs Report: Oct. 23",
@@ -33,6 +33,17 @@
       "summary": "Fusion technology developer Cambridge Heavy Industries (CHI) announced that it has emerged from stealth and […]",
       "topics": [
         "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/10/23/cisa-adds-one-known-exploited-vulnerability-catalog-0",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-10-23T12:00:00+00:00",
+      "display_date": "Oct 23, 2026",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-110447 Collabora Online – Built-in CODE Server OS Command Injection Vulnerability This type of vulnerability is a frequent attack vector ...",
+      "topics": [
+        "Cybersecurity Risk"
       ]
     },
     {
@@ -241,6 +252,17 @@
       "date": "2026-10-22T20:40:55+00:00",
       "display_date": "Oct 22, 2026",
       "summary": "Reports from banks and other financial institutions have helped identify about $270 million in federal aid funds linked to suspicious financial activity, the US Treasury Department said Monday. The post Bank reports help FinCEN identify $270M in possible student aid schemes appea...",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "US nuclear power regulator allows applicants to include data from agency projects - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSEp1Rk83dWxRQVRiZ1IzS0cxRXRnVHpndmgyMmc1azN1UlFNSklNSmZsV1Y1TlA0U3pSV2FzU3lpM0xLY01nSFRyaDhoQUt5WGRXOWhZWmk3WV9YdUxyN3Q3RWNLRzBQbmJlaENBUW4xUUtnVC1LZGxPd3JPdVVMbkNKaGlFcWJiNmVwT25FdW9FV2xzRHhiN0FRRU9iNXlmTWwzRE5Zb3E1S3duRzktZC1lNktPeHdtbE1KTUpjd1VDWXB5?oc=5",
+      "source": "Reuters",
+      "date": "2026-10-22T20:10:00+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "US nuclear power regulator allows applicants to include data from agency projects Reuters",
       "topics": [
         "Regulatory Change"
       ]
@@ -558,17 +580,6 @@
       ]
     },
     {
-      "title": "Siemens Industrial Edge Devices",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-17",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-10-22T12:00:00+00:00",
-      "display_date": "Oct 22, 2026",
-      "summary": "View CSAF Summary Siemens Industrial Edge Devices contain multiple path traversal vulnerabilities that could facilitate an authenticated remote attacker to access sensitive internal information. Siemens has released new versions for several affected products and recommends to upd...",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
       "title": "Siemens SIMATIC S7 PLCs Web Server",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-14",
       "source": "CISA Cybersecurity Advisories",
@@ -580,12 +591,12 @@
       ]
     },
     {
-      "title": "Siemens SENTRON 3NA COM Fuse",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-05",
+      "title": "Siemens Industrial Edge Devices",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-17",
       "source": "CISA Cybersecurity Advisories",
       "date": "2026-10-22T12:00:00+00:00",
       "display_date": "Oct 22, 2026",
-      "summary": "View CSAF Summary SENTRON 3NA COM Fuse contains a Denial-of-Service vulnerability. Improper handling of a network management message could allow an attacker to trigger a denial-of-service (DoS) condition. Successful exploitation may require the affected network to be re-establish...",
+      "summary": "View CSAF Summary Siemens Industrial Edge Devices contain multiple path traversal vulnerabilities that could facilitate an authenticated remote attacker to access sensitive internal information. Siemens has released new versions for several affected products and recommends to upd...",
       "topics": [
         "Cybersecurity Risk"
       ]
@@ -604,12 +615,12 @@
       ]
     },
     {
-      "title": "Siemens SIMATIC S7-1500 TM MFP",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-16",
+      "title": "Siemens SENTRON 3NA COM Fuse",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-05",
       "source": "CISA Cybersecurity Advisories",
       "date": "2026-10-22T12:00:00+00:00",
       "display_date": "Oct 22, 2026",
-      "summary": "View CSAF Summary Multiple vulnerabilities have been identified in the additional GNU/Linux subsystem of the SIMATIC S7-1500 TM MFP V1.1.1. Siemens is preparing fixes and recommends specific mitigations for products where fixes are not or not yet available. The following versions...",
+      "summary": "View CSAF Summary SENTRON 3NA COM Fuse contains a Denial-of-Service vulnerability. Improper handling of a network management message could allow an attacker to trigger a denial-of-service (DoS) condition. Successful exploitation may require the affected network to be re-establish...",
       "topics": [
         "Cybersecurity Risk"
       ]
@@ -621,6 +632,17 @@
       "date": "2026-10-22T12:00:00+00:00",
       "display_date": "Oct 22, 2026",
       "summary": "View CSAF Summary Successful exploitation of this these vulnerabilities could allow an attacker to fully compromise the device. The following versions of Kiloview E3 NDI Encoder are affected: E3 Firmware <1.30 (CVE-2026-109122, CVE-2026-111100, CVE-2026-96616, CVE-2026-105265, CV...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "Siemens SIMATIC S7-1500 TM MFP",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-16",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-10-22T12:00:00+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "View CSAF Summary Multiple vulnerabilities have been identified in the additional GNU/Linux subsystem of the SIMATIC S7-1500 TM MFP V1.1.1. Siemens is preparing fixes and recommends specific mitigations for products where fixes are not or not yet available. The following versions...",
       "topics": [
         "Cybersecurity Risk"
       ]
@@ -789,17 +811,6 @@
       "summary": "US Aims Iran ‘Shadow Fleet’ Sanctions at Law Firm, Shippers Bloomberg.com",
       "topics": [
         "AML & Sanctions"
-      ]
-    },
-    {
-      "title": "Vodafone says 24 million scam calls came via Aussie Broadband",
-      "link": "https://www.abc.net.au/news/2026-10-22/vodafone-aussie-broadband-company-symbio-carrying-scam-calls/107282346",
-      "source": "ABC News Business (AU)",
-      "date": "2026-10-21T18:00:00+00:00",
-      "display_date": "Oct 21, 2026",
-      "summary": "Vodafone's owner TPG says it was forced to speak publicly about its frustration over scam calls after reports to the regulator were not addressed.",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
@@ -1047,17 +1058,6 @@
       ]
     },
     {
-      "title": "Brokers Gear Up for Compute Futures Ahead of Regulatory Approval - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONklheXJqUHpxSTVuWjBENWFzaHNCd2ppaE1OMWZ4Y1F3Y3FzOXB6X2dKTThSdkUyNzIwMW9BZHNnSVVEQ2RtbTh6UWo0aDhodFlXdmZpZkRWN3RsZlJmdXp5VzAxd0pULUl0eERLZXhBOV9VMm04UXozOW01amhvajdvd0ZuVTUtVEcwUTEzSXViSXZ2YWUxMTZwWFluRkxSdFN1Y3RjZ3VYZldjVVIzaldnVnhQUQ?oc=5",
-      "source": "Bloomberg.com",
-      "date": "2026-10-20T16:10:12+00:00",
-      "display_date": "Oct 20, 2026",
-      "summary": "Brokers Gear Up for Compute Futures Ahead of Regulatory Approval Bloomberg.com",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "AI in the Audit Room",
       "link": "https://www.complianceweek.com/artificial-intelligence/ai-in-the-audit-room/",
       "source": "Compliance Week",
@@ -1114,23 +1114,23 @@
       ]
     },
     {
-      "title": "Hitachi Energy RTU500 Product",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-293-05",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-10-20T12:00:00+00:00",
-      "display_date": "Oct 20, 2026",
-      "summary": "View CSAF Summary Hitachi Energy is aware of vulnerabilities that affect RTU500 product versions listed in this document. These vulnerabilities if exploited can have impact on confidentiality, integrity and availability of the product. Please refer to the Recommended Immediate Ac...",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
       "title": "Hitachi Energy MicroSCADA X SYS600 Product",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-293-04",
       "source": "CISA Cybersecurity Advisories",
       "date": "2026-10-20T12:00:00+00:00",
       "display_date": "Oct 20, 2026",
       "summary": "View CSAF Summary Hitachi Energy is aware of multiple vulnerabilities that affect MicroSCADA X SYS600 product versions listed in this document. These vulnerabilities can be exploited to carry out various attacks on the product. Please refer to the Recommended Immediate Actions fo...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "Hitachi Energy RTU500 Product",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-293-05",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-10-20T12:00:00+00:00",
+      "display_date": "Oct 20, 2026",
+      "summary": "View CSAF Summary Hitachi Energy is aware of vulnerabilities that affect RTU500 product versions listed in this document. These vulnerabilities if exploited can have impact on confidentiality, integrity and availability of the product. Please refer to the Recommended Immediate Ac...",
       "topics": [
         "Cybersecurity Risk"
       ]
@@ -1567,17 +1567,6 @@
       ]
     },
     {
-      "title": "Judge Threatens Trump With Sanctions to Testify in BBC Lawsuit - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNVdwLS1hQURJSWIwMU5SWXRic0szNnQ3MjlXMXh5X2FqT2psM0M2U1VCM1pEVVRTMkJOcmdmaTZQNHFiWEpIYVc2aWNqTVZkcmlHdmdwN1lHSEo4ZV93LW5YYTBFY2dHMDRHb01idmNYdkg5ZUhjd1hMTzI3T3Vrb3lpNm5rMHd5cEk3VTJTTEo4LVlPRGFabzJPcTJJR3ZtREhZSVE3N1JtSk5XeFVOVFJzbw?oc=5",
-      "source": "Bloomberg.com",
-      "date": "2026-10-16T16:57:06+00:00",
-      "display_date": "Oct 16, 2026",
-      "summary": "Judge Threatens Trump With Sanctions to Testify in BBC Lawsuit Bloomberg.com",
-      "topics": [
-        "AML & Sanctions"
-      ]
-    },
-    {
       "title": "Compliance Jobs Report: Oct. 16",
       "link": "https://www.radicalcompliance.com/2026/10/16/compliance-jobs-report-oct-16-2/",
       "source": "Radical Compliance",
@@ -1601,34 +1590,12 @@
       ]
     },
     {
-      "title": "Cyber Threat Actors Use a Variety of Techniques to Target Election and Campaign Officials",
-      "link": "https://www.cisa.gov/resources-tools/resources/cyber-threat-actors-use-variety-techniques-target-election-and-campaign-officials",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-10-16T12:00:00+00:00",
-      "display_date": "Oct 16, 2026",
-      "summary": "CISA and the Federal Bureau of Investigation (FBI) released a Public Service Announcement (PSA) warning election and campaign officials about cyber threats during the 2026 U.S. midterm elections. Malicious cyber actors may use phishing and smishing techniques to steal login crede...",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
       "title": "CISA Urges Patching Critical Vulnerability in BeyondTrust Remote Support",
       "link": "https://www.cisa.gov/news-events/alerts/2026/10/16/cisa-urges-patching-critical-vulnerability-beyondtrust-remote-support",
       "source": "CISA Cybersecurity Advisories",
       "date": "2026-10-16T12:00:00+00:00",
       "display_date": "Oct 16, 2026",
       "summary": "CISA is aware of critical authentication bypass vulnerability CVE-2026-102764 , affecting BeyondTrust Remote Support (formerly Bomgar) versions 26.2.3 and earlier. Patches are available for supported versions (24.3.1 and later); organizations using older versions must upgrade fir...",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "Key Practices for Incident Readiness and Response in Super Intelligence Training and Evaluation",
-      "link": "https://www.cisa.gov/resources-tools/resources/key-practices-incident-readiness-and-response-super-intelligence-training-and-evaluation",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-10-16T12:00:00+00:00",
-      "display_date": "Oct 16, 2026",
-      "summary": "The National Institute of Standards and Technology (NIST), National Security Agency’s Super Intelligence Security Center (NSA SISC) and Cybersecurity and Infrastructure Security Agency (CISA) published Key Practices for Incident Readiness and Response in Super Intelligence Traini...",
       "topics": [
         "Cybersecurity Risk"
       ]
