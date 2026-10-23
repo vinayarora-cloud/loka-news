@@ -1,7 +1,106 @@
 {
-  "last_updated": "October 23, 2026 08:26 UTC",
+  "last_updated": "October 23, 2026 12:21 UTC",
   "total_count": 229,
   "articles": [
+    {
+      "title": "How Does the Ukrainian Military Use Starlink?",
+      "link": "https://www.wsj.com/business/telecom/how-does-the-ukrainian-military-use-starlink-e1faa11b?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-10-23T11:43:00+00:00",
+      "display_date": "Oct 23, 2026",
+      "summary": "Ukraine is using a basic Starshield service, which uses Starlink’s standard equipment with different features.",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "FCA calls on private market firms to manage conflicts of interest in line with rapid growth",
+      "link": "https://www.fca.org.uk/news/press-releases/fca-calls-private-market-firms-manage-conflicts-interest-line-rapid-growth",
+      "source": "FCA UK Regulatory News",
+      "date": "2026-10-23T11:31:00+00:00",
+      "display_date": "Oct 23, 2026",
+      "summary": "Private market firms vary in how well they identify and manage conflicts of interest, according to an FCA review. Private markets refer to investments in assets, companies, or debt not listed or traded on public exchanges. They’ve grown significantly in recent years, and the UK i...",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Beyond borders: Regulating the risks we share",
+      "link": "https://www.fca.org.uk/news/speeches/beyond-borders-regulating-risks-we-share",
+      "source": "FCA UK Regulatory News",
+      "date": "2026-10-23T11:18:00+00:00",
+      "display_date": "Oct 23, 2026",
+      "summary": "Speech by Ashley Alder, FCA Chair, at the Michael D. Gill Lecture on International Financial Regulatory Understanding and Cooperation. I wasn’t fortunate enough to work as closely with Mike as many of you in this room.But I knew him well enough during my time with the IOSCO board...",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "What Makes A Great Board?",
+      "link": "https://www.wsj.com/cfo-journal/what-makes-a-great-board-8345dfcc?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-10-23T11:03:00+00:00",
+      "display_date": "Oct 23, 2026",
+      "summary": "WSJ Leadership Institute’s Best Boards list highlights experience, strong governance",
+      "topics": [
+        "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "LRQA Acquires Supply Chain Monitoring and Responsible Sourcing Platform Omega Compliance",
+      "link": "https://www.esgtoday.com/lrqa-acquires-supply-chain-monitoring-and-responsible-sourcing-platform-omega-compliance/?utm_source=rss&utm_medium=rss&utm_campaign=lrqa-acquires-supply-chain-monitoring-and-responsible-sourcing-platform-omega-compliance",
+      "source": "ESG Today",
+      "date": "2026-10-23T10:22:07+00:00",
+      "display_date": "Oct 23, 2026",
+      "summary": "Goldman Sachs-backed risk management solutions provider LRQA announced the acquisition of supply chain monitoring and […]",
+      "topics": [
+        "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "FCA restricts 6 firms following concerns over anti-money laundering controls",
+      "link": "https://www.fca.org.uk/news/press-releases/fca-restricts-6-firms-following-concerns-over-anti-money-laundering-controls",
+      "source": "FCA UK Regulatory News",
+      "date": "2026-10-23T09:47:00+00:00",
+      "display_date": "Oct 23, 2026",
+      "summary": "Restrictions have been placed on 6 unregulated lenders, known as Annex 1 firms, after the FCA raised concerns about their anti-money laundering policies, controls and procedures while assessing their applications. The restrictions were imposed by the FCA on each firm’s request an...",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "UK watchdog restricts six private credit firms over anti-money laundering controls - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdmZDbU1aMl90STdGaFRaSFhwSjR5RVZxS0llNzB0RUhTaW9UV2I5bmowdWNzaVNIbEpvR0hUOXZ2VnI1UHlBZ0hIbDB4Y0ozeTNqcVBJak9CSUFNbnVtUFpLcVVJS2FuVWUtNjFTMU9SYVNjTHJMTW55Vk9tenBTb3JwZEpQUEZyY1BWWUJKOC02a0Z0YnRPYjFlaVlyUWtETHlUQ1NMZ2RGbGgyaUdPdlN2a3pDWEhENk5yNlEtNDRaNXQy?oc=5",
+      "source": "Reuters",
+      "date": "2026-10-23T09:33:43+00:00",
+      "display_date": "Oct 23, 2026",
+      "summary": "UK watchdog restricts six private credit firms over anti-money laundering controls Reuters",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "EU Lawmakers Push to Delay Methane Emissions Rules by 3 Years",
+      "link": "https://www.esgtoday.com/eu-lawmakers-push-to-delay-methane-emissions-rules-by-3-years/?utm_source=rss&utm_medium=rss&utm_campaign=eu-lawmakers-push-to-delay-methane-emissions-rules-by-3-years",
+      "source": "ESG Today",
+      "date": "2026-10-23T09:33:34+00:00",
+      "display_date": "Oct 23, 2026",
+      "summary": "Lawmakers in the European Parliament voted 341 to 225 to delay methane monitoring and reporting […]",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "Google Signs Deal to Build 1GW Virtual Power Plant Aggregating Energy from Homes, Businesses",
+      "link": "https://www.esgtoday.com/google-signs-deal-to-build-1gw-virtual-power-plant-aggregating-energy-from-homes-businesses/?utm_source=rss&utm_medium=rss&utm_campaign=google-signs-deal-to-build-1gw-virtual-power-plant-aggregating-energy-from-homes-businesses",
+      "source": "ESG Today",
+      "date": "2026-10-23T08:45:27+00:00",
+      "display_date": "Oct 23, 2026",
+      "summary": "Google announced a new agreement with Voltus to fund a 1 GW virtual power plant […]",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
     {
       "title": "Corporate Governance Statement 2026 - AFR",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVkFVTVU1U19SY1VXN1NCeEZYRmRJaV9vWTE0WWVmczNjNmxpY283enNuZ1dKQ2Fib1RhRDhKUVlXMG1TU0QtRUluZ3FLMnhmeUx5VThMcHkzTjdTV2lXbjVNMEt3SE9wRGFQWEFaSmxqM1NfV3V6cEdMUThteEFfbS1LQjM2RFI2NEFud3Z0OA?oc=5",
@@ -41,9 +140,20 @@
       "source": "The Sydney Morning Herald",
       "date": "2026-10-23T04:57:59+00:00",
       "display_date": "Oct 23, 2026",
-      "summary": "Aldi has repealed its policy of mandatory bag checks conducted on customers that became a lightning rod of frustration for shoppers and staff.",
+      "summary": "Aldi has repealed its policy of mandatory bag checks that became a lightning rod of frustration for shoppers and staff.",
       "topics": [
         "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Maher bristles at ‘harsh’ Cup penalty as Brown weighs choice - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNczlQZ1NBOGhsb2ZkbUN2MzlheWJ0TGlDTzVnS01kWmxKQmh0VHFpNkliZnFuWGp1NzE3Um1Qc2phS1ZIcFJDTFU0WjBzVm94dTUzUUZBRWZVcUh2R0NlNjBtelJxZUNjX0ZMTkhUZ3lMa2gzd0Q2UEN3ZjRPNUNCUk1ONk9WZWJ4RGI2cnh3Sjc0UGV6MG1oY0Z5cTBMMWVYN0tIcmpmR0lKN2FrUnFKRmNRMzh6XzUza1Jnd2F4cXNHRkJXRFJvOUZKdXFxYzMwR2RGS0t3TWFNR1pXVkM3bmxXMHpPU294UHE3ald0SkdXQkwxX3NSd094Q3NYMFZRX2hleGZjNktLUF9s?oc=5",
+      "source": "The Australian",
+      "date": "2026-10-23T03:23:54+00:00",
+      "display_date": "Oct 23, 2026",
+      "summary": "Maher bristles at ‘harsh’ Cup penalty as Brown weighs choice The Australian",
+      "topics": [
+        "Enforcement Actions"
       ]
     },
     {
@@ -86,17 +196,6 @@
       "date": "2026-10-22T21:31:43+00:00",
       "display_date": "Oct 22, 2026",
       "summary": "US regulator is probing suspicious Iran oil trading, official says Reuters",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Sallie Mae Cuts Full-Year View After Logging Higher Charge-Offs",
-      "link": "https://www.wsj.com/business/earnings/sallie-mae-cuts-full-year-view-after-logging-higher-charge-offs-52bcaa21?mod=pls_whats_news_us_business_f",
-      "source": "Wall Street Journal",
-      "date": "2026-10-22T21:31:00+00:00",
-      "display_date": "Oct 22, 2026",
-      "summary": "The private student loan company, formally SLM Corp., now expects earnings per share for the year to be $1.95 to $2.05, down from its earlier guidance of $3.10 to $3.20.",
       "topics": [
         "Regulatory Change"
       ]
@@ -159,7 +258,7 @@
     },
     {
       "title": "Ecuador opposition leader arrested in money laundering investigation - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kbUVhT3NUV2N3c1I0Q1NGNXg0VXhKYXc1aWNIa09lTFotZS1Pb0dMU0hsLTJKeEdzRFhBN1JCNGc5SUc3VmRIcENZSXlyVWU2MGwwMmNVYlpWWXZ0QTVVZmV4ZEpDcjFTWC1vQWZ2bUw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaWh6Mm5KQW41S2pOTk9fVjRZVDl6SElwcF9rR1E2dVRCeld6czQ3NEVfRVd5ZTdGRF9ab01mTW5fUU1KSlcxVXAtcG9YVFNybnA0cV9YNEM5RzIxUTRoU0lkbTdHTC1ld2Z2V3hlNkhWSkVxMzhoQm10YkFjR3R3X0ZVb2Q?oc=5",
       "source": "Financial Times",
       "date": "2026-10-22T17:47:15+00:00",
       "display_date": "Oct 22, 2026",
@@ -178,6 +277,17 @@
       "topics": [
         "Enforcement Actions",
         "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "Treasury Unveils Rule to Ban Large Investors From Homebuying - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQY0JiLTJfNWFiSzBJMWZZX3lxZHd6WmNpR3l1RnRpdm94Um9HRV9haTczT0JEUU5JQkpVNlF4VmFIaTFzbkphcmNBRzl1ZjgySG5SU1hlUXhzckw3VVJJcl9Lb2EtRzVPOTVCTlZVa21sRkZYUjJFcWRzMVA1LVk2QnZic2twNEk3Rml3NTV1ejFVNVlfTm51VHp2Z2xGYmNQWnhTdm5qTDA2bldjVWI2am5vNG93Zw?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-10-22T17:31:12+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "Treasury Unveils Rule to Ban Large Investors From Homebuying Bloomberg.com",
+      "topics": [
+        "Regulatory Change"
       ]
     },
     {
@@ -637,29 +747,6 @@
       ]
     },
     {
-      "title": "How Does the Ukrainian Military Use Starlink?",
-      "link": "https://www.wsj.com/business/telecom/how-does-the-ukrainian-military-use-starlink-e1faa11b?mod=pls_whats_news_us_business_f",
-      "source": "Wall Street Journal",
-      "date": "2026-10-21T23:49:00+00:00",
-      "display_date": "Oct 21, 2026",
-      "summary": "Ukraine is using a basic Starshield service, which uses Starlink’s standard equipment with different features",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Largest fine ever: Meta ordered to pay $36bn in data privacy case - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNX0VmUXhpQzg3ZUd1UEppcWtPRE90WGh0dVpwSUNZemlCSlhaaW8xVGk1NkZHXzJYLXh3d3lzQUJpNWZHYzh0SUhnM010aWRYeE9SUndvT3phYVNWTy1NOVRkMVZ0SUs2ZmpDNFFIUl94MHM4YjRNX1lLcXRrRnc0R0NwNkh3N3ZkR2puWjlNZmtIS2FVZ0F2VTR0dzNYRU56SGlFYjZQazE1bXp5QW1OQjdsVXlraGNDLV9CTTFMUHgwSFQxWV8tN3hqLWdQc3FXYWtIT3BWem1aajNsN09iVnBFUk5HdGctaVlGU2xyd0todWg2RHEwenQ4VXJkZw?oc=5",
-      "source": "The Australian",
-      "date": "2026-10-21T23:30:00+00:00",
-      "display_date": "Oct 21, 2026",
-      "summary": "Largest fine ever: Meta ordered to pay $36bn in data privacy case The Australian",
-      "topics": [
-        "Enforcement Actions",
-        "Data Privacy"
-      ]
-    },
-    {
       "title": "UAE expands AML/CFT regime with tougher penalties and wider sector reach",
       "link": "https://www.complianceweek.com/aml/uae-expands-aml-cft-regime-with-tougher-penalties-and-wider-sector-reach/",
       "source": "Compliance Week",
@@ -771,17 +858,6 @@
       ]
     },
     {
-      "title": "HKEX Launches “Green Equity” Designation Program",
-      "link": "https://www.esgtoday.com/hkex-launches-green-equities-designation-program/?utm_source=rss&utm_medium=rss&utm_campaign=hkex-launches-green-equities-designation-program",
-      "source": "ESG Today",
-      "date": "2026-10-21T15:17:06+00:00",
-      "display_date": "Oct 21, 2026",
-      "summary": "Exchange group Hong Kong Exchanges and Clearing Limited (HKEX) announced the launch of HKEX Green […]",
-      "topics": [
-        "ESG & Sustainability"
-      ]
-    },
-    {
       "title": "Fraud Division Whistleblower Program: Zzzz",
       "link": "https://www.radicalcompliance.com/2026/10/21/fraud-division-whistleblower-program-zzzz/",
       "source": "Radical Compliance",
@@ -849,17 +925,6 @@
       ]
     },
     {
-      "title": "Ara Partners Raises $2.5 Billion for Inaugural Conventional Energy Optimization Fund",
-      "link": "https://www.esgtoday.com/ara-partners-raises-2-5-billion-for-inaugural-conventional-energy-optimization-fund/?utm_source=rss&utm_medium=rss&utm_campaign=ara-partners-raises-2-5-billion-for-inaugural-conventional-energy-optimization-fund",
-      "source": "ESG Today",
-      "date": "2026-10-21T10:50:44+00:00",
-      "display_date": "Oct 21, 2026",
-      "summary": "Energy and industrial transition-focused private equity investor Ara Partners announced that it has raised $2.5 […]",
-      "topics": [
-        "ESG & Sustainability"
-      ]
-    },
-    {
       "title": "Former chief executive banned after misconduct led to £4m losses in high-risk investments",
       "link": "https://www.fca.org.uk/news/press-releases/former-chief-executive-banned-after-misconduct-led-4m-losses-high-risk-investments",
       "source": "FCA UK Regulatory News",
@@ -868,17 +933,6 @@
       "summary": "The FCA has banned Jeffrey Dawkins, the former chief executive of Vector Wealth Ltd, after he dishonestly acted as a front for a disqualified director using the company to sell high-risk bonds. Mr Dawkins has also been fined nearly £270,000.In 2019, Mr Dawkins sold Vector Wealth ...",
       "topics": [
         "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "Hyundai, Peak Energy Launch Platform to Expand Renewable Energy in Automotive Supply Chain",
-      "link": "https://www.esgtoday.com/hyundai-peak-energy-launch-platform-to-expand-renewable-energy-in-automotive-supply-chain/?utm_source=rss&utm_medium=rss&utm_campaign=hyundai-peak-energy-launch-platform-to-expand-renewable-energy-in-automotive-supply-chain",
-      "source": "ESG Today",
-      "date": "2026-10-21T10:08:30+00:00",
-      "display_date": "Oct 21, 2026",
-      "summary": "Singapore-based renewable energy developer Peak Energy and Hyundai Motor Securities’ Vencore Rooftop Equity Fund announced […]",
-      "topics": [
-        "Operational & Enterprise Risk"
       ]
     },
     {
@@ -1144,17 +1198,6 @@
       "summary": "Former Rex chairman fined $800,000, disqualified for misleading market AFR",
       "topics": [
         "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "Blackbird secures payday at start-up First AML as Five V comes calling - AFR",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRE9vSnE1VWViSmhxWGQ2NFYxMHBmRFloZmhZeC0tbXIyRHc0Ri1mRTBsMlRZdFAzbGtuUkQ0R2JGQkdfMDJzYl85QXBXNURqcWl1aGR2V3pudWlpakM2d1lzVy1Od011T1JzTDNscXFnbnBOS2tsc0h6T0hBbG9NcDF0Y2d3Zm1lSjJiZDVSSm1MYlJQVFFRQ25MRU5xRjloV1N6bHdzTlZnUDlTeDhJM0s5SGdzSlpDZXc?oc=5",
-      "source": "AFR",
-      "date": "2026-10-20T04:55:00+00:00",
-      "display_date": "Oct 20, 2026",
-      "summary": "Blackbird secures payday at start-up First AML as Five V comes calling AFR",
-      "topics": [
-        "AML & Sanctions"
       ]
     },
     {
@@ -1609,17 +1652,6 @@
       "summary": "The business of GRC is ever-expanding, GRC technology is one of the fastest-growing segments in enterprise software, and compliance professions are rapidly evolving. Here’s the latest from across the industry. New products & platforms Optro, a GRC intelligence provider, released ...",
       "topics": [
         "Operational & Enterprise Risk"
-      ]
-    },
-    {
-      "title": "US considers removing sanctions on some shadow fleet vessels to cut freight rates, official says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdC1hR0pwcGJWU2NSX0szSlhYNlBMYUc2Y1ktS0NseE5MeEVKdE9jUVVqUHlva3dxeDg4NXRTQXM0UlpyMWJlTHNSN1ZiOWFqcWdIX1NNcGRhYzBsak5iVnZrYnJaX2xGbkRLcjNrQmFkUUd2ejVHWm0ydVJ2RVJhS1VFbkRhTHg5MVJXbnJDQ3YtRmVLWWpKU2xwUXNZSzMtUWI4cjJfaXp4djM0V2lQQmc4X2VsaVkxMHFpVUZ2bWNLaldpQnBNZmNn?oc=5",
-      "source": "Reuters",
-      "date": "2026-10-16T10:53:15+00:00",
-      "display_date": "Oct 16, 2026",
-      "summary": "US considers removing sanctions on some shadow fleet vessels to cut freight rates, official says Reuters",
-      "topics": [
-        "AML & Sanctions"
       ]
     },
     {
@@ -2081,17 +2113,6 @@
       ]
     },
     {
-      "title": "FCA announces new Board appointments",
-      "link": "https://www.fca.org.uk/news/news-stories/fca-announces-new-board-appointments-lea-paterson-matthew-tobin-sarah-pritchard",
-      "source": "FCA UK Regulatory News",
-      "date": "2026-09-30T17:17:00+00:00",
-      "display_date": "Sep 30, 2026",
-      "summary": "Three new appointments have been made to our Board, bringing additional experience in public policy, financial services, regulation and corporate leadership as we continue to deliver our strategy. Lea Paterson CBE and Matthew Tobin have been appointed by the Treasury as non-execu...",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "SEC Charges Two Individuals With Orchestrating Fraud Scheme That Targeted Veterans",
       "link": "https://www.sec.gov/newsroom/press-releases/2026-97-sec-charges-two-individuals-orchestrating-fraud-scheme-targeted-veterans",
       "source": "SEC Press Releases",
@@ -2109,17 +2130,6 @@
       "date": "2026-09-30T15:45:00+00:00",
       "display_date": "Sep 30, 2026",
       "summary": "The Securities and Exchange Commission today voted to propose rule amendments that would facilitate capital formation in the public and private markets by expanding retail investor choice and promoting innovation in regulated fund structures while…",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "FCA opens the gateway to regulated crypto",
-      "link": "https://www.fca.org.uk/news/press-releases/fca-opens-gateway-regulated-crypto",
-      "source": "FCA UK Regulatory News",
-      "date": "2026-09-30T11:00:00+00:00",
-      "display_date": "Sep 30, 2026",
-      "summary": "From today, crypto firms can apply for authorisation from the FCA, marking a landmark moment as the UK takes a step closer towards becoming one of the most trusted places in the world to build and invest in cryptoasset businesses. For the first time, crypto firms operating in the...",
       "topics": [
         "Regulatory Change"
       ]
@@ -2155,17 +2165,6 @@
       "summary": "Authorities in the Netherlands have arrested a 23-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters. In the days immediately following the suspect's arrest, remaining ShinyHunters members dramatically e...",
       "topics": [
         "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "FCA secures bankruptcy order against Arthur Temlett",
-      "link": "https://www.fca.org.uk/news/news-stories/fca-secures-bankruptcy-order-against-arthur-temlett",
-      "source": "FCA UK Regulatory News",
-      "date": "2026-09-28T14:29:00+00:00",
-      "display_date": "Sep 28, 2026",
-      "summary": "We asked the Court to make Arthur Temlett, trading as Abacus Insurance Consultants ('Abacus'), bankrupt. This is known as sequestration in Scotland. The Sheriff granted our application on 27 August 2026. Emma Porter of Aver Chartered Accountants ('Aver') was appointed as trustee....",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
