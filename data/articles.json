@@ -1,7 +1,18 @@
 {
-  "last_updated": "October 24, 2026 12:20 UTC",
-  "total_count": 222,
+  "last_updated": "October 24, 2026 16:18 UTC",
+  "total_count": 221,
   "articles": [
+    {
+      "title": "Netanyahu Says Israel Mulls Crypto Ahead of Possible Sanctions - Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWHZ6VVBXaDh1SXE5ZTBFa3pJS2ExLWR4b1FFWVJVNlJqRThrWGlxRlVZd0ZKaEhlSnJKMGNPaktXODdmZFR2aWl3WUFlOXNMczFkNXN2SXktQWhvLVJEOFhSaHVaRU96NDlNVWZGdi1mRGo1NHFuSFJKQm1MRHg2NE5jbFVGOTEwd0NRRloxQTd1NlhydW9YaW8zMlRNcFNkVUtpeUNwUDM5MnBNYlozYUVDUQ?oc=5",
+      "source": "Bloomberg",
+      "date": "2026-10-24T10:54:35+00:00",
+      "display_date": "Oct 24, 2026",
+      "summary": "Netanyahu Says Israel Mulls Crypto Ahead of Possible Sanctions Bloomberg",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
     {
       "title": "Six Flags to Add Seat Belts to Rides Following Death",
       "link": "https://www.wsj.com/business/hospitality/six-flags-to-add-seat-belts-to-rides-following-death-1c1fa20d?mod=pls_whats_news_us_business_f",
@@ -803,17 +814,6 @@
       ]
     },
     {
-      "title": "He Self-Funded a $45 Million Nicolas Cage Movie. Then It Was Stolen.",
-      "link": "https://www.wsj.com/business/media/he-self-funded-a-45-million-nicolas-cage-movie-then-it-was-stolen-4aa75bd6?mod=pls_whats_news_us_business_f",
-      "source": "Wall Street Journal",
-      "date": "2026-10-22T00:00:00+00:00",
-      "display_date": "Oct 22, 2026",
-      "summary": "A little-known producer sued Netflix for $105 million after a drive containing the film went missing from the streamer’s offices.",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
       "title": "Largest fine ever: Meta ordered to pay $36bn in data privacy case - The Australian",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNX0VmUXhpQzg3ZUd1UEppcWtPRE90WGh0dVpwSUNZemlCSlhaaW8xVGk1NkZHXzJYLXh3d3lzQUJpNWZHYzh0SUhnM010aWRYeE9SUndvT3phYVNWTy1NOVRkMVZ0SUs2ZmpDNFFIUl94MHM4YjRNX1lLcXRrRnc0R0NwNkh3N3ZkR2puWjlNZmtIS2FVZ0F2VTR0dzNYRU56SGlFYjZQazE1bXp5QW1OQjdsVXlraGNDLV9CTTFMUHgwSFQxWV8tN3hqLWdQc3FXYWtIT3BWem1aajNsN09iVnBFUk5HdGctaVlGU2xyd0todWg2RHEwenQ4VXJkZw?oc=5",
       "source": "The Australian",
@@ -823,6 +823,17 @@
       "topics": [
         "Enforcement Actions",
         "Data Privacy"
+      ]
+    },
+    {
+      "title": "ASIC probes Gemi as $150m in investor funds frozen in Adgemis fallout - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNRmpPZFphRlNveEZpV1EyeHpTMTEwTXg5RHlkUFFTa1RqRjdrUUh2VDJsb0VTT3NfYk0yS1UzQUhhbENCWHFWMFJsbVZNX1VMUE9KaUkySmpoNUlUdlBTNWNjRU5EYzB3NkpydnhOVDJ4eEVjM05YQUp2YmstejVrVm81VjQyVnliczBabW5la0U3VHd4UXFTOFk5eEJvNTk5WFQtaUJ0alp4NnQzYkd5enNpb183NnJCV2RzZzNrOW9oOThXcTdCUHpIdF85cTMxQUVwS0VldnRFUWotNlFaMnRZa0JKNGZIYmF1N2RCLUpOdWUwUEpTTGlOVjVfdw?oc=5",
+      "source": "The Australian",
+      "date": "2026-10-21T21:31:00+00:00",
+      "display_date": "Oct 21, 2026",
+      "summary": "ASIC probes Gemi as $150m in investor funds frozen in Adgemis fallout The Australian",
+      "topics": [
+        "Enforcement Actions"
       ]
     },
     {
@@ -994,17 +1005,6 @@
       ]
     },
     {
-      "title": "ASIC probes Gemi as $150m in investor funds frozen in Adgemis fallout - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNRmpPZFphRlNveEZpV1EyeHpTMTEwTXg5RHlkUFFTa1RqRjdrUUh2VDJsb0VTT3NfYk0yS1UzQUhhbENCWHFWMFJsbVZNX1VMUE9KaUkySmpoNUlUdlBTNWNjRU5EYzB3NkpydnhOVDJ4eEVjM05YQUp2YmstejVrVm81VjQyVnliczBabW5la0U3VHd4UXFTOFk5eEJvNTk5WFQtaUJ0alp4NnQzYkd5enNpb183NnJCV2RzZzNrOW9oOThXcTdCUHpIdF85cTMxQUVwS0VldnRFUWotNlFaMnRZa0JKNGZIYmF1N2RCLUpOdWUwUEpTTGlOVjVfdw?oc=5",
-      "source": "The Australian",
-      "date": "2026-10-21T08:43:00+00:00",
-      "display_date": "Oct 21, 2026",
-      "summary": "ASIC probes Gemi as $150m in investor funds frozen in Adgemis fallout The Australian",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
       "title": "ASIC investigating Adgemis backers’ freeze on $150m investor capital - AFR",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQU3pfVkx2SWpRdllBTnhITVI2V3cwYVhyUXFjb3lpQ0N4Wm9Vd010X0VQY00ycmxLVmVQN3ZfLXQxLWx5dFlOc21lUDB4NW5ldFlhNnlnZU92VHJKMERBdW5KdThBUktLcDc2YVdLdkVkUW5tM0taZy1xc3piNlduVUFyMlZsREF3Skl6d0c4Q1M1RHl0b2JrcWVGQmRuZjdDbzlLLWdKVUhuLVgtSlF3SjhBcktJSWJTdzBvTmVROFU?oc=5",
       "source": "AFR",
@@ -1071,12 +1071,12 @@
       ]
     },
     {
-      "title": "US Sanctions China’s Y Combinator in Google AI Secrets Case - Bloomberg.com",
+      "title": "US Sanctions China’s Y Combinator in Google AI Secrets Case - Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSWpoclBQZGh5ZzFZX25ESkYzTy1JV1dTQXhFUkhsODdZZ1VUOUlFaDFjaDBkYlRIeUZEQzJoOXZyTmFkeFNxNkxKQ1l3QmFRRlhkQWM0WnlLOXdySUlwX0t5UHNXZjFzUHhfOWZoam1CWmNjdXNnQ1pMUnZFYUxCenVfd3l4SjNsM1lfTG1jdXkzRkFfdnpSdjVpSk51UnFsQmZMM0xCZmJIcWlPMjMw?oc=5",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "date": "2026-10-20T19:35:17+00:00",
       "display_date": "Oct 20, 2026",
-      "summary": "US Sanctions China’s Y Combinator in Google AI Secrets Case Bloomberg.com",
+      "summary": "US Sanctions China’s Y Combinator in Google AI Secrets Case Bloomberg",
       "topics": [
         "AML & Sanctions"
       ]
@@ -1281,12 +1281,12 @@
       ]
     },
     {
-      "title": "US Allows Dark-Fleet Tankers to Shed Sanctions, Wright Says - Bloomberg",
+      "title": "US Allows Dark-Fleet Tankers to Shed Sanctions, Wright Says - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQXzR2UF9wUDNocnlfSDhDc2xseUM3SjNaR2M2MmpEa1pfYkdTbVFMRE5XVmRmOW9YLV9VaFZzOVUxcXVzRUZZMzhER1VhRW1yb1lPcWp2NEZhOTJMSWpqdkhYSmF4TFdwRlVKclUxSDJtQk1VZldXSXY4aU9jcDFKVHYxRldabHZ2Y09wZF9DSHNRbzRFWDlWNHN6VzV6T2NaeElSM2VoRFQ3aGJmS1pjelNieDU4RV9XMDlwSW5lYw?oc=5",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "date": "2026-10-19T20:50:09+00:00",
       "display_date": "Oct 19, 2026",
-      "summary": "US Allows Dark-Fleet Tankers to Shed Sanctions, Wright Says Bloomberg",
+      "summary": "US Allows Dark-Fleet Tankers to Shed Sanctions, Wright Says Bloomberg.com",
       "topics": [
         "AML & Sanctions"
       ]
@@ -1404,12 +1404,12 @@
       ]
     },
     {
-      "title": "Trump Faces Widening GOP Anger Over Russia Sanctions Waiver - Bloomberg.com",
+      "title": "Trump Faces Widening GOP Anger Over Russia Sanctions Waiver - Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdlBhMEdBRVg3TkZWNHNYNDc3ZVdfRVhpVmtWQUlhY2t2eW9vTW5wdTNLX0pUUDdyUXdUcU5neVFrLVp1ZXZ2R1VVM1h5YnZFQ3NVM0hraDZwUzBJMHRBb0NYa2JjRTZEbmJnMW5MNW9FcV9vbzhBSU5odzlBcTRTTGIzSEJHLU1NZVFnRHRHSGdfZVdmSnJzRzFVQTlsbTRfS05Pd05kb3lDWWE5cEJKbTMzRncyQQ?oc=5",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "date": "2026-10-19T05:50:00+00:00",
       "display_date": "Oct 19, 2026",
-      "summary": "Trump Faces Widening GOP Anger Over Russia Sanctions Waiver Bloomberg.com",
+      "summary": "Trump Faces Widening GOP Anger Over Russia Sanctions Waiver Bloomberg",
       "topics": [
         "AML & Sanctions"
       ]
@@ -1520,17 +1520,6 @@
       "date": "2026-10-17T23:45:00+00:00",
       "display_date": "Oct 17, 2026",
       "summary": "Trump waives sanctions against Russia just before new law takes effect The Australian",
-      "topics": [
-        "AML & Sanctions"
-      ]
-    },
-    {
-      "title": "Zelenskiy criticizes Trump's waiver of sanctions on Russia as 'wrong' - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUWRsWXNvbUVMb01QdTFTbEhpSGhZLVZYVXZramJkQjg2RXUzbXRaZjZlcnY1QTNoeU1zQzhhOEhwOFZVSkRySFFZNWI3RjZtUHJLaDhybEhWVzFBTF9uVlZjWlNSQk5aX25iZ0EySjRQYjR5aVRiM1VERjVFWmpTOTR0Y1ZhNUtaTHpTaWdZZVRPUmppTUJtYl9IZlhGQnM3WkVSNmRreVBjaDF5anFfSHhqN1ZUc2p3cjRoU0pyUzRkZjlBM05B?oc=5",
-      "source": "Reuters",
-      "date": "2026-10-17T14:39:22+00:00",
-      "display_date": "Oct 17, 2026",
-      "summary": "Zelenskiy criticizes Trump's waiver of sanctions on Russia as 'wrong' Reuters",
       "topics": [
         "AML & Sanctions"
       ]
