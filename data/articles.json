@@ -1,7 +1,18 @@
 {
-  "last_updated": "October 24, 2026 08:19 UTC",
-  "total_count": 224,
+  "last_updated": "October 24, 2026 12:20 UTC",
+  "total_count": 222,
   "articles": [
+    {
+      "title": "Six Flags to Add Seat Belts to Rides Following Death",
+      "link": "https://www.wsj.com/business/hospitality/six-flags-to-add-seat-belts-to-rides-following-death-1c1fa20d?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-10-24T10:37:00+00:00",
+      "display_date": "Oct 24, 2026",
+      "summary": "The decision to install additional restraints on some roller coasters comes after a fatal incident in Georgia.",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
     {
       "title": "Hong Kong regulator sets accountability, resilience, trust rules for bank AI",
       "link": "https://www.complianceweek.com/artificial-intelligence/hong-kong-regulator-sets-accountability-resilience-trust-rules-for-bank-ai/",
@@ -837,12 +848,12 @@
       ]
     },
     {
-      "title": "US Aims Iran ‘Shadow Fleet’ Sanctions at Law Firm, Shippers - Bloomberg.com",
+      "title": "US Aims Iran ‘Shadow Fleet’ Sanctions at Law Firm, Shippers - Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOc0IyUXo0UUJMVVpzdEd1RVBOUGprY05ycTNSV3AtRWJfdW8yT3l3WWVpckJoTWFsM09oWWg3M0xXNXRXSm9sX2M4V25RX2g4bFVlUWFSeXg3azBFN0ZSaGNEb1ducXlDa1pid3BkTm85elpnTjluRzNmYVV3Z1dfZndNcGRUcTNZbDZtWldPc21rY3E0QnZRQVMya3dhMkw3M19XWG5uTXVKS0E?oc=5",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "date": "2026-10-21T18:04:15+00:00",
       "display_date": "Oct 21, 2026",
-      "summary": "US Aims Iran ‘Shadow Fleet’ Sanctions at Law Firm, Shippers Bloomberg.com",
+      "summary": "US Aims Iran ‘Shadow Fleet’ Sanctions at Law Firm, Shippers Bloomberg",
       "topics": [
         "AML & Sanctions"
       ]
@@ -1082,12 +1093,12 @@
       ]
     },
     {
-      "title": "Brokers Gear Up for Compute Futures Ahead of Regulatory Approval - Bloomberg.com",
+      "title": "Brokers Gear Up for Compute Futures Ahead of Regulatory Approval - Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONklheXJqUHpxSTVuWjBENWFzaHNCd2ppaE1OMWZ4Y1F3Y3FzOXB6X2dKTThSdkUyNzIwMW9BZHNnSVVEQ2RtbTh6UWo0aDhodFlXdmZpZkRWN3RsZlJmdXp5VzAxd0pULUl0eERLZXhBOV9VMm04UXozOW01amhvajdvd0ZuVTUtVEcwUTEzSXViSXZ2YWUxMTZwWFluRkxSdFN1Y3RjZ3VYZldjVVIzaldnVnhQUQ?oc=5",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "date": "2026-10-20T16:10:12+00:00",
       "display_date": "Oct 20, 2026",
-      "summary": "Brokers Gear Up for Compute Futures Ahead of Regulatory Approval Bloomberg.com",
+      "summary": "Brokers Gear Up for Compute Futures Ahead of Regulatory Approval Bloomberg",
       "topics": [
         "Regulatory Change"
       ]
@@ -1110,17 +1121,6 @@
       "date": "2026-10-20T12:51:00+00:00",
       "display_date": "Oct 20, 2026",
       "summary": "The U.S. Securities and Exchange Commission (SEC) and the Financial Services Agency of Japan (FSA) convened the Autumn SEC-FSA Financial Regulatory Dialogue in Tokyo on Oct. 19, 2026.The SEC–FSA Dialogue builds upon longstanding efforts between the two…",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Insurer Rolls Out Policy to Protect Data Centers Against Growing Backlash - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNei1KY2RNLUdMcDFXWVdpVTQ1MzgtRGxZUEJFMmx4YmN0RlVDWkhpMEhuWHdpSzUyM0lEc3BMZ0U1NW11Mlp4MUZ0LS1FM1RzMXpWVGEyQ1U3b3lkcFRIaWZaZERIc09YaXVrRXJxVnFHUV9USVZsbk5WQnJPUTlvTGxvYUlSaW12OGJBSURwcmI3MU1YSjkxM0ZWQ3VnWXlZTHQ5U05PZkEySzBJTTlwbzN1cEl5dw?oc=5",
-      "source": "Bloomberg.com",
-      "date": "2026-10-20T12:00:26+00:00",
-      "display_date": "Oct 20, 2026",
-      "summary": "Insurer Rolls Out Policy to Protect Data Centers Against Growing Backlash Bloomberg.com",
       "topics": [
         "Regulatory Change"
       ]
@@ -1281,12 +1281,12 @@
       ]
     },
     {
-      "title": "US Allows Dark-Fleet Tankers to Shed Sanctions, Wright Says - Bloomberg.com",
+      "title": "US Allows Dark-Fleet Tankers to Shed Sanctions, Wright Says - Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQXzR2UF9wUDNocnlfSDhDc2xseUM3SjNaR2M2MmpEa1pfYkdTbVFMRE5XVmRmOW9YLV9VaFZzOVUxcXVzRUZZMzhER1VhRW1yb1lPcWp2NEZhOTJMSWpqdkhYSmF4TFdwRlVKclUxSDJtQk1VZldXSXY4aU9jcDFKVHYxRldabHZ2Y09wZF9DSHNRbzRFWDlWNHN6VzV6T2NaeElSM2VoRFQ3aGJmS1pjelNieDU4RV9XMDlwSW5lYw?oc=5",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "date": "2026-10-19T20:50:09+00:00",
       "display_date": "Oct 19, 2026",
-      "summary": "US Allows Dark-Fleet Tankers to Shed Sanctions, Wright Says Bloomberg.com",
+      "summary": "US Allows Dark-Fleet Tankers to Shed Sanctions, Wright Says Bloomberg",
       "topics": [
         "AML & Sanctions"
       ]
@@ -1459,12 +1459,12 @@
       ]
     },
     {
-      "title": "UK Signals ‘Different View’ From Trump on Russia Sanctions - Bloomberg.com",
+      "title": "UK Signals ‘Different View’ From Trump on Russia Sanctions - Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRTMtYlhaaWtFbVBlWXFUYUd4YjNYN0RKeWMzLTFTYlE1Wk1QRGNHSmZfZXpyWmwxMFZkM21Pc3RvUk1peWEzRkRnWGkxTGVPNGRZTkpzdU4ybFJfSzhrS3FDTVpEcW9FRHVHYjNTZGJsS2p0VTdqamFRYkF2S01OOTBDS0t1YVBDbUVXWmlVR1d5S01UNnJqUkdxcUlMSDlaQkNuVzBjWGk2b1k?oc=5",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "date": "2026-10-18T18:44:13+00:00",
       "display_date": "Oct 18, 2026",
-      "summary": "UK Signals ‘Different View’ From Trump on Russia Sanctions Bloomberg.com",
+      "summary": "UK Signals ‘Different View’ From Trump on Russia Sanctions Bloomberg",
       "topics": [
         "AML & Sanctions"
       ]
@@ -1525,34 +1525,12 @@
       ]
     },
     {
-      "title": "Zelensky says Trump could lift more Russia sanctions - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMUxRbHFfN1FQaEczd3hVUjVseFY3cUxDUkVPcm8zN2dfaHZ1bVl5VlVUUHBmTWVQN0pnZjRvSkROZnJLaGVxMkVOeU90cXRTdlNGa2RETUE3Uzd0ZkVkSnl4NmI3ZEN5TUdCZVlCT0x6SExtMzlCZ045QmFFdHJNOU1kd0d5SDFHb0ZiOFNFX1k2bERycUZITUo1ZUtoNWVVMUVSMlhIdkI1cndtbjJvcWNBd3BWQ3V2TDRKcFdnbklyVkk0UFhka2xqRENqbVRETnpSdXBJRmF0QQ?oc=5",
-      "source": "The Australian",
-      "date": "2026-10-17T19:10:00+00:00",
-      "display_date": "Oct 17, 2026",
-      "summary": "Zelensky says Trump could lift more Russia sanctions The Australian",
-      "topics": [
-        "AML & Sanctions"
-      ]
-    },
-    {
       "title": "Zelenskiy criticizes Trump's waiver of sanctions on Russia as 'wrong' - Reuters",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUWRsWXNvbUVMb01QdTFTbEhpSGhZLVZYVXZramJkQjg2RXUzbXRaZjZlcnY1QTNoeU1zQzhhOEhwOFZVSkRySFFZNWI3RjZtUHJLaDhybEhWVzFBTF9uVlZjWlNSQk5aX25iZ0EySjRQYjR5aVRiM1VERjVFWmpTOTR0Y1ZhNUtaTHpTaWdZZVRPUmppTUJtYl9IZlhGQnM3WkVSNmRreVBjaDF5anFfSHhqN1ZUc2p3cjRoU0pyUzRkZjlBM05B?oc=5",
       "source": "Reuters",
       "date": "2026-10-17T14:39:22+00:00",
       "display_date": "Oct 17, 2026",
       "summary": "Zelenskiy criticizes Trump's waiver of sanctions on Russia as 'wrong' Reuters",
-      "topics": [
-        "AML & Sanctions"
-      ]
-    },
-    {
-      "title": "Donald Trump exempts Russia from further sanctions mandated by new law - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaXNIdDdhLWJTcFJ3TmN4YUNHRGZSWmxRcWZ1NUVDVmYyLVBWNE04NWdCUExyTG1Jd3VDYW5BWVlFQWtlaFZEQV9BcjFyY2tkUmpxYWxMZjAtbGtfbGtCeUxJVmRJcDMtMk42N0hMSUFHRDdlbC1oYXVUTW13NC1Za2h2LWo?oc=5",
-      "source": "Financial Times",
-      "date": "2026-10-17T09:53:31+00:00",
-      "display_date": "Oct 17, 2026",
-      "summary": "Donald Trump exempts Russia from further sanctions mandated by new law Financial Times",
       "topics": [
         "AML & Sanctions"
       ]
