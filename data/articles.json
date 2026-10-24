@@ -1,7 +1,30 @@
 {
-  "last_updated": "October 24, 2026 04:20 UTC",
-  "total_count": 225,
+  "last_updated": "October 24, 2026 08:19 UTC",
+  "total_count": 224,
   "articles": [
+    {
+      "title": "Hong Kong regulator sets accountability, resilience, trust rules for bank AI",
+      "link": "https://www.complianceweek.com/artificial-intelligence/hong-kong-regulator-sets-accountability-resilience-trust-rules-for-bank-ai/",
+      "source": "Compliance Week",
+      "date": "2026-10-24T07:00:00+00:00",
+      "display_date": "Oct 24, 2026",
+      "summary": "Hong Kong’s banking regulator unveiled an AI framework focused on accountability, resilience and trust as financial institutions accelerate responsible artificial intelligence adoption. The post Hong Kong regulator sets accountability, resilience, trust rules for bank AI appeared...",
+      "topics": [
+        "Regulatory Change",
+        "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "DOJ, HHS launch self-disclosure pilot for health FCA violations",
+      "link": "https://www.complianceweek.com/healthcare/doj-hhs-launch-self-disclosure-pilot-for-health-fca-violations/",
+      "source": "Compliance Week",
+      "date": "2026-10-24T06:00:00+00:00",
+      "display_date": "Oct 24, 2026",
+      "summary": "Health care entities may be able to pay less than half the steep fines ordinarily associated with False Claims Act (FCA) violations by voluntarily reporting issues under a new pilot program launched Thursday by the US Department of Justice (DOJ) and the US Department of Health an...",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
     {
       "title": "UK regulator urges tighter private market controls to avoid conflicts of interest - Reuters",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTzBKeHpHaWFUb3pJVkdRSlRzU09ObXlzYzdMN3gzNnNvMzF3VVA1U0g4cm5zc25kZW9INFJNSzhEWUR4alRpeWU5bDdHSzlxNkowbEdzeWtBQnFhUjJQWUpTX1RXZlZhaEJ1Y0JCRGRqVjdZSkc3bkN1TmJJTTBrbnFKQ0NkOVQ2NUM0Q2FYakV0a29lZVNpN0FvbnB4b29xeFFfM2lUVVFNLU8xR21wZHlzZEhrZ3A3dWhqR2x2UjRpSDJ6bkxN?oc=5",
@@ -837,17 +860,6 @@
       ]
     },
     {
-      "title": "From AI Outputs to Compliance Decisions: A Practical Guide for Compliance Professionals",
-      "link": "https://www.complianceweek.com/scheduled-webcast/from-ai-outputs-to-compliance-decisions-a-practical-guide-for-compliance-professionals/",
-      "source": "Compliance Week",
-      "date": "2026-10-21T17:06:28+00:00",
-      "display_date": "Oct 21, 2026",
-      "summary": "AI is changing how compliance teams find information, assess risk, and support business decisions, but not every AI-enabled workflow is appropriate for every task. The post From AI Outputs to Compliance Decisions: A Practical Guide for Compliance Professionals appeared first on C...",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "Europe risks startup exodus as regulation, funding and skill gaps hamper AI adoption, AWS EMEA head says - Reuters",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWlBCRzNNN1hVU0RydnVDdzB6MUtiWVlURnFsTHBMcXlhMWxjMnFvZHVfbmFzSmRPbEtlRlUzQVFxUUgwbEhDdHR5eFFOZXFxdWJ2M0tUTi1DRU4xa2lFMFBEVHdmc25KZUNlVGV2bVA1SnczQ3pCeGE1cjgzV1hVbk9hVjdOTmNOeFEtZEJsVHNpNllLWGtHSWZnd3UxMmFwa2pPVDdMTW8xUm42dmxXbmMxQS1HUDJHektqMnZ1bUJ6OFpFVF9DYzhUSHhIQ0VNTEVnRkdiWGg?oc=5",
       "source": "Reuters",
@@ -1081,17 +1093,6 @@
       ]
     },
     {
-      "title": "AI in the Audit Room",
-      "link": "https://www.complianceweek.com/artificial-intelligence/ai-in-the-audit-room/",
-      "source": "Compliance Week",
-      "date": "2026-10-20T14:21:17+00:00",
-      "display_date": "Oct 20, 2026",
-      "summary": "Most organizations now use AI, and most have a policy for it. Far fewer test whether that policy works. When errors surface, it’s often internal audit that finds them, after the output has already reached the board, a regulator, or the public. The post AI in the Audit Room appear...",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "SEC and AMF Announce Supervisory MOU To Enhance Cooperation for Investment Advisers and Investment Service Providers",
       "link": "https://www.sec.gov/newsroom/press-releases/2026-108-sec-amf-announce-supervisory-mou-enhance-cooperation-investment-advisers-investment-service",
       "source": "SEC Press Releases",
@@ -1280,12 +1281,12 @@
       ]
     },
     {
-      "title": "US Allows Dark-Fleet Tankers to Shed Sanctions, Wright Says - Bloomberg",
+      "title": "US Allows Dark-Fleet Tankers to Shed Sanctions, Wright Says - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQXzR2UF9wUDNocnlfSDhDc2xseUM3SjNaR2M2MmpEa1pfYkdTbVFMRE5XVmRmOW9YLV9VaFZzOVUxcXVzRUZZMzhER1VhRW1yb1lPcWp2NEZhOTJMSWpqdkhYSmF4TFdwRlVKclUxSDJtQk1VZldXSXY4aU9jcDFKVHYxRldabHZ2Y09wZF9DSHNRbzRFWDlWNHN6VzV6T2NaeElSM2VoRFQ3aGJmS1pjelNieDU4RV9XMDlwSW5lYw?oc=5",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "date": "2026-10-19T20:50:09+00:00",
       "display_date": "Oct 19, 2026",
-      "summary": "US Allows Dark-Fleet Tankers to Shed Sanctions, Wright Says Bloomberg",
+      "summary": "US Allows Dark-Fleet Tankers to Shed Sanctions, Wright Says Bloomberg.com",
       "topics": [
         "AML & Sanctions"
       ]
@@ -1552,17 +1553,6 @@
       "date": "2026-10-17T09:53:31+00:00",
       "display_date": "Oct 17, 2026",
       "summary": "Donald Trump exempts Russia from further sanctions mandated by new law Financial Times",
-      "topics": [
-        "AML & Sanctions"
-      ]
-    },
-    {
-      "title": "Trump Halts New Russia Energy Sanctions to Ease Diesel Costs - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQjdOTlgtZzZTczBVX3kxZFZGdUhKTFU5blRvREhYVGp6WTRhMEVUdHN0dkg4eHMzOXI1QXFZRVZROVVDejVJT2M0SjRNS3dHTW5ZTHNvaE9zdTlLb1JuTGlQSGx6eGVfTFE2cXBuTE9jbnE1Snd5Y0V2U0FlWkNLanVnWjEybUJpa0tmM2l0OGRyWHFIWW5nNXFGVkF1aDltZnYwR1BFY0RoWHdUR2c?oc=5",
-      "source": "Bloomberg.com",
-      "date": "2026-10-17T09:45:05+00:00",
-      "display_date": "Oct 17, 2026",
-      "summary": "Trump Halts New Russia Energy Sanctions to Ease Diesel Costs Bloomberg.com",
       "topics": [
         "AML & Sanctions"
       ]
