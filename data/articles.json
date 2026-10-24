@@ -1,14 +1,25 @@
 {
-  "last_updated": "October 24, 2026 16:18 UTC",
+  "last_updated": "October 24, 2026 20:13 UTC",
   "total_count": 221,
   "articles": [
     {
-      "title": "Netanyahu Says Israel Mulls Crypto Ahead of Possible Sanctions - Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWHZ6VVBXaDh1SXE5ZTBFa3pJS2ExLWR4b1FFWVJVNlJqRThrWGlxRlVZd0ZKaEhlSnJKMGNPaktXODdmZFR2aWl3WUFlOXNMczFkNXN2SXktQWhvLVJEOFhSaHVaRU96NDlNVWZGdi1mRGo1NHFuSFJKQm1MRHg2NE5jbFVGOTEwd0NRRloxQTd1NlhydW9YaW8zMlRNcFNkVUtpeUNwUDM5MnBNYlozYUVDUQ?oc=5",
-      "source": "Bloomberg",
-      "date": "2026-10-24T10:54:35+00:00",
+      "title": "Israel central bank rejects Netanyahu’s plan to use crypto to evade sanctions - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOUo3Rnllc2dMYUJwa2U1anpZUEVrbTZzNy1vWU5mZ005ZVJtUGJ3Rzl6Y1NodkZhNGNmYUxEQ3g1dU10WTJZNVVOOWRuU0gySlIxVm9qQ1pYZ2RfMEt0WHRIbnR6NWhrVENjRlhvRjlzZkxLQUoyOFVpRzFXcTItdmNtNWQ?oc=5",
+      "source": "Financial Times",
+      "date": "2026-10-24T19:19:48+00:00",
       "display_date": "Oct 24, 2026",
-      "summary": "Netanyahu Says Israel Mulls Crypto Ahead of Possible Sanctions Bloomberg",
+      "summary": "Israel central bank rejects Netanyahu’s plan to use crypto to evade sanctions Financial Times",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "Netanyahu Says Israel Mulls Crypto Ahead of Possible Sanctions - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWHZ6VVBXaDh1SXE5ZTBFa3pJS2ExLWR4b1FFWVJVNlJqRThrWGlxRlVZd0ZKaEhlSnJKMGNPaktXODdmZFR2aWl3WUFlOXNMczFkNXN2SXktQWhvLVJEOFhSaHVaRU96NDlNVWZGdi1mRGo1NHFuSFJKQm1MRHg2NE5jbFVGOTEwd0NRRloxQTd1NlhydW9YaW8zMlRNcFNkVUtpeUNwUDM5MnBNYlozYUVDUQ?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-10-24T17:40:28+00:00",
+      "display_date": "Oct 24, 2026",
+      "summary": "Netanyahu Says Israel Mulls Crypto Ahead of Possible Sanctions Bloomberg.com",
       "topics": [
         "AML & Sanctions"
       ]
@@ -1027,17 +1038,6 @@
       ]
     },
     {
-      "title": "Professional Life: Big four’s climate fee bonanza - AFR",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWDNyUjZJdWlvOGlfaHdrenFRMHBfNUJhV2ZhM1hLUUZkR1FGY2lWT3czVGluWFp6eElHM01RSFFFZXVQZ1lYM1F2blNmSDJQM00wWkNjVVVPenozRmlxWTJKWFcwa0N2LU1nZU54N0hMZTZlN203dWtodmNTeTdxOGhKNUJPTHRScjZ3eFVrM3hDalhZS2EtbmV2MVlHc00?oc=5",
-      "source": "AFR",
-      "date": "2026-10-21T01:01:00+00:00",
-      "display_date": "Oct 21, 2026",
-      "summary": "Professional Life: Big four’s climate fee bonanza AFR",
-      "topics": [
-        "ESG & Sustainability"
-      ]
-    },
-    {
       "title": "Netflix posts third-quarter earnings beat, but shares fall on advertising and revenue guidance",
       "link": "https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html",
       "source": "CNBC",
@@ -1093,12 +1093,12 @@
       ]
     },
     {
-      "title": "Brokers Gear Up for Compute Futures Ahead of Regulatory Approval - Bloomberg",
+      "title": "Brokers Gear Up for Compute Futures Ahead of Regulatory Approval - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONklheXJqUHpxSTVuWjBENWFzaHNCd2ppaE1OMWZ4Y1F3Y3FzOXB6X2dKTThSdkUyNzIwMW9BZHNnSVVEQ2RtbTh6UWo0aDhodFlXdmZpZkRWN3RsZlJmdXp5VzAxd0pULUl0eERLZXhBOV9VMm04UXozOW01amhvajdvd0ZuVTUtVEcwUTEzSXViSXZ2YWUxMTZwWFluRkxSdFN1Y3RjZ3VYZldjVVIzaldnVnhQUQ?oc=5",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "date": "2026-10-20T16:10:12+00:00",
       "display_date": "Oct 20, 2026",
-      "summary": "Brokers Gear Up for Compute Futures Ahead of Regulatory Approval Bloomberg",
+      "summary": "Brokers Gear Up for Compute Futures Ahead of Regulatory Approval Bloomberg.com",
       "topics": [
         "Regulatory Change"
       ]
@@ -1459,12 +1459,12 @@
       ]
     },
     {
-      "title": "UK Signals ‘Different View’ From Trump on Russia Sanctions - Bloomberg",
+      "title": "UK Signals ‘Different View’ From Trump on Russia Sanctions - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRTMtYlhaaWtFbVBlWXFUYUd4YjNYN0RKeWMzLTFTYlE1Wk1QRGNHSmZfZXpyWmwxMFZkM21Pc3RvUk1peWEzRkRnWGkxTGVPNGRZTkpzdU4ybFJfSzhrS3FDTVpEcW9FRHVHYjNTZGJsS2p0VTdqamFRYkF2S01OOTBDS0t1YVBDbUVXWmlVR1d5S01UNnJqUkdxcUlMSDlaQkNuVzBjWGk2b1k?oc=5",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "date": "2026-10-18T18:44:13+00:00",
       "display_date": "Oct 18, 2026",
-      "summary": "UK Signals ‘Different View’ From Trump on Russia Sanctions Bloomberg",
+      "summary": "UK Signals ‘Different View’ From Trump on Russia Sanctions Bloomberg.com",
       "topics": [
         "AML & Sanctions"
       ]
