@@ -1,6 +1,6 @@
 {
-  "last_updated": "October 24, 2026 00:25 UTC",
-  "total_count": 224,
+  "last_updated": "October 24, 2026 04:20 UTC",
+  "total_count": 225,
   "articles": [
     {
       "title": "UK regulator urges tighter private market controls to avoid conflicts of interest - Reuters",
@@ -143,6 +143,17 @@
       "summary": "Google announced a new agreement with Voltus to fund a 1 GW virtual power plant […]",
       "topics": [
         "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "Corporate Governance Statement 2026 - AFR",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVkFVTVU1U19SY1VXN1NCeEZYRmRJaV9vWTE0WWVmczNjNmxpY283enNuZ1dKQ2Fib1RhRDhKUVlXMG1TU0QtRUluZ3FLMnhmeUx5VThMcHkzTjdTV2lXbjVNMEt3SE9wRGFQWEFaSmxqM1NfV3V6cEdMUThteEFfbS1LQjM2RFI2NEFud3Z0OA?oc=5",
+      "source": "AFR",
+      "date": "2026-10-23T05:52:13+00:00",
+      "display_date": "Oct 23, 2026",
+      "summary": "Corporate Governance Statement 2026 AFR",
+      "topics": [
+        "Operational & Enterprise Risk"
       ]
     },
     {
@@ -909,8 +920,9 @@
       "source": "CISA Cybersecurity Advisories",
       "date": "2026-10-21T12:00:00+00:00",
       "display_date": "Oct 21, 2026",
-      "summary": "CISA strongly urges organizations to immediately patch the recently disclosed critical vulnerabilities in PHP, CVE-2026-109618 and CVE-2026-109619 . These vulnerabilities, known as “php2shell,” allow for unauthenticated remote code execution in PHP and affect all PHP installation...",
+      "summary": "Update October 23, 2026 : CISA has updated this Alert to: (1) provide a SIGMA detection rule to help identify potentially suspicious activity; (2) incorporate partner resources; and (3) reinforce existing mitigation guidance. Purpose CISA strongly urges organizations to immediate...",
       "topics": [
+        "Regulatory Change",
         "Cybersecurity Risk"
       ]
     },
@@ -1058,12 +1070,12 @@
       ]
     },
     {
-      "title": "Brokers Gear Up for Compute Futures Ahead of Regulatory Approval - Bloomberg",
+      "title": "Brokers Gear Up for Compute Futures Ahead of Regulatory Approval - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONklheXJqUHpxSTVuWjBENWFzaHNCd2ppaE1OMWZ4Y1F3Y3FzOXB6X2dKTThSdkUyNzIwMW9BZHNnSVVEQ2RtbTh6UWo0aDhodFlXdmZpZkRWN3RsZlJmdXp5VzAxd0pULUl0eERLZXhBOV9VMm04UXozOW01amhvajdvd0ZuVTUtVEcwUTEzSXViSXZ2YWUxMTZwWFluRkxSdFN1Y3RjZ3VYZldjVVIzaldnVnhQUQ?oc=5",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "date": "2026-10-20T16:10:12+00:00",
       "display_date": "Oct 20, 2026",
-      "summary": "Brokers Gear Up for Compute Futures Ahead of Regulatory Approval Bloomberg",
+      "summary": "Brokers Gear Up for Compute Futures Ahead of Regulatory Approval Bloomberg.com",
       "topics": [
         "Regulatory Change"
       ]
@@ -1221,6 +1233,28 @@
       "summary": "Blackbird secures payday at start-up First AML as Five V comes calling AFR",
       "topics": [
         "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "superloop.com Appendix 4G and Corporate Governance Statement - AFR",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYVJZNVE5VVlhZUNLMzJfbFRkSk5JQVlMVXlSWnVRX3RGT1NzclVPZXlldklwSDFkWUVWZUZ3Z3ZOSXUxeVpOOXRKUmtRbzhKR0VwZW1YYUk3WTJ2UTdKVVhNeENEOC1tZzVsUmtha0FCVS12YURhWlNSQkpWMEVJZ0tSa0VHNFNEM1d6YnZnYw?oc=5",
+      "source": "AFR",
+      "date": "2026-10-20T04:33:57+00:00",
+      "display_date": "Oct 20, 2026",
+      "summary": "superloop.com Appendix 4G and Corporate Governance Statement AFR",
+      "topics": [
+        "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "Climate-Related Disclosures 2026 - AFR",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaldBamxvdG1vWE1xb3BvTG94bW11d3h1Ty1DNWx0aEEySWdKaHVtUm5BazJFQXR0ZVdaTTZJQUJBNHVxRkFHRmU2eHdQd2xPVl9oQ09uOU12RTlrUlZXWVVGa09UYU5MVkRuQ0FMTDVNVVBNcXFRQ0dIcGxwMVRrdzg0M1hFclRPdG5nVDBsaw?oc=5",
+      "source": "AFR",
+      "date": "2026-10-20T02:52:22+00:00",
+      "display_date": "Oct 20, 2026",
+      "summary": "Climate-Related Disclosures 2026 AFR",
+      "topics": [
+        "ESG & Sustainability"
       ]
     },
     {
@@ -1501,17 +1535,6 @@
       ]
     },
     {
-      "title": "PODCAST: Trump drops Russia sanctions, Israeli settlers attack US photojournalist, Oregon police say teacher and parent stopped school shooter - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT0dJdVBKODhFcV9obk9fUElwNnV0bHFDQTVDcE12RldOVFpnSzRsQ1ZqYVBtbHlmQnJiZGtUdkk2d0tiaTBKMEZDbmkwZFFxcEd1aTVvSmlQMTVXSkMwQ1FTb3FOdnhVYXhVbXlKWGFIVjBNZGZQc2NwMHBKRGhwSUFBb214bUxaRW9iZm85a0FpajViTkhCdldWdHI5LWQwY2hSYk5BdUFrV2xXU05mUlFwWndZN2QtcDJmWTFtRFk?oc=5",
-      "source": "Reuters",
-      "date": "2026-10-17T16:55:53+00:00",
-      "display_date": "Oct 17, 2026",
-      "summary": "PODCAST: Trump drops Russia sanctions, Israeli settlers attack US photojournalist, Oregon police say teacher and parent stopped school shooter Reuters",
-      "topics": [
-        "AML & Sanctions"
-      ]
-    },
-    {
       "title": "Zelenskiy criticizes Trump's waiver of sanctions on Russia as 'wrong' - Reuters",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUWRsWXNvbUVMb01QdTFTbEhpSGhZLVZYVXZramJkQjg2RXUzbXRaZjZlcnY1QTNoeU1zQzhhOEhwOFZVSkRySFFZNWI3RjZtUHJLaDhybEhWVzFBTF9uVlZjWlNSQk5aX25iZ0EySjRQYjR5aVRiM1VERjVFWmpTOTR0Y1ZhNUtaTHpTaWdZZVRPUmppTUJtYl9IZlhGQnM3WkVSNmRreVBjaDF5anFfSHhqN1ZUc2p3cjRoU0pyUzRkZjlBM05B?oc=5",
       "source": "Reuters",
@@ -1540,17 +1563,6 @@
       "date": "2026-10-17T09:45:05+00:00",
       "display_date": "Oct 17, 2026",
       "summary": "Trump Halts New Russia Energy Sanctions to Ease Diesel Costs Bloomberg.com",
-      "topics": [
-        "AML & Sanctions"
-      ]
-    },
-    {
-      "title": "Trump waives many Russia-related sanctions, tariffs - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPLWQtZVdORmV1MUFvQzBNSzhqNGJBWEhwcmUwWnNiVUt2YXc5MnYyTlFPbjlyd1REQlF6c0xJZzZ3NzBxbUFhQjhGb190czEzSWJvdkVXSVJlOVBvUmpkSHhOeUYyNTkzMjZ1UGJ1TXZOSEJ2ZG9FTEpNRUVRS3gzNDAwaHFhNnNmU1ZmeFotYWhGUjYzS1hmUlE3MFl4dUpqOFg1bE1MZ1VXNkdCV1dnTHp6eFJERXFvNkFwRENOT1hFM0R2Zm5FRFpTbUIwNFhoWHcyRFF6SnowX0Y0NEF3MmItNmVSaEhPRjh1UnZqZVo0V3ZQX2JmMmJWb0dEUE95Ukd5RA?oc=5",
-      "source": "The Australian",
-      "date": "2026-10-17T02:45:00+00:00",
-      "display_date": "Oct 17, 2026",
-      "summary": "Trump waives many Russia-related sanctions, tariffs The Australian",
       "topics": [
         "AML & Sanctions"
       ]
