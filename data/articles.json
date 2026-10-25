@@ -1,14 +1,14 @@
 {
-  "last_updated": "October 24, 2026 20:13 UTC",
-  "total_count": 221,
+  "last_updated": "October 25, 2026 00:17 UTC",
+  "total_count": 219,
   "articles": [
     {
-      "title": "Israel central bank rejects Netanyahu’s plan to use crypto to evade sanctions - Financial Times",
+      "title": "Israeli central bank rejects Benjamin Netanyahu’s plan to use crypto to evade sanctions - Financial Times",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOUo3Rnllc2dMYUJwa2U1anpZUEVrbTZzNy1vWU5mZ005ZVJtUGJ3Rzl6Y1NodkZhNGNmYUxEQ3g1dU10WTJZNVVOOWRuU0gySlIxVm9qQ1pYZ2RfMEt0WHRIbnR6NWhrVENjRlhvRjlzZkxLQUoyOFVpRzFXcTItdmNtNWQ?oc=5",
       "source": "Financial Times",
       "date": "2026-10-24T19:19:48+00:00",
       "display_date": "Oct 24, 2026",
-      "summary": "Israel central bank rejects Netanyahu’s plan to use crypto to evade sanctions Financial Times",
+      "summary": "Israeli central bank rejects Benjamin Netanyahu’s plan to use crypto to evade sanctions Financial Times",
       "topics": [
         "AML & Sanctions"
       ]
@@ -246,6 +246,17 @@
       ]
     },
     {
+      "title": "US nuclear power regulator allows applicants to include data from agency projects - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSEp1Rk83dWxRQVRiZ1IzS0cxRXRnVHpndmgyMmc1azN1UlFNSklNSmZsV1Y1TlA0U3pSV2FzU3lpM0xLY01nSFRyaDhoQUt5WGRXOWhZWmk3WV9YdUxyN3Q3RWNLRzBQbmJlaENBUW4xUUtnVC1LZGxPd3JPdVVMbkNKaGlFcWJiNmVwT25FdW9FV2xzRHhiN0FRRU9iNXlmTWwzRE5Zb3E1S3duRzktZC1lNktPeHdtbE1KTUpjd1VDWXB5?oc=5",
+      "source": "Reuters",
+      "date": "2026-10-23T03:54:17+00:00",
+      "display_date": "Oct 23, 2026",
+      "summary": "US nuclear power regulator allows applicants to include data from agency projects Reuters",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
       "title": "Maher bristles at ‘harsh’ Cup penalty as Brown weighs choice - The Australian",
       "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNczlQZ1NBOGhsb2ZkbUN2MzlheWJ0TGlDTzVnS01kWmxKQmh0VHFpNkliZnFuWGp1NzE3Um1Qc2phS1ZIcFJDTFU0WjBzVm94dTUzUUZBRWZVcUh2R0NlNjBtelJxZUNjX0ZMTkhUZ3lMa2gzd0Q2UEN3ZjRPNUNCUk1ONk9WZWJ4RGI2cnh3Sjc0UGV6MG1oY0Z5cTBMMWVYN0tIcmpmR0lKN2FrUnFKRmNRMzh6XzUza1Jnd2F4cXNHRkJXRFJvOUZKdXFxYzMwR2RGS0t3TWFNR1pXVkM3bmxXMHpPU294UHE3ald0SkdXQkwxX3NSd094Q3NYMFZRX2hleGZjNktLUF9s?oc=5",
       "source": "The Australian",
@@ -319,17 +330,6 @@
       "date": "2026-10-22T20:40:55+00:00",
       "display_date": "Oct 22, 2026",
       "summary": "Reports from banks and other financial institutions have helped identify about $270 million in federal aid funds linked to suspicious financial activity, the US Treasury Department said Monday. The post Bank reports help FinCEN identify $270M in possible student aid schemes appea...",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "US nuclear power regulator allows applicants to include data from agency projects - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSEp1Rk83dWxRQVRiZ1IzS0cxRXRnVHpndmgyMmc1azN1UlFNSklNSmZsV1Y1TlA0U3pSV2FzU3lpM0xLY01nSFRyaDhoQUt5WGRXOWhZWmk3WV9YdUxyN3Q3RWNLRzBQbmJlaENBUW4xUUtnVC1LZGxPd3JPdVVMbkNKaGlFcWJiNmVwT25FdW9FV2xzRHhiN0FRRU9iNXlmTWwzRE5Zb3E1S3duRzktZC1lNktPeHdtbE1KTUpjd1VDWXB5?oc=5",
-      "source": "Reuters",
-      "date": "2026-10-22T20:10:00+00:00",
-      "display_date": "Oct 22, 2026",
-      "summary": "US nuclear power regulator allows applicants to include data from agency projects Reuters",
       "topics": [
         "Regulatory Change"
       ]
@@ -1404,17 +1404,6 @@
       ]
     },
     {
-      "title": "Trump Faces Widening GOP Anger Over Russia Sanctions Waiver - Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdlBhMEdBRVg3TkZWNHNYNDc3ZVdfRVhpVmtWQUlhY2t2eW9vTW5wdTNLX0pUUDdyUXdUcU5neVFrLVp1ZXZ2R1VVM1h5YnZFQ3NVM0hraDZwUzBJMHRBb0NYa2JjRTZEbmJnMW5MNW9FcV9vbzhBSU5odzlBcTRTTGIzSEJHLU1NZVFnRHRHSGdfZVdmSnJzRzFVQTlsbTRfS05Pd05kb3lDWWE5cEJKbTMzRncyQQ?oc=5",
-      "source": "Bloomberg",
-      "date": "2026-10-19T05:50:00+00:00",
-      "display_date": "Oct 19, 2026",
-      "summary": "Trump Faces Widening GOP Anger Over Russia Sanctions Waiver Bloomberg",
-      "topics": [
-        "AML & Sanctions"
-      ]
-    },
-    {
       "title": "Morning Bid: Markets left to figure out sanctions - Reuters",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15Zk9kSXZkOVBJMWZjbXNlSmI2a2F6VG5EUFFfcHlMUjhaX25qaW1qWGNCVFpRaUlMN042UHdTNEh1eHY0MUFmS2RLZTJOd2VLRTlkX082UFNjTHdSZjBlQTB4b0hpeXlzY2UzZXlTNWoyX1pOVi1RTVV6UEhtOG8?oc=5",
       "source": "Reuters",
@@ -1511,17 +1500,6 @@
       "summary": "One million Australians in ‘unsustainable’ super funds: APRA AFR",
       "topics": [
         "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Trump waives sanctions against Russia just before new law takes effect - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQRGxJZEZ4TG9uYU1oUzdZRXg2U04tRDlnS3BIOUhHc2JRdi02cXBOUXhvZFNaekFCZ0FYQlI0Rm1pMU9ac0dNc0plT0pYOXAwZGxyRkFhOEtXdDFaZk5IMWdjR3ZBSy01WmVKWXFZMGJhVzFaMmc5LVZxUWl1eTJwTWRQd3ZJY3ZBaWkydDJYN1J6YTdVWkxkbXNNRHBCdjA1Mm54dkVRQXBOY0F2VjVHRTF5OVlWVW1TSV9CMTBzaGEyTGhDZXVEOU1lOWxYdXlzZVp3SmxOd1dZSWdISDQ0N0lZWTNncUV1WndQbG5lcTVRZnN0RGd4SGhaSnFxYlpYQUJwTkI2SXAweS1K?oc=5",
-      "source": "The Australian",
-      "date": "2026-10-17T23:45:00+00:00",
-      "display_date": "Oct 17, 2026",
-      "summary": "Trump waives sanctions against Russia just before new law takes effect The Australian",
-      "topics": [
-        "AML & Sanctions"
       ]
     },
     {
