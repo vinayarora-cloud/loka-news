@@ -1,7 +1,29 @@
 {
-  "last_updated": "October 25, 2026 04:23 UTC",
-  "total_count": 217,
+  "last_updated": "October 25, 2026 08:18 UTC",
+  "total_count": 215,
   "articles": [
+    {
+      "title": "ESG Today: Week in Review",
+      "link": "https://www.esgtoday.com/esg-today-week-in-review-280/?utm_source=rss&utm_medium=rss&utm_campaign=esg-today-week-in-review-280",
+      "source": "ESG Today",
+      "date": "2026-10-25T08:16:49+00:00",
+      "display_date": "Oct 25, 2026",
+      "summary": "This week in ESG news: ISSB releases proposed nature-related corporate reporting requirements; Coca-Cola, Nestlé, Danone […]",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "Darwin pregnant patients' medical information posted to Instagram in breach",
+      "link": "https://www.abc.net.au/news/2026-10-25/nt-rdh-privacy-breach-medical-patient-info-posted-to-instagram/107304564",
+      "source": "ABC News Business (AU)",
+      "date": "2026-10-25T05:11:48+00:00",
+      "display_date": "Oct 25, 2026",
+      "summary": "Confidential medical information belonging to about a dozen pregnant patients at Royal Darwin Hospital was posted to Instagram by a 'medical observer' associated with the facility.",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
     {
       "title": "Israeli central bank rejects Benjamin Netanyahu’s plan to use crypto to evade sanctions - Financial Times",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOUo3Rnllc2dMYUJwa2U1anpZUEVrbTZzNy1vWU5mZ005ZVJtUGJ3Rzl6Y1NodkZhNGNmYUxEQ3g1dU10WTJZNVVOOWRuU0gySlIxVm9qQ1pYZ2RfMEt0WHRIbnR6NWhrVENjRlhvRjlzZkxLQUoyOFVpRzFXcTItdmNtNWQ?oc=5",
@@ -199,17 +221,6 @@
       "summary": "Google announced a new agreement with Voltus to fund a 1 GW virtual power plant […]",
       "topics": [
         "ESG & Sustainability"
-      ]
-    },
-    {
-      "title": "Corporate Governance Statement 2026 - AFR",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVkFVTVU1U19SY1VXN1NCeEZYRmRJaV9vWTE0WWVmczNjNmxpY283enNuZ1dKQ2Fib1RhRDhKUVlXMG1TU0QtRUluZ3FLMnhmeUx5VThMcHkzTjdTV2lXbjVNMEt3SE9wRGFQWEFaSmxqM1NfV3V6cEdMUThteEFfbS1LQjM2RFI2NEFud3Z0OA?oc=5",
-      "source": "AFR",
-      "date": "2026-10-23T05:52:13+00:00",
-      "display_date": "Oct 23, 2026",
-      "summary": "Corporate Governance Statement 2026 AFR",
-      "topics": [
-        "Operational & Enterprise Risk"
       ]
     },
     {
@@ -748,17 +759,6 @@
       ]
     },
     {
-      "title": "ISSB Releases Proposed Nature-Related Reporting Requirements",
-      "link": "https://www.esgtoday.com/issb-releases-proposed-nature-related-reporting-requirements/?utm_source=rss&utm_medium=rss&utm_campaign=issb-releases-proposed-nature-related-reporting-requirements",
-      "source": "ESG Today",
-      "date": "2026-10-22T10:33:49+00:00",
-      "display_date": "Oct 22, 2026",
-      "summary": "The IFRS Foundation’s International Sustainability Standards Board (ISSB) announced the release of the initial exposure draft […]",
-      "topics": [
-        "ESG & Sustainability"
-      ]
-    },
-    {
       "title": "Republican backlash over Russia policy poses challenge for Trump in Congress - Reuters",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaDFDZkZKQWR4NUxYR1dscU5tbnl5STNSam5nVW9fNnVNUm9TOGktNjNFQy1maTJ6ZlpWWnY3ejdPMEtnQlRxcjNrZWpLOUhYNjdLdER6dEhDXzlZMmpZX1ZzLWZYUi1UMUxDTkZxa1ZvcEFjUjh3eFVEVDREaWttdEV2V0pxdEpRZ1VtUDEwcE9pTTFXa3V3azFwRWpwTVRrdkZKb0xQUWg1bkhFcXNXN1hiY3hyZG1YNms2bzNUTQ?oc=5",
       "source": "Reuters",
@@ -792,6 +792,17 @@
       ]
     },
     {
+      "title": "ENVIRONMENT, SOCIAL & GOVERNANCE REPORT 2026 - AFR",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONlAtemNTVUljanpvWHN2SWpBazFBUm9NUW1FajJsLW1PdEZaX3lHWGtuUUJCV3pvQ3dGa2pmRXhWZnY3UkM3SExZMEswaXpmLVlYZkhNV1JnQjVLdTZWWlJRTDlab1lKMTJkSkwwcEFwcHhXVU13czluS2s0clhnWGpsMk0ySXVMRTlvbVBBOA?oc=5",
+      "source": "AFR",
+      "date": "2026-10-22T05:52:15+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "ENVIRONMENT, SOCIAL & GOVERNANCE REPORT 2026 AFR",
+      "topics": [
+        "Operational & Enterprise Risk"
+      ]
+    },
+    {
       "title": "German regulator revokes license of Bank Saderat Iran in Hamburg - Reuters",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNLUpGcUpQSDMwN3g2aktoXzFtWXpvNWlaWjhRaks5YzNMRGgwYU5tZ2xiNm1fN1pVZVFzOWVsRlVqdUljN0xQenJlSnJkLVRYQmd3ZG1SeW9kVFVMT2FnT0Q3b3hGVHNadlRGZTlYSV9lazVIQWI2ZV90aWhyWWlJSXdZWlNDNG52S3BVcFQwUERITHNPanJGTVRYVHJDdDkydEFnVWY3QlREdFBzaUlOLQ?oc=5",
       "source": "Reuters",
@@ -800,17 +811,6 @@
       "summary": "German regulator revokes license of Bank Saderat Iran in Hamburg Reuters",
       "topics": [
         "Regulatory Change"
-      ]
-    },
-    {
-      "title": "KPMG ban on government work extended after 'serious ethical failings'",
-      "link": "https://www.abc.net.au/news/2026-10-22/audit-leaks-scandal-kpmg-ban-on-government-work-extends-to-2027/107297484",
-      "source": "ABC News Business (AU)",
-      "date": "2026-10-22T05:35:31+00:00",
-      "display_date": "Oct 22, 2026",
-      "summary": "The federal government extends its ban on KPMG bidding for new government work until at least the end of February, following allegations its audit partners misused client data then mishandled a whistleblower's complaint.",
-      "topics": [
-        "Operational & Enterprise Risk"
       ]
     },
     {
@@ -1248,17 +1248,6 @@
       ]
     },
     {
-      "title": "Climate-Related Disclosures 2026 - AFR",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaldBamxvdG1vWE1xb3BvTG94bW11d3h1Ty1DNWx0aEEySWdKaHVtUm5BazJFQXR0ZVdaTTZJQUJBNHVxRkFHRmU2eHdQd2xPVl9oQ09uOU12RTlrUlZXWVVGa09UYU5MVkRuQ0FMTDVNVVBNcXFRQ0dIcGxwMVRrdzg0M1hFclRPdG5nVDBsaw?oc=5",
-      "source": "AFR",
-      "date": "2026-10-20T02:52:22+00:00",
-      "display_date": "Oct 20, 2026",
-      "summary": "Climate-Related Disclosures 2026 AFR",
-      "topics": [
-        "ESG & Sustainability"
-      ]
-    },
-    {
       "title": "More litigation, higher court losses push ASIC $90m into the red - AFR",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeFBqVnVIcGdtNHdjMUdzcVpJS3ZBUmdQWEFyamJuRGtmOENTRWYyNm9sTzRoRGVyUVQwSER5MjdfNEpKN1pmRXlQVEFiVUNfdTh0WEx1VjhQaE9hTzBlbFRDZ3RVVTBfVVlhQ2ZvUnFhZDI2QUJ2S0hjcFd0ZGJoZTY4dGM2ZVd6b095V1lSR1ZlNUVYLXM3Qmt0YnY4bll6Uk1fcGhKMmZwZERaUXJwNjF2UlU?oc=5",
       "source": "AFR",
@@ -1465,17 +1454,6 @@
       "date": "2026-10-18T16:29:50+00:00",
       "display_date": "Oct 18, 2026",
       "summary": "NY AG Candidate calls for stricter enforcement of subway assaults The Australian",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "Winning has faith in ‘love rat’ CEO despite explosive ASIC claims - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNWjI0Z3ZJVW03UHVQMUlkRDkydko4QnJEY0ZSUlpVX1BjeE1PWDNXSVJzaWkxVkxDcGNQRmJNSVRGNWgyOS0yYk9WVEtodmpEcmZreW1sb2lmem5UeVdkT1ZoVXc1X2FEdzhmTTJzcVJLNjBvZ0xjQ0E4eDZPS0hoZW5VUklZVFVfUjFvY1dnYWtTcFEzWUU3Y1pYVHlSMGRXOXhyX2k5SU5mZjhER0hsZkc0RTJDbzZ0cUpkLWxzY0dULVpQakV2UlhCbHpOV3NGejBFV2NNM0tMM2podDZrUmFOa3FhQQ?oc=5",
-      "source": "The Australian",
-      "date": "2026-10-18T04:29:00+00:00",
-      "display_date": "Oct 18, 2026",
-      "summary": "Winning has faith in ‘love rat’ CEO despite explosive ASIC claims The Australian",
       "topics": [
         "Enforcement Actions"
       ]
