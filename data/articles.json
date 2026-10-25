@@ -1,7 +1,29 @@
 {
-  "last_updated": "October 25, 2026 12:20 UTC",
-  "total_count": 214,
+  "last_updated": "October 25, 2026 16:19 UTC",
+  "total_count": 213,
   "articles": [
+    {
+      "title": "Cutting ‘red tape’ is nothing but a red herring – and arguably counterproductive | Heather Stewart",
+      "link": "https://www.theguardian.com/business/2026/oct/25/cutting-red-tape-is-nothing-but-a-red-herring-and-arguably-counterproductive",
+      "source": "The Guardian Australia",
+      "date": "2026-10-25T13:00:34+00:00",
+      "display_date": "Oct 25, 2026",
+      "summary": "Blaming a moribund economy on too many rules is a hackneyed neoliberal trope – UK plc needs smarter regulation, not less regulation Before becoming prime minister, Andy Burnham pledged to “end 40 years of neoliberalism”. But as he prepares for his first budget on Wednesday, his g...",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Netanyahu rebuked for plan to use crypto to bypass economic sanctions - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdEZIYi1YYkZXSDlUeWN0cUgzdzdudTFUNlF5bHE1eVM4Z1NZeUFxVWZrVXp3d0N1dnRRWU5iYzZSc3J5QlJiQ3c4bllDUXFJcFFFdjNGeTFPbGhxc2VRZjYzV1dLSmtKX2JqQlpfd2U4RTFmWUhoRGFtVUVtVWRSc0NBZjc0NjhUdUVLNmM2dDVBYUxLOWRob3BwWkY2bnBKSlhnSGc0aXVfTEZ5RjBsTDJ3?oc=5",
+      "source": "Reuters",
+      "date": "2026-10-25T12:15:33+00:00",
+      "display_date": "Oct 25, 2026",
+      "summary": "Netanyahu rebuked for plan to use crypto to bypass economic sanctions Reuters",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
     {
       "title": "Four ways US foreign policy could change if Democrats win in November - Reuters",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYVRLMHJmdldMQ1h3TUZkbmpNUUZqUlVTY1VPaTNpU0JLc2xua051SmgtQUJzcFlnRjV3a3VaWVctNFM0dF80X2VKMlM5UTNIQkV4YmJ4TTAxdDFVS2EtdFN6R2pfTDVTVnNfZjJOYXdxbTV3eGxQeUFPZV85ZjBNb0I2dlpVdU9DQkhDaWI2Z214Wko2cUVLenFCYWUtLVY5WF9ydlJOTmlkdjN4RloxQQ?oc=5",
@@ -263,17 +285,6 @@
       "date": "2026-10-23T04:57:59+00:00",
       "display_date": "Oct 23, 2026",
       "summary": "Aldi has repealed its policy of mandatory bag checks that became a lightning rod of frustration for shoppers and staff.",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "US nuclear power regulator allows applicants to include data from agency projects - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSEp1Rk83dWxRQVRiZ1IzS0cxRXRnVHpndmgyMmc1azN1UlFNSklNSmZsV1Y1TlA0U3pSV2FzU3lpM0xLY01nSFRyaDhoQUt5WGRXOWhZWmk3WV9YdUxyN3Q3RWNLRzBQbmJlaENBUW4xUUtnVC1LZGxPd3JPdVVMbkNKaGlFcWJiNmVwT25FdW9FV2xzRHhiN0FRRU9iNXlmTWwzRE5Zb3E1S3duRzktZC1lNktPeHdtbE1KTUpjd1VDWXB5?oc=5",
-      "source": "Reuters",
-      "date": "2026-10-23T03:54:17+00:00",
-      "display_date": "Oct 23, 2026",
-      "summary": "US nuclear power regulator allows applicants to include data from agency projects Reuters",
       "topics": [
         "Regulatory Change"
       ]
@@ -814,17 +825,6 @@
       ]
     },
     {
-      "title": "German regulator revokes license of Bank Saderat Iran in Hamburg - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNLUpGcUpQSDMwN3g2aktoXzFtWXpvNWlaWjhRaks5YzNMRGgwYU5tZ2xiNm1fN1pVZVFzOWVsRlVqdUljN0xQenJlSnJkLVRYQmd3ZG1SeW9kVFVMT2FnT0Q3b3hGVHNadlRGZTlYSV9lazVIQWI2ZV90aWhyWWlJSXdZWlNDNG52S3BVcFQwUERITHNPanJGTVRYVHJDdDkydEFnVWY3QlREdFBzaUlOLQ?oc=5",
-      "source": "Reuters",
-      "date": "2026-10-22T05:39:00+00:00",
-      "display_date": "Oct 22, 2026",
-      "summary": "German regulator revokes license of Bank Saderat Iran in Hamburg Reuters",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "UK competition watchdog fines three companies $8 million for misleading sales claims and obscure pricing",
       "link": "https://www.complianceweek.com/retail/uk-competition-watchdog-fines-three-companies-8-million-for-misleading-sales-claims-and-obscure-pricing/",
       "source": "Compliance Week",
@@ -1278,17 +1278,6 @@
       "summary": "US Allows Dark-Fleet Tankers to Shed Sanctions, Wright Says Bloomberg.com",
       "topics": [
         "AML & Sanctions"
-      ]
-    },
-    {
-      "title": "China's securities regulator vows to prioritise market stability as global risks mount - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSmZGVFlJV21Id3g4Z3g4ZkNnRExYaGtuRVZORFpYb2pRZkRBYmpjbzNZVWotUUVhYzdyOHNtU3VOVldqWnRFVERMR1NqNWtzVlBqcWVPTkdVcVdKSGRLQTFrUVpoc3JoaktaX3YtalFTcDdCdXd4c0RiNWxRTjdGYnlaVWZJclp6RFBuTVlxRWw0SHBQTzJOMmhZclJqSWNqVnFFSUVMaEwwYXc2UUo4c2lwOEFzUXJrZ1VvRVlpOEFNb0JUNFpqV1lySXA?oc=5",
-      "source": "Reuters",
-      "date": "2026-10-19T19:29:55+00:00",
-      "display_date": "Oct 19, 2026",
-      "summary": "China's securities regulator vows to prioritise market stability as global risks mount Reuters",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
