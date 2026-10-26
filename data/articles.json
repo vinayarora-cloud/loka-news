@@ -1,7 +1,74 @@
 {
-  "last_updated": "October 26, 2026 16:39 UTC",
-  "total_count": 211,
+  "last_updated": "October 26, 2026 20:22 UTC",
+  "total_count": 216,
   "articles": [
+    {
+      "title": "Firmus float failure a sign of ‘elevated market risk’: ASIC - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQTXpOVVIzTm84dDVWQTc2c05GUy1WN29CSmdtQzNsbWhCOTlIVUZpd3J3NzBxQUV4NXFfdHAzRUxEcTU5Zm9Ybk9aZ3lITEo2Q2hQN0lQbXE4d0dicnpEVGF0d0U4U1NfeFhublB3UXdUeTJ5d2hIOHRKUkhfMTRBdXp0VzZVaHJ6MkVnNFZCTGYwcEg2Q2UtWDdSYllhWDJiMFFnVFVGcld0YS1GZDZRYVhNRXFlS3FSYk9YekMxNkY4VDBab1pnXzJuQzltMjNXOHRCZmlmRmJXUENZMTZINHNGMklxQzl3dlRON04ySHpsNU1EQmI5TzA0TEdDTURlMUE3dGlQdzFkdw?oc=5",
+      "source": "The Australian",
+      "date": "2026-10-26T18:34:04+00:00",
+      "display_date": "Oct 26, 2026",
+      "summary": "Firmus float failure a sign of ‘elevated market risk’: ASIC The Australian",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "European regulators warn about prediction markets, showing divergence from the US",
+      "link": "https://www.complianceweek.com/technology/european-regulators-warn-about-prediction-markets-showing-divergence-from-the-us/",
+      "source": "Compliance Week",
+      "date": "2026-10-26T18:27:24+00:00",
+      "display_date": "Oct 26, 2026",
+      "summary": "Prediction markets may have become a booming industry in the United States, but the EU and UK remain reluctant to embrace them because of the inherent risks of supervising them and the potential harm they could cause consumers. The post European regulators warn about prediction m...",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "EU introduces digital portal for documenting temporary staff transfers within EU states",
+      "link": "https://www.complianceweek.com/regulatory-policy/eu-introduces-digital-portal-for-documenting-temporary-staff-transfers-within-eu-states/",
+      "source": "Compliance Week",
+      "date": "2026-10-26T18:18:05+00:00",
+      "display_date": "Oct 26, 2026",
+      "summary": "Companies that transfer staff from one EU member state to work temporarily in another will benefit from a new digital portal designed to simplify official worker declarations and related administration. The post EU introduces digital portal for documenting temporary staff transfe...",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Yo-Chi gets political: 80 MPs are about to receive a flurry of anti-plastic postcards",
+      "link": "https://www.smh.com.au/business/entrepreneurship/yo-chi-gets-political-80-mps-are-about-to-receive-a-flurry-of-anti-plastic-postcards-20261027-p618kq.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+      "source": "The Sydney Morning Herald",
+      "date": "2026-10-26T18:00:00+00:00",
+      "display_date": "Oct 26, 2026",
+      "summary": "Australia’s favourite frozen yoghurt chain is engaging customers in environmental activism.",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "Datamaran Launches Tool to Help Companies Identify Regulatory Obligations",
+      "link": "https://www.esgtoday.com/datamaran-launches-tool-to-help-companies-identify-regulatory-obligations/?utm_source=rss&utm_medium=rss&utm_campaign=datamaran-launches-tool-to-help-companies-identify-regulatory-obligations",
+      "source": "ESG Today",
+      "date": "2026-10-26T17:10:54+00:00",
+      "display_date": "Oct 26, 2026",
+      "summary": "ESG-focused software analytics platform provider Datamaran announced today the launch of Applicability Assessment, a new […]",
+      "topics": [
+        "Regulatory Change",
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "Anthropic Cites Climate Change as Risk to Business in S-1 - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR1BlQkJ0dXQtRzRsdzBaSm14MTAtZmhSSmN5TkFySE92X2ZlUWVUVEFFSmNMQnVSUFZ4NHhQRVhhZ2swdXZUM1FzRTlHNXBma0w4d1lpRGJlVUlmamgxcEJLNVpYdGZ4WmJibUYtUHBaTk5ZZXZXQjRDZy1aTW03SVVFSmU1RjBvZk1xdXdHZ01Cd2JpREV3ajlYZGJQN055S1JHTEh4YVBHQVpz?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-10-26T16:55:06+00:00",
+      "display_date": "Oct 26, 2026",
+      "summary": "Anthropic Cites Climate Change as Risk to Business in S-1 Bloomberg.com",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
     {
       "title": "At Last, a Peek at Anthropic’s Governance!",
       "link": "https://www.radicalcompliance.com/2026/10/26/at-last-a-peek-at-anthropics-governance/",
@@ -23,17 +90,6 @@
       "topics": [
         "Regulatory Change",
         "Operational & Enterprise Risk"
-      ]
-    },
-    {
-      "title": "Anthropic Cites Climate Change as Risk to Business in S-1 - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR1BlQkJ0dXQtRzRsdzBaSm14MTAtZmhSSmN5TkFySE92X2ZlUWVUVEFFSmNMQnVSUFZ4NHhQRVhhZ2swdXZUM1FzRTlHNXBma0w4d1lpRGJlVUlmamgxcEJLNVpYdGZ4WmJibUYtUHBaTk5ZZXZXQjRDZy1aTW03SVVFSmU1RjBvZk1xdXdHZ01Cd2JpREV3ajlYZGJQN055S1JHTEh4YVBHQVpz?oc=5",
-      "source": "Bloomberg.com",
-      "date": "2026-10-26T15:18:49+00:00",
-      "display_date": "Oct 26, 2026",
-      "summary": "Anthropic Cites Climate Change as Risk to Business in S-1 Bloomberg.com",
-      "topics": [
-        "ESG & Sustainability"
       ]
     },
     {
@@ -79,6 +135,17 @@
       "summary": "A group of 15 financial institutions*, including Federated Hermes Limited, Nordea AM and Rabobank, announced […]",
       "topics": [
         "Regulatory Change"
+      ]
+    },
+    {
+      "title": "(Company) CORPORATE GOVERNANCE STATEMENT - AFR",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcmp6bWp3a2JSQk9qMk96bjl2NmIxejZUZ3Fqdk1zZWlzSWRLNVl0azVLVDJSdmJVN2paM1NHc0NoM2dzc25FeUdoYjR0em1xZmNHMDZaZ0h0RVVYdDBUQ0wwM3pkNGRwUzV1Vm9EOXFDZTNIeF9vZkkwUXBoMVJIb3BUWkNvQzRRNFhYc0FoZw?oc=5",
+      "source": "AFR",
+      "date": "2026-10-26T11:57:36+00:00",
+      "display_date": "Oct 26, 2026",
+      "summary": "(Company) CORPORATE GOVERNANCE STATEMENT AFR",
+      "topics": [
+        "Operational & Enterprise Risk"
       ]
     },
     {
@@ -176,6 +243,17 @@
       "date": "2026-10-26T05:55:16+00:00",
       "display_date": "Oct 26, 2026",
       "summary": "Angus Taylor publishes fresh costings for proposed cuts to Labor's climate and housing policies.",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "US NRC Issues Final Environmental Impact Statement for Planned Paducah Laser Enrichment Facility - AFR",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUVNwNGRwOWpTdUVXXzc5aWhidDBWcnFxdzRraE1zZDZkQmd1Q2NqQlEzZWp3cmE2SDNNVGN5TG52aFdWS09jRmF0enozNUJrbzVpQ1FXc1FjX2hQdktSMHRQVDBwMndXTnZwMV9pR3hUU3ZmMDgxbXBweDhwcE1ISHdfcEYzS0VWSWVHb3lhTQ?oc=5",
+      "source": "AFR",
+      "date": "2026-10-26T04:27:36+00:00",
+      "display_date": "Oct 26, 2026",
+      "summary": "US NRC Issues Final Environmental Impact Statement for Planned Paducah Laser Enrichment Facility AFR",
       "topics": [
         "ESG & Sustainability"
       ]
@@ -455,28 +533,6 @@
       "summary": "ACCC clears Vocus to buy Nextgen - The Australian The Australian",
       "topics": [
         "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "Google Signs Deal to Build 1GW Virtual Power Plant Aggregating Energy from Homes, Businesses",
-      "link": "https://www.esgtoday.com/google-signs-deal-to-build-1gw-virtual-power-plant-aggregating-energy-from-homes-businesses/?utm_source=rss&utm_medium=rss&utm_campaign=google-signs-deal-to-build-1gw-virtual-power-plant-aggregating-energy-from-homes-businesses",
-      "source": "ESG Today",
-      "date": "2026-10-23T08:45:27+00:00",
-      "display_date": "Oct 23, 2026",
-      "summary": "Google announced a new agreement with Voltus to fund a 1 GW virtual power plant […]",
-      "topics": [
-        "ESG & Sustainability"
-      ]
-    },
-    {
-      "title": "Safran Confirms Guidance as Revenue Jumps",
-      "link": "https://www.wsj.com/business/safran-confirms-guidance-as-revenue-jumps-984356b4?mod=pls_whats_news_us_business_f",
-      "source": "Wall Street Journal",
-      "date": "2026-10-23T05:37:00+00:00",
-      "display_date": "Oct 23, 2026",
-      "summary": "The French aerospace-industry supplier said the metric was pushed higher by double-digit growth across its propulsion and equipment and defense units.",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
@@ -949,17 +1005,6 @@
       ]
     },
     {
-      "title": "UK competition watchdog fines three companies $8 million for misleading sales claims and obscure pricing",
-      "link": "https://www.complianceweek.com/retail/uk-competition-watchdog-fines-three-companies-8-million-for-misleading-sales-claims-and-obscure-pricing/",
-      "source": "Compliance Week",
-      "date": "2026-10-22T01:10:48+00:00",
-      "display_date": "Oct 22, 2026",
-      "summary": "The UK Competition and Markets Authority has fined three well-known businesses, including Wayfair and Appliances Direct, $8 million for using misleading sales tactics. The post UK competition watchdog fines three companies $8 million for misleading sales claims and obscure pricin...",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
       "title": "Largest fine ever: Meta ordered to pay $36bn in data privacy case - The Australian",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNX0VmUXhpQzg3ZUd1UEppcWtPRE90WGh0dVpwSUNZemlCSlhaaW8xVGk1NkZHXzJYLXh3d3lzQUJpNWZHYzh0SUhnM010aWRYeE9SUndvT3phYVNWTy1NOVRkMVZ0SUs2ZmpDNFFIUl94MHM4YjRNX1lLcXRrRnc0R0NwNkh3N3ZkR2puWjlNZmtIS2FVZ0F2VTR0dzNYRU56SGlFYjZQazE1bXp5QW1OQjdsVXlraGNDLV9CTTFMUHgwSFQxWV8tN3hqLWdQc3FXYWtIT3BWem1aajNsN09iVnBFUk5HdGctaVlGU2xyd0todWg2RHEwenQ4VXJkZw?oc=5",
       "source": "The Australian",
@@ -972,14 +1017,14 @@
       ]
     },
     {
-      "title": "UAE expands AML/CFT regime with tougher penalties and wider sector reach",
-      "link": "https://www.complianceweek.com/aml/uae-expands-aml-cft-regime-with-tougher-penalties-and-wider-sector-reach/",
-      "source": "Compliance Week",
-      "date": "2026-10-21T21:09:15+00:00",
+      "title": "ASIC probes Gemi as $150m in investor funds frozen in Adgemis fallout - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNRmpPZFphRlNveEZpV1EyeHpTMTEwTXg5RHlkUFFTa1RqRjdrUUh2VDJsb0VTT3NfYk0yS1UzQUhhbENCWHFWMFJsbVZNX1VMUE9KaUkySmpoNUlUdlBTNWNjRU5EYzB3NkpydnhOVDJ4eEVjM05YQUp2YmstejVrVm81VjQyVnliczBabW5la0U3VHd4UXFTOFk5eEJvNTk5WFQtaUJ0alp4NnQzYkd5enNpb183NnJCV2RzZzNrOW9oOThXcTdCUHpIdF85cTMxQUVwS0VldnRFUWotNlFaMnRZa0JKNGZIYmF1N2RCLUpOdWUwUEpTTGlOVjVfdw?oc=5",
+      "source": "The Australian",
+      "date": "2026-10-21T21:31:00+00:00",
       "display_date": "Oct 21, 2026",
-      "summary": "The UAE’s new AML/CFT law adds criminal offenses, harsher penalties, and new compliance duties for firms and individuals. The post UAE expands AML/CFT regime with tougher penalties and wider sector reach appeared first on Compliance Week .",
+      "summary": "ASIC probes Gemi as $150m in investor funds frozen in Adgemis fallout The Australian",
       "topics": [
-        "AML & Sanctions"
+        "Enforcement Actions"
       ]
     },
     {
@@ -1339,6 +1384,17 @@
       ]
     },
     {
+      "title": "Zelenskiy to meet Witkoff after Trump says Russia has been 'fine' on Ukraine - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcGUzUUpJZDlBeHJNb3ZDUGd2a21yM3ZCY0lfOTc0ZjYxQ01jX1RoTC1wQlZzU0xRN3c3YnZBWGJuNG95ZnRSeXdESktNM1dFUnFLNTBJX3Zjem9rSVdKckVVckh2VGVCLXc2VVpPOTBKbUhnUU1jYUtHUzF5YVNMM0ZhWFBZeXBmZktWQ3VKaW5ubHVnOGt1Zy1VMTNGMDZqMWlyeg?oc=5",
+      "source": "Reuters",
+      "date": "2026-10-20T05:51:29+00:00",
+      "display_date": "Oct 20, 2026",
+      "summary": "Zelenskiy to meet Witkoff after Trump says Russia has been 'fine' on Ukraine Reuters",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
       "title": "Blackbird secures payday at start-up First AML as Five V comes calling - AFR",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRE9vSnE1VWViSmhxWGQ2NFYxMHBmRFloZmhZeC0tbXIyRHc0Ri1mRTBsMlRZdFAzbGtuUkQ0R2JGQkdfMDJzYl85QXBXNURqcWl1aGR2V3pudWlpakM2d1lzVy1Od011T1JzTDNscXFnbnBOS2tsc0h6T0hBbG9NcDF0Y2d3Zm1lSjJiZDVSSm1MYlJQVFFRQ25MRU5xRjloV1N6bHdzTlZnUDlTeDhJM0s5SGdzSlpDZXc?oc=5",
       "source": "AFR",
@@ -1347,6 +1403,17 @@
       "summary": "Blackbird secures payday at start-up First AML as Five V comes calling AFR",
       "topics": [
         "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "superloop.com Appendix 4G and Corporate Governance Statement - AFR",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYVJZNVE5VVlhZUNLMzJfbFRkSk5JQVlMVXlSWnVRX3RGT1NzclVPZXlldklwSDFkWUVWZUZ3Z3ZOSXUxeVpOOXRKUmtRbzhKR0VwZW1YYUk3WTJ2UTdKVVhNeENEOC1tZzVsUmtha0FCVS12YURhWlNSQkpWMEVJZ0tSa0VHNFNEM1d6YnZnYw?oc=5",
+      "source": "AFR",
+      "date": "2026-10-20T04:33:57+00:00",
+      "display_date": "Oct 20, 2026",
+      "summary": "superloop.com Appendix 4G and Corporate Governance Statement AFR",
+      "topics": [
+        "Operational & Enterprise Risk"
       ]
     },
     {
@@ -1369,17 +1436,6 @@
       "summary": "High Court barrister guilty of contempt after dodging ATO since 2016 AFR",
       "topics": [
         "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "US, Cuba trade barbs at UN ahead of sanctions vote - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU0VYTGZPd2RmZlZvZWJBZmRHbEsxWFdtYXF3b1ZJVU9FZmRncmoxSERRWldzS0Z0TTJsbVRoLThDT2FfZi1XVHB2QkhmemJGX0M2S3RsUVBTSnN1engtaURsamc3TGxRa0E2RmpVaEJOdVFCQlVhaDJWaG5qQzVCNkRYckxRMmdOZElvLU1zZjROb1p2X1AxYUVB?oc=5",
-      "source": "Reuters",
-      "date": "2026-10-19T21:05:43+00:00",
-      "display_date": "Oct 19, 2026",
-      "summary": "US, Cuba trade barbs at UN ahead of sanctions vote Reuters",
-      "topics": [
-        "AML & Sanctions"
       ]
     },
     {
