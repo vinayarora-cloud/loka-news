@@ -1,7 +1,64 @@
 {
-  "last_updated": "October 26, 2026 14:31 UTC",
-  "total_count": 210,
+  "last_updated": "October 26, 2026 16:39 UTC",
+  "total_count": 211,
   "articles": [
+    {
+      "title": "At Last, a Peek at Anthropic’s Governance!",
+      "link": "https://www.radicalcompliance.com/2026/10/26/at-last-a-peek-at-anthropics-governance/",
+      "source": "Radical Compliance",
+      "date": "2026-10-26T16:10:16+00:00",
+      "display_date": "Oct 26, 2026",
+      "summary": "Artificial intelligence giant Anthropic filed its IPO registration statement on Monday morning, and while the accounting types are losing their [expletive] over the details of the company’s financial operations, we corporate governance types can obsess over a different, equally i...",
+      "topics": [
+        "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "Epoch Raises $4.25 Million to Help SMEs Comply with EUDR Supply Chain Deforestation Regulation",
+      "link": "https://www.esgtoday.com/epoch-raises-4-25-million-to-help-smes-comply-with-eudr-supply-chain-deforestation-regulation/?utm_source=rss&utm_medium=rss&utm_campaign=epoch-raises-4-25-million-to-help-smes-comply-with-eudr-supply-chain-deforestation-regulation",
+      "source": "ESG Today",
+      "date": "2026-10-26T15:20:45+00:00",
+      "display_date": "Oct 26, 2026",
+      "summary": "Supply chain intelligence platform Epoch announced today that it has raised $4.25 million in a […]",
+      "topics": [
+        "Regulatory Change",
+        "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "Anthropic Cites Climate Change as Risk to Business in S-1 - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR1BlQkJ0dXQtRzRsdzBaSm14MTAtZmhSSmN5TkFySE92X2ZlUWVUVEFFSmNMQnVSUFZ4NHhQRVhhZ2swdXZUM1FzRTlHNXBma0w4d1lpRGJlVUlmamgxcEJLNVpYdGZ4WmJibUYtUHBaTk5ZZXZXQjRDZy1aTW03SVVFSmU1RjBvZk1xdXdHZ01Cd2JpREV3ajlYZGJQN055S1JHTEh4YVBHQVpz?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-10-26T15:18:49+00:00",
+      "display_date": "Oct 26, 2026",
+      "summary": "Anthropic Cites Climate Change as Risk to Business in S-1 Bloomberg.com",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "Economic pain collides with regulatory changes for small businesses",
+      "link": "https://www.abc.net.au/news/2026-10-27/economic-pain-collides-with-regulatory-changes-small-business/107286660",
+      "source": "ABC News Business (AU)",
+      "date": "2026-10-26T15:00:00+00:00",
+      "display_date": "Oct 26, 2026",
+      "summary": "More businesses are falling behind on payments as operators face policy changes, inflation and interest rate rises.",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Lufthansa Renames Green Fares to Align with Anti-greenwashing Regulation",
+      "link": "https://www.esgtoday.com/lufthansa-renames-green-fares-to-align-with-anti-greenwashing-regulation/?utm_source=rss&utm_medium=rss&utm_campaign=lufthansa-renames-green-fares-to-align-with-anti-greenwashing-regulation",
+      "source": "ESG Today",
+      "date": "2026-10-26T14:53:27+00:00",
+      "display_date": "Oct 26, 2026",
+      "summary": "Lufthansa Group announced that it is renaming its Green Fare, its offering enabling passengers to […]",
+      "topics": [
+        "Regulatory Change",
+        "ESG & Sustainability"
+      ]
+    },
     {
       "title": "Endangered turtles and ‘exceptional’ coral at risk from Woodside’s gas drilling in WA, watchdog says",
       "link": "https://www.theguardian.com/australia-news/2026/oct/27/endangered-turtles-and-exceptional-coral-at-risk-from-woodsides-gas-drilling-in-wa-watchdog-says",
@@ -55,17 +112,6 @@
       "summary": "Plus: Citi gets regulator nod for wholly owned securities venture in China and Tanker carrying Russian diesel signals U.S. port after Trump-Putin deal.",
       "topics": [
         "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Anthropic’s Claude AI model accessed Georgia voter data in US",
-      "link": "https://www.theguardian.com/technology/2026/oct/26/anthropics-claude-ai-model-accessed-georgia-voter-data-in-us",
-      "source": "The Guardian Australia",
-      "date": "2026-10-26T11:03:33+00:00",
-      "display_date": "Oct 26, 2026",
-      "summary": "Latest example of unauthorised behaviour shows AI model bypassed paywall to access data as part of statistics project Business live – latest updates Anthropic sued for allegedly using 274 Elvis songs to train AI models Anthropic’s Claude model accessed voter data in the US state ...",
-      "topics": [
-        "Enforcement Actions"
       ]
     },
     {
@@ -592,17 +638,6 @@
       ]
     },
     {
-      "title": "Optivolt Raises $32 Million to Make Solar Panels Smarter",
-      "link": "https://www.esgtoday.com/optivolt-raises-32-million-to-make-solar-panels-smarter/?utm_source=rss&utm_medium=rss&utm_campaign=optivolt-raises-32-million-to-make-solar-panels-smarter",
-      "source": "ESG Today",
-      "date": "2026-10-22T15:59:33+00:00",
-      "display_date": "Oct 22, 2026",
-      "summary": "Power electronics company Optivolt announced that it has raised $32 million in a Series A […]",
-      "topics": [
-        "ESG & Sustainability"
-      ]
-    },
-    {
       "title": "Laboratory operator Quest reports cyber breach affecting patient records - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObWV3NGM1S1J4RHVYM2xFZlZOM1FNekxQQ3hDeUd5OGx3eXc0bjNkd1J6alZPYUtnQUpUX1R4X2xEYnNHVXM0Q1d2VzhoYkduRk5YZ1hNalV2dEhYYUFFX3RDUF9HZmRsVkhHbzE3WXJ0WHZ0UXJkaW52ajZQbndhSVNlbi14Nnh6WUR0OHVIb3lVdHhCMTVvejRpYU9iblVwZHlMalQtT2hJRzJpZVVYV1ZDZ1hiVnE1alM2MnhpeFFVTkE?oc=5",
       "source": "Reuters",
@@ -644,17 +679,6 @@
       "summary": "The business of GRC is ever-expanding, GRC technology is one of the fastest-growing segments in enterprise software, and compliance professions are rapidly evolving. Here’s the latest from across the industry. Product launches Communications compliance company Casepoint launched ...",
       "topics": [
         "Operational & Enterprise Risk"
-      ]
-    },
-    {
-      "title": "UK Channels Oil & Gas Revenues into New £2 Billion Clean Energy Wealth Fund",
-      "link": "https://www.esgtoday.com/uk-channels-oil-gas-revenues-into-new-2-billion-clean-energy-fund/?utm_source=rss&utm_medium=rss&utm_campaign=uk-channels-oil-gas-revenues-into-new-2-billion-clean-energy-fund",
-      "source": "ESG Today",
-      "date": "2026-10-22T14:18:42+00:00",
-      "display_date": "Oct 22, 2026",
-      "summary": "The UK government announced the establishment of a new Energy Wealth Fund, focused on investing […]",
-      "topics": [
-        "ESG & Sustainability"
       ]
     },
     {
@@ -1664,9 +1688,9 @@
       "title": "Motor finance legal challenge to be heard in February 2027",
       "link": "https://www.fca.org.uk/news/statements/motor-finance-legal-challenge-be-heard-february-2027",
       "source": "FCA UK Regulatory News",
-      "date": "2026-10-13T10:31:00+00:00",
+      "date": "2026-10-13T08:31:00+00:00",
       "display_date": "Oct 13, 2026",
-      "summary": "The Upper Tribunal has confirmed it will hear the legal challenges to our motor finance compensation scheme between 16 to 26 February 2027. The scheme was challenged by 3 lenders - Volkswagen Financial Services, Mercedes Benz Financial Services, and Crédit Agricole Auto Finance -...",
+      "summary": "The Upper Tribunal has confirmed it will hear the legal challenges to our motor finance compensation scheme between 16 February and 3 March 2027. The scheme was challenged by 3 lenders - Volkswagen Financial Services, Mercedes Benz Financial Services, and Crédit Agricole Auto Fin...",
       "topics": [
         "Regulatory Change"
       ]
@@ -1692,17 +1716,6 @@
       "summary": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sou...",
       "topics": [
         "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "Compliance Jobs Report: Oct. 9",
-      "link": "https://www.radicalcompliance.com/2026/10/09/compliance-jobs-report-oct-9-2/",
-      "source": "Radical Compliance",
-      "date": "2026-10-09T15:48:07+00:00",
-      "display_date": "Oct 09, 2026",
-      "summary": "New internal audit exec at OpenAI, new CCO at Phillips 66, new head of compliance at Rutgers — it’s another big Compliance Jobs Report this week. We have lots of other hiring news too, plus promotions at Wise, Sandoz, Diageo, WSFS, and elsewhere. Job leads are in home tech, cloud...",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
