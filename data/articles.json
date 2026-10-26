@@ -1,25 +1,135 @@
 {
-  "last_updated": "October 26, 2026 08:36 UTC",
-  "total_count": 213,
+  "last_updated": "October 26, 2026 14:31 UTC",
+  "total_count": 210,
   "articles": [
     {
-      "title": "Coalition says cuts to climate, housing and more would save $31 billion",
-      "link": "https://www.abc.net.au/news/2026-10-26/coalition-says-cuts-to-save-budget-31-billion/107310512",
-      "source": "ABC News Business (AU)",
-      "date": "2026-10-26T05:55:16+00:00",
+      "title": "Endangered turtles and ‘exceptional’ coral at risk from Woodside’s gas drilling in WA, watchdog says",
+      "link": "https://www.theguardian.com/australia-news/2026/oct/27/endangered-turtles-and-exceptional-coral-at-risk-from-woodsides-gas-drilling-in-wa-watchdog-says",
+      "source": "The Guardian Australia",
+      "date": "2026-10-26T14:00:45+00:00",
       "display_date": "Oct 26, 2026",
-      "summary": "Angus Taylor publishes fresh costings for proposed cuts to Labor's climate and housing policies.",
+      "summary": "Exclusive : EPA flags oil spill risk from proposed gasfield and threat to pygmy blue whales Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here Woodside Energy’s plan to drill for gas off Western Australia’s north-west coast could significantly...",
       "topics": [
         "ESG & Sustainability"
       ]
     },
     {
-      "title": "US NRC Issues Final Environmental Impact Statement for Planned Paducah Laser Enrichment Facility - AFR",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUVNwNGRwOWpTdUVXXzc5aWhidDBWcnFxdzRraE1zZDZkQmd1Q2NqQlEzZWp3cmE2SDNNVGN5TG52aFdWS09jRmF0enozNUJrbzVpQ1FXc1FjX2hQdktSMHRQVDBwMndXTnZwMV9pR3hUU3ZmMDgxbXBweDhwcE1ISHdfcEYzS0VWSWVHb3lhTQ?oc=5",
-      "source": "AFR",
-      "date": "2026-10-26T04:27:36+00:00",
+      "title": "Investors Urge ISSB to Issue Mandatory Nature-Related Reporting Standard",
+      "link": "https://www.esgtoday.com/investor-group-urges-issb-to-issue-mandatory-nature-related-reporting-standard/?utm_source=rss&utm_medium=rss&utm_campaign=investor-group-urges-issb-to-issue-mandatory-nature-related-reporting-standard",
+      "source": "ESG Today",
+      "date": "2026-10-26T13:36:16+00:00",
       "display_date": "Oct 26, 2026",
-      "summary": "US NRC Issues Final Environmental Impact Statement for Planned Paducah Laser Enrichment Facility AFR",
+      "summary": "A group of 15 financial institutions*, including Federated Hermes Limited, Nordea AM and Rabobank, announced […]",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Blackrock’s Akaysha Energy Secures $1.2 Billion to Build Out Battery Storage Platform",
+      "link": "https://www.esgtoday.com/blackrocks-akaysha-energy-secures-1-2-billion-to-build-out-battery-storage-platform/?utm_source=rss&utm_medium=rss&utm_campaign=blackrocks-akaysha-energy-secures-1-2-billion-to-build-out-battery-storage-platform",
+      "source": "ESG Today",
+      "date": "2026-10-26T11:53:46+00:00",
+      "display_date": "Oct 26, 2026",
+      "summary": "Australian battery energy storage systems (BESS) developer and operator Akaysha Energy announced that it secured […]",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "GHG Protocol to Push Back Stricter Scope 2 Reporting Rules After Corporate Objections",
+      "link": "https://www.esgtoday.com/ghg-protocol-to-push-back-stricter-scope-2-reporting-rules-after-corporate-objections/?utm_source=rss&utm_medium=rss&utm_campaign=ghg-protocol-to-push-back-stricter-scope-2-reporting-rules-after-corporate-objections",
+      "source": "ESG Today",
+      "date": "2026-10-26T11:14:44+00:00",
+      "display_date": "Oct 26, 2026",
+      "summary": "Greenhouse Gas (GHG) reporting framework provider GHG Protocol provided an update on its progress to […]",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "The Morning Risk Report: Lula Wins Fourth Term in Brazil Election Upset",
+      "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-lula-wins-fourth-term-in-brazil-election-upset-20698486?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-10-26T11:06:00+00:00",
+      "display_date": "Oct 26, 2026",
+      "summary": "Plus: Citi gets regulator nod for wholly owned securities venture in China and Tanker carrying Russian diesel signals U.S. port after Trump-Putin deal.",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Anthropic’s Claude AI model accessed Georgia voter data in US",
+      "link": "https://www.theguardian.com/technology/2026/oct/26/anthropics-claude-ai-model-accessed-georgia-voter-data-in-us",
+      "source": "The Guardian Australia",
+      "date": "2026-10-26T11:03:33+00:00",
+      "display_date": "Oct 26, 2026",
+      "summary": "Latest example of unauthorised behaviour shows AI model bypassed paywall to access data as part of statistics project Business live – latest updates Anthropic sued for allegedly using 274 Elvis songs to train AI models Anthropic’s Claude model accessed voter data in the US state ...",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "Defence SMEs need banking services that work",
+      "link": "https://www.fca.org.uk/news/blogs/defence-smes-need-banking-services-work",
+      "source": "FCA UK Regulatory News",
+      "date": "2026-10-26T11:01:00+00:00",
+      "display_date": "Oct 26, 2026",
+      "summary": "The UK's most innovative businesses often start small.Before they can develop new technologies, win contracts or expand into new markets, they need access to banking services to help them operate, invest and grow.Access to financial services can be easy to take for granted. When ...",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Midterms More Likely to Bring Ramped-Up Investigations Than New Laws",
+      "link": "https://www.corporatecomplianceinsights.com/midterms-more-likely-bring-ramped-up-investigations-than-new-laws/",
+      "source": "Corporate Compliance Insights",
+      "date": "2026-10-26T11:00:26+00:00",
+      "display_date": "Oct 26, 2026",
+      "summary": "Party change could put companies, settlements & compensation under a microscope The post Midterms More Likely to Bring Ramped-Up Investigations Than New Laws appeared first on Corporate Compliance Insights .",
+      "topics": [
+        "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "UK sanctions 15 commanders from rival Sudan factions over wartime rape - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNnR6N0kxYjNWWHZIMU9aUXZZcFNHXzh4Tk9kaXdsZGJ3V2hhaEh4Mllpd0kwSkZIR1dxNjZUaXk3aU14d3FTTTZWaFJsRGxmdkd2bV9qZEJacEF3VlhkMGRVX0Y5NGE2bjBMTlZ2UFZJT01VcS1TN0JDUTAtcHp0aWwyeVR5dXg5NUNWaVVvLUxnbFdXY19qajMzSEdHRVJHQ081czhYNk1VQ1VKTzZR?oc=5",
+      "source": "Reuters",
+      "date": "2026-10-26T10:31:19+00:00",
+      "display_date": "Oct 26, 2026",
+      "summary": "UK sanctions 15 commanders from rival Sudan factions over wartime rape Reuters",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "Chandler King (City) Limited enters creditors’ voluntary liquidation",
+      "link": "https://www.fca.org.uk/news/news-stories/chandler-king-enters-creditors-voluntary-liquidation",
+      "source": "FCA UK Regulatory News",
+      "date": "2026-10-26T10:00:00+00:00",
+      "display_date": "Oct 26, 2026",
+      "summary": "On 17 September 2026, Chandler King (City) Limited (Chandler King) went into creditors’ voluntary liquidation. Grace Jones and Karyn Jones of Parker Andrews were appointed as joint liquidators. Chandler King, an FCA-authorised firm, was an independent financial adviser which advi...",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Galp Energia Shares Fall After Moeve Merger-Talks Collapse, Overshadowing Positive Earnings",
+      "link": "https://www.wsj.com/business/energy-oil/galp-raises-full-year-view-after-oil-price-assumption-increase-ee79aceb?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-10-26T09:06:00+00:00",
+      "display_date": "Oct 26, 2026",
+      "summary": "The stock fell more than 8% after talks with Moeve on a potential downstream combination broke down, overshadowing earnings growth and a full-year guidance hike.",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Coalition says cuts to climate, housing and more would save $31b",
+      "link": "https://www.abc.net.au/news/2026-10-26/coalition-says-cuts-to-save-budget-31-billion/107310512",
+      "source": "ABC News Business (AU)",
+      "date": "2026-10-26T05:55:16+00:00",
+      "display_date": "Oct 26, 2026",
+      "summary": "Angus Taylor publishes fresh costings for proposed cuts to Labor's climate and housing policies.",
       "topics": [
         "ESG & Sustainability"
       ]
@@ -258,17 +368,6 @@
       ]
     },
     {
-      "title": "What Makes A Great Board?",
-      "link": "https://www.wsj.com/cfo-journal/what-makes-a-great-board-8345dfcc?mod=pls_whats_news_us_business_f",
-      "source": "Wall Street Journal",
-      "date": "2026-10-23T11:03:00+00:00",
-      "display_date": "Oct 23, 2026",
-      "summary": "WSJ Leadership Institute’s Best Boards list highlights experience, strong governance",
-      "topics": [
-        "Operational & Enterprise Risk"
-      ]
-    },
-    {
       "title": "LRQA Acquires Supply Chain Monitoring and Responsible Sourcing Platform Omega Compliance",
       "link": "https://www.esgtoday.com/lrqa-acquires-supply-chain-monitoring-and-responsible-sourcing-platform-omega-compliance/?utm_source=rss&utm_medium=rss&utm_campaign=lrqa-acquires-supply-chain-monitoring-and-responsible-sourcing-platform-omega-compliance",
       "source": "ESG Today",
@@ -446,17 +545,6 @@
       ]
     },
     {
-      "title": "Trump Must Sit for Deposition in BBC Lawsuit, Judge Orders",
-      "link": "https://www.wsj.com/politics/trump-must-sit-for-deposition-in-bbc-lawsuit-judge-orders-3ea44939?mod=pls_whats_news_us_business_f",
-      "source": "Wall Street Journal",
-      "date": "2026-10-22T19:09:00+00:00",
-      "display_date": "Oct 22, 2026",
-      "summary": "The president sued the broadcaster for defamation over its editing of his speech in a documentary about Jan. 6, 2021.",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
       "title": "Bank of America, Part II: Transaction Monitoring",
       "link": "https://www.radicalcompliance.com/2026/10/22/bank-of-america-part-ii-transaction-monitoring/",
       "source": "Radical Compliance",
@@ -565,28 +653,6 @@
       "date": "2026-10-22T14:18:42+00:00",
       "display_date": "Oct 22, 2026",
       "summary": "The UK government announced the establishment of a new Energy Wealth Fund, focused on investing […]",
-      "topics": [
-        "ESG & Sustainability"
-      ]
-    },
-    {
-      "title": "EIB Unveils €30 Billion Climate Adaptation Plan",
-      "link": "https://www.esgtoday.com/eib-unveils-e30-billion-climate-adaptation-plan/?utm_source=rss&utm_medium=rss&utm_campaign=eib-unveils-e30-billion-climate-adaptation-plan",
-      "source": "ESG Today",
-      "date": "2026-10-22T13:38:35+00:00",
-      "display_date": "Oct 22, 2026",
-      "summary": "The European Investment Bank (EIB) Group announced a new plan to deliver at least €30 […]",
-      "topics": [
-        "ESG & Sustainability"
-      ]
-    },
-    {
-      "title": "Coca-Cola, Nestlé, and Danone Agree to Improve Recycling Claims Following EU Greenwashing Complaint",
-      "link": "https://www.esgtoday.com/coca-cola-nestle-and-danone-agree-to-improve-recycling-claims-following-eu-greenwashing-complaint/?utm_source=rss&utm_medium=rss&utm_campaign=coca-cola-nestle-and-danone-agree-to-improve-recycling-claims-following-eu-greenwashing-complaint",
-      "source": "ESG Today",
-      "date": "2026-10-22T12:46:26+00:00",
-      "display_date": "Oct 22, 2026",
-      "summary": "Food and beverage giants Coca-Cola, Nestlé, and Danone have committed to change recycling claims advertised on […]",
       "topics": [
         "ESG & Sustainability"
       ]
@@ -815,17 +881,6 @@
       ]
     },
     {
-      "title": "GM Ventures Leads $108 Million Raise for Peak Energy to Break into Data Center Power Market",
-      "link": "https://www.esgtoday.com/gm-ventures-leads-108-million-raise-for-peak-energy-to-break-into-data-center-power-market/?utm_source=rss&utm_medium=rss&utm_campaign=gm-ventures-leads-108-million-raise-for-peak-energy-to-break-into-data-center-power-market",
-      "source": "ESG Today",
-      "date": "2026-10-22T11:12:50+00:00",
-      "display_date": "Oct 22, 2026",
-      "summary": "Energy storage technology startup Peak Energy announced that it has raised $108 million in a […]",
-      "topics": [
-        "ESG & Sustainability"
-      ]
-    },
-    {
       "title": "Leeds office move",
       "link": "https://www.fca.org.uk/news/news-stories/leeds-office-move",
       "source": "FCA UK Regulatory News",
@@ -834,17 +889,6 @@
       "summary": "We have signed an agreement for a new office at 2 Wellington Place, which will become our long-term home in Leeds from 2028. The new office will provide 36,097 sq ft of space for our growing Leeds presence.Our Leeds office, currently at 6 Queen Street, has continued to grow since...",
       "topics": [
         "Regulatory Change"
-      ]
-    },
-    {
-      "title": "PE Firms Are Holding Investments Longer—and Changing Leaders More",
-      "link": "https://www.wsj.com/cfo-journal/pe-firms-are-holding-investments-longerand-changing-leaders-more-2d0bb31a?mod=pls_whats_news_us_business_f",
-      "source": "Wall Street Journal",
-      "date": "2026-10-22T10:55:00+00:00",
-      "display_date": "Oct 22, 2026",
-      "summary": "Plus, Meta loses in data-privacy case.",
-      "topics": [
-        "Data Privacy"
       ]
     },
     {
@@ -901,17 +945,6 @@
       "topics": [
         "Enforcement Actions",
         "Data Privacy"
-      ]
-    },
-    {
-      "title": "ASIC probes Gemi as $150m in investor funds frozen in Adgemis fallout - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNRmpPZFphRlNveEZpV1EyeHpTMTEwTXg5RHlkUFFTa1RqRjdrUUh2VDJsb0VTT3NfYk0yS1UzQUhhbENCWHFWMFJsbVZNX1VMUE9KaUkySmpoNUlUdlBTNWNjRU5EYzB3NkpydnhOVDJ4eEVjM05YQUp2YmstejVrVm81VjQyVnliczBabW5la0U3VHd4UXFTOFk5eEJvNTk5WFQtaUJ0alp4NnQzYkd5enNpb183NnJCV2RzZzNrOW9oOThXcTdCUHpIdF85cTMxQUVwS0VldnRFUWotNlFaMnRZa0JKNGZIYmF1N2RCLUpOdWUwUEpTTGlOVjVfdw?oc=5",
-      "source": "The Australian",
-      "date": "2026-10-21T21:31:00+00:00",
-      "display_date": "Oct 21, 2026",
-      "summary": "ASIC probes Gemi as $150m in investor funds frozen in Adgemis fallout The Australian",
-      "topics": [
-        "Enforcement Actions"
       ]
     },
     {
@@ -1293,17 +1326,6 @@
       ]
     },
     {
-      "title": "superloop.com Appendix 4G and Corporate Governance Statement - AFR",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYVJZNVE5VVlhZUNLMzJfbFRkSk5JQVlMVXlSWnVRX3RGT1NzclVPZXlldklwSDFkWUVWZUZ3Z3ZOSXUxeVpOOXRKUmtRbzhKR0VwZW1YYUk3WTJ2UTdKVVhNeENEOC1tZzVsUmtha0FCVS12YURhWlNSQkpWMEVJZ0tSa0VHNFNEM1d6YnZnYw?oc=5",
-      "source": "AFR",
-      "date": "2026-10-20T04:33:57+00:00",
-      "display_date": "Oct 20, 2026",
-      "summary": "superloop.com Appendix 4G and Corporate Governance Statement AFR",
-      "topics": [
-        "Operational & Enterprise Risk"
-      ]
-    },
-    {
       "title": "More litigation, higher court losses push ASIC $90m into the red - AFR",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeFBqVnVIcGdtNHdjMUdzcVpJS3ZBUmdQWEFyamJuRGtmOENTRWYyNm9sTzRoRGVyUVQwSER5MjdfNEpKN1pmRXlQVEFiVUNfdTh0WEx1VjhQaE9hTzBlbFRDZ3RVVTBfVVlhQ2ZvUnFhZDI2QUJ2S0hjcFd0ZGJoZTY4dGM2ZVd6b095V1lSR1ZlNUVYLXM3Qmt0YnY4bll6Uk1fcGhKMmZwZERaUXJwNjF2UlU?oc=5",
       "source": "AFR",
@@ -1370,17 +1392,6 @@
       ]
     },
     {
-      "title": "Trump's Russia sanctions waiver eases India's energy woes, lifts trade deal chances - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPX1JDdGd6aEZHMGQ5OXppVnA5d3FlSzNmbDdjOURNajl2Sjg3T0VrRzRLSC1DdVpLekQ5ZHBVdjQ1eV9UcF81anZNVklVYjZnQlNfQUlWRVMtNzEwVVVDQWlYTmQtU29FOU5xTFlGYTFUVV90bXI3dXU5UU5IUG9ZNjNYVHNUdzNjT3JXb244bm84d240TG56ZDVLbXNhMWpucjVTZXdtaTZQYjViOFU3bDZnZlFEQjduUDBfMWdwMVBXUFl3VFRJ?oc=5",
-      "source": "Reuters",
-      "date": "2026-10-19T11:36:11+00:00",
-      "display_date": "Oct 19, 2026",
-      "summary": "Trump's Russia sanctions waiver eases India's energy woes, lifts trade deal chances Reuters",
-      "topics": [
-        "AML & Sanctions"
-      ]
-    },
-    {
       "title": "The Vendor’s AI Model Did Not Change. But Its Risk Did.",
       "link": "https://www.corporatecomplianceinsights.com/humans-bahind-vendor-ai-can-introduce-risk/",
       "source": "Corporate Compliance Insights",
@@ -1410,18 +1421,6 @@
       "display_date": "Oct 19, 2026",
       "summary": "A sudden GC departure can upend investigations, derail regulatory strategy and leave compliance leaders scrambling to fill a critical leadership vacuum. The post Your General Counsel Might Have One Foot Out the Door. Is Compliance Ready? appeared first on Corporate Compliance Ins...",
       "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Coalition promises to force ‘attitudinal reset’ at ASIC, APRA - AFR",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT1BzTTVZcUNoel9faG53c2lHbVlBMFoyenl6RUs2eXRIVmxjTklNazM2WnFJcEpxUlp2dVp2OGRzQm0wTVF1YmxCMzdfTVRWenhuRlloa3pXckd0OWlaTEZvaWJETDJ5c2JlOFNsVHU5akdFV0ttcG1WNHJZVU4wMkpldEY3dTBIamV0akV2YUM3WlQ0MmJtXzJuZXQ?oc=5",
-      "source": "AFR",
-      "date": "2026-10-19T11:30:00+00:00",
-      "display_date": "Oct 19, 2026",
-      "summary": "Coalition promises to force ‘attitudinal reset’ at ASIC, APRA AFR",
-      "topics": [
-        "Enforcement Actions",
         "Regulatory Change"
       ]
     },
@@ -1592,17 +1591,6 @@
       "summary": "The Office of the Comptroller of the Currency (OCC) today released a report of its findings from its supervisory review of debanking activities at the nine largest national banks it supervises: JPMorgan Chase Bank, Bank of America, Citibank, Wells Fargo Bank, U.S. Bank, Capital O...",
       "topics": [
         "Operational & Enterprise Risk"
-      ]
-    },
-    {
-      "title": "Earned Wage Access: A Popular Payroll Perk, an Employer’s Liability",
-      "link": "https://www.corporatecomplianceinsights.com/earned-wage-access-popular-payroll-perk-employers-liability/",
-      "source": "Corporate Compliance Insights",
-      "date": "2026-10-14T11:00:11+00:00",
-      "display_date": "Oct 14, 2026",
-      "summary": "Earned wage access — letting employees draw compensation they've already earned before payday — is among the fastest-growing benefits in the market, and among the most unevenly regulated. Federal guidance has flipped three times in five years and a dozen states have written their...",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
@@ -1859,28 +1847,6 @@
       "summary": "The Securities and Exchange Commission, in coordination with other U.S. and global financial regulators, today issued a joint investor bulletin as part of World Investor Week (WIW). The bulletin encourages investors to be resilient in changing…",
       "topics": [
         "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "Reforming UK capital markets to ensure they work well for our economy",
-      "link": "https://www.fca.org.uk/news/speeches/reforming-uk-capital-markets-ensure-they-work-well-our-economy",
-      "source": "FCA UK Regulatory News",
-      "date": "2026-10-05T07:19:00+00:00",
-      "display_date": "Oct 05, 2026",
-      "summary": "Speech by Jon Relleen, director of infrastructure and exchanges, at the Reform of the UK Public and Private Capital Markets Summit 2026. The Economic Secretary to the Treasury has discussed the contribution of UK markets to economic growth.I want to build on that by talking about...",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Firms’ confidence, satisfaction and trust in the FCA rise",
-      "link": "https://www.fca.org.uk/news/news-stories/firms-confidence-satisfaction-and-trust-fca-rise",
-      "source": "FCA UK Regulatory News",
-      "date": "2026-10-02T11:58:00+00:00",
-      "display_date": "Oct 02, 2026",
-      "summary": "The latest FCA and Practitioner Panel survey shows rising levels of satisfaction, confidence and trust in the FCA among firms, alongside a strong understanding of Consumer Duty expectations. The FCA and Practitioner Panel annual survey of regulated firms provides valuable insight...",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
