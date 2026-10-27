@@ -1,7 +1,29 @@
 {
-  "last_updated": "October 27, 2026 00:24 UTC",
-  "total_count": 216,
+  "last_updated": "October 27, 2026 04:25 UTC",
+  "total_count": 222,
   "articles": [
+    {
+      "title": "Coles worker sacked after restraining suspected thief to receive $6500",
+      "link": "https://www.smh.com.au/business/workplace/coles-worker-sacked-after-restraining-suspected-thief-to-receive-6500-20261027-p618ut.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+      "source": "The Sydney Morning Herald",
+      "date": "2026-10-27T04:03:25+00:00",
+      "display_date": "Oct 27, 2026",
+      "summary": "The fair work umpire has ordered Coles to pay a man $6500 after he was sacked for breaching workplace policy by trying to stop two suspected thieves at a neighbouring Liquorland store.",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Huge gas-fired power station plan quietly revealed amid renewables fanfare",
+      "link": "https://www.abc.net.au/news/2026-10-27/bid-to-double-wa-renewable-energy-output-amid-price-rise-warning/107313754",
+      "source": "ABC News Business (AU)",
+      "date": "2026-10-27T03:39:02+00:00",
+      "display_date": "Oct 27, 2026",
+      "summary": "WA's environmental watchdog releases for public comment a plan for a mega gas-fired power plant on the same day the state government trumpets an ambitious plan to almost double renewable energy generation.",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
     {
       "title": "Weil Gotshal Leaders Spent Frantic Weekend Trying to Stabilize Law Firm",
       "link": "https://www.wsj.com/business/weil-gotshal-leaders-spent-frantic-weekend-trying-to-stabilize-law-firm-3a1f6f31?mod=pls_whats_news_us_business_f",
@@ -50,7 +72,7 @@
       "title": "Firmus float failure a sign of ‘elevated market risk’: ASIC - The Australian",
       "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQTXpOVVIzTm84dDVWQTc2c05GUy1WN29CSmdtQzNsbWhCOTlIVUZpd3J3NzBxQUV4NXFfdHAzRUxEcTU5Zm9Ybk9aZ3lITEo2Q2hQN0lQbXE4d0dicnpEVGF0d0U4U1NfeFhublB3UXdUeTJ5d2hIOHRKUkhfMTRBdXp0VzZVaHJ6MkVnNFZCTGYwcEg2Q2UtWDdSYllhWDJiMFFnVFVGcld0YS1GZDZRYVhNRXFlS3FSYk9YekMxNkY4VDBab1pnXzJuQzltMjNXOHRCZmlmRmJXUENZMTZINHNGMklxQzl3dlRON04ySHpsNU1EQmI5TzA0TEdDTURlMUE3dGlQdzFkdw?oc=5",
       "source": "The Australian",
-      "date": "2026-10-26T18:04:07+00:00",
+      "date": "2026-10-26T18:15:36+00:00",
       "display_date": "Oct 26, 2026",
       "summary": "Firmus float failure a sign of ‘elevated market risk’: ASIC The Australian",
       "topics": [
@@ -103,6 +125,17 @@
       ]
     },
     {
+      "title": "Canadian Investment Regulatory Organization Trade Resumption - LGN – Company Announcement - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUEFhRWt6azAxdnA2N1BRZmhFYkZRR3IzWmFtS2ZxSFhfdnRqd3BWRXZ3SkNWMVp6SkdXSC1EenAweUEzUW5sMjR0cE5MdnBPck1MZjNWXzBBZjZtbmgwa09VcFlCZzh4T0tvS1FTUGk1Ul9Zc0dFdDVoT0JyYnR2T1B2ZjBnT3NUUkRNZ2FHQ3d2Z1pjM2c?oc=5",
+      "source": "Financial Times",
+      "date": "2026-10-26T16:02:00+00:00",
+      "display_date": "Oct 26, 2026",
+      "summary": "Canadian Investment Regulatory Organization Trade Resumption - LGN – Company Announcement Financial Times",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
       "title": "Slovakia to develop Russia ties in areas not hit by sanctions, minister says after Moscow talks - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVWZhLXhIRHFmWGYybC1nMldBMFRYVDU0TTZZOFg5TEZldkNMY0JPbUY5Q29jLURVdmRwYVMwenhKOU81dVVKMkJYM0hYWjBJYkUzZjZxNS1GT2t0WHBPNGpPR04xU0VpeFFoWW9uQ2k2SXIxSFM5M3NxUHZPYjFiMU53WmdicUxkYTYxeEpOYUhZaGlVamVTRHp1c0tVTVdaVEdQazlkeHp6R0dBZEhFYkp1NGhDTmts?oc=5",
       "source": "Reuters",
@@ -149,6 +182,28 @@
       ]
     },
     {
+      "title": "Congo Removes Boss of Artisanal Mining Regulator Amid Crackdown - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVDNoWk8wOFBuR29JQl8tSHVmeTllTDlCOC1WQkxabXFHOWV1eXZLd1VpRXFsZjAyXzF3UlBYQWM2Zl9BNFZsaFNkMTNSRkdaV0hJNXZEd0NfRUJ1cy1Vcm04THcxZnZlVm55VTNXTU5UVlBPWDJtRUVzRWNsQnZUT3pNQ0xFRWg1NVJMMmVmekFhclVGd1FPdTM3WkVxVTV1N010dGdJNGxaZ2p5cGctV1NLXzI?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-10-26T14:17:52+00:00",
+      "display_date": "Oct 26, 2026",
+      "summary": "Congo Removes Boss of Artisanal Mining Regulator Amid Crackdown Bloomberg.com",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Canadian Investment Regulatory Organization Trade Resumption - COCO – Company Announcement - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQU1paUV9mTTNDY2RGUklOUUNzUk84cmlzSjRCMzBEcHNPQ3hjVmZqZmlVZDNXS2lIVXlLd1JSNXo0WDQ4d0Rld09rdExXZmo0d3FXRGZyTHZZenkxWjdPVlZWTW5vYWxFMEFMWi1zUWZkcTV5SnE1cUhYWlBUUnZZSGtPNWg3MmQ5LW5zclVBcG5yVnUydEE?oc=5",
+      "source": "Financial Times",
+      "date": "2026-10-26T14:10:00+00:00",
+      "display_date": "Oct 26, 2026",
+      "summary": "Canadian Investment Regulatory Organization Trade Resumption - COCO – Company Announcement Financial Times",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
       "title": "Endangered turtles and ‘exceptional’ coral at risk from Woodside’s gas drilling in WA, watchdog says",
       "link": "https://www.theguardian.com/australia-news/2026/oct/27/endangered-turtles-and-exceptional-coral-at-risk-from-woodsides-gas-drilling-in-wa-watchdog-says",
       "source": "The Guardian Australia",
@@ -166,6 +221,28 @@
       "date": "2026-10-26T13:36:16+00:00",
       "display_date": "Oct 26, 2026",
       "summary": "A group of 15 financial institutions*, including Federated Hermes Limited, Nordea AM and Rabobank, announced […]",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Canadian Investment Regulatory Organization Trading Halt - COCO – Company Announcement - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNa2pYczcxOGxsRTE4NFRadXljU1J0UEpNMHVQcndkS1hmVHNMZkZjbzFSQ3RhZVh4QTNld2tJVFkxbTBwblVUVWJ2RzVUTEkxTGpqXzY4UzRWV0xEZzhReU5hTWZWSzFMVlRWQ2pzckpMZlNsZWZMZEZ1MWRqZ0x5UDV2NXNkTVhBdUVOQTh5d0FPX1U?oc=5",
+      "source": "Financial Times",
+      "date": "2026-10-26T13:29:00+00:00",
+      "display_date": "Oct 26, 2026",
+      "summary": "Canadian Investment Regulatory Organization Trading Halt - COCO – Company Announcement Financial Times",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "/C O R R E C T I O N - Canadian Investment Regulatory Organization (CIRO) - Halts/Resumptions/ - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeUF0TlE5aUNUMHFSS2tac2RWQ3hldzdpMFF4UjkwM3F3N3p4Y0ZSbWJMOXJETE8xQ3hFYVlaZC1IS1NqbEhwWm1qZmFnS05DRXFQQW1LMTNfdkFmZ3pjclc0SnlWdk9YV1VlODFDblZHX0E3VElOTnBuRDRLbm5pd1M0eUNpZ1hLaTRKM0dwOWM4OUdJQ0E?oc=5",
+      "source": "Financial Times",
+      "date": "2026-10-26T12:55:00+00:00",
+      "display_date": "Oct 26, 2026",
+      "summary": "/C O R R E C T I O N - Canadian Investment Regulatory Organization (CIRO) - Halts/Resumptions/ Financial Times",
       "topics": [
         "Regulatory Change"
       ]
@@ -201,6 +278,17 @@
       "summary": "Australian battery energy storage systems (BESS) developer and operator Akaysha Energy announced that it secured […]",
       "topics": [
         "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "Indiana Utility Regulatory Commission - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55U2p4bmNIZ2pPRlA0djk0U3htR05NeUhreWMxMTJ2NGpzWjN4TERMci11Mmh5XzRFeFRYcEstVE9rYzgzLTBRLVQ5WG9LTkFSdWtldXNB?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-10-26T11:20:39+00:00",
+      "display_date": "Oct 26, 2026",
+      "summary": "Indiana Utility Regulatory Commission Bloomberg.com",
+      "topics": [
+        "Regulatory Change"
       ]
     },
     {
@@ -356,17 +444,6 @@
       "summary": "Netanyahu rebuked for plan to use crypto to bypass economic sanctions Reuters",
       "topics": [
         "AML & Sanctions"
-      ]
-    },
-    {
-      "title": "Four ways US foreign policy could change if Democrats win in November - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYVRLMHJmdldMQ1h3TUZkbmpNUUZqUlVTY1VPaTNpU0JLc2xua051SmgtQUJzcFlnRjV3a3VaWVctNFM0dF80X2VKMlM5UTNIQkV4YmJ4TTAxdDFVS2EtdFN6R2pfTDVTVnNfZjJOYXdxbTV3eGxQeUFPZV85ZjBNb0I2dlpVdU9DQkhDaWI2Z214Wko2cUVLenFCYWUtLVY5WF9ydlJOTmlkdjN4RloxQQ?oc=5",
-      "source": "Reuters",
-      "date": "2026-10-25T11:02:30+00:00",
-      "display_date": "Oct 25, 2026",
-      "summary": "Four ways US foreign policy could change if Democrats win in November Reuters",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
@@ -635,17 +712,6 @@
       ]
     },
     {
-      "title": "US regulator is probing suspicious Iran oil trading, official says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPem1fOEZ2aU10cDBTVHhDUXFuN3ZTU1l3ZXR4dkpMUUNCazJDMEk4V0UxT01nZ2tNckxuTllmYXhNeUlhSTQzbzg5dHN2aVNjMUpnNnU0T2FJWmNtTGZ4ZTg0UXNjRFhReHlDbThZalczOHdVZFBKLU9pVEp3YTBTS096QUdKVm4tbTdlQzJSYWQ5eGhDZ05FSjJJWFhNYkt2dHZERzg1Zmltc2xKUkd1UjBXUEpTdjNC?oc=5",
-      "source": "Reuters",
-      "date": "2026-10-22T21:31:43+00:00",
-      "display_date": "Oct 22, 2026",
-      "summary": "US regulator is probing suspicious Iran oil trading, official says Reuters",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "The State of AI Governance in Third-Party Risk",
       "link": "https://www.complianceweek.com/scheduled-webcast/the-state-of-ai-governance-in-third-party-risk/",
       "source": "Compliance Week",
@@ -738,17 +804,6 @@
       ]
     },
     {
-      "title": "Laboratory operator Quest reports cyber breach affecting patient records - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObWV3NGM1S1J4RHVYM2xFZlZOM1FNekxQQ3hDeUd5OGx3eXc0bjNkd1J6alZPYUtnQUpUX1R4X2xEYnNHVXM0Q1d2VzhoYkduRk5YZ1hNalV2dEhYYUFFX3RDUF9HZmRsVkhHbzE3WXJ0WHZ0UXJkaW52ajZQbndhSVNlbi14Nnh6WUR0OHVIb3lVdHhCMTVvejRpYU9iblVwZHlMalQtT2hJRzJpZVVYV1ZDZ1hiVnE1alM2MnhpeFFVTkE?oc=5",
-      "source": "Reuters",
-      "date": "2026-10-22T15:35:43+00:00",
-      "display_date": "Oct 22, 2026",
-      "summary": "Laboratory operator Quest reports cyber breach affecting patient records Reuters",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
       "title": "How Does Your Third-Party Risk Management Program Compare?",
       "link": "https://www.complianceweek.com/diligent-compliance-ethics/how-does-your-third-party-risk-management-program-compare/",
       "source": "Compliance Week",
@@ -771,6 +826,17 @@
       ]
     },
     {
+      "title": "Canadian Investment Regulatory Organization Trade Resumption - LUX – Company Announcement - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcUdfWDZUZUhiNE5xc0QxSk1paDZOZ3Z3b3pwN2UyMjdUVnFyUXdrM3lfVzZCREUtajJlNWlHcEdqcjRSRllYTG04anQ1RFN0d0hOVGpVQWZ1NFhYdUlrQTNhem9UbVdnbVBHaEM0LUlac0hyMWI2eVRJRGRCSV94NTZGSWg3VVhacHZTS2U1SkpPbG1tN1E?oc=5",
+      "source": "Financial Times",
+      "date": "2026-10-22T14:46:00+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "Canadian Investment Regulatory Organization Trade Resumption - LUX – Company Announcement Financial Times",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
       "title": "GRC Business Roundup: Casepoint, Aravo, Smarsh, VinciWorks & More",
       "link": "https://www.corporatecomplianceinsights.com/grc-business-roundup-casepoint-aravo-smarsh-vinciworks-more/",
       "source": "Corporate Compliance Insights",
@@ -779,6 +845,28 @@
       "summary": "The business of GRC is ever-expanding, GRC technology is one of the fastest-growing segments in enterprise software, and compliance professions are rapidly evolving. Here’s the latest from across the industry. Product launches Communications compliance company Casepoint launched ...",
       "topics": [
         "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "Canadian Investment Regulatory Organization Trade Resumption - MOO – Company Announcement - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObXlaNl9oSVdfUjB4QlBmeFVMbXZfTVhXSUFMdUNiZ1AySGp6WU8wN0s1WENMWkM4N3ZwMzRZOWxFdFBNSkVmcnlBTXlwUGtKX1g4VkZtbEE1Vm1ZOVM2bjhtVGFxN2ZwT09SNVdobTlHTHhNUnhmYllZUk9fMm5SUWtHMFQzTVhMNGZuQmFBbWtfN3JQcmc?oc=5",
+      "source": "Financial Times",
+      "date": "2026-10-22T13:11:00+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "Canadian Investment Regulatory Organization Trade Resumption - MOO – Company Announcement Financial Times",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Canadian Investment Regulatory Organization Trading Halt - BN.PF.N – Company Announcement - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVlpaTGtPUnczcUlGdGNtSEpwS09jUjVmQWo4NFMwdnREcGNOMG5JMnI2OVNacU9pbzk4VDhjYXUzZEthOHhfVWpYejRXbElUT3RDcC1kenJKZFctWGFBOWM1NnhhN1I2Wlg3TDlzMnByWXRPVlhHSV9qMkNsZDduaXhsYW9qQTlUS1Vaa2cwdzNKamlkZlE?oc=5",
+      "source": "Financial Times",
+      "date": "2026-10-22T12:06:00+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "Canadian Investment Regulatory Organization Trading Halt - BN.PF.N – Company Announcement Financial Times",
+      "topics": [
+        "Regulatory Change"
       ]
     },
     {
@@ -1016,17 +1104,6 @@
       ]
     },
     {
-      "title": "Republican backlash over Russia policy poses challenge for Trump in Congress - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaDFDZkZKQWR4NUxYR1dscU5tbnl5STNSam5nVW9fNnVNUm9TOGktNjNFQy1maTJ6ZlpWWnY3ejdPMEtnQlRxcjNrZWpLOUhYNjdLdER6dEhDXzlZMmpZX1ZzLWZYUi1UMUxDTkZxa1ZvcEFjUjh3eFVEVDREaWttdEV2V0pxdEpRZ1VtUDEwcE9pTTFXa3V3azFwRWpwTVRrdkZKb0xQUWg1bkhFcXNXN1hiY3hyZG1YNms2bzNUTQ?oc=5",
-      "source": "Reuters",
-      "date": "2026-10-22T10:04:00+00:00",
-      "display_date": "Oct 22, 2026",
-      "summary": "Republican backlash over Russia policy poses challenge for Trump in Congress Reuters",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "Greece says it is implementing sanctions linked to Iran - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMFJaZ0t6eFMxSzJVenJlSEdyVkFjWXVuYmsxUy14ajVPdWZEMEUybm1ySE5zbzE1N05TNlVaeW1rZmNHOWVkLWxMQ193QzlRMTdYMGFYZmk2TzROdWptVDB5LXAtV3BiSW9nVERSSTF0bkpLWGVSREdja21vcFpGcnZmb1UtbUtFdE9QSUtVZENOMzJURl9Rd1lEbGZTVW1ISk5PamhUaUhGZw?oc=5",
       "source": "Reuters",
@@ -1106,17 +1183,6 @@
       ]
     },
     {
-      "title": "Europe risks startup exodus as regulation, funding and skill gaps hamper AI adoption, AWS EMEA head says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWlBCRzNNN1hVU0RydnVDdzB6MUtiWVlURnFsTHBMcXlhMWxjMnFvZHVfbmFzSmRPbEtlRlUzQVFxUUgwbEhDdHR5eFFOZXFxdWJ2M0tUTi1DRU4xa2lFMFBEVHdmc25KZUNlVGV2bVA1SnczQ3pCeGE1cjgzV1hVbk9hVjdOTmNOeFEtZEJsVHNpNllLWGtHSWZnd3UxMmFwa2pPVDdMTW8xUm42dmxXbmMxQS1HUDJHektqMnZ1bUJ6OFpFVF9DYzhUSHhIQ0VNTEVnRkdiWGg?oc=5",
-      "source": "Reuters",
-      "date": "2026-10-21T16:53:43+00:00",
-      "display_date": "Oct 21, 2026",
-      "summary": "Europe risks startup exodus as regulation, funding and skill gaps hamper AI adoption, AWS EMEA head says Reuters",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "FCC chair says broadcast networks could violate regulatory obligations by airing 'fake polls' - Reuters",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaTJlRG9JenVUb2Z1NWxDR2xxeDMxVTgySDl0RGNKbmsxTkU1M1k2U1F3NURwYk5HWk43TEJHaTk3WEpUWXhMZGlmLUdkVGtPWmV6UmNpNzlpTFExbm5wWVNrMzltT3RraWNBZmhMOWE5WnRVNnl1WlFiMDI1V0pld0NoOHZWX1R5WkJBN2J3bkU3Y19DaG9obU43cjhJRGN3ZGNJR2dmQkhkMXdZbHdqbWZER093c1hoYzlSNERiRGczX3ZLTFJkQWRKV1FzTTdkM0JGamJR?oc=5",
       "source": "Reuters",
@@ -1157,6 +1223,17 @@
       "date": "2026-10-21T13:07:00+00:00",
       "display_date": "Oct 21, 2026",
       "summary": "Speech by Sarah Pritchard, deputy chief executive, at Investment Association Annual Dinner 2026. Reform: more than writing rulesIn this sector, we’re just past peak rule making. The scale of change has been significant – and deliberate.But we’re not done yet.We want to see growth...",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Hawkeye Digital Submits Comment Letter on SEC's Proposed Regulation Crypto Assets – Company Announcement - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcHFuZE9HR2YzZldKOWFyRWZiSkZSRVdRUlRhZXRWRWpNUjNic2s3Uk40aDFVQ1VfWm8wenR2ZV9oOE4xcTEwM0tlUndlSEhveGJTOVRrd3JKaXRZa1hnZXEzYlQwZmRNSWpXcnZUTEdhZjdfWWtnRTRFNExVNnFTZ2pCeldiLUljMkpTUzYyY0lvTzFaVmd1ekJvQ0ZKMmZpLTZXYklR?oc=5",
+      "source": "Financial Times",
+      "date": "2026-10-21T12:00:00+00:00",
+      "display_date": "Oct 21, 2026",
+      "summary": "Hawkeye Digital Submits Comment Letter on SEC's Proposed Regulation Crypto Assets – Company Announcement Financial Times",
       "topics": [
         "Regulatory Change"
       ]
@@ -1229,17 +1306,6 @@
       ]
     },
     {
-      "title": "Professional Life: Big four’s climate fee bonanza - AFR",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWDNyUjZJdWlvOGlfaHdrenFRMHBfNUJhV2ZhM1hLUUZkR1FGY2lWT3czVGluWFp6eElHM01RSFFFZXVQZ1lYM1F2blNmSDJQM00wWkNjVVVPenozRmlxWTJKWFcwa0N2LU1nZU54N0hMZTZlN203dWtodmNTeTdxOGhKNUJPTHRScjZ3eFVrM3hDalhZS2EtbmV2MVlHc00?oc=5",
-      "source": "AFR",
-      "date": "2026-10-21T01:01:00+00:00",
-      "display_date": "Oct 21, 2026",
-      "summary": "Professional Life: Big four’s climate fee bonanza AFR",
-      "topics": [
-        "ESG & Sustainability"
-      ]
-    },
-    {
       "title": "Netflix posts third-quarter earnings beat, but shares fall on advertising and revenue guidance",
       "link": "https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html",
       "source": "CNBC",
@@ -1273,12 +1339,12 @@
       ]
     },
     {
-      "title": "US Sanctions China’s Y Combinator in Google AI Secrets Case - Bloomberg",
+      "title": "US Sanctions China’s Y Combinator in Google AI Secrets Case - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSWpoclBQZGh5ZzFZX25ESkYzTy1JV1dTQXhFUkhsODdZZ1VUOUlFaDFjaDBkYlRIeUZEQzJoOXZyTmFkeFNxNkxKQ1l3QmFRRlhkQWM0WnlLOXdySUlwX0t5UHNXZjFzUHhfOWZoam1CWmNjdXNnQ1pMUnZFYUxCenVfd3l4SjNsM1lfTG1jdXkzRkFfdnpSdjVpSk51UnFsQmZMM0xCZmJIcWlPMjMw?oc=5",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "date": "2026-10-20T19:35:17+00:00",
       "display_date": "Oct 20, 2026",
-      "summary": "US Sanctions China’s Y Combinator in Google AI Secrets Case Bloomberg",
+      "summary": "US Sanctions China’s Y Combinator in Google AI Secrets Case Bloomberg.com",
       "topics": [
         "AML & Sanctions"
       ]
@@ -1314,6 +1380,17 @@
       "summary": "The U.S. Securities and Exchange Commission (SEC) and the French Autorité des Marchés Financiers (AMF) announced that they have entered into a Memorandum of Understanding (MOU) designed to facilitate consultation and information-sharing in the…",
       "topics": [
         "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "Canadian Investment Regulatory Organization Trading Halt - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSzZQZy1rOC1nODY1eHowN2FvdVVncVpUc19rRkhkbmY0ZEVKdzRlc3hZbnpOUEx6ZFRORnltZkI2RW14TXp1R19fZjdVUkg4bzJ3ZlgyVkJLcGFMalJGdVVJTEZUSTR1SDNZRXA2SVlKTlRtY3pTWDhrYUdUQWp0Yy1uMmRacHBaMVFmTURJQ1dINENQRUE?oc=5",
+      "source": "Financial Times",
+      "date": "2026-10-20T13:06:00+00:00",
+      "display_date": "Oct 20, 2026",
+      "summary": "Canadian Investment Regulatory Organization Trading Halt Financial Times",
+      "topics": [
+        "Regulatory Change"
       ]
     },
     {
@@ -1447,17 +1524,6 @@
       "summary": "superloop.com Appendix 4G and Corporate Governance Statement AFR",
       "topics": [
         "Operational & Enterprise Risk"
-      ]
-    },
-    {
-      "title": "More litigation, higher court losses push ASIC $90m into the red - AFR",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeFBqVnVIcGdtNHdjMUdzcVpJS3ZBUmdQWEFyamJuRGtmOENTRWYyNm9sTzRoRGVyUVQwSER5MjdfNEpKN1pmRXlQVEFiVUNfdTh0WEx1VjhQaE9hTzBlbFRDZ3RVVTBfVVlhQ2ZvUnFhZDI2QUJ2S0hjcFd0ZGJoZTY4dGM2ZVd6b095V1lSR1ZlNUVYLXM3Qmt0YnY4bll6Uk1fcGhKMmZwZERaUXJwNjF2UlU?oc=5",
-      "source": "AFR",
-      "date": "2026-10-20T02:16:00+00:00",
-      "display_date": "Oct 20, 2026",
-      "summary": "More litigation, higher court losses push ASIC $90m into the red AFR",
-      "topics": [
-        "Enforcement Actions"
       ]
     },
     {
