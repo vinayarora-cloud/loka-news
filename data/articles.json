@@ -1,7 +1,73 @@
 {
-  "last_updated": "October 27, 2026 04:25 UTC",
-  "total_count": 222,
+  "last_updated": "October 27, 2026 08:32 UTC",
+  "total_count": 216,
   "articles": [
+    {
+      "title": "Porsche Sticks to Guidance as Turnaround Efforts Begin to Pay Off",
+      "link": "https://www.wsj.com/business/autos/porsche-sticks-to-guidance-as-turnaround-efforts-begin-to-pay-off-339931e2?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-10-27T08:23:00+00:00",
+      "display_date": "Oct 27, 2026",
+      "summary": "The luxury sports-car maker said it continued to reap early benefits from a strategic reset.",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Novartis Raises Guidance Despite Trial Setbacks Hitting Profit",
+      "link": "https://www.wsj.com/business/earnings/novartis-raises-guidance-despite-trial-setbacks-hitting-profit-f642c87f?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-10-27T06:36:00+00:00",
+      "display_date": "Oct 27, 2026",
+      "summary": "The Swiss drugmaker cited solid sales growth and productivity gains, even as recent clinical-trial setbacks hit its bottom line in the third quarter.",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Cease and desist! ABC demands One Nation stop casting Bluey in its cartoons",
+      "link": "https://www.smh.com.au/business/companies/former-abc-news-chief-s-payout-revealed-20261027-p618th.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+      "source": "The Sydney Morning Herald",
+      "date": "2026-10-27T05:14:18+00:00",
+      "display_date": "Oct 27, 2026",
+      "summary": "ABC boss Hugh Marks says the depiction of Bluey is a “shocking use of Australia’s most loved character.”",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "After days of delay, state regulators confirm probe into methane plume at Chevron",
+      "link": "https://www.abc.net.au/news/2026-10-27/wa-regulators-investigate-methane-plumes-chevron-gorgon-project/107313078",
+      "source": "ABC News Business (AU)",
+      "date": "2026-10-27T05:09:36+00:00",
+      "display_date": "Oct 27, 2026",
+      "summary": "Dispelling its initial uncertainty, the WA government has confirmed an investigation is underway into repeated large methane emissions from Chevron's Gorgon gas complex.",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "Three Russian diesel tankers steam for US — including one under sanctions - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMGk0enQ4S1dKd2xXdnZPWjRvWEtieklCbUItUFpSQmtqLWN1eTNNY1ZHOEZXVkFNVW1QQXBXNk96WUg3TS1RSWhNUlBpTzdYMi1ZMUJYclhlbFh6YS1JcnV5UE11RlYtSUZRNjBkWFNwZDIybWhUeW03M2stMXlyLVNwX3o?oc=5",
+      "source": "Financial Times",
+      "date": "2026-10-27T05:01:46+00:00",
+      "display_date": "Oct 27, 2026",
+      "summary": "Three Russian diesel tankers steam for US — including one under sanctions Financial Times",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "Chinese markets lose trillions as race for AI supremacy with US takes its toll",
+      "link": "https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing",
+      "source": "The Guardian Australia",
+      "date": "2026-10-27T04:42:50+00:00",
+      "display_date": "Oct 27, 2026",
+      "summary": "Lack of profits and the threat posed by western countries are raising concern about the sustainability of Beijing’s AI boom Trillions of dollars have been wiped from China’s stock markets in recent months amid increasing anxiety about the future of artificial intelligence, as Bei...",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
     {
       "title": "Coles worker sacked after restraining suspected thief to receive $6500",
       "link": "https://www.smh.com.au/business/workplace/coles-worker-sacked-after-restraining-suspected-thief-to-receive-6500-20261027-p618ut.html?ref=rss&utm_medium=rss&utm_source=rss_business",
@@ -36,14 +102,25 @@
       ]
     },
     {
-      "title": "Massachusetts lesbian bar makes frantic effort to find new owners after relaxing masking policy",
-      "link": "https://www.theguardian.com/us-news/2026/oct/26/last-ditch-lesbian-bar-closing",
-      "source": "The Guardian Australia",
-      "date": "2026-10-26T22:39:32+00:00",
+      "title": "Canadian Investment Regulatory Organization Trade Resumption - CPER – Company Announcement - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORkhTQkowRlFtRmJOLUVYLVFGdHo2Y1laUC1jUzB1QnJtYlFnU2pWQWp0NWF3a01lXy00UzU4aERaUUdFakFYUmNreU1fcVExaGZiMmYtZzQxdGd6V2NpcHlNc2NqYXBSa1NtX1I3M0psWmRrSW9Lbm5HQndySUVKN1Y3cmhBblVlNWxWbFJqU2lNY0k?oc=5",
+      "source": "Financial Times",
+      "date": "2026-10-26T18:52:00+00:00",
       "display_date": "Oct 26, 2026",
-      "summary": "Last Ditch bar announced it would ‘soft close’ after it went viral following a story on its attempt to relax Covid rules A Massachusetts lesbian bar that went viral for loosening its Covid mask policy last month announced plans to “soft close” on Monday as it seeks new ownership....",
+      "summary": "Canadian Investment Regulatory Organization Trade Resumption - CPER – Company Announcement Financial Times",
       "topics": [
         "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Firmus float failure a sign of ‘elevated market risk’: ASIC - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQTXpOVVIzTm84dDVWQTc2c05GUy1WN29CSmdtQzNsbWhCOTlIVUZpd3J3NzBxQUV4NXFfdHAzRUxEcTU5Zm9Ybk9aZ3lITEo2Q2hQN0lQbXE4d0dicnpEVGF0d0U4U1NfeFhublB3UXdUeTJ5d2hIOHRKUkhfMTRBdXp0VzZVaHJ6MkVnNFZCTGYwcEg2Q2UtWDdSYllhWDJiMFFnVFVGcld0YS1GZDZRYVhNRXFlS3FSYk9YekMxNkY4VDBab1pnXzJuQzltMjNXOHRCZmlmRmJXUENZMTZINHNGMklxQzl3dlRON04ySHpsNU1EQmI5TzA0TEdDTURlMUE3dGlQdzFkdw?oc=5",
+      "source": "The Australian",
+      "date": "2026-10-26T18:34:12+00:00",
+      "display_date": "Oct 26, 2026",
+      "summary": "Firmus float failure a sign of ‘elevated market risk’: ASIC The Australian",
+      "topics": [
+        "Enforcement Actions"
       ]
     },
     {
@@ -66,17 +143,6 @@
       "summary": "Companies that transfer staff from one EU member state to work temporarily in another will benefit from a new digital portal designed to simplify official worker declarations and related administration. The post EU introduces digital portal for documenting temporary staff transfe...",
       "topics": [
         "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Firmus float failure a sign of ‘elevated market risk’: ASIC - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQTXpOVVIzTm84dDVWQTc2c05GUy1WN29CSmdtQzNsbWhCOTlIVUZpd3J3NzBxQUV4NXFfdHAzRUxEcTU5Zm9Ybk9aZ3lITEo2Q2hQN0lQbXE4d0dicnpEVGF0d0U4U1NfeFhublB3UXdUeTJ5d2hIOHRKUkhfMTRBdXp0VzZVaHJ6MkVnNFZCTGYwcEg2Q2UtWDdSYllhWDJiMFFnVFVGcld0YS1GZDZRYVhNRXFlS3FSYk9YekMxNkY4VDBab1pnXzJuQzltMjNXOHRCZmlmRmJXUENZMTZINHNGMklxQzl3dlRON04ySHpsNU1EQmI5TzA0TEdDTURlMUE3dGlQdzFkdw?oc=5",
-      "source": "The Australian",
-      "date": "2026-10-26T18:15:36+00:00",
-      "display_date": "Oct 26, 2026",
-      "summary": "Firmus float failure a sign of ‘elevated market risk’: ASIC The Australian",
-      "topics": [
-        "Enforcement Actions"
       ]
     },
     {
@@ -122,17 +188,6 @@
       "summary": "Artificial intelligence giant Anthropic filed its IPO registration statement on Monday morning, and while the accounting types are losing their [expletive] over the details of the company’s financial operations, we corporate governance types can obsess over a different, equally i...",
       "topics": [
         "Operational & Enterprise Risk"
-      ]
-    },
-    {
-      "title": "Canadian Investment Regulatory Organization Trade Resumption - LGN – Company Announcement - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUEFhRWt6azAxdnA2N1BRZmhFYkZRR3IzWmFtS2ZxSFhfdnRqd3BWRXZ3SkNWMVp6SkdXSC1EenAweUEzUW5sMjR0cE5MdnBPck1MZjNWXzBBZjZtbmgwa09VcFlCZzh4T0tvS1FTUGk1Ul9Zc0dFdDVoT0JyYnR2T1B2ZjBnT3NUUkRNZ2FHQ3d2Z1pjM2c?oc=5",
-      "source": "Financial Times",
-      "date": "2026-10-26T16:02:00+00:00",
-      "display_date": "Oct 26, 2026",
-      "summary": "Canadian Investment Regulatory Organization Trade Resumption - LGN – Company Announcement Financial Times",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
@@ -193,17 +248,6 @@
       ]
     },
     {
-      "title": "Canadian Investment Regulatory Organization Trade Resumption - COCO – Company Announcement - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQU1paUV9mTTNDY2RGUklOUUNzUk84cmlzSjRCMzBEcHNPQ3hjVmZqZmlVZDNXS2lIVXlLd1JSNXo0WDQ4d0Rld09rdExXZmo0d3FXRGZyTHZZenkxWjdPVlZWTW5vYWxFMEFMWi1zUWZkcTV5SnE1cUhYWlBUUnZZSGtPNWg3MmQ5LW5zclVBcG5yVnUydEE?oc=5",
-      "source": "Financial Times",
-      "date": "2026-10-26T14:10:00+00:00",
-      "display_date": "Oct 26, 2026",
-      "summary": "Canadian Investment Regulatory Organization Trade Resumption - COCO – Company Announcement Financial Times",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "Endangered turtles and ‘exceptional’ coral at risk from Woodside’s gas drilling in WA, watchdog says",
       "link": "https://www.theguardian.com/australia-news/2026/oct/27/endangered-turtles-and-exceptional-coral-at-risk-from-woodsides-gas-drilling-in-wa-watchdog-says",
       "source": "The Guardian Australia",
@@ -256,17 +300,6 @@
       "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog and updated the PHP Alert, Critical Vulnerabilities in PHP Require Immediate Patching : CVE-2026-109618 – PHP Memory Corruption Vulnerability CVE-2026-109619 – PHP Stale Internal Request-S...",
       "topics": [
         "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "(Company) CORPORATE GOVERNANCE STATEMENT - AFR",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcmp6bWp3a2JSQk9qMk96bjl2NmIxejZUZ3Fqdk1zZWlzSWRLNVl0azVLVDJSdmJVN2paM1NHc0NoM2dzc25FeUdoYjR0em1xZmNHMDZaZ0h0RVVYdDBUQ0wwM3pkNGRwUzV1Vm9EOXFDZTNIeF9vZkkwUXBoMVJIb3BUWkNvQzRRNFhYc0FoZw?oc=5",
-      "source": "AFR",
-      "date": "2026-10-26T11:57:36+00:00",
-      "display_date": "Oct 26, 2026",
-      "summary": "(Company) CORPORATE GOVERNANCE STATEMENT AFR",
-      "topics": [
-        "Operational & Enterprise Risk"
       ]
     },
     {
@@ -358,17 +391,6 @@
       ]
     },
     {
-      "title": "Galp Energia Shares Fall After Moeve Merger-Talks Collapse, Overshadowing Positive Earnings",
-      "link": "https://www.wsj.com/business/energy-oil/galp-raises-full-year-view-after-oil-price-assumption-increase-ee79aceb?mod=pls_whats_news_us_business_f",
-      "source": "Wall Street Journal",
-      "date": "2026-10-26T09:06:00+00:00",
-      "display_date": "Oct 26, 2026",
-      "summary": "The stock fell more than 8% after talks with Moeve on a potential downstream combination broke down, overshadowing earnings growth and a full-year guidance hike.",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "Coalition says cuts to climate, housing and more would save $31b",
       "link": "https://www.abc.net.au/news/2026-10-26/coalition-says-cuts-to-save-budget-31-billion/107310512",
       "source": "ABC News Business (AU)",
@@ -380,14 +402,15 @@
       ]
     },
     {
-      "title": "US NRC Issues Final Environmental Impact Statement for Planned Paducah Laser Enrichment Facility - AFR",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUVNwNGRwOWpTdUVXXzc5aWhidDBWcnFxdzRraE1zZDZkQmd1Q2NqQlEzZWp3cmE2SDNNVGN5TG52aFdWS09jRmF0enozNUJrbzVpQ1FXc1FjX2hQdktSMHRQVDBwMndXTnZwMV9pR3hUU3ZmMDgxbXBweDhwcE1ISHdfcEYzS0VWSWVHb3lhTQ?oc=5",
-      "source": "AFR",
-      "date": "2026-10-26T04:27:36+00:00",
+      "title": "Australian Regulator Warns Higher Market Risks May Hit Liquidity - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT0dYLU5HZUV3Q3FXMDRNQ2NxRFBNYXZIWEFGUk5MMENnQVJIMU1zWTl6QWs1MEZReVNkRTE2enhGWEtwSWNLZmg3UE16OTB5eVF5UENTSGdYVkJ4QWJFXzczd3N0MEJqc0NPcm1iUjdoYkhvdDlRLWZUMzFjbkUtMG9oTE83dDgzeG84VXJqdFE2aFA3STVSZzFveGdtT2ZlVVRmeGw3OGV4a3VaUU82YWE3djM2QQ?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-10-26T04:31:00+00:00",
       "display_date": "Oct 26, 2026",
-      "summary": "US NRC Issues Final Environmental Impact Statement for Planned Paducah Laser Enrichment Facility AFR",
+      "summary": "Australian Regulator Warns Higher Market Risks May Hit Liquidity Bloomberg.com",
       "topics": [
-        "ESG & Sustainability"
+        "Regulatory Change",
+        "Operational & Enterprise Risk"
       ]
     },
     {
@@ -411,17 +434,6 @@
       "topics": [
         "Enforcement Actions",
         "AML & Sanctions"
-      ]
-    },
-    {
-      "title": "ASIC won’t sue Super Retail board over scandal that led to CEO’s sacking, says company",
-      "link": "https://www.smh.com.au/business/companies/asic-won-t-sue-super-retail-board-over-scandal-that-led-to-ceo-s-sacking-says-company-20261026-p617jl.html?ref=rss&utm_medium=rss&utm_source=rss_business",
-      "source": "The Sydney Morning Herald",
-      "date": "2026-10-25T18:00:00+00:00",
-      "display_date": "Oct 25, 2026",
-      "summary": "The retail group behind Rebel Sport and Supercheap Auto will face shareholders this week amid fresh questions about the alleged relationship between two top executives and the continuing fallout for investors.",
-      "topics": [
-        "Enforcement Actions"
       ]
     },
     {
@@ -466,17 +478,6 @@
       "summary": "This week in ESG news: ISSB releases proposed nature-related corporate reporting requirements; Coca-Cola, Nestlé, Danone […]",
       "topics": [
         "ESG & Sustainability"
-      ]
-    },
-    {
-      "title": "Darwin pregnant patients' medical information posted to Instagram in breach",
-      "link": "https://www.abc.net.au/news/2026-10-25/nt-rdh-privacy-breach-medical-patient-info-posted-to-instagram/107304564",
-      "source": "ABC News Business (AU)",
-      "date": "2026-10-25T05:11:48+00:00",
-      "display_date": "Oct 25, 2026",
-      "summary": "Confidential medical information belonging to about a dozen pregnant patients at Royal Darwin Hospital was posted to Instagram by a 'medical observer' associated with the facility.",
-      "topics": [
-        "Cybersecurity Risk"
       ]
     },
     {
@@ -826,17 +827,6 @@
       ]
     },
     {
-      "title": "Canadian Investment Regulatory Organization Trade Resumption - LUX – Company Announcement - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcUdfWDZUZUhiNE5xc0QxSk1paDZOZ3Z3b3pwN2UyMjdUVnFyUXdrM3lfVzZCREUtajJlNWlHcEdqcjRSRllYTG04anQ1RFN0d0hOVGpVQWZ1NFhYdUlrQTNhem9UbVdnbVBHaEM0LUlac0hyMWI2eVRJRGRCSV94NTZGSWg3VVhacHZTS2U1SkpPbG1tN1E?oc=5",
-      "source": "Financial Times",
-      "date": "2026-10-22T14:46:00+00:00",
-      "display_date": "Oct 22, 2026",
-      "summary": "Canadian Investment Regulatory Organization Trade Resumption - LUX – Company Announcement Financial Times",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "GRC Business Roundup: Casepoint, Aravo, Smarsh, VinciWorks & More",
       "link": "https://www.corporatecomplianceinsights.com/grc-business-roundup-casepoint-aravo-smarsh-vinciworks-more/",
       "source": "Corporate Compliance Insights",
@@ -854,17 +844,6 @@
       "date": "2026-10-22T13:11:00+00:00",
       "display_date": "Oct 22, 2026",
       "summary": "Canadian Investment Regulatory Organization Trade Resumption - MOO – Company Announcement Financial Times",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Canadian Investment Regulatory Organization Trading Halt - BN.PF.N – Company Announcement - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVlpaTGtPUnczcUlGdGNtSEpwS09jUjVmQWo4NFMwdnREcGNOMG5JMnI2OVNacU9pbzk4VDhjYXUzZEthOHhfVWpYejRXbElUT3RDcC1kenJKZFctWGFBOWM1NnhhN1I2Wlg3TDlzMnByWXRPVlhHSV9qMkNsZDduaXhsYW9qQTlUS1Vaa2cwdzNKamlkZlE?oc=5",
-      "source": "Financial Times",
-      "date": "2026-10-22T12:06:00+00:00",
-      "display_date": "Oct 22, 2026",
-      "summary": "Canadian Investment Regulatory Organization Trading Halt - BN.PF.N – Company Announcement Financial Times",
       "topics": [
         "Regulatory Change"
       ]
@@ -1251,6 +1230,19 @@
       ]
     },
     {
+      "title": "ServiceNow delivers industry-first personal enterprise agent and policy enforcement with NVIDIA, extending AI governance across software and silicon – Company Announcement - FT.com - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZEFCT3RxYk1rX25uZnR4TFNkWXdEcEp0N1RwMkxaek1UUUdWcDNBYV9jTXA1UzZ0Tk5RdXRUZnAtMFNTVE5qSFg2cXRoNkJ1ZExXRVFjaF9XaWNRTHFPdHRnSzJsaFpLTGkxTmVVX3JYQ1NkNHFiRmt0Wm81QjgyM205YkZpYko4Mmg2MFM4bzBqbGlEaUhoT3puRzI5NU9mbnFKREhn?oc=5",
+      "source": "Financial Times",
+      "date": "2026-10-21T11:30:00+00:00",
+      "display_date": "Oct 21, 2026",
+      "summary": "ServiceNow delivers industry-first personal enterprise agent and policy enforcement with NVIDIA, extending AI governance across software and silicon – Company Announcement - FT.com Financial Times",
+      "topics": [
+        "Enforcement Actions",
+        "Regulatory Change",
+        "Operational & Enterprise Risk"
+      ]
+    },
+    {
       "title": "Who Defines Compliance When Regulators Leave SaaS-Shaped Gaps?",
       "link": "https://www.corporatecomplianceinsights.com/who-defines-compliance-when-regulators-leave-saas-shaped-gaps/",
       "source": "Corporate Compliance Insights",
@@ -1383,17 +1375,6 @@
       ]
     },
     {
-      "title": "Canadian Investment Regulatory Organization Trading Halt - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSzZQZy1rOC1nODY1eHowN2FvdVVncVpUc19rRkhkbmY0ZEVKdzRlc3hZbnpOUEx6ZFRORnltZkI2RW14TXp1R19fZjdVUkg4bzJ3ZlgyVkJLcGFMalJGdVVJTEZUSTR1SDNZRXA2SVlKTlRtY3pTWDhrYUdUQWp0Yy1uMmRacHBaMVFmTURJQ1dINENQRUE?oc=5",
-      "source": "Financial Times",
-      "date": "2026-10-20T13:06:00+00:00",
-      "display_date": "Oct 20, 2026",
-      "summary": "Canadian Investment Regulatory Organization Trading Halt Financial Times",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "SEC, FSA Hold Autumn Financial Regulatory Dialogue",
       "link": "https://www.sec.gov/newsroom/press-releases/2026-107-sec-fsa-hold-autumn-financial-regulatory-dialogue",
       "source": "SEC Press Releases",
@@ -1480,50 +1461,6 @@
       "summary": "EssilorLuxottica's smart glasses boom runs into tougher regulatory scrutiny Reuters",
       "topics": [
         "Regulatory Change"
-      ]
-    },
-    {
-      "title": "ASIC says it did not pay MinRes offices a visit during two-year probe - AFR",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQkZjbm1zZWoyanloYnR1WFVxb1ZENjJvaWNGQWZGLVBpNllLRGFUX2E2S1M3LV9nT2FBWFJXOEtxamJYZEZBYnVsOGFYYzJqTlJzNEw5RFV2Qy1UdXNJcXRjQ3hWQVhsTFRoTk52cVVyRWx4ZWoxN3BWbkhmeTRPRzNVakRnQVFPcllscTNNaENnLUtkc2lNX1Y4NVpHUFRTQXZvaU1TSVJGeDI5LS1rbTJ5Q0JmWk13S2NseWdOOA?oc=5",
-      "source": "AFR",
-      "date": "2026-10-20T06:54:00+00:00",
-      "display_date": "Oct 20, 2026",
-      "summary": "ASIC says it did not pay MinRes offices a visit during two-year probe AFR",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "Former Rex chairman fined $800,000, disqualified for misleading market - AFR",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWlg2a2dZWE5vcTNsbkZUTUJmRWhCUEdnQnBYVXFkOE9DVmhHZUg1WS1sQXlpX1p0NFFkOXljR3M1VnFBczdsMFQyZXRUbmJfRHJveUR5em5YSXhLOEo5YVl1NjFULWRlRElRTlpsYnlzdkVuY2ZaaGRRTHNXUngyS1JxSDBwcmwzT3dLUVZzV1VLb3dTNlBQYUhTaVZCQXVLSWp2cTRxdkNYV0NYOEtjY3l6TVZVV21QYUJxWUY2dUt1dw?oc=5",
-      "source": "AFR",
-      "date": "2026-10-20T06:44:00+00:00",
-      "display_date": "Oct 20, 2026",
-      "summary": "Former Rex chairman fined $800,000, disqualified for misleading market AFR",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "Blackbird secures payday at start-up First AML as Five V comes calling - AFR",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRE9vSnE1VWViSmhxWGQ2NFYxMHBmRFloZmhZeC0tbXIyRHc0Ri1mRTBsMlRZdFAzbGtuUkQ0R2JGQkdfMDJzYl85QXBXNURqcWl1aGR2V3pudWlpakM2d1lzVy1Od011T1JzTDNscXFnbnBOS2tsc0h6T0hBbG9NcDF0Y2d3Zm1lSjJiZDVSSm1MYlJQVFFRQ25MRU5xRjloV1N6bHdzTlZnUDlTeDhJM0s5SGdzSlpDZXc?oc=5",
-      "source": "AFR",
-      "date": "2026-10-20T04:55:00+00:00",
-      "display_date": "Oct 20, 2026",
-      "summary": "Blackbird secures payday at start-up First AML as Five V comes calling AFR",
-      "topics": [
-        "AML & Sanctions"
-      ]
-    },
-    {
-      "title": "superloop.com Appendix 4G and Corporate Governance Statement - AFR",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYVJZNVE5VVlhZUNLMzJfbFRkSk5JQVlMVXlSWnVRX3RGT1NzclVPZXlldklwSDFkWUVWZUZ3Z3ZOSXUxeVpOOXRKUmtRbzhKR0VwZW1YYUk3WTJ2UTdKVVhNeENEOC1tZzVsUmtha0FCVS12YURhWlNSQkpWMEVJZ0tSa0VHNFNEM1d6YnZnYw?oc=5",
-      "source": "AFR",
-      "date": "2026-10-20T04:33:57+00:00",
-      "display_date": "Oct 20, 2026",
-      "summary": "superloop.com Appendix 4G and Corporate Governance Statement AFR",
-      "topics": [
-        "Operational & Enterprise Risk"
       ]
     },
     {
