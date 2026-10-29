@@ -1,7 +1,84 @@
 {
-  "last_updated": "October 29, 2026 12:35 UTC",
-  "total_count": 234,
+  "last_updated": "October 29, 2026 16:41 UTC",
+  "total_count": 232,
   "articles": [
+    {
+      "title": "Clarity AI Launches New Solution to Enable Investors to Assess Companies’ Progress on Climate Goals",
+      "link": "https://www.esgtoday.com/clarity-ai-launches-new-solution-to-enable-investors-to-assess-companies-progress-on-climate-goals/?utm_source=rss&utm_medium=rss&utm_campaign=clarity-ai-launches-new-solution-to-enable-investors-to-assess-companies-progress-on-climate-goals",
+      "source": "ESG Today",
+      "date": "2026-10-29T15:15:29+00:00",
+      "display_date": "Oct 29, 2026",
+      "summary": "Sustainability data and analytics company Clarity AI announced the launch of Transition Credibility Assessment, a […]",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "DuPont Unveils SBTi-Validated Net Zero Targets",
+      "link": "https://www.esgtoday.com/dupont-unveils-sbti-validated-net-zero-targets/?utm_source=rss&utm_medium=rss&utm_campaign=dupont-unveils-sbti-validated-net-zero-targets",
+      "source": "ESG Today",
+      "date": "2026-10-29T14:21:10+00:00",
+      "display_date": "Oct 29, 2026",
+      "summary": "Multinational chemicals company DuPont announced a series of new emissions reduction targets, including goals to […]",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "Internal Audit Budgets Rise, but Cyber & AI Risks Outpace Function’s Capacity",
+      "link": "https://www.corporatecomplianceinsights.com/news-roundup-october-29-2026/",
+      "source": "Corporate Compliance Insights",
+      "date": "2026-10-29T14:14:11+00:00",
+      "display_date": "Oct 29, 2026",
+      "summary": "Plus: Directors say strategy execution is the oversight area most in need of improvement; tariffs overtake interest rates as dealmakers’ top worry heading into 2027; nearly 4 in 5 finance teams still fixing month-end close errors by hand The post Internal Audit Budgets Rise, but ...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "Fears grow over companies’ use of cheaper, potentially dangerous Chinese AI",
+      "link": "https://www.complianceweek.com/artificial-intelligence/fears-grow-over-companies-use-of-cheaper-potentially-dangerous-chinese-ai/",
+      "source": "Compliance Week",
+      "date": "2026-10-29T14:00:00+00:00",
+      "display_date": "Oct 29, 2026",
+      "summary": "Regulators and national authorities worry that companies may be unwittingly exposing themselves to significant risk by adopting cheaper Chinese-made AI tools or using available “open-source” software that may also rely heavily on Chinese AI. The post Fears grow over companies’ us...",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Salesforce Signs 500,000 Ton Superpollutant Carbon Credit Deal",
+      "link": "https://www.esgtoday.com/salesforce-signs-500000-ton-superpollutant-carbon-credit-deal/?utm_source=rss&utm_medium=rss&utm_campaign=salesforce-signs-500000-ton-superpollutant-carbon-credit-deal",
+      "source": "ESG Today",
+      "date": "2026-10-29T13:29:17+00:00",
+      "display_date": "Oct 29, 2026",
+      "summary": "CRM solutions provider Salesforce announced that it has signed a new agreement with agricultural methane […]",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "GRC Business Roundup: Casepoint, Smarsh, LexisNexis, EcoVadis, MCO & More",
+      "link": "https://www.corporatecomplianceinsights.com/grc-business-roundup-casepoint-smarsh-lexisnexis-ecovadis-mco-more/",
+      "source": "Corporate Compliance Insights",
+      "date": "2026-10-29T13:28:50+00:00",
+      "display_date": "Oct 29, 2026",
+      "summary": "The business of GRC is ever-expanding, GRC technology is one of the fastest-growing segments in enterprise software, and compliance professions are rapidly evolving. Here’s the latest from across the industry. Product launches Government and legal technology provider Casepoint la...",
+      "topics": [
+        "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "Your Guide to Energy and Climate at the Midterms",
+      "link": "https://www.wsj.com/politics/policy/your-guide-to-energy-and-climate-at-the-midterms-9b18d6ac?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-10-29T13:28:00+00:00",
+      "display_date": "Oct 29, 2026",
+      "summary": "Plus: America’s rare-earth vultures, why oil prices are hard to read, and an EV road trip through the Deep South.",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
     {
       "title": "Over 80% of Institutional Investors Plan to Increase Allocations to Sustainable Investments: Survey",
       "link": "https://www.esgtoday.com/over-80-of-institutional-investors-plan-to-increase-allocations-to-sustainable-investments-survey/?utm_source=rss&utm_medium=rss&utm_campaign=over-80-of-institutional-investors-plan-to-increase-allocations-to-sustainable-investments-survey",
@@ -11,6 +88,39 @@
       "summary": "More than four out of five institutional investors expect to increase allocations to sustainable investments […]",
       "topics": [
         "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "Hitachi Energy CoreTec Product",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-03",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-10-29T12:00:00+00:00",
+      "display_date": "Oct 29, 2026",
+      "summary": "View CSAF Summary Hitachi Energy is aware of OS command injection and Dirty Frag vulnerabilities that affect CoreTec product versions listed in this document. Successful exploitation of these vulnerabilities could result in impact on confidentiality, integrity and availability of...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "Siemens Mendix SAML Module",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-01",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-10-29T12:00:00+00:00",
+      "display_date": "Oct 29, 2026",
+      "summary": "View CSAF Summary Mendix SAML module contains an authentication bypass vulnerability that could allow an unauthenticated remote attacker to gain unauthorized access by replaying a valid SAML assertion in IdP-initiated authentication flows. Siemens has released new versions for th...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "Hitachi Energy TRO600 series products",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-02",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-10-29T12:00:00+00:00",
+      "display_date": "Oct 29, 2026",
+      "summary": "View CSAF Summary Hitachi Energy is aware of multiple vulnerabilities that affect the TRO600 series product versions listed in this document. These vulnerabilities can be exploited for remote code execution (RCE) to carry out further attacks and disclosure of sensitive informatio...",
+      "topics": [
+        "Cybersecurity Risk"
       ]
     },
     {
@@ -116,7 +226,7 @@
       "title": "Sale of scandal riddled planner InterPrac now ASIC’s business - The Australian",
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNEdVNGl0SVNIZ1BaamNDSXJuWDhoNGxueHQycE9vNUw2U3R2cGF2YUtXWW9GalVPVWJ3MnFWOEo1NzctUG5tODJxTEdTUVliWmpocXNJRWNSOEN6SUJjalVrOVRDSnJwNGpoQ2dqa0l5TFF1ZTM1Y3ByNnFfZjhTd1ZiVnFwbUNROC1rY09HMVdqRVhLODNiWXdBUUEtZ0x5dFZsWkpYX2FPajRTYWpqeF9lVU1GeGZ6OHRlVy1QVm5vbFpKWkdaT0ZadVV5MzI0UGotbHc2TnlvekhQbjJRZ3ZjeE1vOXFGOWluWg?oc=5",
       "source": "The Australian",
-      "date": "2026-10-29T06:34:52+00:00",
+      "date": "2026-10-29T06:04:55+00:00",
       "display_date": "Oct 29, 2026",
       "summary": "Sale of scandal riddled planner InterPrac now ASIC’s business The Australian",
       "topics": [
@@ -135,12 +245,12 @@
       ]
     },
     {
-      "title": "The State of Third-Party Risk and Integrity",
+      "title": "The State of Third-Party Risk & Integrity",
       "link": "https://www.complianceweek.com/resource/the-state-of-third-party-risk-and-integrity/",
       "source": "Compliance Week",
       "date": "2026-10-29T04:00:00+00:00",
       "display_date": "Oct 29, 2026",
-      "summary": "Based on survey responses from 328 compliance professionals worldwide, the report reveals how often retaliation occurs, what forms it takes, and what compliance officers can do about it. The post The State of Third-Party Risk and Integrity appeared first on Compliance Week .",
+      "summary": "ECI Compliance Week and Diligent partnered on a new benchmarking survey of ethics, compliance and risk professionals to understand how organizations are managing third-party risk today. The post The State of Third-Party Risk & Integrity appeared first on Compliance Week .",
       "topics": [
         "Operational & Enterprise Risk"
       ]
@@ -227,7 +337,7 @@
       "title": "ASIC probes all-star cast of bankers over botched $44bn Firmus float - The Australian",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQZmxkbktqTnVYVk5iZUU2cGI1NTNvOGZSTWppeW9OcV96eTZ4YjBvelFBWDFrcGNESndoVmw2Y1huN2NjVFp5ajhCSkVkYWFsN0w2U0I3ZlFra3hnd2w1MlhOVzdwSkVrZkptZ1JxSW13QU1UMjNZUlZ6bmI3ek5pd0JwekR1UWR4cF9HaTNtUE01N0NLUzVJdWFZY2hHT0EtVFo1WDJicWVrallETTdEYXZGZGE4ckVjeGRlcTkyemhhYk9YMTBxVlF0M3l1RWdZTVZJS3REcGRUYndRTTVZTjA3U09pNk9PN3FhbUZLRGNWcUdhaTdyc0ZHMzZEYjNjWXNRb2daSG0?oc=5",
       "source": "The Australian",
-      "date": "2026-10-28T23:03:44+00:00",
+      "date": "2026-10-28T23:33:46+00:00",
       "display_date": "Oct 28, 2026",
       "summary": "ASIC probes all-star cast of bankers over botched $44bn Firmus float The Australian",
       "topics": [
@@ -401,17 +511,6 @@
       ]
     },
     {
-      "title": "Drug Middlemen Will Soon Have to Share Details on How They Are Paid",
-      "link": "https://www.wsj.com/health/healthcare/drug-middlemen-will-soon-have-to-share-details-on-how-they-are-paid-9dd31447?mod=pls_whats_news_us_business_f",
-      "source": "Wall Street Journal",
-      "date": "2026-10-28T14:54:00+00:00",
-      "display_date": "Oct 28, 2026",
-      "summary": "New Labor Department regulation will require pharmacy-benefit managers to disclose information to employers.",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "Canadian Investment Regulatory Organization Trade Resumption - AFN – Company Announcement - Financial Times",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPT1JTV1RYSkIxYmdRWlhucU5PRExHVFdlY1IxbWtuMmZ0amFKa2tHNkdSaWpSYldYd25TT3VILTFWVS02YzVBYy1RNURBWFV2UXJhYy1aUm1rZGkzeFhZSE1feWIyc0drVWVpeTRSeWJjMVo2UTFZdFJGSE93SVNPR3YwbU9McnNrQllQblNrT3Mya1ZkcHc?oc=5",
       "source": "Financial Times",
@@ -489,17 +588,6 @@
       ]
     },
     {
-      "title": "Microsoft Signs Clean Energy Deals in Japan with Macquarie’s Blueleaf",
-      "link": "https://www.esgtoday.com/microsoft-signs-clean-energy-deals-in-japan-with-macquaries-blueleaf/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-signs-clean-energy-deals-in-japan-with-macquaries-blueleaf",
-      "source": "ESG Today",
-      "date": "2026-10-28T11:30:37+00:00",
-      "display_date": "Oct 28, 2026",
-      "summary": "Macquarie Asset Management-owned pan-Asian renewable energy platform Blueleaf Energy announced today that it has signed […]",
-      "topics": [
-        "ESG & Sustainability"
-      ]
-    },
-    {
       "title": "COSO’s 2026 Framework Provides Common Language for Governance, From the Board to the Compliance Office",
       "link": "https://www.corporatecomplianceinsights.com/coso-2026-framework-provides-common-language-governance-from-board-compliance-office/",
       "source": "Corporate Compliance Insights",
@@ -509,29 +597,6 @@
       "topics": [
         "Regulatory Change",
         "Operational & Enterprise Risk"
-      ]
-    },
-    {
-      "title": "Sweep, Climatiq Partner on Supply Chain Product Carbon Footprint Solution",
-      "link": "https://www.esgtoday.com/sweep-climatiq-partner-on-supply-chain-product-carbon-footprint-solution/?utm_source=rss&utm_medium=rss&utm_campaign=sweep-climatiq-partner-on-supply-chain-product-carbon-footprint-solution",
-      "source": "ESG Today",
-      "date": "2026-10-28T09:23:35+00:00",
-      "display_date": "Oct 28, 2026",
-      "summary": "Enterprise sustainability data management platform Sweep and carbon intelligence solutions provider Climatiq announced a new […]",
-      "topics": [
-        "ESG & Sustainability",
-        "Operational & Enterprise Risk"
-      ]
-    },
-    {
-      "title": "PureTerra Scores €30 Million Commitment for New Water Tech Venture Fund from EIF",
-      "link": "https://www.esgtoday.com/pureterra-scores-e30-million-commitment-for-new-water-sustainability-venture-fund-from-eif/?utm_source=rss&utm_medium=rss&utm_campaign=pureterra-scores-e30-million-commitment-for-new-water-sustainability-venture-fund-from-eif",
-      "source": "ESG Today",
-      "date": "2026-10-28T08:20:32+00:00",
-      "display_date": "Oct 28, 2026",
-      "summary": "Water technology-focused venture capital firm PureTerra Ventures announced that it has secured a €30 million […]",
-      "topics": [
-        "ESG & Sustainability"
       ]
     },
     {
@@ -681,12 +746,12 @@
       ]
     },
     {
-      "title": "Inside the Cyber Sabotage Campaign Waged by Russian Supporters - Bloomberg",
+      "title": "Inside the Cyber Sabotage Campaign Waged by Russian Supporters - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbk44b2VnOXppVnlPMG9TeERwRDZMUDNFV2pKVlE0OHViTFdKSVFjYUxkaVRYRS1rWmNZdFBGeUpCTGFRVEhJeFRvcm1uUVhTeVkyaFQtTTBjTWpfbWZaMEU1TkVaYzVqZUQyN1JfbllwRVRzVl9aRW5lb1M1Snc3c3V4R2Q2dnN3d3BpVEhpS1R4bFlUVEM5aEgtS3o0N2lIbmdXRHI4SmdGT2d4Q3l4WFdWTG9OOUdqRmJtWg?oc=5",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "date": "2026-10-27T21:10:15+00:00",
       "display_date": "Oct 27, 2026",
-      "summary": "Inside the Cyber Sabotage Campaign Waged by Russian Supporters Bloomberg",
+      "summary": "Inside the Cyber Sabotage Campaign Waged by Russian Supporters Bloomberg.com",
       "topics": [
         "Cybersecurity Risk"
       ]
@@ -804,12 +869,12 @@
       ]
     },
     {
-      "title": "EU’s SEC-Lite Plan Hinges on Governance, Outgoing Chief Warns - Bloomberg",
+      "title": "EU’s SEC-Lite Plan Hinges on Governance, Outgoing Chief Warns - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOS3hMeWdKRXNuejRXUTUtbGRBOE15czlwNDVSZG0ycmM1NjljVnkzUUl6cUZNSzlla1RfMDZzZGdtdTF1dzh1aG9rUm1jZ3JLakZONW5razRXaXRoZU94VlNuWG55dDh1SEpVZ0cxck5tcEh3TWl0YjJpaTM3ZHFzQzh6Ny1jTzN1QWFxUGxTN05GQ3JZLXo1dVhCbjhnRzlWdFo4b3BWc0hqRVQ4a2Jucg?oc=5",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "date": "2026-10-27T15:41:47+00:00",
       "display_date": "Oct 27, 2026",
-      "summary": "EU’s SEC-Lite Plan Hinges on Governance, Outgoing Chief Warns Bloomberg",
+      "summary": "EU’s SEC-Lite Plan Hinges on Governance, Outgoing Chief Warns Bloomberg.com",
       "topics": [
         "Operational & Enterprise Risk"
       ]
@@ -848,18 +913,7 @@
       ]
     },
     {
-      "title": "Three Russian diesel tankers steam for US — including two under sanctions - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMGk0enQ4S1dKd2xXdnZPWjRvWEtieklCbUItUFpSQmtqLWN1eTNNY1ZHOEZXVkFNVW1QQXBXNk96WUg3TS1RSWhNUlBpTzdYMi1ZMUJYclhlbFh6YS1JcnV5UE11RlYtSUZRNjBkWFNwZDIybWhUeW03M2stMXlyLVNwX3o?oc=5",
-      "source": "Financial Times",
-      "date": "2026-10-27T12:05:32+00:00",
-      "display_date": "Oct 27, 2026",
-      "summary": "Three Russian diesel tankers steam for US — including two under sanctions Financial Times",
-      "topics": [
-        "AML & Sanctions"
-      ]
-    },
-    {
-      "title": "Mitsubishi Electric GENESIS, GENESIS64, ICONICS Suite, Hyper Historian, AnalytiX, MobileHMI, IoTWorX, MC Works64, GENESIS32 and BizViz",
+      "title": "Mitsubishi Electric and Mitsubishi Electric Iconics Digital Solutions GENESIS, GENESIS64, ICONICS Suite, Hyper Historian, AnalytiX, MobileHMI, IoTWorX, MC Works64, GENESIS32 and BizViz",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-300-02",
       "source": "CISA Cybersecurity Advisories",
       "date": "2026-10-27T12:00:00+00:00",
@@ -923,6 +977,17 @@
       "summary": "The luxury sports-car maker said it continued to reap early benefits from a strategic reset.",
       "topics": [
         "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Three Russian diesel tankers steam for US — including two under sanctions - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMGk0enQ4S1dKd2xXdnZPWjRvWEtieklCbUItUFpSQmtqLWN1eTNNY1ZHOEZXVkFNVW1QQXBXNk96WUg3TS1RSWhNUlBpTzdYMi1ZMUJYclhlbFh6YS1JcnV5UE11RlYtSUZRNjBkWFNwZDIybWhUeW03M2stMXlyLVNwX3o?oc=5",
+      "source": "Financial Times",
+      "date": "2026-10-27T05:00:28+00:00",
+      "display_date": "Oct 27, 2026",
+      "summary": "Three Russian diesel tankers steam for US — including two under sanctions Financial Times",
+      "topics": [
+        "AML & Sanctions"
       ]
     },
     {
@@ -1113,17 +1178,6 @@
       ]
     },
     {
-      "title": "US NRC Issues Final Environmental Impact Statement for Planned Paducah Laser Enrichment Facility - AFR",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUVNwNGRwOWpTdUVXXzc5aWhidDBWcnFxdzRraE1zZDZkQmd1Q2NqQlEzZWp3cmE2SDNNVGN5TG52aFdWS09jRmF0enozNUJrbzVpQ1FXc1FjX2hQdktSMHRQVDBwMndXTnZwMV9pR3hUU3ZmMDgxbXBweDhwcE1ISHdfcEYzS0VWSWVHb3lhTQ?oc=5",
-      "source": "AFR",
-      "date": "2026-10-26T04:27:36+00:00",
-      "display_date": "Oct 26, 2026",
-      "summary": "US NRC Issues Final Environmental Impact Statement for Planned Paducah Laser Enrichment Facility AFR",
-      "topics": [
-        "ESG & Sustainability"
-      ]
-    },
-    {
       "title": "Cutting ‘red tape’ is nothing but a red herring – and arguably counterproductive | Heather Stewart",
       "link": "https://www.theguardian.com/business/2026/oct/25/cutting-red-tape-is-nothing-but-a-red-herring-and-arguably-counterproductive",
       "source": "The Guardian Australia",
@@ -1157,35 +1211,23 @@
       ]
     },
     {
+      "title": "Airlines fume at regulator’s plan to double navigation fees - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOT3V5M3hfdzRKY1J0VU1nbTJYSVdNMnVwa0tmQzFhMkVMNVNhNndTSy1BVXRaLUdVOEQ4SkZXRnE3WmpUektCRUFrd2F2VFVTSXNLcjR6SzlUbkhxZklpTFpPSXRrRHRvUnFPY1c3VVI5eVlESXhjTnBrQm1aRnl5QlNfUkhVcFBYUGctS3hlQnNkdGhDLWZVeWZ6ZFpsREJTSmhzcFhrcmdHTXQ3ZEh3LVh6dThlWkZ2eDNZd1BCY2lMSmIyS2MwOFNxY3BEaGtraFVfS3Y2WkxzVXRYZ2h1aUpKaXhFT2RqY04wcW12b0RlanEyODJuZG5pNndEQkpm?oc=5",
+      "source": "The Australian",
+      "date": "2026-10-25T02:29:00+00:00",
+      "display_date": "Oct 25, 2026",
+      "summary": "Airlines fume at regulator’s plan to double navigation fees The Australian",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
       "title": "Israeli central bank rejects Benjamin Netanyahu’s plan to use crypto to evade sanctions - Financial Times",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOUo3Rnllc2dMYUJwa2U1anpZUEVrbTZzNy1vWU5mZ005ZVJtUGJ3Rzl6Y1NodkZhNGNmYUxEQ3g1dU10WTJZNVVOOWRuU0gySlIxVm9qQ1pYZ2RfMEt0WHRIbnR6NWhrVENjRlhvRjlzZkxLQUoyOFVpRzFXcTItdmNtNWQ?oc=5",
       "source": "Financial Times",
       "date": "2026-10-24T19:19:48+00:00",
       "display_date": "Oct 24, 2026",
       "summary": "Israeli central bank rejects Benjamin Netanyahu’s plan to use crypto to evade sanctions Financial Times",
-      "topics": [
-        "AML & Sanctions"
-      ]
-    },
-    {
-      "title": "Hong Kong regulator sets accountability, resilience, trust rules for bank AI",
-      "link": "https://www.complianceweek.com/artificial-intelligence/hong-kong-regulator-sets-accountability-resilience-trust-rules-for-bank-ai/",
-      "source": "Compliance Week",
-      "date": "2026-10-24T07:00:00+00:00",
-      "display_date": "Oct 24, 2026",
-      "summary": "Hong Kong’s banking regulator unveiled an AI framework focused on accountability, resilience and trust as financial institutions accelerate responsible artificial intelligence adoption. The post Hong Kong regulator sets accountability, resilience, trust rules for bank AI appeared...",
-      "topics": [
-        "Regulatory Change",
-        "Operational & Enterprise Risk"
-      ]
-    },
-    {
-      "title": "UK watchdog restricts six private credit firms over anti-money laundering controls - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdmZDbU1aMl90STdGaFRaSFhwSjR5RVZxS0llNzB0RUhTaW9UV2I5bmowdWNzaVNIbEpvR0hUOXZ2VnI1UHlBZ0hIbDB4Y0ozeTNqcVBJak9CSUFNbnVtUFpLcVVJS2FuVWUtNjFTMU9SYVNjTHJMTW55Vk9tenBTb3JwZEpQUEZyY1BWWUJKOC02a0Z0YnRPYjFlaVlyUWtETHlUQ1NMZ2RGbGgyaUdPdlN2a3pDWEhENk5yNlEtNDRaNXQy?oc=5",
-      "source": "Reuters",
-      "date": "2026-10-23T18:36:10+00:00",
-      "display_date": "Oct 23, 2026",
-      "summary": "UK watchdog restricts six private credit firms over anti-money laundering controls Reuters",
       "topics": [
         "AML & Sanctions"
       ]
@@ -1254,6 +1296,17 @@
       "summary": "Restrictions have been placed on 6 unregulated lenders, known as Annex 1 firms, after the FCA raised concerns about their anti-money laundering policies, controls and procedures while assessing their applications. The restrictions were imposed by the FCA on each firm’s request an...",
       "topics": [
         "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "ACCC clears Vocus to buy Nextgen - The Australian - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeWUtcnhJX2wyYThzbjZLYU9VX3ZXaGJMVW1VWEI4cXRFWGhzU1dHVmVqN1BCN3pjWE1tUVpRVklja29qWjMwdmg1cGdIMGQ4OC1ZLTJKYkphVl9QOUxvVEprYUtSYlBxSGxxeERQY2FBZW1tX1dxaHRleS1Eek9NTmc0ZHI0M3FnWG9kcm53RHcxMFlZRkFQblNIRG5UTVJjdG1UdDJZTnVxWGI4OWJhTE9ydHpZbUZzVV96bElqYXRDUDg?oc=5",
+      "source": "The Australian",
+      "date": "2026-10-23T09:03:44+00:00",
+      "display_date": "Oct 23, 2026",
+      "summary": "ACCC clears Vocus to buy Nextgen - The Australian The Australian",
+      "topics": [
+        "Enforcement Actions"
       ]
     },
     {
@@ -1359,17 +1412,6 @@
       ]
     },
     {
-      "title": "Canadian Investment Regulatory Organization Trade Resumption - LUX – Company Announcement - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcUdfWDZUZUhiNE5xc0QxSk1paDZOZ3Z3b3pwN2UyMjdUVnFyUXdrM3lfVzZCREUtajJlNWlHcEdqcjRSRllYTG04anQ1RFN0d0hOVGpVQWZ1NFhYdUlrQTNhem9UbVdnbVBHaEM0LUlac0hyMWI2eVRJRGRCSV94NTZGSWg3VVhacHZTS2U1SkpPbG1tN1E?oc=5",
-      "source": "Financial Times",
-      "date": "2026-10-22T14:46:00+00:00",
-      "display_date": "Oct 22, 2026",
-      "summary": "Canadian Investment Regulatory Organization Trade Resumption - LUX – Company Announcement Financial Times",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "GRC Business Roundup: Casepoint, Aravo, Smarsh, VinciWorks & More",
       "link": "https://www.corporatecomplianceinsights.com/grc-business-roundup-casepoint-aravo-smarsh-vinciworks-more/",
       "source": "Corporate Compliance Insights",
@@ -1381,17 +1423,6 @@
       ]
     },
     {
-      "title": "Canadian Investment Regulatory Organization Trade Resumption - MOO – Company Announcement - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObXlaNl9oSVdfUjB4QlBmeFVMbXZfTVhXSUFMdUNiZ1AySGp6WU8wN0s1WENMWkM4N3ZwMzRZOWxFdFBNSkVmcnlBTXlwUGtKX1g4VkZtbEE1Vm1ZOVM2bjhtVGFxN2ZwT09SNVdobTlHTHhNUnhmYllZUk9fMm5SUWtHMFQzTVhMNGZuQmFBbWtfN3JQcmc?oc=5",
-      "source": "Financial Times",
-      "date": "2026-10-22T13:11:00+00:00",
-      "display_date": "Oct 22, 2026",
-      "summary": "Canadian Investment Regulatory Organization Trade Resumption - MOO – Company Announcement Financial Times",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "Siemens RUGGEDCOM APE1808 Devices",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-18",
       "source": "CISA Cybersecurity Advisories",
@@ -1400,17 +1431,6 @@
       "summary": "View CSAF Summary Nozomi Networks has published information on vulnerabilities in Nozomi Guardian/CMC. This advisory lists the related Siemens Industrial products affected by these vulnerabilities. Siemens recommends to contact customer support to receive patch and update informa...",
       "topics": [
         "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Siemens Capital Embedded AR Classic",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-04",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-10-22T12:00:00+00:00",
-      "display_date": "Oct 22, 2026",
-      "summary": "View CSAF Summary The products listed below contain an out-of-bounds read vulnerability that could allow an attacker to cause abnormal product behavior, instability, or denial of service. Siemens has released a new version for Capital Embedded AR Classic R20-11 and recommends upd...",
-      "topics": [
-        "Cybersecurity Risk"
       ]
     },
     {
@@ -1469,6 +1489,17 @@
       ]
     },
     {
+      "title": "Siemens RUGGEDCOM CROSSBOW",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-12",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-10-22T12:00:00+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "View CSAF Summary RUGGEDCOM CROSSBOW contains multiple vulnerabilities that could allow an attacker to execute arbitrary SQL commands on the underlying database, retrieve sensitive administrative credentials, escalate privileges, and perform unauthorized operations such as modify...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
       "title": "Managing AI Token Consumption for Operational Resilience",
       "link": "https://www.cisa.gov/resources-tools/resources/managing-ai-token-consumption-operational-resilience",
       "source": "CISA Cybersecurity Advisories",
@@ -1482,23 +1513,23 @@
       ]
     },
     {
-      "title": "Siemens RUGGEDCOM CROSSBOW",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-12",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-10-22T12:00:00+00:00",
-      "display_date": "Oct 22, 2026",
-      "summary": "View CSAF Summary RUGGEDCOM CROSSBOW contains multiple vulnerabilities that could allow an attacker to execute arbitrary SQL commands on the underlying database, retrieve sensitive administrative credentials, escalate privileges, and perform unauthorized operations such as modify...",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
       "title": "Siemens APOGEE, TALON and Desigo PXC/PXM Products",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-08",
       "source": "CISA Cybersecurity Advisories",
       "date": "2026-10-22T12:00:00+00:00",
       "display_date": "Oct 22, 2026",
       "summary": "View CSAF Summary The products listed below contain multiple vulnerabilities that could allow an attacker to cause a denial of service and potentially impact the availability of the affected device. Siemens has released new versions for several affected products and recommends to...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "Siemens Capital Embedded AR Classic",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-04",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-10-22T12:00:00+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "View CSAF Summary The products listed below contain an out-of-bounds read vulnerability that could allow an attacker to cause abnormal product behavior, instability, or denial of service. Siemens has released a new version for Capital Embedded AR Classic R20-11 and recommends upd...",
       "topics": [
         "Cybersecurity Risk"
       ]
@@ -1660,18 +1691,6 @@
       ]
     },
     {
-      "title": "Critical Vulnerabilities in PHP Require Immediate Patching",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/10/21/critical-vulnerabilities-php-require-immediate-patching",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-10-21T12:00:00+00:00",
-      "display_date": "Oct 21, 2026",
-      "summary": "Update October 26, 2026: CISA has updated this Alert to reflect the addition of CVE-2026-109618 and CVE-2026-109619 to its Known Exploited Vulnerabilities (KEV) Catalog on Oct. 26, 2026. Update October 23, 2026 : CISA has updated this Alert to: (1) provide a SIGMA detection rule ...",
-      "topics": [
-        "Regulatory Change",
-        "Cybersecurity Risk"
-      ]
-    },
-    {
       "title": "Who Defines Compliance When Regulators Leave SaaS-Shaped Gaps?",
       "link": "https://www.corporatecomplianceinsights.com/who-defines-compliance-when-regulators-leave-saas-shaped-gaps/",
       "source": "Corporate Compliance Insights",
@@ -1702,17 +1721,6 @@
       "summary": "The FCA has banned Jeffrey Dawkins, the former chief executive of Vector Wealth Ltd, after he dishonestly acted as a front for a disqualified director using the company to sell high-risk bonds. Mr Dawkins has also been fined nearly £270,000.In 2019, Mr Dawkins sold Vector Wealth ...",
       "topics": [
         "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "When in Rome? The Risks of Ethics & Compliance Bending to Local Norms",
-      "link": "https://www.corporatecomplianceinsights.com/when-in-rome-the-risks-of-ethics-compliance-bending-to-local-norms/",
-      "source": "Corporate Compliance Insights",
-      "date": "2026-10-20T19:59:32+00:00",
-      "display_date": "Oct 20, 2026",
-      "summary": "The question of whether ethics are universal or local is as old as philosophy, and the AI race has made it urgent again The post When in Rome? The Risks of Ethics & Compliance Bending to Local Norms appeared first on Corporate Compliance Insights .",
-      "topics": [
-        "Operational & Enterprise Risk"
       ]
     },
     {
@@ -1749,28 +1757,6 @@
       ]
     },
     {
-      "title": "Hitachi Energy RTU500 Product",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-293-05",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-10-20T12:00:00+00:00",
-      "display_date": "Oct 20, 2026",
-      "summary": "View CSAF Summary Hitachi Energy is aware of vulnerabilities that affect RTU500 product versions listed in this document. These vulnerabilities if exploited can have impact on confidentiality, integrity and availability of the product. Please refer to the Recommended Immediate Ac...",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "Moxa AIG-302 ThingsPro Edge",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-293-03",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-10-20T12:00:00+00:00",
-      "display_date": "Oct 20, 2026",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to obtain and disclose sensitive information. The following versions of Moxa AIG-302 ThingsPro Edge are affected: Moxa AIG-302 ThingsPro Edge firmware <=1.4.0 (CVE-2026-109812, CVE-2026-109...",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
       "title": "SEC Announces Roundtable on Machine-Understandable Data in the Age of Super Intelligence",
       "link": "https://www.sec.gov/newsroom/press-releases/2026-106-sec-announces-roundtable-machine-understandable-data-age-super-intelligence",
       "source": "SEC Press Releases",
@@ -1790,17 +1776,6 @@
       "summary": "U.S. federal investigators pursuing the ShinyHunters hacking group that recently stole highly sensitive data from the FBI have identified executives at two different ransomware negotiation firms who maintained unusually close relations with the extortion group, KrebsOnSecurity ha...",
       "topics": [
         "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "The Vendor’s AI Model Did Not Change. But Its Risk Did.",
-      "link": "https://www.corporatecomplianceinsights.com/humans-bahind-vendor-ai-can-introduce-risk/",
-      "source": "Corporate Compliance Insights",
-      "date": "2026-10-19T11:30:57+00:00",
-      "display_date": "Oct 19, 2026",
-      "summary": "Version numbers only tell you so much The post The Vendor’s AI Model Did Not Change. But Its Risk Did. appeared first on Corporate Compliance Insights .",
-      "topics": [
-        "Operational & Enterprise Risk"
       ]
     },
     {
