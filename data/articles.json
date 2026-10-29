@@ -1,7 +1,73 @@
 {
-  "last_updated": "October 29, 2026 16:41 UTC",
-  "total_count": 232,
+  "last_updated": "October 29, 2026 20:32 UTC",
+  "total_count": 217,
   "articles": [
+    {
+      "title": "Rivian third-quarter earnings beat estimates as software revenue, R2 deliveries rise",
+      "link": "https://www.cnbc.com/2026/10/29/rivian-rivn-earnings-q3-2026.html",
+      "source": "CNBC",
+      "date": "2026-10-29T20:30:50+00:00",
+      "display_date": "Oct 29, 2026",
+      "summary": "Rivian also revised its 2026 guidance to mark expected improvements in its vehicle deliveries, pre-tax adjusted earnings and capital expenditures.",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Gilead Sciences Lifts Sales Guidance on HIV Portfolio Strength",
+      "link": "https://www.wsj.com/business/earnings/gilead-sciences-lifts-sales-guidance-on-hiv-portfolio-strength-d5bafd4e?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-10-29T20:26:00+00:00",
+      "display_date": "Oct 29, 2026",
+      "summary": "The biopharmaceutical company said it now expects full-year product sales of $31 billion to $31.3 billion, up from $30.1 billion to $30.4 billion.",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Norwegian shares surge 13% on earnings beat, guidance raise",
+      "link": "https://www.cnbc.com/2026/10/29/norwegian-earnings-guidance-shares.html",
+      "source": "CNBC",
+      "date": "2026-10-29T20:14:15+00:00",
+      "display_date": "Oct 29, 2026",
+      "summary": "Norwegian said the company's bookings had \"improved modestly\" but remain below its optimal range.",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Polymarket Pauses Trading After Some Users Report Funds Drained",
+      "link": "https://www.wsj.com/business/polymarket-pauses-trading-after-some-users-report-funds-drained-b014527d?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-10-29T19:20:00+00:00",
+      "display_date": "Oct 29, 2026",
+      "summary": "Traders who lost money on the incident will be ‘made whole,’ the prediction-markets platform said.",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "Two Entities Charged in $130 Million Fraud Scheme That Used False SEC Filings to Boost Investor Confidence",
+      "link": "https://www.sec.gov/newsroom/press-releases/2026-110-two-entities-charged-130-million-fraud-scheme-used-false-sec-filings-boost-investor-confidence",
+      "source": "SEC Press Releases",
+      "date": "2026-10-29T16:42:37+00:00",
+      "display_date": "Oct 29, 2026",
+      "summary": "The Securities and Exchange Commission today charged two foreign-operated, Colorado-incorporated entities, BG Wealth Sharing Ltd and DSJ Exchange Pty Ltd, for orchestrating a fraud scheme that used false SEC filings to boost confidence in their…",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "Eight of England’s nine water companies still failing on environment, report finds",
+      "link": "https://www.theguardian.com/business/2026/oct/29/ministers-water-bosses-report-performance-worse",
+      "source": "The Guardian Australia",
+      "date": "2026-10-29T16:39:48+00:00",
+      "display_date": "Oct 29, 2026",
+      "summary": "Angela Eagle tells industry ‘people are sick of excuses’ as pollution levels remain high despite billions in investment Angela Eagle, the environment secretary, has summoned water industry bosses to Whitehall after a report found that the environmental performance of the big comp...",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
     {
       "title": "Clarity AI Launches New Solution to Enable Investors to Assess Companies’ Progress on Climate Goals",
       "link": "https://www.esgtoday.com/clarity-ai-launches-new-solution-to-enable-investors-to-assess-companies-progress-on-climate-goals/?utm_source=rss&utm_medium=rss&utm_campaign=clarity-ai-launches-new-solution-to-enable-investors-to-assess-companies-progress-on-climate-goals",
@@ -88,6 +154,17 @@
       "summary": "More than four out of five institutional investors expect to increase allocations to sustainable investments […]",
       "topics": [
         "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "Crypto exchange HTX agrees to exit UK after being sued by watchdog - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZktMUWNyQ0xJR0pUWl9BWDhwSExaQ3ZWYUQ0aVFNNHZZTkwyaG1pVGRRNGRUV0Z4X3VNZ2ZzQnpORmFWa3VsSHBIVG5nVUVuM3VYaWlWNF9jeHpaVW03T0tQZ2Vlb2hxWVNEVnVjVDIxTGRtWkM1NzRMdGNGb0RhdER2dTE?oc=5",
+      "source": "Financial Times",
+      "date": "2026-10-29T12:12:38+00:00",
+      "display_date": "Oct 29, 2026",
+      "summary": "Crypto exchange HTX agrees to exit UK after being sued by watchdog Financial Times",
+      "topics": [
+        "Enforcement Actions"
       ]
     },
     {
@@ -226,7 +303,7 @@
       "title": "Sale of scandal riddled planner InterPrac now ASIC’s business - The Australian",
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNEdVNGl0SVNIZ1BaamNDSXJuWDhoNGxueHQycE9vNUw2U3R2cGF2YUtXWW9GalVPVWJ3MnFWOEo1NzctUG5tODJxTEdTUVliWmpocXNJRWNSOEN6SUJjalVrOVRDSnJwNGpoQ2dqa0l5TFF1ZTM1Y3ByNnFfZjhTd1ZiVnFwbUNROC1rY09HMVdqRVhLODNiWXdBUUEtZ0x5dFZsWkpYX2FPajRTYWpqeF9lVU1GeGZ6OHRlVy1QVm5vbFpKWkdaT0ZadVV5MzI0UGotbHc2TnlvekhQbjJRZ3ZjeE1vOXFGOWluWg?oc=5",
       "source": "The Australian",
-      "date": "2026-10-29T06:04:55+00:00",
+      "date": "2026-10-29T06:04:56+00:00",
       "display_date": "Oct 29, 2026",
       "summary": "Sale of scandal riddled planner InterPrac now ASIC’s business The Australian",
       "topics": [
@@ -337,7 +414,7 @@
       "title": "ASIC probes all-star cast of bankers over botched $44bn Firmus float - The Australian",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQZmxkbktqTnVYVk5iZUU2cGI1NTNvOGZSTWppeW9OcV96eTZ4YjBvelFBWDFrcGNESndoVmw2Y1huN2NjVFp5ajhCSkVkYWFsN0w2U0I3ZlFra3hnd2w1MlhOVzdwSkVrZkptZ1JxSW13QU1UMjNZUlZ6bmI3ek5pd0JwekR1UWR4cF9HaTNtUE01N0NLUzVJdWFZY2hHT0EtVFo1WDJicWVrallETTdEYXZGZGE4ckVjeGRlcTkyemhhYk9YMTBxVlF0M3l1RWdZTVZJS3REcGRUYndRTTVZTjA3U09pNk9PN3FhbUZLRGNWcUdhaTdyc0ZHMzZEYjNjWXNRb2daSG0?oc=5",
       "source": "The Australian",
-      "date": "2026-10-28T23:33:46+00:00",
+      "date": "2026-10-28T23:33:47+00:00",
       "display_date": "Oct 28, 2026",
       "summary": "ASIC probes all-star cast of bankers over botched $44bn Firmus float The Australian",
       "topics": [
@@ -353,6 +430,17 @@
       "summary": "Australia's second-largest oil and gas company, Santos, has been issued a warning by the national regulator following inspections of its multi-billion-dollar Barossa project.",
       "topics": [
         "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Star chairman says $260m fine won’t be the death of casino operator - AFR",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNE1QTXc4TW9wbHRHUUhGeHl2MFhRbXZLdE5OMlJsV0gySXYxMjFqTHVNTXFqaE9GcjZwaWhacGY3NlZaWVZCRmNVcVRKdExHTks2T21RaXZRZ1BUQUdzc0hITVZ0SjV2SHJ2WlNmUWJGaW1HQTVLSGhLM245UkxxTXlsME96THRQMXkweFJkbVFMaXVrZjctTkxhNGVsNnVJUkJleFJ6UXNQVTFuSzBySWRGWUJfNkpFTlZJ?oc=5",
+      "source": "AFR",
+      "date": "2026-10-28T22:39:00+00:00",
+      "display_date": "Oct 28, 2026",
+      "summary": "Star chairman says $260m fine won’t be the death of casino operator AFR",
+      "topics": [
+        "Enforcement Actions"
       ]
     },
     {
@@ -511,17 +599,6 @@
       ]
     },
     {
-      "title": "Canadian Investment Regulatory Organization Trade Resumption - AFN – Company Announcement - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPT1JTV1RYSkIxYmdRWlhucU5PRExHVFdlY1IxbWtuMmZ0amFKa2tHNkdSaWpSYldYd25TT3VILTFWVS02YzVBYy1RNURBWFV2UXJhYy1aUm1rZGkzeFhZSE1feWIyc0drVWVpeTRSeWJjMVo2UTFZdFJGSE93SVNPR3YwbU9McnNrQllQblNrT3Mya1ZkcHc?oc=5",
-      "source": "Financial Times",
-      "date": "2026-10-28T14:50:00+00:00",
-      "display_date": "Oct 28, 2026",
-      "summary": "Canadian Investment Regulatory Organization Trade Resumption - AFN – Company Announcement Financial Times",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "Emvolon Raises $22 Million to Turn Waste Greenhouse Gas into Sustainable Fuels",
       "link": "https://www.esgtoday.com/emvolon-raises-22-million-to-turn-waste-greenhouse-gas-into-sustainable-fuels/?utm_source=rss&utm_medium=rss&utm_campaign=emvolon-raises-22-million-to-turn-waste-greenhouse-gas-into-sustainable-fuels",
       "source": "ESG Today",
@@ -530,17 +607,6 @@
       "summary": "Clean energy startup Emvolon announced that it has raised $22 million in a Series A […]",
       "topics": [
         "ESG & Sustainability"
-      ]
-    },
-    {
-      "title": "Canadian Investment Regulatory Organization Trading Halt - AFN – Company Announcement - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcTdlN1FCV1ZYdjJXSUg4bF92V1lweVNvRVd6V0NUUm5acjFVRk9Ra0xyWVN1X2tPcXRHNHpxQ3JhLTY2MWJ5Yjl5eE11aDRyVHpESlpPQmhGczRfWGpJaUd6Szc4b1JWZW00X0o0SWJjR1VNQlUxY0x4enFnLVVlQ2RmY0pXSmlheDBzWmFxVmI1dHVLRFE?oc=5",
-      "source": "Financial Times",
-      "date": "2026-10-28T14:25:00+00:00",
-      "display_date": "Oct 28, 2026",
-      "summary": "Canadian Investment Regulatory Organization Trading Halt - AFN – Company Announcement Financial Times",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
@@ -611,6 +677,18 @@
       ]
     },
     {
+      "title": "Star hit with $260m fine over money laundering - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQQU1sSjZ4Vm5nTUNUcHFEVlh2LUc0bFJmQk9EbnUySTQ5NWlpNXJrS2E3Ym8tcWxROWVpTnNjc1ExQkdzdmxrR0lwUkNYblpFV0VtNVBrS0stdkdubk1vX0pSNkdoU0YyNk9oaE11ZExlNlBHbk41ajQ4SFVxX1Vad1NEeUE1NmZEYWVOZ3BJZ2EzNU1uNEV6Sk9VM09NdGRJRzNxWHdfWGFEelJBYTRTTk5sdER0ZnY0MUdTajdvVm9DRFNTdWpQTGRsT0dNcDNCbGExQlhmRGM3cTI5WnFLMGhzUWV4TWFRakE?oc=5",
+      "source": "The Australian",
+      "date": "2026-10-28T07:02:00+00:00",
+      "display_date": "Oct 28, 2026",
+      "summary": "Star hit with $260m fine over money laundering The Australian",
+      "topics": [
+        "Enforcement Actions",
+        "AML & Sanctions"
+      ]
+    },
+    {
       "title": "Rule-breaking data centres to have power switched off - AFR",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOank4cUd2enlNbndTWFlzLVpweGNwclNFUUNLTXdNT2hOejZnU25NYWtiRmFwTTNiOXkyWXZ4YWZxNFRMR3QyWEk2M0l5SlluWG1OT0l5SEdKTmJkMFE4VXlMZ2xUd3gtWm9nV0lFelFIX3Rqd21SbU5lNmNHeHJRRm5aTm1BMzlOZUJhWjBtXzRnZmYwdUNTT1loR25qLTBPaERGTTMyRDRtbHMxUTdKVGttUUpaQQ?oc=5",
       "source": "AFR",
@@ -633,17 +711,6 @@
       ]
     },
     {
-      "title": "Regulatory announcement no 23: Organic growth picked up in Q3, reaching 6% for the first nine months at an adjusted EBITA margin of 9%. Outlook reiterated – Company Announcement - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcEdldkNtamFnSXpNcXN1S2VmSjZ5MXloS0E3aG5GUXZjR19RZUF6cTZkUkFrNENEbDdaRlNWeGJEXy1FN25ScWQzaTQwdWplUGpKcEZCRWRuNWpKYlBqNWYwZGRUQUo5OHR3OVY3Ynp1Z0lpejIycjJTNGNXd0gyc2ZsSG1vWW1OaVFBWFBlRFNwSHFrQmljVGNSZw?oc=5",
-      "source": "Financial Times",
-      "date": "2026-10-28T05:30:23+00:00",
-      "display_date": "Oct 28, 2026",
-      "summary": "Regulatory announcement no 23: Organic growth picked up in Q3, reaching 6% for the first nine months at an adjusted EBITA margin of 9%. Outlook reiterated – Company Announcement Financial Times",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "Planned burns doubled and salvaged wood for sawmills under Coalition forest policy",
       "link": "https://www.abc.net.au/news/2026-10-28/coalition-to-revive-native-timber-processing-victoria/107156526",
       "source": "ABC News Business (AU)",
@@ -655,18 +722,6 @@
       ]
     },
     {
-      "title": "Australia's Star Entertainment fined $183 million for anti-money laundering law breaches - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdDEzR2l3NGVCMzJiSjBNdGx1NGE1eGN6LUczbUNBb241T0FCU2hKU2FvMDZUbmdMdEVrLXViTzBzWE5udE1TMWkzZjQ0T1JIRmc4Wjh1YURLeW16eE1pX3gwdlhCSkJmRFUtd2Jhd0h3d0R2Sm1VZ3hSWW9CTTl1SDRfbWt2ZnNwcEwtazZCTjZUSEN1a1JJZk5DdElhNlptM3dSa0xZWUQ1eGotcEVtckd6c1dGVXp2LVVyWWM4azRpZnBX?oc=5",
-      "source": "Reuters",
-      "date": "2026-10-28T03:26:00+00:00",
-      "display_date": "Oct 28, 2026",
-      "summary": "Australia's Star Entertainment fined $183 million for anti-money laundering law breaches Reuters",
-      "topics": [
-        "Enforcement Actions",
-        "AML & Sanctions"
-      ]
-    },
-    {
       "title": "Inflation above forecasts; Star on brink after $260m fine; Iron ore price’s scary China warning - AFR",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUXYtdk1URE5YSHBlLWpDRGFXMlNzWjB6WGwxOXJoM1FlMy1fSEVmRWlEX01GajJKZHR5Wms2NEtEeC1yVk1QV2JycHRQQ2ZCaW1uWk9DdE9xOVhWZ0RfdFMxSUd6TkhiNzRHVFVkeXAxSGFfcFpDaVVFY1lTelBXQXd0elJfd2pHRVBYei04ZkRCZnNETndGQ3BCbFdWWWhOTGdBLUVyb2k3OWZsWVZCOFVWWlRmVlV1dERNamNmbzlCSk9jcFkzWW5ab19jamprT1h5OVE3YTlLNldYRElrZ0RycFFCdw?oc=5",
       "source": "AFR",
@@ -675,52 +730,6 @@
       "summary": "Inflation above forecasts; Star on brink after $260m fine; Iron ore price’s scary China warning AFR",
       "topics": [
         "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "Star hit with $260m fine over money laundering - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQQU1sSjZ4Vm5nTUNUcHFEVlh2LUc0bFJmQk9EbnUySTQ5NWlpNXJrS2E3Ym8tcWxROWVpTnNjc1ExQkdzdmxrR0lwUkNYblpFV0VtNVBrS0stdkdubk1vX0pSNkdoU0YyNk9oaE11ZExlNlBHbk41ajQ4SFVxX1Vad1NEeUE1NmZEYWVOZ3BJZ2EzNU1uNEV6Sk9VM09NdGRJRzNxWHdfWGFEelJBYTRTTk5sdER0ZnY0MUdTajdvVm9DRFNTdWpQTGRsT0dNcDNCbGExQlhmRGM3cTI5WnFLMGhzUWV4TWFRakE?oc=5",
-      "source": "The Australian",
-      "date": "2026-10-28T00:00:00+00:00",
-      "display_date": "Oct 28, 2026",
-      "summary": "Star hit with $260m fine over money laundering The Australian",
-      "topics": [
-        "Enforcement Actions",
-        "AML & Sanctions"
-      ]
-    },
-    {
-      "title": "‘Profit over compliance’: Star says it can afford $260m money-laundering fine",
-      "link": "https://www.smh.com.au/business/companies/star-hit-with-260m-fine-for-money-laundering-breaches-20261028-p618o6.html?ref=rss&utm_medium=rss&utm_source=rss_business",
-      "source": "The Sydney Morning Herald",
-      "date": "2026-10-27T23:54:13+00:00",
-      "display_date": "Oct 27, 2026",
-      "summary": "The casino operator says its financial survival is assured despite the Federal Court hitting it with a much larger fine than what it previously flagged as unaffordable.",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "Star chairman says $260m fine won’t be the death of casino operator - AFR",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNE1QTXc4TW9wbHRHUUhGeHl2MFhRbXZLdE5OMlJsV0gySXYxMjFqTHVNTXFqaE9GcjZwaWhacGY3NlZaWVZCRmNVcVRKdExHTks2T21RaXZRZ1BUQUdzc0hITVZ0SjV2SHJ2WlNmUWJGaW1HQTVLSGhLM245UkxxTXlsME96THRQMXkweFJkbVFMaXVrZjctTkxhNGVsNnVJUkJleFJ6UXNQVTFuSzBySWRGWUJfNkpFTlZJ?oc=5",
-      "source": "AFR",
-      "date": "2026-10-27T23:54:00+00:00",
-      "display_date": "Oct 27, 2026",
-      "summary": "Star chairman says $260m fine won’t be the death of casino operator AFR",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "Star Casino fined $260m for money laundering violations",
-      "link": "https://www.abc.net.au/news/2026-10-28/star-entertainment-fined-over-casino-money-laundering-austrac/107317384",
-      "source": "ABC News Business (AU)",
-      "date": "2026-10-27T23:45:23+00:00",
-      "display_date": "Oct 27, 2026",
-      "summary": "Australia's financial intelligence agency, AUSTRAC, had sought a much steeper fine that could have forced the casino company into financial collapse.",
-      "topics": [
-        "Enforcement Actions",
-        "AML & Sanctions"
       ]
     },
     {
@@ -746,14 +755,14 @@
       ]
     },
     {
-      "title": "Inside the Cyber Sabotage Campaign Waged by Russian Supporters - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbk44b2VnOXppVnlPMG9TeERwRDZMUDNFV2pKVlE0OHViTFdKSVFjYUxkaVRYRS1rWmNZdFBGeUpCTGFRVEhJeFRvcm1uUVhTeVkyaFQtTTBjTWpfbWZaMEU1TkVaYzVqZUQyN1JfbllwRVRzVl9aRW5lb1M1Snc3c3V4R2Q2dnN3d3BpVEhpS1R4bFlUVEM5aEgtS3o0N2lIbmdXRHI4SmdGT2d4Q3l4WFdWTG9OOUdqRmJtWg?oc=5",
-      "source": "Bloomberg.com",
-      "date": "2026-10-27T21:10:15+00:00",
+      "title": "Trump administration sued over rollback of corporate ownership reporting rules - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOU1B3bjV2aWFYWk5PUVg0STlrV2pOVjJEZW5pQWlYZjJzcFFPb2oteTdhYUk4N09FYXZiWTBDSWRRemExT1ZkSU1peW50OFkySHl2cE05ajNMZkR3M0pibzl5S0ZrNzI4eWx5WS1mTmwxeGRzamFLQkNhV2pHd1pIQ25EX3o1TG8tdVJiMVVVMHJiZmk0WDZhOTdOcE9oTlY2d1dZbzctMXkycy1SSmwzQjd0Y0c5LTloRkhMVzBGek5JOGMxVzNJ?oc=5",
+      "source": "Reuters",
+      "date": "2026-10-27T22:38:00+00:00",
       "display_date": "Oct 27, 2026",
-      "summary": "Inside the Cyber Sabotage Campaign Waged by Russian Supporters Bloomberg.com",
+      "summary": "Trump administration sued over rollback of corporate ownership reporting rules Reuters",
       "topics": [
-        "Cybersecurity Risk"
+        "Enforcement Actions"
       ]
     },
     {
@@ -812,74 +821,6 @@
       ]
     },
     {
-      "title": "Canadian Investment Regulatory Organization Trade Resumption - OSM – Company Announcement - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeG0zdkFuVFVVSUFIUHRJRkRVb1FsWU82Z2NDMGxtbzJlWFR1TzJnZllGOTlLYVY0UXprVzVZY19ZVW1NZlhmcVdERUx4RmY0T1k3SG5iR2VrNlNaSDlJN0VPZXFTT1VkMm8tRGxaRUl4bVZtS00wVEFqeDZLOW5vbjBfQXRHaUZmdWs1b2M2RnhXTGM?oc=5",
-      "source": "Financial Times",
-      "date": "2026-10-27T17:34:00+00:00",
-      "display_date": "Oct 27, 2026",
-      "summary": "Canadian Investment Regulatory Organization Trade Resumption - OSM – Company Announcement Financial Times",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "October 2026 Global Regulatory Brief: Bank stress tests, Basel III and insurance supervision - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOT3JFbnF5NFBJelpmY1BRNDk0Q2Vvenh4bms5NTVpdlFCc2RIMHBUMGh2T0dMVEpCcnFmZXVZSXA3cHoyR1MxNk5Cd2pOcC05ak9lWWtsRmVkdTFaejRJcUJpa1pGWTJqZzBBRDVNR0VjTzVBYVVLNjJyNjlocHVHOUc4X05nemFJenRPYWVCREE1R0FaMFoyOVhmWkhsbWVUWERtSTFlWkVUTzVNS1Y4bjh6cTFpZUFaeGxVa0lwdHpPZXpwTTQ0WXNTU2U1ZUsxWFhPVk5NcWd4ZGRUbUNVMmRoYXc?oc=5",
-      "source": "Bloomberg.com",
-      "date": "2026-10-27T17:00:04+00:00",
-      "display_date": "Oct 27, 2026",
-      "summary": "October 2026 Global Regulatory Brief: Bank stress tests, Basel III and insurance supervision Bloomberg.com",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "October 2026 Global Regulatory Brief: AI risk management, tokenized securities and cryptoasset regulation - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPd1JORW14QWVKU1FRV2ZVclpoM3pwdGFzaF93TGZBbXl4Q2JNbnZEd21BUC1HNkdBLVgxSXNJOUZoM0s4Qnpkd1VpaDBvVFhuaDljQWdyNkhwVFVVOG0ydGtXVVdkX1ZDQkk3VDA2Tmo4VTZWMXJ6dXJneWR6ZEhFZTRqTFZzc3VXT2ZZUUdTTEtFakhoZ1ducDFJeWJrVmlDanl5Z0t2T2UyZGZYRUM3RDFR?oc=5",
-      "source": "Bloomberg.com",
-      "date": "2026-10-27T17:00:04+00:00",
-      "display_date": "Oct 27, 2026",
-      "summary": "October 2026 Global Regulatory Brief: AI risk management, tokenized securities and cryptoasset regulation Bloomberg.com",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "October 2026 Global Regulatory Brief: Event contracts, market supervision and liquidity reforms - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMkUwMElEci1BMjRyNzFsQlVlZDhWSzFKaTdEaUVWTUk2Sno3OUFQYk1SVHlJdUxNQ2NaeTJILUlPaDRuTWtkZmVmdUl2LUd6REJHcnFnODIwSVRHQmdvNFFjVG8yR1JVWlB5LWlDcFlsY3VuX0djNkNlWjBTbl9WdV9iVDdzY3N6Z2tXZnVCYkJmUGFycUN4amRyWGpfZW1JY0szbmdsZmFzZ3JxT3RTYnFOT1ktdTl3VTJYb2FUM2pJd2YtaDVkaGM2UlZWUmF1LWVxbXppTS14dV8yTkVycHpDa0RraW5X?oc=5",
-      "source": "Bloomberg.com",
-      "date": "2026-10-27T17:00:04+00:00",
-      "display_date": "Oct 27, 2026",
-      "summary": "October 2026 Global Regulatory Brief: Event contracts, market supervision and liquidity reforms Bloomberg.com",
-      "topics": [
-        "Regulatory Change",
-        "Operational & Enterprise Risk"
-      ]
-    },
-    {
-      "title": "October 2026 Global Regulatory Brief: CSRD, climate reporting and digital green bonds - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOS0JYNHB0Q1hudlM1U3FTNklNSVJNMXhCNk1rckdLR3k1Y2lFVURGZXRjcEE3cUVUYVI1OVZQUGc5WjRIZGsxMVlQUmxqdXhLUmpXdzN0VGdQSVk4U09hRG5PYkpuaGEyWkYtUFNWU3ZmdWExRm9rWGowUXZQRUEzNUtRM0NyV1QzODNiRXk3bER1eUQzRi1XMHJyWEtyZmNWVVFSd29jdG8wc2tpR1c1SEs5SEI2NUlqRFpCMjdLSVlaVVZMT1o2NU90YkRRTXltdkJVSmt2aXkyV3M?oc=5",
-      "source": "Bloomberg.com",
-      "date": "2026-10-27T17:00:04+00:00",
-      "display_date": "Oct 27, 2026",
-      "summary": "October 2026 Global Regulatory Brief: CSRD, climate reporting and digital green bonds Bloomberg.com",
-      "topics": [
-        "Regulatory Change",
-        "ESG & Sustainability"
-      ]
-    },
-    {
-      "title": "EU’s SEC-Lite Plan Hinges on Governance, Outgoing Chief Warns - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOS3hMeWdKRXNuejRXUTUtbGRBOE15czlwNDVSZG0ycmM1NjljVnkzUUl6cUZNSzlla1RfMDZzZGdtdTF1dzh1aG9rUm1jZ3JLakZONW5razRXaXRoZU94VlNuWG55dDh1SEpVZ0cxck5tcEh3TWl0YjJpaTM3ZHFzQzh6Ny1jTzN1QWFxUGxTN05GQ3JZLXo1dVhCbjhnRzlWdFo4b3BWc0hqRVQ4a2Jucg?oc=5",
-      "source": "Bloomberg.com",
-      "date": "2026-10-27T15:41:47+00:00",
-      "display_date": "Oct 27, 2026",
-      "summary": "EU’s SEC-Lite Plan Hinges on Governance, Outgoing Chief Warns Bloomberg.com",
-      "topics": [
-        "Operational & Enterprise Risk"
-      ]
-    },
-    {
       "title": "UPS beats quarterly expectations, raises full-year guidance again",
       "link": "https://www.cnbc.com/2026/10/27/ups-ups-q3-2026-earnings.html",
       "source": "CNBC",
@@ -913,6 +854,17 @@
       ]
     },
     {
+      "title": "Three Russian diesel tankers steam for US — including two under sanctions - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMGk0enQ4S1dKd2xXdnZPWjRvWEtieklCbUItUFpSQmtqLWN1eTNNY1ZHOEZXVkFNVW1QQXBXNk96WUg3TS1RSWhNUlBpTzdYMi1ZMUJYclhlbFh6YS1JcnV5UE11RlYtSUZRNjBkWFNwZDIybWhUeW03M2stMXlyLVNwX3o?oc=5",
+      "source": "Financial Times",
+      "date": "2026-10-27T12:05:32+00:00",
+      "display_date": "Oct 27, 2026",
+      "summary": "Three Russian diesel tankers steam for US — including two under sanctions Financial Times",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
       "title": "Mitsubishi Electric and Mitsubishi Electric Iconics Digital Solutions GENESIS, GENESIS64, ICONICS Suite, Hyper Historian, AnalytiX, MobileHMI, IoTWorX, MC Works64, GENESIS32 and BizViz",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-300-02",
       "source": "CISA Cybersecurity Advisories",
@@ -932,17 +884,6 @@
       "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to cause a denial-of-service condition, corrupt memory, disclose sensitive information, or potentially execute arbitrary code. The following versions of EPICS Base are affected: EPICS Base ...",
       "topics": [
         "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "Co-Diagnostics' Joint Venture CoSara Diagnostics Completes Clinical Study and Regulatory Submission for Point-of-Care Tuberculosis Test, Sets Stage for Commercial Launch in India – Company Announcement - FT.com - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSzg3U0Itd0tzVmJ0T2YxV3BtSTZUUllxRzFuSkdvcDJpaXpBYTBsOEo4Sm1KdXpSQVNUNlk5RTVSNFVMbG9xemNJN0I2SUYwRzdPeXNYSlRYbGo1M0w3YS1qbGZhaTF4NTNucEt1WVZQWU5QVkNKQ3BucmpxQVd3Wncyb0hVajljb0tSTjN0MEdobDNyRmdTMA?oc=5",
-      "source": "Financial Times",
-      "date": "2026-10-27T11:45:00+00:00",
-      "display_date": "Oct 27, 2026",
-      "summary": "Co-Diagnostics' Joint Venture CoSara Diagnostics Completes Clinical Study and Regulatory Submission for Point-of-Care Tuberculosis Test, Sets Stage for Commercial Launch in India – Company Announcement - FT.com Financial Times",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
@@ -969,36 +910,14 @@
       ]
     },
     {
-      "title": "Porsche Sticks to Guidance as Turnaround Efforts Begin to Pay Off",
-      "link": "https://www.wsj.com/business/autos/porsche-sticks-to-guidance-as-turnaround-efforts-begin-to-pay-off-339931e2?mod=pls_whats_news_us_business_f",
-      "source": "Wall Street Journal",
-      "date": "2026-10-27T08:23:00+00:00",
+      "title": "Moody's sees positive shift in Japan's growth, resilience remains key test - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUlN5TzdqU2MyOEJrYlg2eDd5ZVQ5bWN6Uy1xcjZzRXF0Q013eGhqQnlQcHduX09nX0U1MldaTzBzd1RiY1g4SjYyand0NmtNMjZ1QmE3Ykp3ZGRyRUVpalpRanRXUVRSb3g0Z2VidFY1MVRBTGRDZmVETThBM1Y4YllicUVkdGQyU2dkcXY3WGI3U3pVajlvMFkxOFV3TnVnSWxodWdzclF2Ulc3cmZsUzIyRURjR0NkRzBoTDQ4ZF8?oc=5",
+      "source": "Reuters",
+      "date": "2026-10-27T04:33:00+00:00",
       "display_date": "Oct 27, 2026",
-      "summary": "The luxury sports-car maker said it continued to reap early benefits from a strategic reset.",
+      "summary": "Moody's sees positive shift in Japan's growth, resilience remains key test Reuters",
       "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Three Russian diesel tankers steam for US — including two under sanctions - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMGk0enQ4S1dKd2xXdnZPWjRvWEtieklCbUItUFpSQmtqLWN1eTNNY1ZHOEZXVkFNVW1QQXBXNk96WUg3TS1RSWhNUlBpTzdYMi1ZMUJYclhlbFh6YS1JcnV5UE11RlYtSUZRNjBkWFNwZDIybWhUeW03M2stMXlyLVNwX3o?oc=5",
-      "source": "Financial Times",
-      "date": "2026-10-27T05:00:28+00:00",
-      "display_date": "Oct 27, 2026",
-      "summary": "Three Russian diesel tankers steam for US — including two under sanctions Financial Times",
-      "topics": [
-        "AML & Sanctions"
-      ]
-    },
-    {
-      "title": "Canadian Investment Regulatory Organization Trade Resumption - CPER – Company Announcement - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORkhTQkowRlFtRmJOLUVYLVFGdHo2Y1laUC1jUzB1QnJtYlFnU2pWQWp0NWF3a01lXy00UzU4aERaUUdFakFYUmNreU1fcVExaGZiMmYtZzQxdGd6V2NpcHlNc2NqYXBSa1NtX1I3M0psWmRrSW9Lbm5HQndySUVKN1Y3cmhBblVlNWxWbFJqU2lNY0k?oc=5",
-      "source": "Financial Times",
-      "date": "2026-10-26T18:52:00+00:00",
-      "display_date": "Oct 26, 2026",
-      "summary": "Canadian Investment Regulatory Organization Trade Resumption - CPER – Company Announcement Financial Times",
-      "topics": [
-        "Regulatory Change"
+        "Operational & Enterprise Risk"
       ]
     },
     {
@@ -1057,17 +976,6 @@
       ]
     },
     {
-      "title": "Canadian Investment Regulatory Organization Trade Resumption - LGN – Company Announcement - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUEFhRWt6azAxdnA2N1BRZmhFYkZRR3IzWmFtS2ZxSFhfdnRqd3BWRXZ3SkNWMVp6SkdXSC1EenAweUEzUW5sMjR0cE5MdnBPck1MZjNWXzBBZjZtbmgwa09VcFlCZzh4T0tvS1FTUGk1Ul9Zc0dFdDVoT0JyYnR2T1B2ZjBnT3NUUkRNZ2FHQ3d2Z1pjM2c?oc=5",
-      "source": "Financial Times",
-      "date": "2026-10-26T16:02:00+00:00",
-      "display_date": "Oct 26, 2026",
-      "summary": "Canadian Investment Regulatory Organization Trade Resumption - LGN – Company Announcement Financial Times",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "Slovakia to develop Russia ties in areas not hit by sanctions, minister says after Moscow talks - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVWZhLXhIRHFmWGYybC1nMldBMFRYVDU0TTZZOFg5TEZldkNMY0JPbUY5Q29jLURVdmRwYVMwenhKOU81dVVKMkJYM0hYWjBJYkUzZjZxNS1GT2t0WHBPNGpPR04xU0VpeFFoWW9uQ2k2SXIxSFM5M3NxUHZPYjFiMU53WmdicUxkYTYxeEpOYUhZaGlVamVTRHp1c0tVTVdaVEdQazlkeHp6R0dBZEhFYkp1NGhDTmts?oc=5",
       "source": "Reuters",
@@ -1079,17 +987,6 @@
       ]
     },
     {
-      "title": "Canadian Investment Regulatory Organization Trade Resumption - COCO – Company Announcement - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQU1paUV9mTTNDY2RGUklOUUNzUk84cmlzSjRCMzBEcHNPQ3hjVmZqZmlVZDNXS2lIVXlLd1JSNXo0WDQ4d0Rld09rdExXZmo0d3FXRGZyTHZZenkxWjdPVlZWTW5vYWxFMEFMWi1zUWZkcTV5SnE1cUhYWlBUUnZZSGtPNWg3MmQ5LW5zclVBcG5yVnUydEE?oc=5",
-      "source": "Financial Times",
-      "date": "2026-10-26T14:10:00+00:00",
-      "display_date": "Oct 26, 2026",
-      "summary": "Canadian Investment Regulatory Organization Trade Resumption - COCO – Company Announcement Financial Times",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "Endangered turtles and ‘exceptional’ coral at risk from Woodside’s gas drilling in WA, watchdog says",
       "link": "https://www.theguardian.com/australia-news/2026/oct/27/endangered-turtles-and-exceptional-coral-at-risk-from-woodsides-gas-drilling-in-wa-watchdog-says",
       "source": "The Guardian Australia",
@@ -1098,39 +995,6 @@
       "summary": "Exclusive : EPA flags oil spill risk from proposed gasfield and threat to pygmy blue whales Follow our Australian politics live blog for latest updates Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here Woodside Energy’s plan to drill for gas ...",
       "topics": [
         "ESG & Sustainability"
-      ]
-    },
-    {
-      "title": "Canadian Investment Regulatory Organization Trading Halt - COCO – Company Announcement - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNa2pYczcxOGxsRTE4NFRadXljU1J0UEpNMHVQcndkS1hmVHNMZkZjbzFSQ3RhZVh4QTNld2tJVFkxbTBwblVUVWJ2RzVUTEkxTGpqXzY4UzRWV0xEZzhReU5hTWZWSzFMVlRWQ2pzckpMZlNsZWZMZEZ1MWRqZ0x5UDV2NXNkTVhBdUVOQTh5d0FPX1U?oc=5",
-      "source": "Financial Times",
-      "date": "2026-10-26T13:29:00+00:00",
-      "display_date": "Oct 26, 2026",
-      "summary": "Canadian Investment Regulatory Organization Trading Halt - COCO – Company Announcement Financial Times",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "/C O R R E C T I O N - Canadian Investment Regulatory Organization (CIRO) - Halts/Resumptions/ - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeUF0TlE5aUNUMHFSS2tac2RWQ3hldzdpMFF4UjkwM3F3N3p4Y0ZSbWJMOXJETE8xQ3hFYVlaZC1IS1NqbEhwWm1qZmFnS05DRXFQQW1LMTNfdkFmZ3pjclc0SnlWdk9YV1VlODFDblZHX0E3VElOTnBuRDRLbm5pd1M0eUNpZ1hLaTRKM0dwOWM4OUdJQ0E?oc=5",
-      "source": "Financial Times",
-      "date": "2026-10-26T12:55:00+00:00",
-      "display_date": "Oct 26, 2026",
-      "summary": "/C O R R E C T I O N - Canadian Investment Regulatory Organization (CIRO) - Halts/Resumptions/ Financial Times",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Indiana Utility Regulatory Commission - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55U2p4bmNIZ2pPRlA0djk0U3htR05NeUhreWMxMTJ2NGpzWjN4TERMci11Mmh5XzRFeFRYcEstVE9rYzgzLTBRLVQ5WG9LTkFSdWtldXNB?oc=5",
-      "source": "Bloomberg.com",
-      "date": "2026-10-26T11:20:39+00:00",
-      "display_date": "Oct 26, 2026",
-      "summary": "Indiana Utility Regulatory Commission Bloomberg.com",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
@@ -1197,6 +1061,17 @@
       "summary": "Netanyahu rebuked for plan to use crypto to bypass economic sanctions Reuters",
       "topics": [
         "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "Four ways US foreign policy could change if Democrats win in November - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYVRLMHJmdldMQ1h3TUZkbmpNUUZqUlVTY1VPaTNpU0JLc2xua051SmgtQUJzcFlnRjV3a3VaWVctNFM0dF80X2VKMlM5UTNIQkV4YmJ4TTAxdDFVS2EtdFN6R2pfTDVTVnNfZjJOYXdxbTV3eGxQeUFPZV85ZjBNb0I2dlpVdU9DQkhDaWI2Z214Wko2cUVLenFCYWUtLVY5WF9ydlJOTmlkdjN4RloxQQ?oc=5",
+      "source": "Reuters",
+      "date": "2026-10-25T11:02:30+00:00",
+      "display_date": "Oct 25, 2026",
+      "summary": "Four ways US foreign policy could change if Democrats win in November Reuters",
+      "topics": [
+        "Regulatory Change"
       ]
     },
     {
@@ -1310,17 +1185,6 @@
       ]
     },
     {
-      "title": "Britain’s gas security needs reinforcement. Last-minute deals with Belgium are not a proper fix",
-      "link": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/oct/23/britains-gas-security-needs-reinforcement-last-minute-deals-with-belgium-are-not-a-proper-fix",
-      "source": "The Guardian Australia",
-      "date": "2026-10-23T05:00:02+00:00",
-      "display_date": "Oct 23, 2026",
-      "summary": "The UK still imports 60% of its gas and, even with Jackdaw, its energy supply and resilience problems are not going away After the overdue approval of the Jackdaw field in the North Sea, here comes a reminder that Britain still imports almost 60% of its gas and the stuff has to c...",
-      "topics": [
-        "Operational & Enterprise Risk"
-      ]
-    },
-    {
       "title": "Healthcare World Gets Self-Disclosure Pilot",
       "link": "https://www.radicalcompliance.com/2026/10/22/healthcare-world-gets-self-disclosure-pilot/",
       "source": "Radical Compliance",
@@ -1332,12 +1196,12 @@
       ]
     },
     {
-      "title": "Nippon Life India AMC gets regulatory nod to settle Yes Bank bond case - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbGxwdXlDdlFuaC0wbzM0QWpHSWwyZ2tZLVJMNU9wdEl0UWtTWm1nTHRhcm44cFBicVJIa3Q0Um9CbUdBcU5BRXd5a0R3Wl9tZE96eTJiWWhuUkpwNTJ6U2V0eDJpVzRaVmh2UU1LUEpWR1phNUViWFlHSW9YLXIwVjVFY0JobGpsZ2lPTVNSTzhfRVhwWExkVVZsbUZxT2pBaFdUVS1FQnBldEdWbjNqWm5Ubzk?oc=5",
+      "title": "US regulator is probing suspicious Iran oil trading, official says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPem1fOEZ2aU10cDBTVHhDUXFuN3ZTU1l3ZXR4dkpMUUNCazJDMEk4V0UxT01nZ2tNckxuTllmYXhNeUlhSTQzbzg5dHN2aVNjMUpnNnU0T2FJWmNtTGZ4ZTg0UXNjRFhReHlDbThZalczOHdVZFBKLU9pVEp3YTBTS096QUdKVm4tbTdlQzJSYWQ5eGhDZ05FSjJJWFhNYkt2dHZERzg1Zmltc2xKUkd1UjBXUEpTdjNC?oc=5",
       "source": "Reuters",
-      "date": "2026-10-22T20:30:27+00:00",
+      "date": "2026-10-22T21:31:43+00:00",
       "display_date": "Oct 22, 2026",
-      "summary": "Nippon Life India AMC gets regulatory nod to settle Yes Bank bond case Reuters",
+      "summary": "US regulator is probing suspicious Iran oil trading, official says Reuters",
       "topics": [
         "Regulatory Change"
       ]
@@ -1361,29 +1225,6 @@
       "display_date": "Oct 22, 2026",
       "summary": "Today we return to Bank of America and the huge anti-money laundering case it settled with federal regulators earlier this month. This case is all about ineffective transaction monitoring and the many compliance failures that followed, so let’s examine the system that Bank of Ame...",
       "topics": [
-        "AML & Sanctions"
-      ]
-    },
-    {
-      "title": "Ecuador opposition leader arrested in money laundering investigation - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaWh6Mm5KQW41S2pOTk9fVjRZVDl6SElwcF9rR1E2dVRCeld6czQ3NEVfRVd5ZTdGRF9ab01mTW5fUU1KSlcxVXAtcG9YVFNybnA0cV9YNEM5RzIxUTRoU0lkbTdHTC1ld2Z2V3hlNkhWSkVxMzhoQm10YkFjR3R3X0ZVb2Q?oc=5",
-      "source": "Financial Times",
-      "date": "2026-10-22T17:47:15+00:00",
-      "display_date": "Oct 22, 2026",
-      "summary": "Ecuador opposition leader arrested in money laundering investigation Financial Times",
-      "topics": [
-        "AML & Sanctions"
-      ]
-    },
-    {
-      "title": "Virginia Dem Louise Lucas, 82, indicted on drug trafficking, money laundering and bribery charges - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPaW12OEpwaVJOZlRIT3pmeGRXRk9seXR4NXF5UmNSak5vWWpCUk1lc1ZMZTFPWXczTnMxX2V4MmtMajZsZDU2d2dpVFBYYks0cHZlRHFDUDdmMVk2NDlIMlNXU2ZaWHhNSjFPNTB3TWZfeWl6NWE1TUZ1SXh5bmNVaGs5eF9NbUg1a0Y1UnFjMUU4NGNPNng3cXRMQzdQUkVJYnJxWWI0dFB2SHI4R29HRlE4bm1kdGVVc1MzalZ0UHZZcFkzWDdtUDRQaFc0YmhMMGkwUGp0TWhnVXhHQkNhaFJUOU9udUl3Wjd6U3pnVkFxd2pUMWl5d1k5R1FTYW9z?oc=5",
-      "source": "The Australian",
-      "date": "2026-10-22T17:36:11+00:00",
-      "display_date": "Oct 22, 2026",
-      "summary": "Virginia Dem Louise Lucas, 82, indicted on drug trafficking, money laundering and bribery charges The Australian",
-      "topics": [
-        "Enforcement Actions",
         "AML & Sanctions"
       ]
     },
@@ -2334,17 +2175,6 @@
       "summary": "Microsoft Corp. today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch batch ever. Microsoft says artificial intelligence is helping to speed the discovery of vulnerabilities, but security expe...",
       "topics": [
         "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "SEC Proposes Rescission of Political Contribution Rule for Investment Advisers",
-      "link": "https://www.sec.gov/newsroom/press-releases/2026-85-sec-proposes-rescission-political-contribution-rule-investment-advisers",
-      "source": "SEC Press Releases",
-      "date": "2026-09-03T20:30:00+00:00",
-      "display_date": "Sep 03, 2026",
-      "summary": "The Securities and Exchange Commission today issued a proposal to rescind its “pay-to-play” rule that prohibits investment advisers from providing compensated investment advisory services to a government client for two years…",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
