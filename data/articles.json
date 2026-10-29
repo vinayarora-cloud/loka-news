@@ -1,38 +1,104 @@
 {
-  "last_updated": "October 29, 2026 08:43 UTC",
-  "total_count": 220,
+  "last_updated": "October 29, 2026 12:35 UTC",
+  "total_count": 234,
   "articles": [
     {
-      "title": "Sale of scandal riddled planner InterPrac now ASIC’s business - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNEdVNGl0SVNIZ1BaamNDSXJuWDhoNGxueHQycE9vNUw2U3R2cGF2YUtXWW9GalVPVWJ3MnFWOEo1NzctUG5tODJxTEdTUVliWmpocXNJRWNSOEN6SUJjalVrOVRDSnJwNGpoQ2dqa0l5TFF1ZTM1Y3ByNnFfZjhTd1ZiVnFwbUNROC1rY09HMVdqRVhLODNiWXdBUUEtZ0x5dFZsWkpYX2FPajRTYWpqeF9lVU1GeGZ6OHRlVy1QVm5vbFpKWkdaT0ZadVV5MzI0UGotbHc2TnlvekhQbjJRZ3ZjeE1vOXFGOWluWg?oc=5",
-      "source": "The Australian",
-      "date": "2026-10-29T08:17:28+00:00",
+      "title": "Over 80% of Institutional Investors Plan to Increase Allocations to Sustainable Investments: Survey",
+      "link": "https://www.esgtoday.com/over-80-of-institutional-investors-plan-to-increase-allocations-to-sustainable-investments-survey/?utm_source=rss&utm_medium=rss&utm_campaign=over-80-of-institutional-investors-plan-to-increase-allocations-to-sustainable-investments-survey",
+      "source": "ESG Today",
+      "date": "2026-10-29T12:31:57+00:00",
       "display_date": "Oct 29, 2026",
-      "summary": "Sale of scandal riddled planner InterPrac now ASIC’s business The Australian",
+      "summary": "More than four out of five institutional investors expect to increase allocations to sustainable investments […]",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "Trump administration has dropped or reversed 205 corporate enforcement cases, Public Citizen finds",
+      "link": "https://www.complianceweek.com/regulatory-enforcement/trump-administration-has-dropped-or-reversed-205-corporate-enforcement-cases-public-citizen-finds/",
+      "source": "Compliance Week",
+      "date": "2026-10-29T12:00:00+00:00",
+      "display_date": "Oct 29, 2026",
+      "summary": "The Trump administration has terminated or reversed 205 corporate enforcement cases, to date, including federal criminal investigations, lawsuits, and previously resolved settlements reached under the Biden administration. The post Trump administration has dropped or reversed 205...",
       "topics": [
         "Enforcement Actions"
       ]
     },
     {
-      "title": "Volkswagen Presses Ahead With Restructuring as Headwinds Mount",
-      "link": "https://www.wsj.com/business/earnings/volkswagen-presses-ahead-with-restructuring-as-headwinds-mount-f9b2a82f?mod=pls_whats_news_us_business_f",
-      "source": "Wall Street Journal",
-      "date": "2026-10-29T08:10:00+00:00",
+      "title": "FCA encourages former Verus Financial Services Limited customers to check if they can claim with FSCS",
+      "link": "https://www.fca.org.uk/news/news-stories/fca-encourages-former-verus-financial-services-limited-customers-check-if-they-can-claim-fscs",
+      "source": "FCA UK Regulatory News",
+      "date": "2026-10-29T11:58:00+00:00",
       "display_date": "Oct 29, 2026",
-      "summary": "The automaker backed full-year guidance that was cut last month, but said it must move fast to implement restructuring plans as it continued to face multiple headwinds.",
+      "summary": "Compensation may be available to former Verus customers through the Financial Services Compensation Scheme (FSCS), subject to assessment. If you were a customer of Verus Financial Services Limited, you can now check to see if you can claim for compensation on the FSCS website. Th...",
       "topics": [
         "Regulatory Change"
       ]
     },
     {
-      "title": "Shell profits double to $10.8bn as Iran war pushes up profit margin on oil",
-      "link": "https://www.theguardian.com/business/2026/oct/29/shell-profits-double-iran-war-pushes-up-profit-margin-on-oil",
-      "source": "The Guardian Australia",
-      "date": "2026-10-29T08:00:37+00:00",
+      "title": "Singapore Airlines Signs Deal to Purchase SAF Made from Waste Carbon",
+      "link": "https://www.esgtoday.com/singapore-airlines-signs-deal-to-purchase-saf-made-from-waste-carbon/?utm_source=rss&utm_medium=rss&utm_campaign=singapore-airlines-signs-deal-to-purchase-saf-made-from-waste-carbon",
+      "source": "ESG Today",
+      "date": "2026-10-29T11:49:53+00:00",
       "display_date": "Oct 29, 2026",
-      "summary": "Energy firm to return $5bn to shareholders as climate campaigners criticise high profits Shell has doubled its profits in the last quarter after the Middle East conflict drove up the price of oil and gas and created shortages in the global market. Shell reported on Thursday morni...",
+      "summary": "Singapore Airlines (SIA) announced that it has signed an agreement with Aether Fuels to purchase […]",
       "topics": [
         "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "The Startup Building a Supply Chain to Make Explosives for Drones",
+      "link": "https://www.wsj.com/logistics-report/the-startup-building-a-supply-chain-to-make-explosives-for-drones-1609e658?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-10-29T10:55:00+00:00",
+      "display_date": "Oct 29, 2026",
+      "summary": "Plus, Trump’s tariff exposes just how badly American industry needs Canadian aluminum.",
+      "topics": [
+        "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "What does 'fair value' look like in practice? Three years into the Consumer Duty, here’s what we’ve learned.",
+      "link": "https://www.fca.org.uk/news/blogs/fair-value-look-practice-three-years-consumer-duty",
+      "source": "FCA UK Regulatory News",
+      "date": "2026-10-29T10:03:00+00:00",
+      "display_date": "Oct 29, 2026",
+      "summary": "Fair value is a simple yet important principle at the heart of the Consumer Duty: the price customers pay should be reasonable, relative to the benefits they get. But applying that principle in practice requires judgement.Three years into the Consumer Duty, we’re seeing clear dif...",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "FCA stops HTX's crypto promotions",
+      "link": "https://www.fca.org.uk/news/press-releases/fca-stops-htxs-crypto-promotions",
+      "source": "FCA UK Regulatory News",
+      "date": "2026-10-29T10:00:00+00:00",
+      "display_date": "Oct 29, 2026",
+      "summary": "The FCA has secured High Court undertakings to ensure that HTX (formerly Huobi), a global crypto exchange, will not knowingly promote cryptoasset services unlawfully to UK consumers. The FCA took legal action against HTX in October 2025 for breaking UK financial promotion rules. ...",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Terradot Secures $34 Million from HASI to Build ERW Carbon Removal Projects",
+      "link": "https://www.esgtoday.com/terradot-secures-34-million-from-hasi-to-build-erw-carbon-removal-projects/?utm_source=rss&utm_medium=rss&utm_campaign=terradot-secures-34-million-from-hasi-to-build-erw-carbon-removal-projects",
+      "source": "ESG Today",
+      "date": "2026-10-29T09:07:21+00:00",
+      "display_date": "Oct 29, 2026",
+      "summary": "Carbon removal company Terradot announced that it has closed a senior secured term loan of […]",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "Non-compliance with ASX Listing Rule 7.1 - AFR",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQT0lhaW5WNnJmcW9WdWozTUhvSUFtQzhPTWZENzhjbUZSMmlpcG9EQ2tzMUJnMG1XQnBYZ3lQcHVzN0RHekRpZWRWSG5iSVF3ZVIxVm44U0tSalJYV0tIT2tWOEFpN3pMdUxRYVhpcmVlYnZDNnlUa0JUY1lURXdPVVdyaWhLR0UxclZEQ2dSQQ?oc=5",
+      "source": "AFR",
+      "date": "2026-10-29T08:09:27+00:00",
+      "display_date": "Oct 29, 2026",
+      "summary": "Non-compliance with ASX Listing Rule 7.1 AFR",
+      "topics": [
+        "Regulatory Change"
       ]
     },
     {
@@ -47,14 +113,14 @@
       ]
     },
     {
-      "title": "Renault Group Confirms Guidance as Cost Cuts, New Launches Continue",
-      "link": "https://www.wsj.com/business/earnings/renault-group-confirms-guidance-as-cost-cuts-new-launches-continue-2ffa6f52?mod=pls_whats_news_us_business_f",
-      "source": "Wall Street Journal",
-      "date": "2026-10-29T06:54:00+00:00",
+      "title": "Sale of scandal riddled planner InterPrac now ASIC’s business - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNEdVNGl0SVNIZ1BaamNDSXJuWDhoNGxueHQycE9vNUw2U3R2cGF2YUtXWW9GalVPVWJ3MnFWOEo1NzctUG5tODJxTEdTUVliWmpocXNJRWNSOEN6SUJjalVrOVRDSnJwNGpoQ2dqa0l5TFF1ZTM1Y3ByNnFfZjhTd1ZiVnFwbUNROC1rY09HMVdqRVhLODNiWXdBUUEtZ0x5dFZsWkpYX2FPajRTYWpqeF9lVU1GeGZ6OHRlVy1QVm5vbFpKWkdaT0ZadVV5MzI0UGotbHc2TnlvekhQbjJRZ3ZjeE1vOXFGOWluWg?oc=5",
+      "source": "The Australian",
+      "date": "2026-10-29T06:34:52+00:00",
       "display_date": "Oct 29, 2026",
-      "summary": "The French carmaker maintained full-year guidance but said the regular seasonal uplift was expected to be less pronounced than usual due to higher raw material costs and inflation",
+      "summary": "Sale of scandal riddled planner InterPrac now ASIC’s business The Australian",
       "topics": [
-        "Regulatory Change"
+        "Enforcement Actions"
       ]
     },
     {
@@ -124,6 +190,17 @@
       ]
     },
     {
+      "title": "Kremlin aide says discussions underway with US to lift sanctions on Russian investment fund - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVl9HWWNraGlYV3NRSGloLWwxUjBRN0ZDc1M4dVZKTnM4NEtDejItVlAwZFdib3VsNWE2bk1XX0Fpc2dmLVh3X3hBeFNmVkdyTk1OSW9VbUd5TFdOaWtQQkxiWnBjaXdOWHlwYklBSlZ5ekYxTEdEVEt0T1NfOGF3cExwWVVCZlM1RFhsUnpCYzBrOWNxaDJEZzloSTZQM1p4OE01UlJGT2hmM1R2VjZtS1lvUEgwTVJ3WFRfWTVFMA?oc=5",
+      "source": "Reuters",
+      "date": "2026-10-29T00:52:00+00:00",
+      "display_date": "Oct 29, 2026",
+      "summary": "Kremlin aide says discussions underway with US to lift sanctions on Russian investment fund Reuters",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
       "title": "Scrapped Firmus float casts doubt on billions in AI data centre builds",
       "link": "https://www.abc.net.au/news/2026-10-29/firmus-funding-ai-computer-chips-stock-market/107322200",
       "source": "ABC News Business (AU)",
@@ -150,7 +227,7 @@
       "title": "ASIC probes all-star cast of bankers over botched $44bn Firmus float - The Australian",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQZmxkbktqTnVYVk5iZUU2cGI1NTNvOGZSTWppeW9OcV96eTZ4YjBvelFBWDFrcGNESndoVmw2Y1huN2NjVFp5ajhCSkVkYWFsN0w2U0I3ZlFra3hnd2w1MlhOVzdwSkVrZkptZ1JxSW13QU1UMjNZUlZ6bmI3ek5pd0JwekR1UWR4cF9HaTNtUE01N0NLUzVJdWFZY2hHT0EtVFo1WDJicWVrallETTdEYXZGZGE4ckVjeGRlcTkyemhhYk9YMTBxVlF0M3l1RWdZTVZJS3REcGRUYndRTTVZTjA3U09pNk9PN3FhbUZLRGNWcUdhaTdyc0ZHMzZEYjNjWXNRb2daSG0?oc=5",
       "source": "The Australian",
-      "date": "2026-10-28T23:00:47+00:00",
+      "date": "2026-10-28T23:03:44+00:00",
       "display_date": "Oct 28, 2026",
       "summary": "ASIC probes all-star cast of bankers over botched $44bn Firmus float The Australian",
       "topics": [
@@ -335,6 +412,17 @@
       ]
     },
     {
+      "title": "Canadian Investment Regulatory Organization Trade Resumption - AFN – Company Announcement - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPT1JTV1RYSkIxYmdRWlhucU5PRExHVFdlY1IxbWtuMmZ0amFKa2tHNkdSaWpSYldYd25TT3VILTFWVS02YzVBYy1RNURBWFV2UXJhYy1aUm1rZGkzeFhZSE1feWIyc0drVWVpeTRSeWJjMVo2UTFZdFJGSE93SVNPR3YwbU9McnNrQllQblNrT3Mya1ZkcHc?oc=5",
+      "source": "Financial Times",
+      "date": "2026-10-28T14:50:00+00:00",
+      "display_date": "Oct 28, 2026",
+      "summary": "Canadian Investment Regulatory Organization Trade Resumption - AFN – Company Announcement Financial Times",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
       "title": "Emvolon Raises $22 Million to Turn Waste Greenhouse Gas into Sustainable Fuels",
       "link": "https://www.esgtoday.com/emvolon-raises-22-million-to-turn-waste-greenhouse-gas-into-sustainable-fuels/?utm_source=rss&utm_medium=rss&utm_campaign=emvolon-raises-22-million-to-turn-waste-greenhouse-gas-into-sustainable-fuels",
       "source": "ESG Today",
@@ -343,6 +431,17 @@
       "summary": "Clean energy startup Emvolon announced that it has raised $22 million in a Series A […]",
       "topics": [
         "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "Canadian Investment Regulatory Organization Trading Halt - AFN – Company Announcement - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcTdlN1FCV1ZYdjJXSUg4bF92V1lweVNvRVd6V0NUUm5acjFVRk9Ra0xyWVN1X2tPcXRHNHpxQ3JhLTY2MWJ5Yjl5eE11aDRyVHpESlpPQmhGczRfWGpJaUd6Szc4b1JWZW00X0o0SWJjR1VNQlUxY0x4enFnLVVlQ2RmY0pXSmlheDBzWmFxVmI1dHVLRFE?oc=5",
+      "source": "Financial Times",
+      "date": "2026-10-28T14:25:00+00:00",
+      "display_date": "Oct 28, 2026",
+      "summary": "Canadian Investment Regulatory Organization Trading Halt - AFN – Company Announcement Financial Times",
+      "topics": [
+        "Regulatory Change"
       ]
     },
     {
@@ -398,18 +497,6 @@
       "summary": "Macquarie Asset Management-owned pan-Asian renewable energy platform Blueleaf Energy announced today that it has signed […]",
       "topics": [
         "ESG & Sustainability"
-      ]
-    },
-    {
-      "title": "The Morning Risk Report: Extreme Networks to Pay $2.5 Million Over Sales to Russian Missile Maker",
-      "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-extreme-networks-to-pay-2-5-million-over-sales-to-russian-missile-maker-ec74931d?mod=pls_whats_news_us_business_f",
-      "source": "Wall Street Journal",
-      "date": "2026-10-28T11:30:00+00:00",
-      "display_date": "Oct 28, 2026",
-      "summary": "Plus: U.K.’s SFO looks to U.S. as it builds whistleblower program, and SEC enforcement activity down 57%, report finds",
-      "topics": [
-        "Enforcement Actions",
-        "Operational & Enterprise Risk"
       ]
     },
     {
@@ -481,6 +568,17 @@
       ]
     },
     {
+      "title": "Regulatory announcement no 23: Organic growth picked up in Q3, reaching 6% for the first nine months at an adjusted EBITA margin of 9%. Outlook reiterated – Company Announcement - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcEdldkNtamFnSXpNcXN1S2VmSjZ5MXloS0E3aG5GUXZjR19RZUF6cTZkUkFrNENEbDdaRlNWeGJEXy1FN25ScWQzaTQwdWplUGpKcEZCRWRuNWpKYlBqNWYwZGRUQUo5OHR3OVY3Ynp1Z0lpejIycjJTNGNXd0gyc2ZsSG1vWW1OaVFBWFBlRFNwSHFrQmljVGNSZw?oc=5",
+      "source": "Financial Times",
+      "date": "2026-10-28T05:30:23+00:00",
+      "display_date": "Oct 28, 2026",
+      "summary": "Regulatory announcement no 23: Organic growth picked up in Q3, reaching 6% for the first nine months at an adjusted EBITA margin of 9%. Outlook reiterated – Company Announcement Financial Times",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
       "title": "Planned burns doubled and salvaged wood for sawmills under Coalition forest policy",
       "link": "https://www.abc.net.au/news/2026-10-28/coalition-to-revive-native-timber-processing-victoria/107156526",
       "source": "ABC News Business (AU)",
@@ -489,6 +587,18 @@
       "summary": "The Coalition is promising to revive Victoria's native timber industry through the collection and processing of fuel load as part of a new state election pledge.",
       "topics": [
         "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Australia's Star Entertainment fined $183 million for anti-money laundering law breaches - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdDEzR2l3NGVCMzJiSjBNdGx1NGE1eGN6LUczbUNBb241T0FCU2hKU2FvMDZUbmdMdEVrLXViTzBzWE5udE1TMWkzZjQ0T1JIRmc4Wjh1YURLeW16eE1pX3gwdlhCSkJmRFUtd2Jhd0h3d0R2Sm1VZ3hSWW9CTTl1SDRfbWt2ZnNwcEwtazZCTjZUSEN1a1JJZk5DdElhNlptM3dSa0xZWUQ1eGotcEVtckd6c1dGVXp2LVVyWWM4azRpZnBX?oc=5",
+      "source": "Reuters",
+      "date": "2026-10-28T03:26:00+00:00",
+      "display_date": "Oct 28, 2026",
+      "summary": "Australia's Star Entertainment fined $183 million for anti-money laundering law breaches Reuters",
+      "topics": [
+        "Enforcement Actions",
+        "AML & Sanctions"
       ]
     },
     {
@@ -571,14 +681,14 @@
       ]
     },
     {
-      "title": "Trump administration sued over rollback of corporate ownership reporting rules - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOU1B3bjV2aWFYWk5PUVg0STlrV2pOVjJEZW5pQWlYZjJzcFFPb2oteTdhYUk4N09FYXZiWTBDSWRRemExT1ZkSU1peW50OFkySHl2cE05ajNMZkR3M0pibzl5S0ZrNzI4eWx5WS1mTmwxeGRzamFLQkNhV2pHd1pIQ25EX3o1TG8tdVJiMVVVMHJiZmk0WDZhOTdOcE9oTlY2d1dZbzctMXkycy1SSmwzQjd0Y0c5LTloRkhMVzBGek5JOGMxVzNJ?oc=5",
-      "source": "Reuters",
-      "date": "2026-10-27T22:38:00+00:00",
+      "title": "Inside the Cyber Sabotage Campaign Waged by Russian Supporters - Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbk44b2VnOXppVnlPMG9TeERwRDZMUDNFV2pKVlE0OHViTFdKSVFjYUxkaVRYRS1rWmNZdFBGeUpCTGFRVEhJeFRvcm1uUVhTeVkyaFQtTTBjTWpfbWZaMEU1TkVaYzVqZUQyN1JfbllwRVRzVl9aRW5lb1M1Snc3c3V4R2Q2dnN3d3BpVEhpS1R4bFlUVEM5aEgtS3o0N2lIbmdXRHI4SmdGT2d4Q3l4WFdWTG9OOUdqRmJtWg?oc=5",
+      "source": "Bloomberg",
+      "date": "2026-10-27T21:10:15+00:00",
       "display_date": "Oct 27, 2026",
-      "summary": "Trump administration sued over rollback of corporate ownership reporting rules Reuters",
+      "summary": "Inside the Cyber Sabotage Campaign Waged by Russian Supporters Bloomberg",
       "topics": [
-        "Enforcement Actions"
+        "Cybersecurity Risk"
       ]
     },
     {
@@ -637,15 +747,71 @@
       ]
     },
     {
-      "title": "Singapore Revises Clean Energy Claims Rules to Address Greenwashing Risks",
-      "link": "https://www.esgtoday.com/singapore-revises-clean-energy-claims-rules-to-address-greenwashing-risks/?utm_source=rss&utm_medium=rss&utm_campaign=singapore-revises-clean-energy-claims-rules-to-address-greenwashing-risks",
-      "source": "ESG Today",
-      "date": "2026-10-27T16:29:41+00:00",
+      "title": "Canadian Investment Regulatory Organization Trade Resumption - OSM – Company Announcement - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeG0zdkFuVFVVSUFIUHRJRkRVb1FsWU82Z2NDMGxtbzJlWFR1TzJnZllGOTlLYVY0UXprVzVZY19ZVW1NZlhmcVdERUx4RmY0T1k3SG5iR2VrNlNaSDlJN0VPZXFTT1VkMm8tRGxaRUl4bVZtS00wVEFqeDZLOW5vbjBfQXRHaUZmdWs1b2M2RnhXTGM?oc=5",
+      "source": "Financial Times",
+      "date": "2026-10-27T17:34:00+00:00",
       "display_date": "Oct 27, 2026",
-      "summary": "Singapore’s Ministry of Energy, Trade and Industry announced the release of an updated Singapore Standard […]",
+      "summary": "Canadian Investment Regulatory Organization Trade Resumption - OSM – Company Announcement Financial Times",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "October 2026 Global Regulatory Brief: Bank stress tests, Basel III and insurance supervision - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOT3JFbnF5NFBJelpmY1BRNDk0Q2Vvenh4bms5NTVpdlFCc2RIMHBUMGh2T0dMVEpCcnFmZXVZSXA3cHoyR1MxNk5Cd2pOcC05ak9lWWtsRmVkdTFaejRJcUJpa1pGWTJqZzBBRDVNR0VjTzVBYVVLNjJyNjlocHVHOUc4X05nemFJenRPYWVCREE1R0FaMFoyOVhmWkhsbWVUWERtSTFlWkVUTzVNS1Y4bjh6cTFpZUFaeGxVa0lwdHpPZXpwTTQ0WXNTU2U1ZUsxWFhPVk5NcWd4ZGRUbUNVMmRoYXc?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-10-27T17:00:04+00:00",
+      "display_date": "Oct 27, 2026",
+      "summary": "October 2026 Global Regulatory Brief: Bank stress tests, Basel III and insurance supervision Bloomberg.com",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "October 2026 Global Regulatory Brief: AI risk management, tokenized securities and cryptoasset regulation - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPd1JORW14QWVKU1FRV2ZVclpoM3pwdGFzaF93TGZBbXl4Q2JNbnZEd21BUC1HNkdBLVgxSXNJOUZoM0s4Qnpkd1VpaDBvVFhuaDljQWdyNkhwVFVVOG0ydGtXVVdkX1ZDQkk3VDA2Tmo4VTZWMXJ6dXJneWR6ZEhFZTRqTFZzc3VXT2ZZUUdTTEtFakhoZ1ducDFJeWJrVmlDanl5Z0t2T2UyZGZYRUM3RDFR?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-10-27T17:00:04+00:00",
+      "display_date": "Oct 27, 2026",
+      "summary": "October 2026 Global Regulatory Brief: AI risk management, tokenized securities and cryptoasset regulation Bloomberg.com",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "October 2026 Global Regulatory Brief: Event contracts, market supervision and liquidity reforms - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMkUwMElEci1BMjRyNzFsQlVlZDhWSzFKaTdEaUVWTUk2Sno3OUFQYk1SVHlJdUxNQ2NaeTJILUlPaDRuTWtkZmVmdUl2LUd6REJHcnFnODIwSVRHQmdvNFFjVG8yR1JVWlB5LWlDcFlsY3VuX0djNkNlWjBTbl9WdV9iVDdzY3N6Z2tXZnVCYkJmUGFycUN4amRyWGpfZW1JY0szbmdsZmFzZ3JxT3RTYnFOT1ktdTl3VTJYb2FUM2pJd2YtaDVkaGM2UlZWUmF1LWVxbXppTS14dV8yTkVycHpDa0RraW5X?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-10-27T17:00:04+00:00",
+      "display_date": "Oct 27, 2026",
+      "summary": "October 2026 Global Regulatory Brief: Event contracts, market supervision and liquidity reforms Bloomberg.com",
+      "topics": [
+        "Regulatory Change",
+        "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "October 2026 Global Regulatory Brief: CSRD, climate reporting and digital green bonds - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOS0JYNHB0Q1hudlM1U3FTNklNSVJNMXhCNk1rckdLR3k1Y2lFVURGZXRjcEE3cUVUYVI1OVZQUGc5WjRIZGsxMVlQUmxqdXhLUmpXdzN0VGdQSVk4U09hRG5PYkpuaGEyWkYtUFNWU3ZmdWExRm9rWGowUXZQRUEzNUtRM0NyV1QzODNiRXk3bER1eUQzRi1XMHJyWEtyZmNWVVFSd29jdG8wc2tpR1c1SEs5SEI2NUlqRFpCMjdLSVlaVVZMT1o2NU90YkRRTXltdkJVSmt2aXkyV3M?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-10-27T17:00:04+00:00",
+      "display_date": "Oct 27, 2026",
+      "summary": "October 2026 Global Regulatory Brief: CSRD, climate reporting and digital green bonds Bloomberg.com",
       "topics": [
         "Regulatory Change",
         "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "EU’s SEC-Lite Plan Hinges on Governance, Outgoing Chief Warns - Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOS3hMeWdKRXNuejRXUTUtbGRBOE15czlwNDVSZG0ycmM1NjljVnkzUUl6cUZNSzlla1RfMDZzZGdtdTF1dzh1aG9rUm1jZ3JLakZONW5razRXaXRoZU94VlNuWG55dDh1SEpVZ0cxck5tcEh3TWl0YjJpaTM3ZHFzQzh6Ny1jTzN1QWFxUGxTN05GQ3JZLXo1dVhCbjhnRzlWdFo4b3BWc0hqRVQ4a2Jucg?oc=5",
+      "source": "Bloomberg",
+      "date": "2026-10-27T15:41:47+00:00",
+      "display_date": "Oct 27, 2026",
+      "summary": "EU’s SEC-Lite Plan Hinges on Governance, Outgoing Chief Warns Bloomberg",
+      "topics": [
+        "Operational & Enterprise Risk"
       ]
     },
     {
@@ -655,28 +821,6 @@
       "date": "2026-10-27T15:29:49+00:00",
       "display_date": "Oct 27, 2026",
       "summary": "UPS beat Wall Street expectations for its third-quarter results and raised its full-year guidance for the second quarter in a row.",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Iberdrola Returns to U.S. Debt Market with $1.6 Billion Green Bond Issuance",
-      "link": "https://www.esgtoday.com/iberdrola-returns-to-u-s-debt-market-with-1-6-billion-green-bond-issuance/?utm_source=rss&utm_medium=rss&utm_campaign=iberdrola-returns-to-u-s-debt-market-with-1-6-billion-green-bond-issuance",
-      "source": "ESG Today",
-      "date": "2026-10-27T15:26:53+00:00",
-      "display_date": "Oct 27, 2026",
-      "summary": "Spanish multinational energy company Iberdrola announced that it has raised $1.6 billion in a green […]",
-      "topics": [
-        "ESG & Sustainability"
-      ]
-    },
-    {
-      "title": "Hg Acquires Majority Stake in Renewable Energy Advisory and Software Provider 3E",
-      "link": "https://www.esgtoday.com/hg-acquires-majority-stake-in-renewable-energy-advisory-and-software-provider-3e/?utm_source=rss&utm_medium=rss&utm_campaign=hg-acquires-majority-stake-in-renewable-energy-advisory-and-software-provider-3e",
-      "source": "ESG Today",
-      "date": "2026-10-27T14:06:53+00:00",
-      "display_date": "Oct 27, 2026",
-      "summary": "Software and services-focused investment firm Hg announced the acquisition of a majority stake in renewable […]",
       "topics": [
         "Regulatory Change"
       ]
@@ -737,6 +881,17 @@
       ]
     },
     {
+      "title": "Co-Diagnostics' Joint Venture CoSara Diagnostics Completes Clinical Study and Regulatory Submission for Point-of-Care Tuberculosis Test, Sets Stage for Commercial Launch in India – Company Announcement - FT.com - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSzg3U0Itd0tzVmJ0T2YxV3BtSTZUUllxRzFuSkdvcDJpaXpBYTBsOEo4Sm1KdXpSQVNUNlk5RTVSNFVMbG9xemNJN0I2SUYwRzdPeXNYSlRYbGo1M0w3YS1qbGZhaTF4NTNucEt1WVZQWU5QVkNKQ3BucmpxQVd3Wncyb0hVajljb0tSTjN0MEdobDNyRmdTMA?oc=5",
+      "source": "Financial Times",
+      "date": "2026-10-27T11:45:00+00:00",
+      "display_date": "Oct 27, 2026",
+      "summary": "Co-Diagnostics' Joint Venture CoSara Diagnostics Completes Clinical Study and Regulatory Submission for Point-of-Care Tuberculosis Test, Sets Stage for Commercial Launch in India – Company Announcement - FT.com Financial Times",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
       "title": "Every New Rule Tempts You to Build a New Silo",
       "link": "https://www.corporatecomplianceinsights.com/every-new-rule-tempts-you-build-new-silo/",
       "source": "Corporate Compliance Insights",
@@ -766,6 +921,17 @@
       "date": "2026-10-27T08:23:00+00:00",
       "display_date": "Oct 27, 2026",
       "summary": "The luxury sports-car maker said it continued to reap early benefits from a strategic reset.",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Canadian Investment Regulatory Organization Trade Resumption - CPER – Company Announcement - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORkhTQkowRlFtRmJOLUVYLVFGdHo2Y1laUC1jUzB1QnJtYlFnU2pWQWp0NWF3a01lXy00UzU4aERaUUdFakFYUmNreU1fcVExaGZiMmYtZzQxdGd6V2NpcHlNc2NqYXBSa1NtX1I3M0psWmRrSW9Lbm5HQndySUVKN1Y3cmhBblVlNWxWbFJqU2lNY0k?oc=5",
+      "source": "Financial Times",
+      "date": "2026-10-26T18:52:00+00:00",
+      "display_date": "Oct 26, 2026",
+      "summary": "Canadian Investment Regulatory Organization Trade Resumption - CPER – Company Announcement Financial Times",
       "topics": [
         "Regulatory Change"
       ]
@@ -826,6 +992,17 @@
       ]
     },
     {
+      "title": "Canadian Investment Regulatory Organization Trade Resumption - LGN – Company Announcement - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUEFhRWt6azAxdnA2N1BRZmhFYkZRR3IzWmFtS2ZxSFhfdnRqd3BWRXZ3SkNWMVp6SkdXSC1EenAweUEzUW5sMjR0cE5MdnBPck1MZjNWXzBBZjZtbmgwa09VcFlCZzh4T0tvS1FTUGk1Ul9Zc0dFdDVoT0JyYnR2T1B2ZjBnT3NUUkRNZ2FHQ3d2Z1pjM2c?oc=5",
+      "source": "Financial Times",
+      "date": "2026-10-26T16:02:00+00:00",
+      "display_date": "Oct 26, 2026",
+      "summary": "Canadian Investment Regulatory Organization Trade Resumption - LGN – Company Announcement Financial Times",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
       "title": "Slovakia to develop Russia ties in areas not hit by sanctions, minister says after Moscow talks - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVWZhLXhIRHFmWGYybC1nMldBMFRYVDU0TTZZOFg5TEZldkNMY0JPbUY5Q29jLURVdmRwYVMwenhKOU81dVVKMkJYM0hYWjBJYkUzZjZxNS1GT2t0WHBPNGpPR04xU0VpeFFoWW9uQ2k2SXIxSFM5M3NxUHZPYjFiMU53WmdicUxkYTYxeEpOYUhZaGlVamVTRHp1c0tVTVdaVEdQazlkeHp6R0dBZEhFYkp1NGhDTmts?oc=5",
       "source": "Reuters",
@@ -837,6 +1014,17 @@
       ]
     },
     {
+      "title": "Canadian Investment Regulatory Organization Trade Resumption - COCO – Company Announcement - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQU1paUV9mTTNDY2RGUklOUUNzUk84cmlzSjRCMzBEcHNPQ3hjVmZqZmlVZDNXS2lIVXlLd1JSNXo0WDQ4d0Rld09rdExXZmo0d3FXRGZyTHZZenkxWjdPVlZWTW5vYWxFMEFMWi1zUWZkcTV5SnE1cUhYWlBUUnZZSGtPNWg3MmQ5LW5zclVBcG5yVnUydEE?oc=5",
+      "source": "Financial Times",
+      "date": "2026-10-26T14:10:00+00:00",
+      "display_date": "Oct 26, 2026",
+      "summary": "Canadian Investment Regulatory Organization Trade Resumption - COCO – Company Announcement Financial Times",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
       "title": "Endangered turtles and ‘exceptional’ coral at risk from Woodside’s gas drilling in WA, watchdog says",
       "link": "https://www.theguardian.com/australia-news/2026/oct/27/endangered-turtles-and-exceptional-coral-at-risk-from-woodsides-gas-drilling-in-wa-watchdog-says",
       "source": "The Guardian Australia",
@@ -845,6 +1033,39 @@
       "summary": "Exclusive : EPA flags oil spill risk from proposed gasfield and threat to pygmy blue whales Follow our Australian politics live blog for latest updates Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here Woodside Energy’s plan to drill for gas ...",
       "topics": [
         "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "Canadian Investment Regulatory Organization Trading Halt - COCO – Company Announcement - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNa2pYczcxOGxsRTE4NFRadXljU1J0UEpNMHVQcndkS1hmVHNMZkZjbzFSQ3RhZVh4QTNld2tJVFkxbTBwblVUVWJ2RzVUTEkxTGpqXzY4UzRWV0xEZzhReU5hTWZWSzFMVlRWQ2pzckpMZlNsZWZMZEZ1MWRqZ0x5UDV2NXNkTVhBdUVOQTh5d0FPX1U?oc=5",
+      "source": "Financial Times",
+      "date": "2026-10-26T13:29:00+00:00",
+      "display_date": "Oct 26, 2026",
+      "summary": "Canadian Investment Regulatory Organization Trading Halt - COCO – Company Announcement Financial Times",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "/C O R R E C T I O N - Canadian Investment Regulatory Organization (CIRO) - Halts/Resumptions/ - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeUF0TlE5aUNUMHFSS2tac2RWQ3hldzdpMFF4UjkwM3F3N3p4Y0ZSbWJMOXJETE8xQ3hFYVlaZC1IS1NqbEhwWm1qZmFnS05DRXFQQW1LMTNfdkFmZ3pjclc0SnlWdk9YV1VlODFDblZHX0E3VElOTnBuRDRLbm5pd1M0eUNpZ1hLaTRKM0dwOWM4OUdJQ0E?oc=5",
+      "source": "Financial Times",
+      "date": "2026-10-26T12:55:00+00:00",
+      "display_date": "Oct 26, 2026",
+      "summary": "/C O R R E C T I O N - Canadian Investment Regulatory Organization (CIRO) - Halts/Resumptions/ Financial Times",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Indiana Utility Regulatory Commission - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55U2p4bmNIZ2pPRlA0djk0U3htR05NeUhreWMxMTJ2NGpzWjN4TERMci11Mmh5XzRFeFRYcEstVE9rYzgzLTBRLVQ5WG9LTkFSdWtldXNB?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-10-26T11:20:39+00:00",
+      "display_date": "Oct 26, 2026",
+      "summary": "Indiana Utility Regulatory Commission Bloomberg.com",
+      "topics": [
+        "Regulatory Change"
       ]
     },
     {
@@ -892,6 +1113,17 @@
       ]
     },
     {
+      "title": "US NRC Issues Final Environmental Impact Statement for Planned Paducah Laser Enrichment Facility - AFR",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUVNwNGRwOWpTdUVXXzc5aWhidDBWcnFxdzRraE1zZDZkQmd1Q2NqQlEzZWp3cmE2SDNNVGN5TG52aFdWS09jRmF0enozNUJrbzVpQ1FXc1FjX2hQdktSMHRQVDBwMndXTnZwMV9pR3hUU3ZmMDgxbXBweDhwcE1ISHdfcEYzS0VWSWVHb3lhTQ?oc=5",
+      "source": "AFR",
+      "date": "2026-10-26T04:27:36+00:00",
+      "display_date": "Oct 26, 2026",
+      "summary": "US NRC Issues Final Environmental Impact Statement for Planned Paducah Laser Enrichment Facility AFR",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
       "title": "Cutting ‘red tape’ is nothing but a red herring – and arguably counterproductive | Heather Stewart",
       "link": "https://www.theguardian.com/business/2026/oct/25/cutting-red-tape-is-nothing-but-a-red-herring-and-arguably-counterproductive",
       "source": "The Guardian Australia",
@@ -925,17 +1157,6 @@
       ]
     },
     {
-      "title": "Airlines fume at regulator’s plan to double navigation fees - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOT3V5M3hfdzRKY1J0VU1nbTJYSVdNMnVwa0tmQzFhMkVMNVNhNndTSy1BVXRaLUdVOEQ4SkZXRnE3WmpUektCRUFrd2F2VFVTSXNLcjR6SzlUbkhxZklpTFpPSXRrRHRvUnFPY1c3VVI5eVlESXhjTnBrQm1aRnl5QlNfUkhVcFBYUGctS3hlQnNkdGhDLWZVeWZ6ZFpsREJTSmhzcFhrcmdHTXQ3ZEh3LVh6dThlWkZ2eDNZd1BCY2lMSmIyS2MwOFNxY3BEaGtraFVfS3Y2WkxzVXRYZ2h1aUpKaXhFT2RqY04wcW12b0RlanEyODJuZG5pNndEQkpm?oc=5",
-      "source": "The Australian",
-      "date": "2026-10-25T02:29:00+00:00",
-      "display_date": "Oct 25, 2026",
-      "summary": "Airlines fume at regulator’s plan to double navigation fees The Australian",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "Israeli central bank rejects Benjamin Netanyahu’s plan to use crypto to evade sanctions - Financial Times",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOUo3Rnllc2dMYUJwa2U1anpZUEVrbTZzNy1vWU5mZ005ZVJtUGJ3Rzl6Y1NodkZhNGNmYUxEQ3g1dU10WTJZNVVOOWRuU0gySlIxVm9qQ1pYZ2RfMEt0WHRIbnR6NWhrVENjRlhvRjlzZkxLQUoyOFVpRzFXcTItdmNtNWQ?oc=5",
       "source": "Financial Times",
@@ -959,25 +1180,14 @@
       ]
     },
     {
-      "title": "DOJ, HHS launch self-disclosure pilot for health FCA violations",
-      "link": "https://www.complianceweek.com/healthcare/doj-hhs-launch-self-disclosure-pilot-for-health-fca-violations/",
-      "source": "Compliance Week",
-      "date": "2026-10-24T06:00:00+00:00",
-      "display_date": "Oct 24, 2026",
-      "summary": "Health care entities may be able to pay less than half the steep fines ordinarily associated with False Claims Act (FCA) violations by voluntarily reporting issues under a new pilot program launched Thursday by the US Department of Justice (DOJ) and the US Department of Health an...",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Trump foreign policy hits voters in the pocketbook, imperiling Republicans in midterms - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRzVIOWVqX0Jia3JrVmo5YkZuTGFOTlo1YVpMcFFwRHFtMEFaQVhYMjdZbGdYYXhaSTFLcTNiZzVNRzRCaTZIcWtmVktJTEhVTDl5dHNMcW9fMEp0WGxnazE1TnUzcEdXZUg1M3gyVUF4XzV1c1BmeGZKM2R1dm9USFljVldzUXdQWVk3bnFJMi1ZUDk5QjQ2TEozNUlXMXJ0bnkxYndOUFZVa042YlJlYnlzZVIzb2dJZzlReA?oc=5",
+      "title": "UK watchdog restricts six private credit firms over anti-money laundering controls - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdmZDbU1aMl90STdGaFRaSFhwSjR5RVZxS0llNzB0RUhTaW9UV2I5bmowdWNzaVNIbEpvR0hUOXZ2VnI1UHlBZ0hIbDB4Y0ozeTNqcVBJak9CSUFNbnVtUFpLcVVJS2FuVWUtNjFTMU9SYVNjTHJMTW55Vk9tenBTb3JwZEpQUEZyY1BWWUJKOC02a0Z0YnRPYjFlaVlyUWtETHlUQ1NMZ2RGbGgyaUdPdlN2a3pDWEhENk5yNlEtNDRaNXQy?oc=5",
       "source": "Reuters",
-      "date": "2026-10-24T05:16:28+00:00",
-      "display_date": "Oct 24, 2026",
-      "summary": "Trump foreign policy hits voters in the pocketbook, imperiling Republicans in midterms Reuters",
+      "date": "2026-10-23T18:36:10+00:00",
+      "display_date": "Oct 23, 2026",
+      "summary": "UK watchdog restricts six private credit firms over anti-money laundering controls Reuters",
       "topics": [
-        "Regulatory Change"
+        "AML & Sanctions"
       ]
     },
     {
@@ -1047,17 +1257,6 @@
       ]
     },
     {
-      "title": "ACCC clears Vocus to buy Nextgen - The Australian - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeWUtcnhJX2wyYThzbjZLYU9VX3ZXaGJMVW1VWEI4cXRFWGhzU1dHVmVqN1BCN3pjWE1tUVpRVklja29qWjMwdmg1cGdIMGQ4OC1ZLTJKYkphVl9QOUxvVEprYUtSYlBxSGxxeERQY2FBZW1tX1dxaHRleS1Eek9NTmc0ZHI0M3FnWG9kcm53RHcxMFlZRkFQblNIRG5UTVJjdG1UdDJZTnVxWGI4OWJhTE9ydHpZbUZzVV96bElqYXRDUDg?oc=5",
-      "source": "The Australian",
-      "date": "2026-10-23T09:03:44+00:00",
-      "display_date": "Oct 23, 2026",
-      "summary": "ACCC clears Vocus to buy Nextgen - The Australian The Australian",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
       "title": "Britain’s gas security needs reinforcement. Last-minute deals with Belgium are not a proper fix",
       "link": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/oct/23/britains-gas-security-needs-reinforcement-last-minute-deals-with-belgium-are-not-a-proper-fix",
       "source": "The Guardian Australia",
@@ -1080,12 +1279,12 @@
       ]
     },
     {
-      "title": "US regulator is probing suspicious Iran oil trading, official says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPem1fOEZ2aU10cDBTVHhDUXFuN3ZTU1l3ZXR4dkpMUUNCazJDMEk4V0UxT01nZ2tNckxuTllmYXhNeUlhSTQzbzg5dHN2aVNjMUpnNnU0T2FJWmNtTGZ4ZTg0UXNjRFhReHlDbThZalczOHdVZFBKLU9pVEp3YTBTS096QUdKVm4tbTdlQzJSYWQ5eGhDZ05FSjJJWFhNYkt2dHZERzg1Zmltc2xKUkd1UjBXUEpTdjNC?oc=5",
+      "title": "Nippon Life India AMC gets regulatory nod to settle Yes Bank bond case - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbGxwdXlDdlFuaC0wbzM0QWpHSWwyZ2tZLVJMNU9wdEl0UWtTWm1nTHRhcm44cFBicVJIa3Q0Um9CbUdBcU5BRXd5a0R3Wl9tZE96eTJiWWhuUkpwNTJ6U2V0eDJpVzRaVmh2UU1LUEpWR1phNUViWFlHSW9YLXIwVjVFY0JobGpsZ2lPTVNSTzhfRVhwWExkVVZsbUZxT2pBaFdUVS1FQnBldEdWbjNqWm5Ubzk?oc=5",
       "source": "Reuters",
-      "date": "2026-10-22T21:31:43+00:00",
+      "date": "2026-10-22T20:30:27+00:00",
       "display_date": "Oct 22, 2026",
-      "summary": "US regulator is probing suspicious Iran oil trading, official says Reuters",
+      "summary": "Nippon Life India AMC gets regulatory nod to settle Yes Bank bond case Reuters",
       "topics": [
         "Regulatory Change"
       ]
@@ -1149,17 +1348,6 @@
       ]
     },
     {
-      "title": "Laboratory operator Quest reports cyber breach affecting patient records - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObWV3NGM1S1J4RHVYM2xFZlZOM1FNekxQQ3hDeUd5OGx3eXc0bjNkd1J6alZPYUtnQUpUX1R4X2xEYnNHVXM0Q1d2VzhoYkduRk5YZ1hNalV2dEhYYUFFX3RDUF9HZmRsVkhHbzE3WXJ0WHZ0UXJkaW52ajZQbndhSVNlbi14Nnh6WUR0OHVIb3lVdHhCMTVvejRpYU9iblVwZHlMalQtT2hJRzJpZVVYV1ZDZ1hiVnE1alM2MnhpeFFVTkE?oc=5",
-      "source": "Reuters",
-      "date": "2026-10-22T15:35:43+00:00",
-      "display_date": "Oct 22, 2026",
-      "summary": "Laboratory operator Quest reports cyber breach affecting patient records Reuters",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
       "title": "OCC Announces Enforcement Actions for October 2026",
       "link": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-93.html",
       "source": "Office of the Comptroller of the Currency",
@@ -1171,6 +1359,17 @@
       ]
     },
     {
+      "title": "Canadian Investment Regulatory Organization Trade Resumption - LUX – Company Announcement - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcUdfWDZUZUhiNE5xc0QxSk1paDZOZ3Z3b3pwN2UyMjdUVnFyUXdrM3lfVzZCREUtajJlNWlHcEdqcjRSRllYTG04anQ1RFN0d0hOVGpVQWZ1NFhYdUlrQTNhem9UbVdnbVBHaEM0LUlac0hyMWI2eVRJRGRCSV94NTZGSWg3VVhacHZTS2U1SkpPbG1tN1E?oc=5",
+      "source": "Financial Times",
+      "date": "2026-10-22T14:46:00+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "Canadian Investment Regulatory Organization Trade Resumption - LUX – Company Announcement Financial Times",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
       "title": "GRC Business Roundup: Casepoint, Aravo, Smarsh, VinciWorks & More",
       "link": "https://www.corporatecomplianceinsights.com/grc-business-roundup-casepoint-aravo-smarsh-vinciworks-more/",
       "source": "Corporate Compliance Insights",
@@ -1179,6 +1378,17 @@
       "summary": "The business of GRC is ever-expanding, GRC technology is one of the fastest-growing segments in enterprise software, and compliance professions are rapidly evolving. Here’s the latest from across the industry. Product launches Communications compliance company Casepoint launched ...",
       "topics": [
         "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "Canadian Investment Regulatory Organization Trade Resumption - MOO – Company Announcement - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObXlaNl9oSVdfUjB4QlBmeFVMbXZfTVhXSUFMdUNiZ1AySGp6WU8wN0s1WENMWkM4N3ZwMzRZOWxFdFBNSkVmcnlBTXlwUGtKX1g4VkZtbEE1Vm1ZOVM2bjhtVGFxN2ZwT09SNVdobTlHTHhNUnhmYllZUk9fMm5SUWtHMFQzTVhMNGZuQmFBbWtfN3JQcmc?oc=5",
+      "source": "Financial Times",
+      "date": "2026-10-22T13:11:00+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "Canadian Investment Regulatory Organization Trade Resumption - MOO – Company Announcement Financial Times",
+      "topics": [
+        "Regulatory Change"
       ]
     },
     {
@@ -1413,29 +1623,6 @@
       "summary": "We have signed an agreement for a new office at 2 Wellington Place, which will become our long-term home in Leeds from 2028. The new office will provide 36,097 sq ft of space for our growing Leeds presence.Our Leeds office, currently at 6 Queen Street, has continued to grow since...",
       "topics": [
         "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Republican backlash over Russia policy poses challenge for Trump in Congress - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaDFDZkZKQWR4NUxYR1dscU5tbnl5STNSam5nVW9fNnVNUm9TOGktNjNFQy1maTJ6ZlpWWnY3ejdPMEtnQlRxcjNrZWpLOUhYNjdLdER6dEhDXzlZMmpZX1ZzLWZYUi1UMUxDTkZxa1ZvcEFjUjh3eFVEVDREaWttdEV2V0pxdEpRZ1VtUDEwcE9pTTFXa3V3azFwRWpwTVRrdkZKb0xQUWg1bkhFcXNXN1hiY3hyZG1YNms2bzNUTQ?oc=5",
-      "source": "Reuters",
-      "date": "2026-10-22T10:04:00+00:00",
-      "display_date": "Oct 22, 2026",
-      "summary": "Republican backlash over Russia policy poses challenge for Trump in Congress Reuters",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Jackdaw approval is a step towards a grownup North Sea policy",
-      "link": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/oct/21/jackdaw-approval-step-towards-grownup-north-sea-policy",
-      "source": "The Guardian Australia",
-      "date": "2026-10-21T17:12:32+00:00",
-      "display_date": "Oct 21, 2026",
-      "summary": "Government decision is about how much oil and gas is sensible for UK to produce on the way to net zero Business live – latest updates Andy Burnham hit the nail on the (well)head in his first fortnight as prime minister when he said : “The question isn’t whether Britain will still...",
-      "topics": [
-        "Regulatory Change",
-        "ESG & Sustainability"
       ]
     },
     {
@@ -1853,17 +2040,6 @@
       ]
     },
     {
-      "title": "Liam Coleman appointed as chair of the Financial Ombudsman Service",
-      "link": "https://www.fca.org.uk/news/press-releases/liam-coleman-appointed-chair-financial-ombudsman-service",
-      "source": "FCA UK Regulatory News",
-      "date": "2026-10-09T12:06:00+00:00",
-      "display_date": "Oct 09, 2026",
-      "summary": "The FCA Board has appointed Liam Coleman as chair of the Financial Ombudsman Service, with the approval of the Treasury. Liam will take up the permanent role on 10 October 2026 for a 3-year term, having served as interim chair for the last year.Ashley Alder, chair of the FCA, com...",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "OCC Allows National Banks and Federal Savings Associations in Alabama, Florida, and Mississippi Affected by Hurricane Isaias to Close",
       "link": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-88.html",
       "source": "Office of the Comptroller of the Currency",
@@ -1884,28 +2060,6 @@
       "topics": [
         "Enforcement Actions",
         "AML & Sanctions"
-      ]
-    },
-    {
-      "title": "Strong compliance functions support trusted corporate finance markets",
-      "link": "https://www.fca.org.uk/news/blogs/strong-compliance-functions-support-trusted-corporate-finance-markets",
-      "source": "FCA UK Regulatory News",
-      "date": "2026-10-08T13:00:00+00:00",
-      "display_date": "Oct 08, 2026",
-      "summary": "Corporate finance firms help businesses raise funding and implement strategic transactions, supporting investment and growth.This brings responsibility: clients need to be able to trust that firms will act with integrity and manage any conflicts of interest. That trust underpins ...",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "New rules to make long-term investment funds clearer",
-      "link": "https://www.fca.org.uk/news/press-releases/new-rules-make-long-term-investment-funds-clearer",
-      "source": "FCA UK Regulatory News",
-      "date": "2026-10-08T12:03:00+00:00",
-      "display_date": "Oct 08, 2026",
-      "summary": "The FCA has set out clearer expectations for asset managers about long-term investments, such as property. This will help give the market more confidence to invest in funds that support private markets.The new rules mean that investors will have to give 90 days' notice to access ...",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
