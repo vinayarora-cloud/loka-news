@@ -1,16 +1,82 @@
 {
-  "last_updated": "October 29, 2026 20:32 UTC",
-  "total_count": 217,
+  "last_updated": "October 30, 2026 00:33 UTC",
+  "total_count": 233,
   "articles": [
+    {
+      "title": "World’s largest crypto exchange investigating reports of potential hack",
+      "link": "https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack",
+      "source": "The Guardian Australia",
+      "date": "2026-10-30T00:02:11+00:00",
+      "display_date": "Oct 30, 2026",
+      "summary": "Binance said the extent of damages was not known and had not confirmed whether funds had been pilfered Binance, the world’s largest cryptocurrency exchange, said on Thursday it is investigating reports of a potential security issue as its founder said the incident “does look like...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "ECI-CW TPRM 2026: DOJ’s Duva urges C-suites to fully fund compliance",
+      "link": "https://www.complianceweek.com/regulators/eci-cw-tprm-2026-dojs-duva-urges-c-suites-to-fully-fund-compliance/",
+      "source": "Compliance Week",
+      "date": "2026-10-29T22:48:59+00:00",
+      "display_date": "Oct 29, 2026",
+      "summary": "It’s critically important that boards and C-suites approve ample resources for compliance, Assistant Attorney General A. Tysen Duva, head of the DOJ Criminal Division, said Wednesday at the TPRM Summit. The post ECI-CW TPRM 2026: DOJ’s Duva urges C-suites to fully fund compliance...",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Permit seeks higher antibiotic dosage for diseased Tasmania salmon",
+      "link": "https://www.abc.net.au/news/2026-10-30/tasmanian-salmon-increased-florfenicol-use-request/107321996",
+      "source": "ABC News Business (AU)",
+      "date": "2026-10-29T22:40:09+00:00",
+      "display_date": "Oct 29, 2026",
+      "summary": "An animal health company has applied to \"increase the dose rate\" of the controversial antibiotic florfenicol in Tasmanian salmon farms, the federal regulator has confirmed.",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
     {
       "title": "Rivian third-quarter earnings beat estimates as software revenue, R2 deliveries rise",
       "link": "https://www.cnbc.com/2026/10/29/rivian-rivn-earnings-q3-2026.html",
       "source": "CNBC",
-      "date": "2026-10-29T20:30:50+00:00",
+      "date": "2026-10-29T21:52:27+00:00",
       "display_date": "Oct 29, 2026",
       "summary": "Rivian also revised its 2026 guidance to mark expected improvements in its vehicle deliveries, pre-tax adjusted earnings and capital expenditures.",
       "topics": [
         "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Opinion | Trump Scores on Methane Regulation",
+      "link": "https://www.wsj.com/opinion/trump-lubbock-texas-oil-drilling-epa-lee-zeldin-13b85d0d?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-10-29T21:47:00+00:00",
+      "display_date": "Oct 29, 2026",
+      "summary": "The EPA overturns a costly Biden rule on natural gas drilling.",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Hackers Swipe Millions From Polymarket Users in Latest Security Breach",
+      "link": "https://www.wsj.com/business/polymarket-pauses-trading-after-some-users-report-funds-drained-b014527d?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-10-29T21:25:00+00:00",
+      "display_date": "Oct 29, 2026",
+      "summary": "Traders who lost money on the incident will be “made whole,” the prediction-markets platform said.",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "Federal Court blasts ‘false veneer’ in AUSTRAC’s case against Entain - AFR",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQ2N2MFI1QXpqTzBfQzh5SS00aUlvakVNOHZnYVpGWHpvT3EzNWxGTXNVcGlpTUhNY210ZlB0T2Vkbm9pbWd0bzRrdHN4R2pxVHhRMjNWYVl2RlVteDIwN0lpQXZTUHI3NWY5MmFTdkluMHMyOExuLUtTbHhORTNJdjdWa3NUYjQxc0VSNkdncGMxalE5U2JrOWl5d2RvR3BWeXRDY3J3TmtDYjNINHBuLXBCbzhyQWU5bXpHckJselRqZzRENXZ4b1FSRQ?oc=5",
+      "source": "AFR",
+      "date": "2026-10-29T20:52:00+00:00",
+      "display_date": "Oct 29, 2026",
+      "summary": "Federal Court blasts ‘false veneer’ in AUSTRAC’s case against Entain AFR",
+      "topics": [
+        "AML & Sanctions"
       ]
     },
     {
@@ -25,6 +91,17 @@
       ]
     },
     {
+      "title": "Doug Bergeron Exposes Undisclosed Court Sanctions Against Disgraced Ethan Allen Director Cynthia Ekberg Tsai - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOU0FQb2I0cXhWaWU2Zlk2WkNQcXpReGJTVFRuaXpxSnpYcG1JckhDUEFHcnU3ZHNxME54NldFYUhFa21XSTJMMUdJalpIcDg0XzJGVTEyVE1helNUTDk4bU9DMGtqRGtzTUdCTnpIQWZFRFNkUmFhQ1FyNkZFeHhBcTh4cHVDNjBpM0hDSEtEM0k4a2QxcUwyMUFVZklWeGpnV0x3d1JR?oc=5",
+      "source": "Financial Times",
+      "date": "2026-10-29T20:21:00+00:00",
+      "display_date": "Oct 29, 2026",
+      "summary": "Doug Bergeron Exposes Undisclosed Court Sanctions Against Disgraced Ethan Allen Director Cynthia Ekberg Tsai Financial Times",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
       "title": "Norwegian shares surge 13% on earnings beat, guidance raise",
       "link": "https://www.cnbc.com/2026/10/29/norwegian-earnings-guidance-shares.html",
       "source": "CNBC",
@@ -36,14 +113,37 @@
       ]
     },
     {
-      "title": "Polymarket Pauses Trading After Some Users Report Funds Drained",
-      "link": "https://www.wsj.com/business/polymarket-pauses-trading-after-some-users-report-funds-drained-b014527d?mod=pls_whats_news_us_business_f",
-      "source": "Wall Street Journal",
-      "date": "2026-10-29T19:20:00+00:00",
+      "title": "OCC Raises Concerns with California's Climate Disclosure Laws",
+      "link": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-95.html",
+      "source": "Office of the Comptroller of the Currency",
+      "date": "2026-10-29T20:00:00+00:00",
       "display_date": "Oct 29, 2026",
-      "summary": "Traders who lost money on the incident will be ‘made whole,’ the prediction-markets platform said.",
+      "summary": "The Office of the Comptroller of the Currency (OCC) today submitted a letter to the California Air Resource Board (CARB) addressing the serious legal and policy concerns raised by two California climate disclosure laws.",
       "topics": [
-        "Cybersecurity Risk"
+        "Regulatory Change",
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "Canadian Investment Regulatory Organization Trading Halt - EMO – Company Announcement - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSnRJWFlvLXBTTVVIUGFhdnd3eF9wNzF3U3oyWllEQUpvai11a1JWdDZhdXgwMDd0OUxNdER6M2g5cEJyUDJyQVhQZ25udldZS1lUZGRZc25iTzZIZXNnd1ExSURRNHR4WWVfSWZpOUdqWmNSV0JRTkdhNjRLZWR1T29yUDV1dm5aMWNBWWdYaTQ5VTNXMGc?oc=5",
+      "source": "Financial Times",
+      "date": "2026-10-29T18:43:00+00:00",
+      "display_date": "Oct 29, 2026",
+      "summary": "Canadian Investment Regulatory Organization Trading Halt - EMO – Company Announcement Financial Times",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Canadian Investment Regulatory Organization Trading Halt - PNC.A – Company Announcement - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUnNiSUZjVzgwZEZjRXBUbUt1U2FET0V4UEF5bUNwMS03dXkwb0FGdFZWT3JTSW9HMGJTU0NESVlTZjdUMlh1Z2pnckpwOTdjUDFPQUNjZFdTRUg0MGJxdV9zYkhjS1lueTBVNzVaT2w3ZV8zWmFfdjQ5R0NpQWEwYkhWYjg3RDFKTmNPLWp5VkhBZlNEeHc?oc=5",
+      "source": "Financial Times",
+      "date": "2026-10-29T17:00:00+00:00",
+      "display_date": "Oct 29, 2026",
+      "summary": "Canadian Investment Regulatory Organization Trading Halt - PNC.A – Company Announcement Financial Times",
+      "topics": [
+        "Regulatory Change"
       ]
     },
     {
@@ -157,17 +257,6 @@
       ]
     },
     {
-      "title": "Crypto exchange HTX agrees to exit UK after being sued by watchdog - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZktMUWNyQ0xJR0pUWl9BWDhwSExaQ3ZWYUQ0aVFNNHZZTkwyaG1pVGRRNGRUV0Z4X3VNZ2ZzQnpORmFWa3VsSHBIVG5nVUVuM3VYaWlWNF9jeHpaVW03T0tQZ2Vlb2hxWVNEVnVjVDIxTGRtWkM1NzRMdGNGb0RhdER2dTE?oc=5",
-      "source": "Financial Times",
-      "date": "2026-10-29T12:12:38+00:00",
-      "display_date": "Oct 29, 2026",
-      "summary": "Crypto exchange HTX agrees to exit UK after being sued by watchdog Financial Times",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
       "title": "Hitachi Energy CoreTec Product",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-03",
       "source": "CISA Cybersecurity Advisories",
@@ -179,12 +268,12 @@
       ]
     },
     {
-      "title": "Siemens Mendix SAML Module",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-01",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/10/29/cisa-adds-two-known-exploited-vulnerabilities-catalog",
       "source": "CISA Cybersecurity Advisories",
       "date": "2026-10-29T12:00:00+00:00",
       "display_date": "Oct 29, 2026",
-      "summary": "View CSAF Summary Mendix SAML module contains an authentication bypass vulnerability that could allow an unauthenticated remote attacker to gain unauthorized access by replaying a valid SAML assertion in IdP-initiated authentication flows. Siemens has released new versions for th...",
+      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-97229 GitLab Community Edition and Enterprise Edition Integer Overflow or Wraparound vulnerability CVE-2026-76418 Cisco Secure Firewall...",
       "topics": [
         "Cybersecurity Risk"
       ]
@@ -196,6 +285,17 @@
       "date": "2026-10-29T12:00:00+00:00",
       "display_date": "Oct 29, 2026",
       "summary": "View CSAF Summary Hitachi Energy is aware of multiple vulnerabilities that affect the TRO600 series product versions listed in this document. These vulnerabilities can be exploited for remote code execution (RCE) to carry out further attacks and disclosure of sensitive informatio...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "Siemens Mendix SAML Module",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-01",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-10-29T12:00:00+00:00",
+      "display_date": "Oct 29, 2026",
+      "summary": "View CSAF Summary Mendix SAML module contains an authentication bypass vulnerability that could allow an unauthenticated remote attacker to gain unauthorized access by replaying a valid SAML assertion in IdP-initiated authentication flows. Siemens has released new versions for th...",
       "topics": [
         "Cybersecurity Risk"
       ]
@@ -303,7 +403,7 @@
       "title": "Sale of scandal riddled planner InterPrac now ASIC’s business - The Australian",
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNEdVNGl0SVNIZ1BaamNDSXJuWDhoNGxueHQycE9vNUw2U3R2cGF2YUtXWW9GalVPVWJ3MnFWOEo1NzctUG5tODJxTEdTUVliWmpocXNJRWNSOEN6SUJjalVrOVRDSnJwNGpoQ2dqa0l5TFF1ZTM1Y3ByNnFfZjhTd1ZiVnFwbUNROC1rY09HMVdqRVhLODNiWXdBUUEtZ0x5dFZsWkpYX2FPajRTYWpqeF9lVU1GeGZ6OHRlVy1QVm5vbFpKWkdaT0ZadVV5MzI0UGotbHc2TnlvekhQbjJRZ3ZjeE1vOXFGOWluWg?oc=5",
       "source": "The Australian",
-      "date": "2026-10-29T06:04:56+00:00",
+      "date": "2026-10-29T06:04:58+00:00",
       "display_date": "Oct 29, 2026",
       "summary": "Sale of scandal riddled planner InterPrac now ASIC’s business The Australian",
       "topics": [
@@ -388,6 +488,17 @@
       ]
     },
     {
+      "title": "ASIC probes all-star cast of bankers over botched $44bn Firmus float - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQZmxkbktqTnVYVk5iZUU2cGI1NTNvOGZSTWppeW9OcV96eTZ4YjBvelFBWDFrcGNESndoVmw2Y1huN2NjVFp5ajhCSkVkYWFsN0w2U0I3ZlFra3hnd2w1MlhOVzdwSkVrZkptZ1JxSW13QU1UMjNZUlZ6bmI3ek5pd0JwekR1UWR4cF9HaTNtUE01N0NLUzVJdWFZY2hHT0EtVFo1WDJicWVrallETTdEYXZGZGE4ckVjeGRlcTkyemhhYk9YMTBxVlF0M3l1RWdZTVZJS3REcGRUYndRTTVZTjA3U09pNk9PN3FhbUZLRGNWcUdhaTdyc0ZHMzZEYjNjWXNRb2daSG0?oc=5",
+      "source": "The Australian",
+      "date": "2026-10-29T00:33:49+00:00",
+      "display_date": "Oct 29, 2026",
+      "summary": "ASIC probes all-star cast of bankers over botched $44bn Firmus float The Australian",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
       "title": "Scrapped Firmus float casts doubt on billions in AI data centre builds",
       "link": "https://www.abc.net.au/news/2026-10-29/firmus-funding-ai-computer-chips-stock-market/107322200",
       "source": "ABC News Business (AU)",
@@ -408,17 +519,6 @@
       "topics": [
         "Enforcement Actions",
         "AML & Sanctions"
-      ]
-    },
-    {
-      "title": "ASIC probes all-star cast of bankers over botched $44bn Firmus float - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQZmxkbktqTnVYVk5iZUU2cGI1NTNvOGZSTWppeW9OcV96eTZ4YjBvelFBWDFrcGNESndoVmw2Y1huN2NjVFp5ajhCSkVkYWFsN0w2U0I3ZlFra3hnd2w1MlhOVzdwSkVrZkptZ1JxSW13QU1UMjNZUlZ6bmI3ek5pd0JwekR1UWR4cF9HaTNtUE01N0NLUzVJdWFZY2hHT0EtVFo1WDJicWVrallETTdEYXZGZGE4ckVjeGRlcTkyemhhYk9YMTBxVlF0M3l1RWdZTVZJS3REcGRUYndRTTVZTjA3U09pNk9PN3FhbUZLRGNWcUdhaTdyc0ZHMzZEYjNjWXNRb2daSG0?oc=5",
-      "source": "The Australian",
-      "date": "2026-10-28T23:33:47+00:00",
-      "display_date": "Oct 28, 2026",
-      "summary": "ASIC probes all-star cast of bankers over botched $44bn Firmus float The Australian",
-      "topics": [
-        "Enforcement Actions"
       ]
     },
     {
@@ -599,6 +699,17 @@
       ]
     },
     {
+      "title": "Canadian Investment Regulatory Organization Trade Resumption - AFN – Company Announcement - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPT1JTV1RYSkIxYmdRWlhucU5PRExHVFdlY1IxbWtuMmZ0amFKa2tHNkdSaWpSYldYd25TT3VILTFWVS02YzVBYy1RNURBWFV2UXJhYy1aUm1rZGkzeFhZSE1feWIyc0drVWVpeTRSeWJjMVo2UTFZdFJGSE93SVNPR3YwbU9McnNrQllQblNrT3Mya1ZkcHc?oc=5",
+      "source": "Financial Times",
+      "date": "2026-10-28T14:50:00+00:00",
+      "display_date": "Oct 28, 2026",
+      "summary": "Canadian Investment Regulatory Organization Trade Resumption - AFN – Company Announcement Financial Times",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
       "title": "Emvolon Raises $22 Million to Turn Waste Greenhouse Gas into Sustainable Fuels",
       "link": "https://www.esgtoday.com/emvolon-raises-22-million-to-turn-waste-greenhouse-gas-into-sustainable-fuels/?utm_source=rss&utm_medium=rss&utm_campaign=emvolon-raises-22-million-to-turn-waste-greenhouse-gas-into-sustainable-fuels",
       "source": "ESG Today",
@@ -607,6 +718,17 @@
       "summary": "Clean energy startup Emvolon announced that it has raised $22 million in a Series A […]",
       "topics": [
         "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "Canadian Investment Regulatory Organization Trading Halt - AFN – Company Announcement - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcTdlN1FCV1ZYdjJXSUg4bF92V1lweVNvRVd6V0NUUm5acjFVRk9Ra0xyWVN1X2tPcXRHNHpxQ3JhLTY2MWJ5Yjl5eE11aDRyVHpESlpPQmhGczRfWGpJaUd6Szc4b1JWZW00X0o0SWJjR1VNQlUxY0x4enFnLVVlQ2RmY0pXSmlheDBzWmFxVmI1dHVLRFE?oc=5",
+      "source": "Financial Times",
+      "date": "2026-10-28T14:25:00+00:00",
+      "display_date": "Oct 28, 2026",
+      "summary": "Canadian Investment Regulatory Organization Trading Halt - AFN – Company Announcement Financial Times",
+      "topics": [
+        "Regulatory Change"
       ]
     },
     {
@@ -629,17 +751,6 @@
       "summary": "The LEGO Group announced that it has started using e-methanol, made from renewable electricity, water and […]",
       "topics": [
         "ESG & Sustainability"
-      ]
-    },
-    {
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/10/28/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-10-28T12:00:00+00:00",
-      "display_date": "Oct 28, 2026",
-      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-41709 Broadcom VMWare ESX Insufficient Logging Vulnerability CVE-2026-46300 Linux Kernel Missing Initialization of a Variable Vulnerabi...",
-      "topics": [
-        "Cybersecurity Risk"
       ]
     },
     {
@@ -711,14 +822,15 @@
       ]
     },
     {
-      "title": "Planned burns doubled and salvaged wood for sawmills under Coalition forest policy",
-      "link": "https://www.abc.net.au/news/2026-10-28/coalition-to-revive-native-timber-processing-victoria/107156526",
-      "source": "ABC News Business (AU)",
-      "date": "2026-10-28T05:21:57+00:00",
+      "title": "Australia's Star Entertainment fined $183 million for anti-money laundering law breaches - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdDEzR2l3NGVCMzJiSjBNdGx1NGE1eGN6LUczbUNBb241T0FCU2hKU2FvMDZUbmdMdEVrLXViTzBzWE5udE1TMWkzZjQ0T1JIRmc4Wjh1YURLeW16eE1pX3gwdlhCSkJmRFUtd2Jhd0h3d0R2Sm1VZ3hSWW9CTTl1SDRfbWt2ZnNwcEwtazZCTjZUSEN1a1JJZk5DdElhNlptM3dSa0xZWUQ1eGotcEVtckd6c1dGVXp2LVVyWWM4azRpZnBX?oc=5",
+      "source": "Reuters",
+      "date": "2026-10-28T03:26:00+00:00",
       "display_date": "Oct 28, 2026",
-      "summary": "The Coalition is promising to revive Victoria's native timber industry through the collection and processing of fuel load as part of a new state election pledge.",
+      "summary": "Australia's Star Entertainment fined $183 million for anti-money laundering law breaches Reuters",
       "topics": [
-        "Regulatory Change"
+        "Enforcement Actions",
+        "AML & Sanctions"
       ]
     },
     {
@@ -750,17 +862,6 @@
       "date": "2026-10-27T22:54:00+00:00",
       "display_date": "Oct 27, 2026",
       "summary": "The Manhattan District Attorney’s Office has launched a Corporate Crime and Antitrust Task Force to focus on complex fraud and misconduct investigations. The post New Manhattan DA team is aimed at corporate crime appeared first on Compliance Week .",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "Trump administration sued over rollback of corporate ownership reporting rules - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOU1B3bjV2aWFYWk5PUVg0STlrV2pOVjJEZW5pQWlYZjJzcFFPb2oteTdhYUk4N09FYXZiWTBDSWRRemExT1ZkSU1peW50OFkySHl2cE05ajNMZkR3M0pibzl5S0ZrNzI4eWx5WS1mTmwxeGRzamFLQkNhV2pHd1pIQ25EX3o1TG8tdVJiMVVVMHJiZmk0WDZhOTdOcE9oTlY2d1dZbzctMXkycy1SSmwzQjd0Y0c5LTloRkhMVzBGek5JOGMxVzNJ?oc=5",
-      "source": "Reuters",
-      "date": "2026-10-27T22:38:00+00:00",
-      "display_date": "Oct 27, 2026",
-      "summary": "Trump administration sued over rollback of corporate ownership reporting rules Reuters",
       "topics": [
         "Enforcement Actions"
       ]
@@ -799,12 +900,12 @@
       ]
     },
     {
-      "title": "Racist X Post Turns Texas Oil Regulator Contest Into a Dead Heat - Bloomberg",
+      "title": "Racist X Post Turns Texas Oil Regulator Contest Into a Dead Heat - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQmsxcFVXS3piLWx3VjNXNEdTeXM5X0FoSERJUnNHME5WaFk1aGpCQVZvdGlaNFBLRUZDeHdoZ0c3bl9paEpLSFY0elRDNnlwMU8tbEZsMDZkSmFiS2pLeUptQUNnc2hkNGFWUEhkZmV6emZ2TmVyQ081U3JHV0Y2czBnRkNsVnZ4dTREYzFRaXlyVHdnVmxpX1J4VTduR3NuSXM0aUJNcXhEQy1uY1hsQjZVaXhPdw?oc=5",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "date": "2026-10-27T17:59:42+00:00",
       "display_date": "Oct 27, 2026",
-      "summary": "Racist X Post Turns Texas Oil Regulator Contest Into a Dead Heat Bloomberg",
+      "summary": "Racist X Post Turns Texas Oil Regulator Contest Into a Dead Heat Bloomberg.com",
       "topics": [
         "Regulatory Change"
       ]
@@ -818,6 +919,74 @@
       "summary": "A regulator to keep the National Wealth Fund and the British Business Bank on mission is starting to look essential Two winners in the budget are known already. They are the National Wealth Fund and the British Business Bank, state-funded investment bodies that have rapidly becom...",
       "topics": [
         "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Canadian Investment Regulatory Organization Trade Resumption - OSM – Company Announcement - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeG0zdkFuVFVVSUFIUHRJRkRVb1FsWU82Z2NDMGxtbzJlWFR1TzJnZllGOTlLYVY0UXprVzVZY19ZVW1NZlhmcVdERUx4RmY0T1k3SG5iR2VrNlNaSDlJN0VPZXFTT1VkMm8tRGxaRUl4bVZtS00wVEFqeDZLOW5vbjBfQXRHaUZmdWs1b2M2RnhXTGM?oc=5",
+      "source": "Financial Times",
+      "date": "2026-10-27T17:34:00+00:00",
+      "display_date": "Oct 27, 2026",
+      "summary": "Canadian Investment Regulatory Organization Trade Resumption - OSM – Company Announcement Financial Times",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "October 2026 Global Regulatory Brief: Bank stress tests, Basel III and insurance supervision - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOT3JFbnF5NFBJelpmY1BRNDk0Q2Vvenh4bms5NTVpdlFCc2RIMHBUMGh2T0dMVEpCcnFmZXVZSXA3cHoyR1MxNk5Cd2pOcC05ak9lWWtsRmVkdTFaejRJcUJpa1pGWTJqZzBBRDVNR0VjTzVBYVVLNjJyNjlocHVHOUc4X05nemFJenRPYWVCREE1R0FaMFoyOVhmWkhsbWVUWERtSTFlWkVUTzVNS1Y4bjh6cTFpZUFaeGxVa0lwdHpPZXpwTTQ0WXNTU2U1ZUsxWFhPVk5NcWd4ZGRUbUNVMmRoYXc?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-10-27T17:00:04+00:00",
+      "display_date": "Oct 27, 2026",
+      "summary": "October 2026 Global Regulatory Brief: Bank stress tests, Basel III and insurance supervision Bloomberg.com",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "October 2026 Global Regulatory Brief: AI risk management, tokenized securities and cryptoasset regulation - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPd1JORW14QWVKU1FRV2ZVclpoM3pwdGFzaF93TGZBbXl4Q2JNbnZEd21BUC1HNkdBLVgxSXNJOUZoM0s4Qnpkd1VpaDBvVFhuaDljQWdyNkhwVFVVOG0ydGtXVVdkX1ZDQkk3VDA2Tmo4VTZWMXJ6dXJneWR6ZEhFZTRqTFZzc3VXT2ZZUUdTTEtFakhoZ1ducDFJeWJrVmlDanl5Z0t2T2UyZGZYRUM3RDFR?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-10-27T17:00:04+00:00",
+      "display_date": "Oct 27, 2026",
+      "summary": "October 2026 Global Regulatory Brief: AI risk management, tokenized securities and cryptoasset regulation Bloomberg.com",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "October 2026 Global Regulatory Brief: Event contracts, market supervision and liquidity reforms - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMkUwMElEci1BMjRyNzFsQlVlZDhWSzFKaTdEaUVWTUk2Sno3OUFQYk1SVHlJdUxNQ2NaeTJILUlPaDRuTWtkZmVmdUl2LUd6REJHcnFnODIwSVRHQmdvNFFjVG8yR1JVWlB5LWlDcFlsY3VuX0djNkNlWjBTbl9WdV9iVDdzY3N6Z2tXZnVCYkJmUGFycUN4amRyWGpfZW1JY0szbmdsZmFzZ3JxT3RTYnFOT1ktdTl3VTJYb2FUM2pJd2YtaDVkaGM2UlZWUmF1LWVxbXppTS14dV8yTkVycHpDa0RraW5X?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-10-27T17:00:04+00:00",
+      "display_date": "Oct 27, 2026",
+      "summary": "October 2026 Global Regulatory Brief: Event contracts, market supervision and liquidity reforms Bloomberg.com",
+      "topics": [
+        "Regulatory Change",
+        "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "October 2026 Global Regulatory Brief: CSRD, climate reporting and digital green bonds - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOS0JYNHB0Q1hudlM1U3FTNklNSVJNMXhCNk1rckdLR3k1Y2lFVURGZXRjcEE3cUVUYVI1OVZQUGc5WjRIZGsxMVlQUmxqdXhLUmpXdzN0VGdQSVk4U09hRG5PYkpuaGEyWkYtUFNWU3ZmdWExRm9rWGowUXZQRUEzNUtRM0NyV1QzODNiRXk3bER1eUQzRi1XMHJyWEtyZmNWVVFSd29jdG8wc2tpR1c1SEs5SEI2NUlqRFpCMjdLSVlaVVZMT1o2NU90YkRRTXltdkJVSmt2aXkyV3M?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-10-27T17:00:04+00:00",
+      "display_date": "Oct 27, 2026",
+      "summary": "October 2026 Global Regulatory Brief: CSRD, climate reporting and digital green bonds Bloomberg.com",
+      "topics": [
+        "Regulatory Change",
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "EU’s SEC-Lite Plan Hinges on Governance, Outgoing Chief Warns - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOS3hMeWdKRXNuejRXUTUtbGRBOE15czlwNDVSZG0ycmM1NjljVnkzUUl6cUZNSzlla1RfMDZzZGdtdTF1dzh1aG9rUm1jZ3JLakZONW5razRXaXRoZU94VlNuWG55dDh1SEpVZ0cxck5tcEh3TWl0YjJpaTM3ZHFzQzh6Ny1jTzN1QWFxUGxTN05GQ3JZLXo1dVhCbjhnRzlWdFo4b3BWc0hqRVQ4a2Jucg?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-10-27T15:41:47+00:00",
+      "display_date": "Oct 27, 2026",
+      "summary": "EU’s SEC-Lite Plan Hinges on Governance, Outgoing Chief Warns Bloomberg.com",
+      "topics": [
+        "Operational & Enterprise Risk"
       ]
     },
     {
@@ -887,6 +1056,17 @@
       ]
     },
     {
+      "title": "Co-Diagnostics' Joint Venture CoSara Diagnostics Completes Clinical Study and Regulatory Submission for Point-of-Care Tuberculosis Test, Sets Stage for Commercial Launch in India – Company Announcement - FT.com - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNjR2dmw0T0huaVFBMFFoYnBhZFcwUE9TRmhnZjBEVW9iRjg5NnlGZU5scTFfbjd5Q1VKd1lqYWdjWGY2VnlHeUlhazZWYlZWdWg2UmJTNVFIZXRiR3c1VEFmMlE2cnBPWDRpaFBHaHJmTkU2bTlKMXdNWFplQ3BvaDBEYzNRZXk2Yl83ZkpoZmtJb1p4cHc?oc=5",
+      "source": "Financial Times",
+      "date": "2026-10-27T11:45:00+00:00",
+      "display_date": "Oct 27, 2026",
+      "summary": "Co-Diagnostics' Joint Venture CoSara Diagnostics Completes Clinical Study and Regulatory Submission for Point-of-Care Tuberculosis Test, Sets Stage for Commercial Launch in India – Company Announcement - FT.com Financial Times",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
       "title": "Every New Rule Tempts You to Build a New Silo",
       "link": "https://www.corporatecomplianceinsights.com/every-new-rule-tempts-you-build-new-silo/",
       "source": "Corporate Compliance Insights",
@@ -910,14 +1090,14 @@
       ]
     },
     {
-      "title": "Moody's sees positive shift in Japan's growth, resilience remains key test - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUlN5TzdqU2MyOEJrYlg2eDd5ZVQ5bWN6Uy1xcjZzRXF0Q013eGhqQnlQcHduX09nX0U1MldaTzBzd1RiY1g4SjYyand0NmtNMjZ1QmE3Ykp3ZGRyRUVpalpRanRXUVRSb3g0Z2VidFY1MVRBTGRDZmVETThBM1Y4YllicUVkdGQyU2dkcXY3WGI3U3pVajlvMFkxOFV3TnVnSWxodWdzclF2Ulc3cmZsUzIyRURjR0NkRzBoTDQ4ZF8?oc=5",
-      "source": "Reuters",
-      "date": "2026-10-27T04:33:00+00:00",
-      "display_date": "Oct 27, 2026",
-      "summary": "Moody's sees positive shift in Japan's growth, resilience remains key test Reuters",
+      "title": "Canadian Investment Regulatory Organization Trade Resumption - CPER – Company Announcement - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORkhTQkowRlFtRmJOLUVYLVFGdHo2Y1laUC1jUzB1QnJtYlFnU2pWQWp0NWF3a01lXy00UzU4aERaUUdFakFYUmNreU1fcVExaGZiMmYtZzQxdGd6V2NpcHlNc2NqYXBSa1NtX1I3M0psWmRrSW9Lbm5HQndySUVKN1Y3cmhBblVlNWxWbFJqU2lNY0k?oc=5",
+      "source": "Financial Times",
+      "date": "2026-10-26T18:52:00+00:00",
+      "display_date": "Oct 26, 2026",
+      "summary": "Canadian Investment Regulatory Organization Trade Resumption - CPER – Company Announcement Financial Times",
       "topics": [
-        "Operational & Enterprise Risk"
+        "Regulatory Change"
       ]
     },
     {
@@ -927,17 +1107,6 @@
       "date": "2026-10-26T18:27:24+00:00",
       "display_date": "Oct 26, 2026",
       "summary": "Prediction markets may have become a booming industry in the United States, but the EU and UK remain reluctant to embrace them because of the inherent risks of supervising them and the potential harm they could cause consumers. The post European regulators warn about prediction m...",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "EU introduces digital portal for documenting temporary staff transfers within EU states",
-      "link": "https://www.complianceweek.com/regulatory-policy/eu-introduces-digital-portal-for-documenting-temporary-staff-transfers-within-eu-states/",
-      "source": "Compliance Week",
-      "date": "2026-10-26T18:18:05+00:00",
-      "display_date": "Oct 26, 2026",
-      "summary": "Companies that transfer staff from one EU member state to work temporarily in another will benefit from a new digital portal designed to simplify official worker declarations and related administration. The post EU introduces digital portal for documenting temporary staff transfe...",
       "topics": [
         "Regulatory Change"
       ]
@@ -976,6 +1145,17 @@
       ]
     },
     {
+      "title": "Canadian Investment Regulatory Organization Trade Resumption - LGN – Company Announcement - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUEFhRWt6azAxdnA2N1BRZmhFYkZRR3IzWmFtS2ZxSFhfdnRqd3BWRXZ3SkNWMVp6SkdXSC1EenAweUEzUW5sMjR0cE5MdnBPck1MZjNWXzBBZjZtbmgwa09VcFlCZzh4T0tvS1FTUGk1Ul9Zc0dFdDVoT0JyYnR2T1B2ZjBnT3NUUkRNZ2FHQ3d2Z1pjM2c?oc=5",
+      "source": "Financial Times",
+      "date": "2026-10-26T16:02:00+00:00",
+      "display_date": "Oct 26, 2026",
+      "summary": "Canadian Investment Regulatory Organization Trade Resumption - LGN – Company Announcement Financial Times",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
       "title": "Slovakia to develop Russia ties in areas not hit by sanctions, minister says after Moscow talks - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVWZhLXhIRHFmWGYybC1nMldBMFRYVDU0TTZZOFg5TEZldkNMY0JPbUY5Q29jLURVdmRwYVMwenhKOU81dVVKMkJYM0hYWjBJYkUzZjZxNS1GT2t0WHBPNGpPR04xU0VpeFFoWW9uQ2k2SXIxSFM5M3NxUHZPYjFiMU53WmdicUxkYTYxeEpOYUhZaGlVamVTRHp1c0tVTVdaVEdQazlkeHp6R0dBZEhFYkp1NGhDTmts?oc=5",
       "source": "Reuters",
@@ -987,6 +1167,17 @@
       ]
     },
     {
+      "title": "Canadian Investment Regulatory Organization Trade Resumption - COCO – Company Announcement - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQU1paUV9mTTNDY2RGUklOUUNzUk84cmlzSjRCMzBEcHNPQ3hjVmZqZmlVZDNXS2lIVXlLd1JSNXo0WDQ4d0Rld09rdExXZmo0d3FXRGZyTHZZenkxWjdPVlZWTW5vYWxFMEFMWi1zUWZkcTV5SnE1cUhYWlBUUnZZSGtPNWg3MmQ5LW5zclVBcG5yVnUydEE?oc=5",
+      "source": "Financial Times",
+      "date": "2026-10-26T14:10:00+00:00",
+      "display_date": "Oct 26, 2026",
+      "summary": "Canadian Investment Regulatory Organization Trade Resumption - COCO – Company Announcement Financial Times",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
       "title": "Endangered turtles and ‘exceptional’ coral at risk from Woodside’s gas drilling in WA, watchdog says",
       "link": "https://www.theguardian.com/australia-news/2026/oct/27/endangered-turtles-and-exceptional-coral-at-risk-from-woodsides-gas-drilling-in-wa-watchdog-says",
       "source": "The Guardian Australia",
@@ -995,6 +1186,39 @@
       "summary": "Exclusive : EPA flags oil spill risk from proposed gasfield and threat to pygmy blue whales Follow our Australian politics live blog for latest updates Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here Woodside Energy’s plan to drill for gas ...",
       "topics": [
         "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "Canadian Investment Regulatory Organization Trading Halt - COCO – Company Announcement - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNa2pYczcxOGxsRTE4NFRadXljU1J0UEpNMHVQcndkS1hmVHNMZkZjbzFSQ3RhZVh4QTNld2tJVFkxbTBwblVUVWJ2RzVUTEkxTGpqXzY4UzRWV0xEZzhReU5hTWZWSzFMVlRWQ2pzckpMZlNsZWZMZEZ1MWRqZ0x5UDV2NXNkTVhBdUVOQTh5d0FPX1U?oc=5",
+      "source": "Financial Times",
+      "date": "2026-10-26T13:29:00+00:00",
+      "display_date": "Oct 26, 2026",
+      "summary": "Canadian Investment Regulatory Organization Trading Halt - COCO – Company Announcement Financial Times",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "/C O R R E C T I O N - Canadian Investment Regulatory Organization (CIRO) - Halts/Resumptions/ - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeUF0TlE5aUNUMHFSS2tac2RWQ3hldzdpMFF4UjkwM3F3N3p4Y0ZSbWJMOXJETE8xQ3hFYVlaZC1IS1NqbEhwWm1qZmFnS05DRXFQQW1LMTNfdkFmZ3pjclc0SnlWdk9YV1VlODFDblZHX0E3VElOTnBuRDRLbm5pd1M0eUNpZ1hLaTRKM0dwOWM4OUdJQ0E?oc=5",
+      "source": "Financial Times",
+      "date": "2026-10-26T12:55:00+00:00",
+      "display_date": "Oct 26, 2026",
+      "summary": "/C O R R E C T I O N - Canadian Investment Regulatory Organization (CIRO) - Halts/Resumptions/ Financial Times",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Indiana Utility Regulatory Commission - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55U2p4bmNIZ2pPRlA0djk0U3htR05NeUhreWMxMTJ2NGpzWjN4TERMci11Mmh5XzRFeFRYcEstVE9rYzgzLTBRLVQ5WG9LTkFSdWtldXNB?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-10-26T11:20:39+00:00",
+      "display_date": "Oct 26, 2026",
+      "summary": "Indiana Utility Regulatory Commission Bloomberg.com",
+      "topics": [
+        "Regulatory Change"
       ]
     },
     {
@@ -1064,17 +1288,6 @@
       ]
     },
     {
-      "title": "Four ways US foreign policy could change if Democrats win in November - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYVRLMHJmdldMQ1h3TUZkbmpNUUZqUlVTY1VPaTNpU0JLc2xua051SmgtQUJzcFlnRjV3a3VaWVctNFM0dF80X2VKMlM5UTNIQkV4YmJ4TTAxdDFVS2EtdFN6R2pfTDVTVnNfZjJOYXdxbTV3eGxQeUFPZV85ZjBNb0I2dlpVdU9DQkhDaWI2Z214Wko2cUVLenFCYWUtLVY5WF9ydlJOTmlkdjN4RloxQQ?oc=5",
-      "source": "Reuters",
-      "date": "2026-10-25T11:02:30+00:00",
-      "display_date": "Oct 25, 2026",
-      "summary": "Four ways US foreign policy could change if Democrats win in November Reuters",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "Netanyahu Says Israel Mulls Crypto Ahead of Possible Sanctions - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWHZ6VVBXaDh1SXE5ZTBFa3pJS2ExLWR4b1FFWVJVNlJqRThrWGlxRlVZd0ZKaEhlSnJKMGNPaktXODdmZFR2aWl3WUFlOXNMczFkNXN2SXktQWhvLVJEOFhSaHVaRU96NDlNVWZGdi1mRGo1NHFuSFJKQm1MRHg2NE5jbFVGOTEwd0NRRloxQTd1NlhydW9YaW8zMlRNcFNkVUtpeUNwUDM5MnBNYlozYUVDUQ?oc=5",
       "source": "Bloomberg.com",
@@ -1131,11 +1344,11 @@
     },
     {
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/10/23/cisa-adds-one-known-exploited-vulnerability-catalog-0",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/10/23/cisa-adds-one-known-exploited-vulnerability-catalog",
       "source": "CISA Cybersecurity Advisories",
       "date": "2026-10-23T12:00:00+00:00",
       "display_date": "Oct 23, 2026",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-110447 Collabora Online – Built-in CODE Server OS Command Injection Vulnerability This type of vulnerability is a frequent attack vector ...",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-114625 Arista VeloCloud Orchestrator SQL Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyb...",
       "topics": [
         "Cybersecurity Risk"
       ]
@@ -1196,17 +1409,6 @@
       ]
     },
     {
-      "title": "US regulator is probing suspicious Iran oil trading, official says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPem1fOEZ2aU10cDBTVHhDUXFuN3ZTU1l3ZXR4dkpMUUNCazJDMEk4V0UxT01nZ2tNckxuTllmYXhNeUlhSTQzbzg5dHN2aVNjMUpnNnU0T2FJWmNtTGZ4ZTg0UXNjRFhReHlDbThZalczOHdVZFBKLU9pVEp3YTBTS096QUdKVm4tbTdlQzJSYWQ5eGhDZ05FSjJJWFhNYkt2dHZERzg1Zmltc2xKUkd1UjBXUEpTdjNC?oc=5",
-      "source": "Reuters",
-      "date": "2026-10-22T21:31:43+00:00",
-      "display_date": "Oct 22, 2026",
-      "summary": "US regulator is probing suspicious Iran oil trading, official says Reuters",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "Market integrity in a digital age",
       "link": "https://www.fca.org.uk/news/speeches/market-integrity-digital-age",
       "source": "FCA UK Regulatory News",
@@ -1264,6 +1466,29 @@
       ]
     },
     {
+      "title": "Siemens PSS(R)SINCAL",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-06",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-10-22T12:00:00+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "View CSAF Summary PSS(R)SINCAL uses WibuKey third-party product that contains an out-of-bounds write vulnerability. An attacker could exploit this vulnerability to cause a system crash, resulting in a denial-of-service condition. This affects PSS SINCAL only when configured to us...",
+      "topics": [
+        "Cybersecurity Risk",
+        "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "Siemens RUGGEDCOM CROSSBOW",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-12",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-10-22T12:00:00+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "View CSAF Summary RUGGEDCOM CROSSBOW contains multiple vulnerabilities that could allow an attacker to execute arbitrary SQL commands on the underlying database, retrieve sensitive administrative credentials, escalate privileges, and perform unauthorized operations such as modify...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
       "title": "Siemens RUGGEDCOM APE1808 Devices",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-18",
       "source": "CISA Cybersecurity Advisories",
@@ -1275,23 +1500,12 @@
       ]
     },
     {
-      "title": "Siemens Industrial Edge Device Kit",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-09",
+      "title": "Siemens Industrial Edge App Publisher",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-02",
       "source": "CISA Cybersecurity Advisories",
       "date": "2026-10-22T12:00:00+00:00",
       "display_date": "Oct 22, 2026",
-      "summary": "View CSAF Summary Users of Industrial Edge Devices are advised to consult the respective Security Advisories for their devices (for Siemens Industrial Edge devices see Additional Information). Industrial Edge Device Kit contains multiple path traversal vulnerabilities that could ...",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "Siemens WinCC",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-13",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-10-22T12:00:00+00:00",
-      "display_date": "Oct 22, 2026",
-      "summary": "View CSAF Summary Multiple SIMATIC WinCC versions are affected by a database privilege escalation vulnerability that could allow an authenticated user with access to the database to execute commands on the underlying host system. Siemens has released new versions for several affe...",
+      "summary": "View CSAF Summary The Industrial Edge App Publisher contains a vulnerability chain involving improper certificate validation and the rendering of unescaped data from backend responses. These issues can be combined to allow an attacker on the network to impersonate the management ...",
       "topics": [
         "Cybersecurity Risk"
       ]
@@ -1308,34 +1522,34 @@
       ]
     },
     {
-      "title": "Siemens Industrial Edge App Publisher",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-02",
+      "title": "Siemens WinCC",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-13",
       "source": "CISA Cybersecurity Advisories",
       "date": "2026-10-22T12:00:00+00:00",
       "display_date": "Oct 22, 2026",
-      "summary": "View CSAF Summary The Industrial Edge App Publisher contains a vulnerability chain involving improper certificate validation and the rendering of unescaped data from backend responses. These issues can be combined to allow an attacker on the network to impersonate the management ...",
+      "summary": "View CSAF Summary Multiple SIMATIC WinCC versions are affected by a database privilege escalation vulnerability that could allow an authenticated user with access to the database to execute commands on the underlying host system. Siemens has released new versions for several affe...",
       "topics": [
         "Cybersecurity Risk"
       ]
     },
     {
-      "title": "Siemens SIMATIC S7 Webserver API",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-10",
+      "title": "Siemens Industrial Edge Device Kit",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-09",
       "source": "CISA Cybersecurity Advisories",
       "date": "2026-10-22T12:00:00+00:00",
       "display_date": "Oct 22, 2026",
-      "summary": "View CSAF Summary .NET Client Library for SIMATIC S7 Webserver API contains multiple vulnerabilities that could allow an attacker to obtain sensitive information or write arbitrary files outside the intended download directory. Siemens has released a new version for .NET Client L...",
+      "summary": "View CSAF Summary Users of Industrial Edge Devices are advised to consult the respective Security Advisories for their devices (for Siemens Industrial Edge devices see Additional Information). Industrial Edge Device Kit contains multiple path traversal vulnerabilities that could ...",
       "topics": [
         "Cybersecurity Risk"
       ]
     },
     {
-      "title": "Siemens RUGGEDCOM CROSSBOW",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-12",
+      "title": "Siemens APOGEE, TALON and Desigo PXC/PXM Products",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-08",
       "source": "CISA Cybersecurity Advisories",
       "date": "2026-10-22T12:00:00+00:00",
       "display_date": "Oct 22, 2026",
-      "summary": "View CSAF Summary RUGGEDCOM CROSSBOW contains multiple vulnerabilities that could allow an attacker to execute arbitrary SQL commands on the underlying database, retrieve sensitive administrative credentials, escalate privileges, and perform unauthorized operations such as modify...",
+      "summary": "View CSAF Summary The products listed below contain multiple vulnerabilities that could allow an attacker to cause a denial of service and potentially impact the availability of the affected device. Siemens has released new versions for several affected products and recommends to...",
       "topics": [
         "Cybersecurity Risk"
       ]
@@ -1351,17 +1565,6 @@
         "Regulatory Change",
         "Cybersecurity Risk",
         "Operational & Enterprise Risk"
-      ]
-    },
-    {
-      "title": "Siemens APOGEE, TALON and Desigo PXC/PXM Products",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-08",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-10-22T12:00:00+00:00",
-      "display_date": "Oct 22, 2026",
-      "summary": "View CSAF Summary The products listed below contain multiple vulnerabilities that could allow an attacker to cause a denial of service and potentially impact the availability of the affected device. Siemens has released new versions for several affected products and recommends to...",
-      "topics": [
-        "Cybersecurity Risk"
       ]
     },
     {
@@ -1387,15 +1590,14 @@
       ]
     },
     {
-      "title": "Siemens PSS(R)SINCAL",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-06",
+      "title": "Siemens SIMATIC IPCs",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-07",
       "source": "CISA Cybersecurity Advisories",
       "date": "2026-10-22T12:00:00+00:00",
       "display_date": "Oct 22, 2026",
-      "summary": "View CSAF Summary PSS(R)SINCAL uses WibuKey third-party product that contains an out-of-bounds write vulnerability. An attacker could exploit this vulnerability to cause a system crash, resulting in a denial-of-service condition. This affects PSS SINCAL only when configured to us...",
+      "summary": "View CSAF Summary The products listed below contain a vulnerability that could allow an attacker to boot an operating system or UEFI application signed with that test key, bypassing UEFI Secure Boot protections even when Secure Boot is enabled. Siemens has released new versions f...",
       "topics": [
-        "Cybersecurity Risk",
-        "Operational & Enterprise Risk"
+        "Cybersecurity Risk"
       ]
     },
     {
@@ -1471,17 +1673,6 @@
       "date": "2026-10-22T12:00:00+00:00",
       "display_date": "Oct 22, 2026",
       "summary": "View CSAF Summary Siemens Industrial Edge Devices contain multiple path traversal vulnerabilities that could facilitate an authenticated remote attacker to access sensitive internal information. Siemens has released new versions for several affected products and recommends to upd...",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "Siemens SIMATIC IPCs",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-07",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-10-22T12:00:00+00:00",
-      "display_date": "Oct 22, 2026",
-      "summary": "View CSAF Summary The products listed below contain a vulnerability that could allow an attacker to boot an operating system or UEFI application signed with that test key, bypassing UEFI Secure Boot protections even when Secure Boot is enabled. Siemens has released new versions f...",
       "topics": [
         "Cybersecurity Risk"
       ]
@@ -1920,17 +2111,6 @@
       "summary": "The Securities and Exchange Commission’s Compliance Outreach Program announced today that it will host a virtual national seminar for investment companies and investment advisers on November 19, 2026. The purpose of the event is to help chief compliance…",
       "topics": [
         "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "OCC Hails 2026 Update to U.S. National Strategy for Financial Literacy",
-      "link": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-85.html",
-      "source": "Office of the Comptroller of the Currency",
-      "date": "2026-10-05T20:30:00+00:00",
-      "display_date": "Oct 05, 2026",
-      "summary": "The Office of the Comptroller of the Currency (OCC) today hailed the 2026 update to the U.S. National Strategy for Financial Literacy, underscoring the agency's commitment to helping Americans develop practical skills to make sound financial decisions, build greater financial sec...",
-      "topics": [
-        "Operational & Enterprise Risk"
       ]
     },
     {
