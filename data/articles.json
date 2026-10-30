@@ -1,7 +1,51 @@
 {
-  "last_updated": "October 30, 2026 16:37 UTC",
-  "total_count": 217,
+  "last_updated": "October 30, 2026 20:27 UTC",
+  "total_count": 212,
   "articles": [
+    {
+      "title": "SEC Issues Exemptive Relief from Treasury Clearing Requirements for Certain Inter-Affiliate and Non-U.S. Repo Transactions",
+      "link": "https://www.sec.gov/newsroom/press-releases/2026-111-sec-issues-exemptive-relief-treasury-clearing-requirements-certain-inter-affiliate-non-us-repo",
+      "source": "SEC Press Releases",
+      "date": "2026-10-30T19:30:00+00:00",
+      "display_date": "Oct 30, 2026",
+      "summary": "The Securities and Exchange Commission took another step forward today to assist broker-dealers and other market participants on the path to central clearing of U.S. Treasury securities by issuing exemptive relief related to inter-affiliate repo…",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "This teen took over her family's budget and saved $2,000",
+      "link": "https://www.abc.net.au/news/2026-10-31/teenage-boss-molly-took-over-family-budget/107210636",
+      "source": "ABC News Business (AU)",
+      "date": "2026-10-30T18:30:00+00:00",
+      "display_date": "Oct 30, 2026",
+      "summary": "Parents might be tempted to shield children from financial conversations, but research suggests that open communication with kids can build resilience and money management skills that last a lifetime.",
+      "topics": [
+        "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "Conflicts of interest controls failing to keep up with private markets complexity, says UK financial regulator",
+      "link": "https://www.complianceweek.com/regulatory-policy/conflicts-of-interest-controls-failing-to-keep-up-with-private-markets-complexity-says-uk-financial-regulator/",
+      "source": "Compliance Week",
+      "date": "2026-10-30T17:36:27+00:00",
+      "display_date": "Oct 30, 2026",
+      "summary": "UK private markets firms are managing conflicts of interest inconsistently and need to prove they are treating investors fairly, according to a new report from the UK Financial Conduct Authority. The post Conflicts of interest controls failing to keep up with private markets comp...",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "BP profits hit ‘obscene’ 18-year high as Iran war drives up oil refining margins",
+      "link": "https://www.theguardian.com/business/2026/oct/30/bp-profits-jump-as-middle-east-conflict-drives-up-oil-refining-margins",
+      "source": "The Guardian Australia",
+      "date": "2026-10-30T16:49:00+00:00",
+      "display_date": "Oct 30, 2026",
+      "summary": "Oil giant comes under fire from climate campaigners, as its earnings reach $8.46bn while ‘innocent civilians suffer’ BP’s quarterly profits have been labelled “obscene” after they hit an 18-year high of $8.46bn (£6.3bn), as the war in the Middle East drove up oil and gas prices. ...",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
     {
       "title": "Compliance Jobs Report: Oct. 30",
       "link": "https://www.radicalcompliance.com/2026/10/30/compliance-jobs-report-oct-30-2/",
@@ -37,17 +81,6 @@
       ]
     },
     {
-      "title": "Binance suspends transactions after it is targeted in biggest-ever cyber heist - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOdlNMX3R5WHVjeVg1YUZWcjRoSldncWZDRXlyb2ZoMUR6bkV5Um1ud2FSbmo5YVM1Vmx6cHJWSUFtNHZRSDE3Rzk2alV2dFkxUkNseEY5SE1tamtlazdLNURUSWtUMVdHMGhTRXlTSFNXWDZMR0NZTEwyLVlzcC1kZHBUdnM2YW53dlIwc1VfV09QaXRDZDF6TkRxLVJDRTBubkFfeGJyUlNWN0FXR0d2WDl3ZVVSa0JNY3d4dmptSkdNVDdmeFlSQmJ3aDh6dWlnb2ozU0l0ejR2SlpRRFA4UzRILVVjMGJ6TFFyelA5V0JpZEdNUkJRblNvalo?oc=5",
-      "source": "The Australian",
-      "date": "2026-10-30T14:03:07+00:00",
-      "display_date": "Oct 30, 2026",
-      "summary": "Binance suspends transactions after it is targeted in biggest-ever cyber heist The Australian",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
       "title": "Meta Backs Low Carbon Cement Producer Fortera with Multi-year EAC Deal",
       "link": "https://www.esgtoday.com/meta-backs-low-carbon-cement-producer-fortera-with-long-term-eac-deal/?utm_source=rss&utm_medium=rss&utm_campaign=meta-backs-low-carbon-cement-producer-fortera-with-long-term-eac-deal",
       "source": "ESG Today",
@@ -70,14 +103,14 @@
       ]
     },
     {
-      "title": "BP profits hit 18-year high as Iran war drives up oil refining margins",
-      "link": "https://www.theguardian.com/business/2026/oct/30/bp-profits-jump-as-middle-east-conflict-drives-up-oil-refining-margins",
-      "source": "The Guardian Australia",
-      "date": "2026-10-30T11:45:34+00:00",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/10/30/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-10-30T12:00:00+00:00",
       "display_date": "Oct 30, 2026",
-      "summary": "Oil giant hails ‘banner quarter’ as earnings reach $8.46bn, prompting anger from climate campaigners BP’s profits have hit their highest level in almost two decades as the war in the Middle East drove up oil and gas prices and led to “significantly higher” trading. The energy com...",
+      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-111357 Ivanti Connect Secure Missing Authentication for Critical Function Vulnerability CVE-2026-118527 Ivanti Connect Secure Generatio...",
       "topics": [
-        "ESG & Sustainability"
+        "Cybersecurity Risk"
       ]
     },
     {
@@ -150,11 +183,22 @@
       "title": "ASIC sues principals over $500m fund collapse alleging sham loans - The Australian",
       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPeVJkejdyUFNPYk14a2ZPNEkwLVVBU0hpMkhQVWsxNkNhVUl2cG9xb1V4YlhOYW1hTWw5MGxCcVBWQ0xLNWkyYWN2RDdYbDhULVhwYmluaTl3QzZuNE41VEhmSF9SSUQ5RWJfZ3V1QWpHQjk5SnNCMGlZa1gzVnlUYWJyUEZ2ZWZiN2tWSmo4R3dqX1BRczhxclVJWU9aQ2psTE96MWFkNkZjemNFR3dIR2VYeGhXZnFPMU9GV3lSRl9XSEdUR1h4bE5HdWtpckF6Ylp6bmpES2R4N1VuUHU4MmZfbGZ3OUJQUEx2a0RJc3RzbUk0MlhDYjhWNkpBSld0V2VB?oc=5",
       "source": "The Australian",
-      "date": "2026-10-30T04:26:17+00:00",
+      "date": "2026-10-30T04:26:20+00:00",
       "display_date": "Oct 30, 2026",
       "summary": "ASIC sues principals over $500m fund collapse alleging sham loans The Australian",
       "topics": [
         "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "Analysts react as Binance freezes assets after $6.3 billion security breach - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUTg2OTFfWjhaMHRyQVFuRHhFalRRM2d3VnBkOGFnOHRtVGpRWHdIa0x3ZnhqbDEwZmh5X0s2NGZzbTJodXU5YWhTVjZEYW11TnI5cHU1SUZJMUVIbDJSRGNhMkd3dTZublJuU3BtUzNHME16aFd1UG9BYnNfQThSdzFSVUlsSVpoTXExcS1vMUUyRkNkcjRieGpZUnNrNjVfWTBQbVNmWDlZS2VHWWhlaG5lb2wyWHFuS3BtNGxveU1HUGxXc1dV?oc=5",
+      "source": "Reuters",
+      "date": "2026-10-30T03:39:00+00:00",
+      "display_date": "Oct 30, 2026",
+      "summary": "Analysts react as Binance freezes assets after $6.3 billion security breach Reuters",
+      "topics": [
+        "Cybersecurity Risk"
       ]
     },
     {
@@ -188,6 +232,18 @@
       "summary": "An animal health company has applied to \"increase the dose rate\" of the controversial antibiotic florfenicol in Tasmanian salmon farms, the federal regulator has confirmed.",
       "topics": [
         "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Polymarket resumes trading after third-party security breach, to reimburse users - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdGFDU255RTFLTGhHMmlndVlJb1gyUVdsYmJxcUpaalJoRVp0OEpROVcyQ0xQRlRiN1haY0UyTUlLb1JlUF92NF8tWVlfVmxmVWJmN2p4Q2ZfNHhCSy1ta2EwMi1KZUJ0eE1zVExPck44OVFJRnFuSmV2VjUtdGUzQVVGR1VPVDFTbUF4UzlwTHFIN0xYbXh5dUpqcjZuNlNMdGNV?oc=5",
+      "source": "Reuters",
+      "date": "2026-10-29T22:26:32+00:00",
+      "display_date": "Oct 29, 2026",
+      "summary": "Polymarket resumes trading after third-party security breach, to reimburse users Reuters",
+      "topics": [
+        "Cybersecurity Risk",
+        "Operational & Enterprise Risk"
       ]
     },
     {
@@ -346,34 +402,12 @@
       ]
     },
     {
-      "title": "Crypto exchange HTX agrees to exit UK after being sued by watchdog - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZktMUWNyQ0xJR0pUWl9BWDhwSExaQ3ZWYUQ0aVFNNHZZTkwyaG1pVGRRNGRUV0Z4X3VNZ2ZzQnpORmFWa3VsSHBIVG5nVUVuM3VYaWlWNF9jeHpaVW03T0tQZ2Vlb2hxWVNEVnVjVDIxTGRtWkM1NzRMdGNGb0RhdER2dTE?oc=5",
-      "source": "Financial Times",
-      "date": "2026-10-29T12:12:38+00:00",
-      "display_date": "Oct 29, 2026",
-      "summary": "Crypto exchange HTX agrees to exit UK after being sued by watchdog Financial Times",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
       "title": "Hitachi Energy CoreTec Product",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-03",
       "source": "CISA Cybersecurity Advisories",
       "date": "2026-10-29T12:00:00+00:00",
       "display_date": "Oct 29, 2026",
       "summary": "View CSAF Summary Hitachi Energy is aware of OS command injection and Dirty Frag vulnerabilities that affect CoreTec product versions listed in this document. Successful exploitation of these vulnerabilities could result in impact on confidentiality, integrity and availability of...",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/10/29/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-10-29T12:00:00+00:00",
-      "display_date": "Oct 29, 2026",
-      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-97229 GitLab Community Edition and Enterprise Edition Integer Overflow or Wraparound vulnerability CVE-2026-76418 Cisco Secure Firewall...",
       "topics": [
         "Cybersecurity Risk"
       ]
@@ -600,17 +634,6 @@
       ]
     },
     {
-      "title": "Middleman to plead guilty in US insider trading case tied to law firm tips - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ25SeUdXa2Q4Yy1pc2ZZQmdxdWVLa2daUGlLd0hhR0lnbi1TTUhrZUQ2clFTUFE5amVtS2JWWVVOcHZnZC1HR01kaXNWbmZDOVRnYzVzSlM5SE50TWQ1OGNUUzB1QnFRZTBBLTFuSWM2OWczT0hMNk4xaWJKS0I4LXYzTU9RclpCM1dZV1pyS3ZNYkxMdlRJMGRfajUxdUVKQ19uRXUxb2xIcm91QTVOLUpfanRlbHROQWc?oc=5",
-      "source": "Reuters",
-      "date": "2026-10-28T23:27:43+00:00",
-      "display_date": "Oct 28, 2026",
-      "summary": "Middleman to plead guilty in US insider trading case tied to law firm tips Reuters",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
       "title": "ASIC probes all-star cast of bankers over botched $44bn Firmus float - The Australian",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQZmxkbktqTnVYVk5iZUU2cGI1NTNvOGZSTWppeW9OcV96eTZ4YjBvelFBWDFrcGNESndoVmw2Y1huN2NjVFp5ajhCSkVkYWFsN0w2U0I3ZlFra3hnd2w1MlhOVzdwSkVrZkptZ1JxSW13QU1UMjNZUlZ6bmI3ek5pd0JwekR1UWR4cF9HaTNtUE01N0NLUzVJdWFZY2hHT0EtVFo1WDJicWVrallETTdEYXZGZGE4ckVjeGRlcTkyemhhYk9YMTBxVlF0M3l1RWdZTVZJS3REcGRUYndRTTVZTjA3U09pNk9PN3FhbUZLRGNWcUdhaTdyc0ZHMzZEYjNjWXNRb2daSG0?oc=5",
       "source": "The Australian",
@@ -619,17 +642,6 @@
       "summary": "ASIC probes all-star cast of bankers over botched $44bn Firmus float The Australian",
       "topics": [
         "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "Leaked letter reveals regulator's 'concerns' about gas giant Santos",
-      "link": "https://www.abc.net.au/news/2026-10-29/santos-warned-over-barossa-non-compliance-flaring/107284152",
-      "source": "ABC News Business (AU)",
-      "date": "2026-10-28T22:58:22+00:00",
-      "display_date": "Oct 28, 2026",
-      "summary": "Australia's second-largest oil and gas company, Santos, has been issued a warning by the national regulator following inspections of its multi-billion-dollar Barossa project.",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
@@ -716,17 +728,6 @@
       "date": "2026-10-28T16:35:00+00:00",
       "display_date": "Oct 28, 2026",
       "summary": "Developing a common standard would be one of the best ways of expanding economic opportunity.",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "India markets regulator weighs domestic AI model for securities trading, chairman says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeXZ5eDY4d1U2WWVRVDFIbHJhc1ROWjVzVHZqSGZLZlg0RjJ4NTNCVTAyVHJBSFkwbXE1OHlqV2dhR2QtTTZULTF5SmFZd00waDhjTTFENTZldjhWYTE2ai1XNXpSeWJGdG5SQUdJdGFITk1aZWZabUcyUU1lUE5iNzQwcE1QMl81c1lqZ3czaWlUWkhaU3d2THBUbExjTmxxZlFvRkwyYldZX1N2eTdwUFVEQ0RCeDJKY3hIb082d0s5Zw?oc=5",
-      "source": "Reuters",
-      "date": "2026-10-28T16:22:08+00:00",
-      "display_date": "Oct 28, 2026",
-      "summary": "India markets regulator weighs domestic AI model for securities trading, chairman says Reuters",
       "topics": [
         "Regulatory Change"
       ]
@@ -889,17 +890,6 @@
       ]
     },
     {
-      "title": "Trump administration sued over rollback of corporate ownership reporting rules - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOU1B3bjV2aWFYWk5PUVg0STlrV2pOVjJEZW5pQWlYZjJzcFFPb2oteTdhYUk4N09FYXZiWTBDSWRRemExT1ZkSU1peW50OFkySHl2cE05ajNMZkR3M0pibzl5S0ZrNzI4eWx5WS1mTmwxeGRzamFLQkNhV2pHd1pIQ25EX3o1TG8tdVJiMVVVMHJiZmk0WDZhOTdOcE9oTlY2d1dZbzctMXkycy1SSmwzQjd0Y0c5LTloRkhMVzBGek5JOGMxVzNJ?oc=5",
-      "source": "Reuters",
-      "date": "2026-10-27T22:43:55+00:00",
-      "display_date": "Oct 27, 2026",
-      "summary": "Trump administration sued over rollback of corporate ownership reporting rules Reuters",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
       "title": "EXCLUSIVE: US agency is again probing if Polymarket broke 2022 settlement, sources says - Reuters",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQUJPZ2Rldk01TnljelMzZVdEcU05ZFFVaGs5bjlDUXVVNWI3bXh2V2JCV0JNR3pfSEJMZVRHUHRyN056MERTbGZUZFJySnlHbzYwUlEzNWcwLXBNclFIaTVNYTZRd3N6emw1OTVHVkhzNnpIcHBqQWJyalJUR2gzYXdZQ0I2RGNJV1N5VVpxVGszRVJQVzdBZFZvbks4VEQxQnktUWtiR2NCdFhITTVsZ0NxM2d3ZU9aUlpWWVVZcTQtMEJCc3ZZ?oc=5",
       "source": "Reuters",
@@ -988,23 +978,23 @@
       ]
     },
     {
-      "title": "Mitsubishi Electric and Mitsubishi Electric Iconics Digital Solutions GENESIS, GENESIS64, ICONICS Suite, Hyper Historian, AnalytiX, MobileHMI, IoTWorX, MC Works64, GENESIS32 and BizViz",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-300-02",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-10-27T12:00:00+00:00",
-      "display_date": "Oct 27, 2026",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to execute arbitrary code (CVE-2023-4863), bypass authentication (CVE-2026-16436 and CVE-2026-16437), or perform arbitrary operations (CVE-2026-16438), resulting in information disclosure, ...",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
       "title": "EPICS Base",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-300-01",
       "source": "CISA Cybersecurity Advisories",
       "date": "2026-10-27T12:00:00+00:00",
       "display_date": "Oct 27, 2026",
       "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to cause a denial-of-service condition, corrupt memory, disclose sensitive information, or potentially execute arbitrary code. The following versions of EPICS Base are affected: EPICS Base ...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "Mitsubishi Electric and Mitsubishi Electric Iconics Digital Solutions GENESIS, GENESIS64, ICONICS Suite, Hyper Historian, AnalytiX, MobileHMI, IoTWorX, MC Works64, GENESIS32 and BizViz",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-300-02",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-10-27T12:00:00+00:00",
+      "display_date": "Oct 27, 2026",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to execute arbitrary code (CVE-2023-4863), bypass authentication (CVE-2026-16436 and CVE-2026-16437), or perform arbitrary operations (CVE-2026-16438), resulting in information disclosure, ...",
       "topics": [
         "Cybersecurity Risk"
       ]
@@ -1033,17 +1023,6 @@
       ]
     },
     {
-      "title": "European regulators warn about prediction markets, showing divergence from the US",
-      "link": "https://www.complianceweek.com/technology/european-regulators-warn-about-prediction-markets-showing-divergence-from-the-us/",
-      "source": "Compliance Week",
-      "date": "2026-10-26T18:27:24+00:00",
-      "display_date": "Oct 26, 2026",
-      "summary": "Prediction markets may have become a booming industry in the United States, but the EU and UK remain reluctant to embrace them because of the inherent risks of supervising them and the potential harm they could cause consumers. The post European regulators warn about prediction m...",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "Firmus float failure a sign of ‘elevated market risk’: ASIC - The Australian",
       "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQTXpOVVIzTm84dDVWQTc2c05GUy1WN29CSmdtQzNsbWhCOTlIVUZpd3J3NzBxQUV4NXFfdHAzRUxEcTU5Zm9Ybk9aZ3lITEo2Q2hQN0lQbXE4d0dicnpEVGF0d0U4U1NfeFhublB3UXdUeTJ5d2hIOHRKUkhfMTRBdXp0VzZVaHJ6MkVnNFZCTGYwcEg2Q2UtWDdSYllhWDJiMFFnVFVGcld0YS1GZDZRYVhNRXFlS3FSYk9YekMxNkY4VDBab1pnXzJuQzltMjNXOHRCZmlmRmJXUENZMTZINHNGMklxQzl3dlRON04ySHpsNU1EQmI5TzA0TEdDTURlMUE3dGlQdzFkdw?oc=5",
       "source": "The Australian",
@@ -1055,12 +1034,12 @@
       ]
     },
     {
-      "title": "Anthropic Cites Climate Change as Risk to Business in S-1 - Bloomberg",
+      "title": "Anthropic Cites Climate Change as Risk to Business in S-1 - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR1BlQkJ0dXQtRzRsdzBaSm14MTAtZmhSSmN5TkFySE92X2ZlUWVUVEFFSmNMQnVSUFZ4NHhQRVhhZ2swdXZUM1FzRTlHNXBma0w4d1lpRGJlVUlmamgxcEJLNVpYdGZ4WmJibUYtUHBaTk5ZZXZXQjRDZy1aTW03SVVFSmU1RjBvZk1xdXdHZ01Cd2JpREV3ajlYZGJQN055S1JHTEh4YVBHQVpz?oc=5",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "date": "2026-10-26T16:55:06+00:00",
       "display_date": "Oct 26, 2026",
-      "summary": "Anthropic Cites Climate Change as Risk to Business in S-1 Bloomberg",
+      "summary": "Anthropic Cites Climate Change as Risk to Business in S-1 Bloomberg.com",
       "topics": [
         "ESG & Sustainability"
       ]
@@ -1165,17 +1144,6 @@
       ]
     },
     {
-      "title": "Four ways US foreign policy could change if Democrats win in November - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYVRLMHJmdldMQ1h3TUZkbmpNUUZqUlVTY1VPaTNpU0JLc2xua051SmgtQUJzcFlnRjV3a3VaWVctNFM0dF80X2VKMlM5UTNIQkV4YmJ4TTAxdDFVS2EtdFN6R2pfTDVTVnNfZjJOYXdxbTV3eGxQeUFPZV85ZjBNb0I2dlpVdU9DQkhDaWI2Z214Wko2cUVLenFCYWUtLVY5WF9ydlJOTmlkdjN4RloxQQ?oc=5",
-      "source": "Reuters",
-      "date": "2026-10-25T11:02:30+00:00",
-      "display_date": "Oct 25, 2026",
-      "summary": "Four ways US foreign policy could change if Democrats win in November Reuters",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "Netanyahu Says Israel Mulls Crypto Ahead of Possible Sanctions - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWHZ6VVBXaDh1SXE5ZTBFa3pJS2ExLWR4b1FFWVJVNlJqRThrWGlxRlVZd0ZKaEhlSnJKMGNPaktXODdmZFR2aWl3WUFlOXNMczFkNXN2SXktQWhvLVJEOFhSaHVaRU96NDlNVWZGdi1mRGo1NHFuSFJKQm1MRHg2NE5jbFVGOTEwd0NRRloxQTd1NlhydW9YaW8zMlRNcFNkVUtpeUNwUDM5MnBNYlozYUVDUQ?oc=5",
       "source": "Bloomberg.com",
@@ -1221,11 +1189,11 @@
     },
     {
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/10/23/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/10/23/cisa-adds-one-known-exploited-vulnerability-catalog-0",
       "source": "CISA Cybersecurity Advisories",
       "date": "2026-10-23T12:00:00+00:00",
       "display_date": "Oct 23, 2026",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-114625 Arista VeloCloud Orchestrator SQL Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyb...",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-110447 Collabora Online – Built-in CODE Server OS Command Injection Vulnerability This type of vulnerability is a frequent attack vector ...",
       "topics": [
         "Cybersecurity Risk"
       ]
@@ -1321,18 +1289,6 @@
       ]
     },
     {
-      "title": "Siemens PSS(R)SINCAL",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-06",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-10-22T12:00:00+00:00",
-      "display_date": "Oct 22, 2026",
-      "summary": "View CSAF Summary PSS(R)SINCAL uses WibuKey third-party product that contains an out-of-bounds write vulnerability. An attacker could exploit this vulnerability to cause a system crash, resulting in a denial-of-service condition. This affects PSS SINCAL only when configured to us...",
-      "topics": [
-        "Cybersecurity Risk",
-        "Operational & Enterprise Risk"
-      ]
-    },
-    {
       "title": "Siemens RUGGEDCOM CROSSBOW",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-12",
       "source": "CISA Cybersecurity Advisories",
@@ -1355,14 +1311,16 @@
       ]
     },
     {
-      "title": "Siemens Industrial Edge App Publisher",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-02",
+      "title": "Managing AI Token Consumption for Operational Resilience",
+      "link": "https://www.cisa.gov/resources-tools/resources/managing-ai-token-consumption-operational-resilience",
       "source": "CISA Cybersecurity Advisories",
       "date": "2026-10-22T12:00:00+00:00",
       "display_date": "Oct 22, 2026",
-      "summary": "View CSAF Summary The Industrial Edge App Publisher contains a vulnerability chain involving improper certificate validation and the rendering of unescaped data from backend responses. These issues can be combined to allow an attacker on the network to impersonate the management ...",
+      "summary": "CISA, the Canadian Centre for Cyber Security (Cyber Centre), and partners are releasing joint guidance, Managing AI Token Consumption for Operational Resilience , to help organizations understand and manage token usage in support of operations. As organizations adopt third-party ...",
       "topics": [
-        "Cybersecurity Risk"
+        "Regulatory Change",
+        "Cybersecurity Risk",
+        "Operational & Enterprise Risk"
       ]
     },
     {
@@ -1410,14 +1368,13 @@
       ]
     },
     {
-      "title": "Managing AI Token Consumption for Operational Resilience",
-      "link": "https://www.cisa.gov/resources-tools/resources/managing-ai-token-consumption-operational-resilience",
+      "title": "Siemens PSS(R)SINCAL",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-06",
       "source": "CISA Cybersecurity Advisories",
       "date": "2026-10-22T12:00:00+00:00",
       "display_date": "Oct 22, 2026",
-      "summary": "CISA, the Canadian Centre for Cyber Security (Cyber Centre), and partners are releasing joint guidance, Managing AI Token Consumption for Operational Resilience , to help organizations understand and manage token usage in support of operations. As organizations adopt third-party ...",
+      "summary": "View CSAF Summary PSS(R)SINCAL uses WibuKey third-party product that contains an out-of-bounds write vulnerability. An attacker could exploit this vulnerability to cause a system crash, resulting in a denial-of-service condition. This affects PSS SINCAL only when configured to us...",
       "topics": [
-        "Regulatory Change",
         "Cybersecurity Risk",
         "Operational & Enterprise Risk"
       ]
@@ -2152,17 +2109,6 @@
       "date": "2026-09-11T15:00:00+00:00",
       "display_date": "Sep 11, 2026",
       "summary": "Senior officials from the Securities and Exchange Commission, Federal Deposit Insurance Corporation, Commodity Futures Trading Commission, Federal Reserve Board, and Bank of England convened for a tabletop exercise on Sept. 3, 2026, to discuss certain…",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "SEC Charges Founder and His Two New Jersey-Based Companies in Alleged $16 Million Ponzi Scheme",
-      "link": "https://www.sec.gov/newsroom/press-releases/2026-86-sec-charges-founder-his-two-new-jersey-based-companies-alleged-16-million-ponzi-scheme",
-      "source": "SEC Press Releases",
-      "date": "2026-09-10T17:45:22+00:00",
-      "display_date": "Sep 10, 2026",
-      "summary": "The Securities and Exchange Commission today charged Ernest Ossei Boateng and two New Jersey-based companies he controls, Intercontinental Wealth Network LLC and I Wealth Network LP, for allegedly raising approximately $16 million from more than 200…",
       "topics": [
         "Enforcement Actions"
       ]
