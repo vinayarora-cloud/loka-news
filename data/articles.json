@@ -1,16 +1,49 @@
 {
-  "last_updated": "October 30, 2026 04:36 UTC",
-  "total_count": 236,
+  "last_updated": "October 30, 2026 08:43 UTC",
+  "total_count": 228,
   "articles": [
+    {
+      "title": "Audi Pledges to Intensify Efficiency Measures as It Cuts Guidance",
+      "link": "https://www.wsj.com/business/earnings/audi-pledges-to-intensify-efficiency-measures-as-it-cuts-guidance-942233b0?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-10-30T08:21:00+00:00",
+      "display_date": "Oct 30, 2026",
+      "summary": "The German automaker is aiming to boost competitiveness as it grapples with a market downturn in China, intensifying competition, and growing pressure from Chinese brands.",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "‘Biggest hack in history’: Crypto giant freezes assets after $8.9b heist",
+      "link": "https://www.smh.com.au/business/markets/biggest-hack-in-history-crypto-giant-freezes-assets-after-8-9b-heist-20261030-p61a4q.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+      "source": "The Sydney Morning Herald",
+      "date": "2026-10-30T06:33:41+00:00",
+      "display_date": "Oct 30, 2026",
+      "summary": "Binance says a security breach had resulted in an estimated $8.9 billion impact. Analysts said it could amount to the biggest crypto heist ever.",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
     {
       "title": "ASIC sues principals over $500m fund collapse alleging sham loans - The Australian",
       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPeVJkejdyUFNPYk14a2ZPNEkwLVVBU0hpMkhQVWsxNkNhVUl2cG9xb1V4YlhOYW1hTWw5MGxCcVBWQ0xLNWkyYWN2RDdYbDhULVhwYmluaTl3QzZuNE41VEhmSF9SSUQ5RWJfZ3V1QWpHQjk5SnNCMGlZa1gzVnlUYWJyUEZ2ZWZiN2tWSmo4R3dqX1BRczhxclVJWU9aQ2psTE96MWFkNkZjemNFR3dIR2VYeGhXZnFPMU9GV3lSRl9XSEdUR1h4bE5HdWtpckF6Ylp6bmpES2R4N1VuUHU4MmZfbGZ3OUJQUEx2a0RJc3RzbUk0MlhDYjhWNkpBSld0V2VB?oc=5",
       "source": "The Australian",
-      "date": "2026-10-30T04:14:10+00:00",
+      "date": "2026-10-30T04:26:11+00:00",
       "display_date": "Oct 30, 2026",
       "summary": "ASIC sues principals over $500m fund collapse alleging sham loans The Australian",
       "topics": [
         "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "Analysts react as Binance freezes assets after $6.3 billion security breach - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUTg2OTFfWjhaMHRyQVFuRHhFalRRM2d3VnBkOGFnOHRtVGpRWHdIa0x3ZnhqbDEwZmh5X0s2NGZzbTJodXU5YWhTVjZEYW11TnI5cHU1SUZJMUVIbDJSRGNhMkd3dTZublJuU3BtUzNHME16aFd1UG9BYnNfQThSdzFSVUlsSVpoTXExcS1vMUUyRkNkcjRieGpZUnNrNjVfWTBQbVNmWDlZS2VHWWhlaG5lb2wyWHFuS3BtNGxveU1HUGxXc1dV?oc=5",
+      "source": "Reuters",
+      "date": "2026-10-30T03:39:00+00:00",
+      "display_date": "Oct 30, 2026",
+      "summary": "Analysts react as Binance freezes assets after $6.3 billion security breach Reuters",
+      "topics": [
+        "Cybersecurity Risk"
       ]
     },
     {
@@ -22,17 +55,6 @@
       "summary": "ASIC sues directors behind $600m First Guardian failure AFR",
       "topics": [
         "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "Crypto firms freeze more than $3bn in funds as Binance investigates potential hack",
-      "link": "https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack",
-      "source": "The Guardian Australia",
-      "date": "2026-10-30T01:51:56+00:00",
-      "display_date": "Oct 30, 2026",
-      "summary": "World’s largest crypto exchange said it had not confirmed whether funds had been pilfered Binance, the world’s largest cryptocurrency exchange, said on Thursday it is investigating reports of a potential security issue as its founder said the incident “does look like a hack on Bi...",
-      "topics": [
-        "Cybersecurity Risk"
       ]
     },
     {
@@ -55,17 +77,6 @@
       "summary": "An animal health company has applied to \"increase the dose rate\" of the controversial antibiotic florfenicol in Tasmanian salmon farms, the federal regulator has confirmed.",
       "topics": [
         "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Crypto exchange Binance freezes assets after $6.3 billion security breach - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPT3g4aktSMUNOUXJpZ0NMa2hicVFaR28zZjd6NWF5Qkp5U1RfbURlMWRoc2oxa2wzb24yNUowQWNSSmhsanVLWUFfdUJYalF6b2l5eHFTSzctV0VPQlE0UEpBZm9BdkpJSFo5OTdXWDJINE1JWXVILUhvYk1JVlpKVzFvTGJTYzJGSlQ4VXB2ZnRnNHFORmRDTmdtOG1kam9wNTh3TWYyX1VFVmp4bzMxQ096eUdCTzNIRkVHNDZZelNjWkhpVWlV?oc=5",
-      "source": "Reuters",
-      "date": "2026-10-29T22:26:00+00:00",
-      "display_date": "Oct 29, 2026",
-      "summary": "Crypto exchange Binance freezes assets after $6.3 billion security breach Reuters",
-      "topics": [
-        "Cybersecurity Risk"
       ]
     },
     {
@@ -158,34 +169,12 @@
       ]
     },
     {
-      "title": "Canadian Investment Regulatory Organization Trade Resumption - HG – Company Announcement - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOXNQZlRTX2VNc3BSbXBVMFhZR3A1Y3g0ck50N1N4bDA5M2pTdmRGeURTdmw2NjZHWUU0aWFsUGVNSU1mSzU3YklnQjA1bjlKTjBHdHhMMWZ0dXhMX0pTSnNZT3FYS2hfTU5ucDBtZ0haVm5EblRmVU1QcXRRbXZFN0gwaC1wZGJLZGQ4TFJpMlp2Z00?oc=5",
-      "source": "Financial Times",
-      "date": "2026-10-29T19:53:00+00:00",
-      "display_date": "Oct 29, 2026",
-      "summary": "Canadian Investment Regulatory Organization Trade Resumption - HG – Company Announcement Financial Times",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "Canadian Investment Regulatory Organization Trading Halt - EMO – Company Announcement - Financial Times",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSnRJWFlvLXBTTVVIUGFhdnd3eF9wNzF3U3oyWllEQUpvai11a1JWdDZhdXgwMDd0OUxNdER6M2g5cEJyUDJyQVhQZ25udldZS1lUZGRZc25iTzZIZXNnd1ExSURRNHR4WWVfSWZpOUdqWmNSV0JRTkdhNjRLZWR1T29yUDV1dm5aMWNBWWdYaTQ5VTNXMGc?oc=5",
       "source": "Financial Times",
       "date": "2026-10-29T18:43:00+00:00",
       "display_date": "Oct 29, 2026",
       "summary": "Canadian Investment Regulatory Organization Trading Halt - EMO – Company Announcement Financial Times",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Canadian Investment Regulatory Organization Trading Halt - PNC.A – Company Announcement - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUnNiSUZjVzgwZEZjRXBUbUt1U2FET0V4UEF5bUNwMS03dXkwb0FGdFZWT3JTSW9HMGJTU0NESVlTZjdUMlh1Z2pnckpwOTdjUDFPQUNjZFdTRUg0MGJxdV9zYkhjS1lueTBVNzVaT2w3ZV8zWmFfdjQ5R0NpQWEwYkhWYjg3RDFKTmNPLWp5VkhBZlNEeHc?oc=5",
-      "source": "Financial Times",
-      "date": "2026-10-29T17:00:00+00:00",
-      "display_date": "Oct 29, 2026",
-      "summary": "Canadian Investment Regulatory Organization Trading Halt - PNC.A – Company Announcement Financial Times",
       "topics": [
         "Regulatory Change"
       ]
@@ -199,17 +188,6 @@
       "summary": "The Securities and Exchange Commission today charged two foreign-operated, Colorado-incorporated entities, BG Wealth Sharing Ltd and DSJ Exchange Pty Ltd, for orchestrating a fraud scheme that used false SEC filings to boost confidence in their…",
       "topics": [
         "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "Eight of England’s nine water companies still failing on environment, report finds",
-      "link": "https://www.theguardian.com/business/2026/oct/29/ministers-water-bosses-report-performance-worse",
-      "source": "The Guardian Australia",
-      "date": "2026-10-29T16:39:48+00:00",
-      "display_date": "Oct 29, 2026",
-      "summary": "Angela Eagle tells industry ‘people are sick of excuses’ as pollution levels remain high despite billions in investment Angela Eagle, the environment secretary, has summoned water industry bosses to Whitehall after a report found that the environmental performance of the big comp...",
-      "topics": [
-        "ESG & Sustainability"
       ]
     },
     {
@@ -298,6 +276,17 @@
       "summary": "More than four out of five institutional investors expect to increase allocations to sustainable investments […]",
       "topics": [
         "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "Crypto exchange HTX agrees to exit UK after being sued by watchdog - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZktMUWNyQ0xJR0pUWl9BWDhwSExaQ3ZWYUQ0aVFNNHZZTkwyaG1pVGRRNGRUV0Z4X3VNZ2ZzQnpORmFWa3VsSHBIVG5nVUVuM3VYaWlWNF9jeHpaVW03T0tQZ2Vlb2hxWVNEVnVjVDIxTGRtWkM1NzRMdGNGb0RhdER2dTE?oc=5",
+      "source": "Financial Times",
+      "date": "2026-10-29T12:12:38+00:00",
+      "display_date": "Oct 29, 2026",
+      "summary": "Crypto exchange HTX agrees to exit UK after being sued by watchdog Financial Times",
+      "topics": [
+        "Enforcement Actions"
       ]
     },
     {
@@ -447,7 +436,7 @@
       "title": "Sale of scandal riddled planner InterPrac now ASIC’s business - The Australian",
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNEdVNGl0SVNIZ1BaamNDSXJuWDhoNGxueHQycE9vNUw2U3R2cGF2YUtXWW9GalVPVWJ3MnFWOEo1NzctUG5tODJxTEdTUVliWmpocXNJRWNSOEN6SUJjalVrOVRDSnJwNGpoQ2dqa0l5TFF1ZTM1Y3ByNnFfZjhTd1ZiVnFwbUNROC1rY09HMVdqRVhLODNiWXdBUUEtZ0x5dFZsWkpYX2FPajRTYWpqeF9lVU1GeGZ6OHRlVy1QVm5vbFpKWkdaT0ZadVV5MzI0UGotbHc2TnlvekhQbjJRZ3ZjeE1vOXFGOWluWg?oc=5",
       "source": "The Australian",
-      "date": "2026-10-29T06:05:02+00:00",
+      "date": "2026-10-29T05:53:00+00:00",
       "display_date": "Oct 29, 2026",
       "summary": "Sale of scandal riddled planner InterPrac now ASIC’s business The Australian",
       "topics": [
@@ -458,7 +447,7 @@
       "title": "Court rejects ‘fishing expedition’ by Super Retail ex-chief for ASIC files - The Australian",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPb2N6WGVCNHVvaC1FZ1VCR1FHRGtFSnJSRkNUWFRReXl6bkdVNVE0dGFRMFBfa2kxYXk5Z1RMSF93V0t0dXJ5Z2dEd3NBNG9iaE1pV091M3FBWWtOVTBidmFMN3RDVkNKOHIzUW5NZzc2VTBtVXZLU0JCTU5jWjFyTnZXUGhiNW5vcWlXZFlRdmtIMUdJWHBpdld5TDBiTy15dFNFQUNhMF9QX1l0dXR4QUtWaTdMYjJKOEZ2WThTZXNXVkE1X2RUUVhUeUF0ampQWFhSQWFpRDBqa3k0bkZ2ZFNGUHM4dVJNWkRwZ0NfXzBCWnZSd0tSQmU0cVNpelliUjhVUHA5SXM?oc=5",
       "source": "The Australian",
-      "date": "2026-10-29T05:07:28+00:00",
+      "date": "2026-10-29T05:01:00+00:00",
       "display_date": "Oct 29, 2026",
       "summary": "Court rejects ‘fishing expedition’ by Super Retail ex-chief for ASIC files The Australian",
       "topics": [
@@ -496,17 +485,6 @@
       "summary": "ASIC examines conduct of bankers behind the Firmus float failure AFR",
       "topics": [
         "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "Gen Z workers don’t want to be the boss. Can you really blame them?",
-      "link": "https://www.smh.com.au/business/workplace/gen-z-workers-don-t-want-to-be-the-boss-can-you-really-blame-them-20261029-p619p0.html?ref=rss&utm_medium=rss&utm_source=rss_business",
-      "source": "The Sydney Morning Herald",
-      "date": "2026-10-29T02:14:38+00:00",
-      "display_date": "Oct 29, 2026",
-      "summary": "For years, the unspoken rule in workplaces is that everyone wanted to move up the ranks. But now fewer people want to be the boss, and it’s not hard to see why.",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
@@ -621,17 +599,6 @@
       ]
     },
     {
-      "title": "'Convincing' scam email used real booking number, check-in dates",
-      "link": "https://www.abc.net.au/news/2026-10-29/tas-federal-group-hotels-caught-up-in-rms-booking-data-breach/107317758",
-      "source": "ABC News Business (AU)",
-      "date": "2026-10-28T19:21:44+00:00",
-      "display_date": "Oct 28, 2026",
-      "summary": "Multiple hotels have been caught up in a phishing scam, with guests receiving fake emails which include details from legitimate bookings.",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
       "title": "FTC and 20 states sue Dollar General for allegedly overcharging customers",
       "link": "https://www.complianceweek.com/top-stories/ftc-and-20-states-sue-dollar-general-for-allegedly-overcharging-customers/",
       "source": "Compliance Week",
@@ -640,17 +607,6 @@
       "summary": "Dollar General routinely and knowingly overcharged customers, the FTC and 20 states allege in a complaint. The post FTC and 20 states sue Dollar General for allegedly overcharging customers appeared first on Compliance Week .",
       "topics": [
         "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Indigenous chefs bring native ingredients to fine dining circuit",
-      "link": "https://www.abc.net.au/news/2026-10-29/national-indigenous-culinary-institute-chef-training-program/107318392",
-      "source": "ABC News Business (AU)",
-      "date": "2026-10-28T18:30:00+00:00",
-      "display_date": "Oct 28, 2026",
-      "summary": "Graduates from the National Indigenous Culinary Institute are preparing to take up roles in world-class kitchens across the country after completing their apprentice training.",
-      "topics": [
-        "Enforcement Actions"
       ]
     },
     {
@@ -762,17 +718,6 @@
       "summary": "Clean energy startup Emvolon announced that it has raised $22 million in a Series A […]",
       "topics": [
         "ESG & Sustainability"
-      ]
-    },
-    {
-      "title": "Canadian Investment Regulatory Organization Trading Halt - AFN – Company Announcement - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcTdlN1FCV1ZYdjJXSUg4bF92V1lweVNvRVd6V0NUUm5acjFVRk9Ra0xyWVN1X2tPcXRHNHpxQ3JhLTY2MWJ5Yjl5eE11aDRyVHpESlpPQmhGczRfWGpJaUd6Szc4b1JWZW00X0o0SWJjR1VNQlUxY0x4enFnLVVlQ2RmY0pXSmlheDBzWmFxVmI1dHVLRFE?oc=5",
-      "source": "Financial Times",
-      "date": "2026-10-28T14:25:00+00:00",
-      "display_date": "Oct 28, 2026",
-      "summary": "Canadian Investment Regulatory Organization Trading Halt - AFN – Company Announcement Financial Times",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
@@ -1177,17 +1122,6 @@
       ]
     },
     {
-      "title": "Canadian Investment Regulatory Organization Trade Resumption - LGN – Company Announcement - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUEFhRWt6azAxdnA2N1BRZmhFYkZRR3IzWmFtS2ZxSFhfdnRqd3BWRXZ3SkNWMVp6SkdXSC1EenAweUEzUW5sMjR0cE5MdnBPck1MZjNWXzBBZjZtbmgwa09VcFlCZzh4T0tvS1FTUGk1Ul9Zc0dFdDVoT0JyYnR2T1B2ZjBnT3NUUkRNZ2FHQ3d2Z1pjM2c?oc=5",
-      "source": "Financial Times",
-      "date": "2026-10-26T16:02:00+00:00",
-      "display_date": "Oct 26, 2026",
-      "summary": "Canadian Investment Regulatory Organization Trade Resumption - LGN – Company Announcement Financial Times",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "Slovakia to develop Russia ties in areas not hit by sanctions, minister says after Moscow talks - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVWZhLXhIRHFmWGYybC1nMldBMFRYVDU0TTZZOFg5TEZldkNMY0JPbUY5Q29jLURVdmRwYVMwenhKOU81dVVKMkJYM0hYWjBJYkUzZjZxNS1GT2t0WHBPNGpPR04xU0VpeFFoWW9uQ2k2SXIxSFM5M3NxUHZPYjFiMU53WmdicUxkYTYxeEpOYUhZaGlVamVTRHp1c0tVTVdaVEdQazlkeHp6R0dBZEhFYkp1NGhDTmts?oc=5",
       "source": "Reuters",
@@ -1196,17 +1130,6 @@
       "summary": "Slovakia to develop Russia ties in areas not hit by sanctions, minister says after Moscow talks Reuters",
       "topics": [
         "AML & Sanctions"
-      ]
-    },
-    {
-      "title": "Canadian Investment Regulatory Organization Trade Resumption - COCO – Company Announcement - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQU1paUV9mTTNDY2RGUklOUUNzUk84cmlzSjRCMzBEcHNPQ3hjVmZqZmlVZDNXS2lIVXlLd1JSNXo0WDQ4d0Rld09rdExXZmo0d3FXRGZyTHZZenkxWjdPVlZWTW5vYWxFMEFMWi1zUWZkcTV5SnE1cUhYWlBUUnZZSGtPNWg3MmQ5LW5zclVBcG5yVnUydEE?oc=5",
-      "source": "Financial Times",
-      "date": "2026-10-26T14:10:00+00:00",
-      "display_date": "Oct 26, 2026",
-      "summary": "Canadian Investment Regulatory Organization Trade Resumption - COCO – Company Announcement Financial Times",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
@@ -1298,6 +1221,17 @@
       ]
     },
     {
+      "title": "US NRC Issues Final Environmental Impact Statement for Planned Paducah Laser Enrichment Facility - AFR",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUVNwNGRwOWpTdUVXXzc5aWhidDBWcnFxdzRraE1zZDZkQmd1Q2NqQlEzZWp3cmE2SDNNVGN5TG52aFdWS09jRmF0enozNUJrbzVpQ1FXc1FjX2hQdktSMHRQVDBwMndXTnZwMV9pR3hUU3ZmMDgxbXBweDhwcE1ISHdfcEYzS0VWSWVHb3lhTQ?oc=5",
+      "source": "AFR",
+      "date": "2026-10-26T04:27:36+00:00",
+      "display_date": "Oct 26, 2026",
+      "summary": "US NRC Issues Final Environmental Impact Statement for Planned Paducah Laser Enrichment Facility AFR",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
       "title": "Cutting ‘red tape’ is nothing but a red herring – and arguably counterproductive | Heather Stewart",
       "link": "https://www.theguardian.com/business/2026/oct/25/cutting-red-tape-is-nothing-but-a-red-herring-and-arguably-counterproductive",
       "source": "The Guardian Australia",
@@ -1328,17 +1262,6 @@
       "summary": "Netanyahu Says Israel Mulls Crypto Ahead of Possible Sanctions Bloomberg.com",
       "topics": [
         "AML & Sanctions"
-      ]
-    },
-    {
-      "title": "Airlines fume at regulator’s plan to double navigation fees - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOT3V5M3hfdzRKY1J0VU1nbTJYSVdNMnVwa0tmQzFhMkVMNVNhNndTSy1BVXRaLUdVOEQ4SkZXRnE3WmpUektCRUFrd2F2VFVTSXNLcjR6SzlUbkhxZklpTFpPSXRrRHRvUnFPY1c3VVI5eVlESXhjTnBrQm1aRnl5QlNfUkhVcFBYUGctS3hlQnNkdGhDLWZVeWZ6ZFpsREJTSmhzcFhrcmdHTXQ3ZEh3LVh6dThlWkZ2eDNZd1BCY2lMSmIyS2MwOFNxY3BEaGtraFVfS3Y2WkxzVXRYZ2h1aUpKaXhFT2RqY04wcW12b0RlanEyODJuZG5pNndEQkpm?oc=5",
-      "source": "The Australian",
-      "date": "2026-10-25T02:29:00+00:00",
-      "display_date": "Oct 25, 2026",
-      "summary": "Airlines fume at regulator’s plan to double navigation fees The Australian",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
@@ -1416,17 +1339,6 @@
       "summary": "Restrictions have been placed on 6 unregulated lenders, known as Annex 1 firms, after the FCA raised concerns about their anti-money laundering policies, controls and procedures while assessing their applications. The restrictions were imposed by the FCA on each firm’s request an...",
       "topics": [
         "AML & Sanctions"
-      ]
-    },
-    {
-      "title": "ACCC clears Vocus to buy Nextgen - The Australian - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeWUtcnhJX2wyYThzbjZLYU9VX3ZXaGJMVW1VWEI4cXRFWGhzU1dHVmVqN1BCN3pjWE1tUVpRVklja29qWjMwdmg1cGdIMGQ4OC1ZLTJKYkphVl9QOUxvVEprYUtSYlBxSGxxeERQY2FBZW1tX1dxaHRleS1Eek9NTmc0ZHI0M3FnWG9kcm53RHcxMFlZRkFQblNIRG5UTVJjdG1UdDJZTnVxWGI4OWJhTE9ydHpZbUZzVV96bElqYXRDUDg?oc=5",
-      "source": "The Australian",
-      "date": "2026-10-23T09:03:44+00:00",
-      "display_date": "Oct 23, 2026",
-      "summary": "ACCC clears Vocus to buy Nextgen - The Australian The Australian",
-      "topics": [
-        "Enforcement Actions"
       ]
     },
     {
