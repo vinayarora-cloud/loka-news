@@ -1,7 +1,18 @@
 {
-  "last_updated": "November 01, 2026 12:33 UTC",
-  "total_count": 211,
+  "last_updated": "November 01, 2026 16:27 UTC",
+  "total_count": 209,
   "articles": [
+    {
+      "title": "Australia nears 'largest property downturn in 40 years' as prices plunge",
+      "link": "https://www.abc.net.au/news/2026-11-02/house-prices-fall-in-october-biggest-downturn-40-years-cotality/107325214",
+      "source": "ABC News Business (AU)",
+      "date": "2026-11-01T13:01:00+00:00",
+      "display_date": "Nov 01, 2026",
+      "summary": "House prices have fallen for a seventh consecutive month, with the speed of the decline tracking at the fastest pace in 40 years, according to a property research group.",
+      "topics": [
+        "Data Privacy"
+      ]
+    },
     {
       "title": "ESG Today: Week in Review",
       "link": "https://www.esgtoday.com/esg-today-week-in-review-281/?utm_source=rss&utm_medium=rss&utm_campaign=esg-today-week-in-review-281",
@@ -172,17 +183,6 @@
       ]
     },
     {
-      "title": "AbbVie Revenue Rises on Strength in Immunology, Neuroscience",
-      "link": "https://www.wsj.com/business/earnings/abbvie-revenue-rises-on-strength-in-immunology-neuroscience-1fb8fdb7?mod=pls_whats_news_us_business_f",
-      "source": "Wall Street Journal",
-      "date": "2026-10-30T12:00:00+00:00",
-      "display_date": "Oct 30, 2026",
-      "summary": "The pharmaceutical company boosted its profit outlook for the year, and raised its quarterly dividend as both third-quarter results and full-year guidance came in above expectations.",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/10/30/cisa-adds-two-known-exploited-vulnerabilities-catalog",
       "source": "CISA Cybersecurity Advisories",
@@ -268,17 +268,6 @@
       "summary": "Russian businessman blames sanctions in £30mn divorce battle Financial Times",
       "topics": [
         "AML & Sanctions"
-      ]
-    },
-    {
-      "title": "ASIC sues principals over $500m fund collapse alleging sham loans - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPeVJkejdyUFNPYk14a2ZPNEkwLVVBU0hpMkhQVWsxNkNhVUl2cG9xb1V4YlhOYW1hTWw5MGxCcVBWQ0xLNWkyYWN2RDdYbDhULVhwYmluaTl3QzZuNE41VEhmSF9SSUQ5RWJfZ3V1QWpHQjk5SnNCMGlZa1gzVnlUYWJyUEZ2ZWZiN2tWSmo4R3dqX1BRczhxclVJWU9aQ2psTE96MWFkNkZjemNFR3dIR2VYeGhXZnFPMU9GV3lSRl9XSEdUR1h4bE5HdWtpckF6Ylp6bmpES2R4N1VuUHU4MmZfbGZ3OUJQUEx2a0RJc3RzbUk0MlhDYjhWNkpBSld0V2VB?oc=5",
-      "source": "The Australian",
-      "date": "2026-10-30T04:14:00+00:00",
-      "display_date": "Oct 30, 2026",
-      "summary": "ASIC sues principals over $500m fund collapse alleging sham loans The Australian",
-      "topics": [
-        "Enforcement Actions"
       ]
     },
     {
@@ -947,6 +936,17 @@
       ]
     },
     {
+      "title": "The chancellor’s pet PuFins have an important role – but they need more scrutiny | Nils Pratley",
+      "link": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/oct/27/the-chancellors-pet-pufins-have-an-important-role-but-they-need-more-scrutiny",
+      "source": "The Guardian Australia",
+      "date": "2026-10-27T17:41:03+00:00",
+      "display_date": "Oct 27, 2026",
+      "summary": "A regulator to keep the National Wealth Fund and the British Business Bank on mission is starting to look essential Two winners in the budget are known already. They are the National Wealth Fund and the British Business Bank, state-funded investment bodies that have rapidly becom...",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
       "title": "UPS beats quarterly expectations, raises full-year guidance again",
       "link": "https://www.cnbc.com/2026/10/27/ups-ups-q3-2026-earnings.html",
       "source": "CNBC",
@@ -1080,17 +1080,6 @@
       ]
     },
     {
-      "title": "Endangered turtles and ‘exceptional’ coral at risk from Woodside’s gas drilling in WA, watchdog says",
-      "link": "https://www.theguardian.com/australia-news/2026/oct/27/endangered-turtles-and-exceptional-coral-at-risk-from-woodsides-gas-drilling-in-wa-watchdog-says",
-      "source": "The Guardian Australia",
-      "date": "2026-10-26T14:00:45+00:00",
-      "display_date": "Oct 26, 2026",
-      "summary": "Exclusive : EPA flags oil spill risk from proposed gasfield and threat to pygmy blue whales Follow our Australian politics live blog for latest updates Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here Woodside Energy’s plan to drill for gas ...",
-      "topics": [
-        "ESG & Sustainability"
-      ]
-    },
-    {
       "title": "Defence SMEs need banking services that work",
       "link": "https://www.fca.org.uk/news/blogs/defence-smes-need-banking-services-work",
       "source": "FCA UK Regulatory News",
@@ -1143,17 +1132,6 @@
       "summary": "US NRC Issues Final Environmental Impact Statement for Planned Paducah Laser Enrichment Facility AFR",
       "topics": [
         "ESG & Sustainability"
-      ]
-    },
-    {
-      "title": "Netanyahu rebuked for plan to use crypto to bypass economic sanctions - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdEZIYi1YYkZXSDlUeWN0cUgzdzdudTFUNlF5bHE1eVM4Z1NZeUFxVWZrVXp3d0N1dnRRWU5iYzZSc3J5QlJiQ3c4bllDUXFJcFFFdjNGeTFPbGhxc2VRZjYzV1dLSmtKX2JqQlpfd2U4RTFmWUhoRGFtVUVtVWRSc0NBZjc0NjhUdUVLNmM2dDVBYUxLOWRob3BwWkY2bnBKSlhnSGc0aXVfTEZ5RjBsTDJ3?oc=5",
-      "source": "Reuters",
-      "date": "2026-10-25T12:15:33+00:00",
-      "display_date": "Oct 25, 2026",
-      "summary": "Netanyahu rebuked for plan to use crypto to bypass economic sanctions Reuters",
-      "topics": [
-        "AML & Sanctions"
       ]
     },
     {
