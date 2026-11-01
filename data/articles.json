@@ -1,7 +1,20 @@
 {
-  "last_updated": "November 01, 2026 08:38 UTC",
-  "total_count": 213,
+  "last_updated": "November 01, 2026 12:33 UTC",
+  "total_count": 211,
   "articles": [
+    {
+      "title": "ESG Today: Week in Review",
+      "link": "https://www.esgtoday.com/esg-today-week-in-review-281/?utm_source=rss&utm_medium=rss&utm_campaign=esg-today-week-in-review-281",
+      "source": "ESG Today",
+      "date": "2026-11-01T10:24:42+00:00",
+      "display_date": "Nov 01, 2026",
+      "summary": "This week in ESG news: EU Commission launches climate resilience framework; investors urge ISSB to […]",
+      "topics": [
+        "Regulatory Change",
+        "ESG & Sustainability",
+        "Operational & Enterprise Risk"
+      ]
+    },
     {
       "title": "The three key issues on ASIC’s radar as it unpicks Firmus’ IPO flop - AFR",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMDNvVUVTZWpjSEJCemJOQ1ZRQVBhT1BUc0FITDNfaDV5TnZUNmhTNDM1clQyWWxndkw0OWpBMlV1eDZmWTdxenR1TEhDUkZTQll1dEVoaVlub3NXcDN0cU45ZmRzWjdqTF9EdkVZQ2M3elRaMkZuMXB5Z3BRSnV3ZmZhZ3lSZmp4YU1GcWlMZDdpWWg2OTJmUUdSMmtTZEhUWmFxTkJtQVdCTTZ5Qkl6R21KbkkzNlNUbG4tNGVaM1pRYlhvdjhKLVE5cw?oc=5",
@@ -45,17 +58,6 @@
       "summary": "SoftBank-Backed OPay Halts IPO to Respond to Regulatory Inquiry Bloomberg.com",
       "topics": [
         "Regulatory Change"
-      ]
-    },
-    {
-      "title": "CORPORATE GOVERNANCE STATEMENT As at 30 October 2026 The Board of Directors of Dateline Resources Limited (the “Company” or - AFR",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSFhYS05vYXc2cmdTS1cxWHBrSWlKSWNiSTlieGFlSWhLdEl4aFliVVM0aTl6V0tjZ2pvZVVNWWVLMXZ3T3RBWVJHdlRIWjBDWThSV3VGN0JpbGE0dHdkYUNmeTVQMFNEbHJLN1JJMndTaTBXalQ3LXlxRjA1cUdpdGpjSW5ZSHVUWUFpNVA0dw?oc=5",
-      "source": "AFR",
-      "date": "2026-10-30T22:17:46+00:00",
-      "display_date": "Oct 30, 2026",
-      "summary": "CORPORATE GOVERNANCE STATEMENT As at 30 October 2026 The Board of Directors of Dateline Resources Limited (the “Company” or AFR",
-      "topics": [
-        "Operational & Enterprise Risk"
       ]
     },
     {
@@ -266,6 +268,17 @@
       "summary": "Russian businessman blames sanctions in £30mn divorce battle Financial Times",
       "topics": [
         "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "ASIC sues principals over $500m fund collapse alleging sham loans - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPeVJkejdyUFNPYk14a2ZPNEkwLVVBU0hpMkhQVWsxNkNhVUl2cG9xb1V4YlhOYW1hTWw5MGxCcVBWQ0xLNWkyYWN2RDdYbDhULVhwYmluaTl3QzZuNE41VEhmSF9SSUQ5RWJfZ3V1QWpHQjk5SnNCMGlZa1gzVnlUYWJyUEZ2ZWZiN2tWSmo4R3dqX1BRczhxclVJWU9aQ2psTE96MWFkNkZjemNFR3dIR2VYeGhXZnFPMU9GV3lSRl9XSEdUR1h4bE5HdWtpckF6Ylp6bmpES2R4N1VuUHU4MmZfbGZ3OUJQUEx2a0RJc3RzbUk0MlhDYjhWNkpBSld0V2VB?oc=5",
+      "source": "The Australian",
+      "date": "2026-10-30T04:14:00+00:00",
+      "display_date": "Oct 30, 2026",
+      "summary": "ASIC sues principals over $500m fund collapse alleging sham loans The Australian",
+      "topics": [
+        "Enforcement Actions"
       ]
     },
     {
@@ -788,7 +801,7 @@
       ]
     },
     {
-      "title": "EU Sustainable Finance and Investor Groups Push Back Against Weaker Sustainability Reporting Rules for Non-EU Companies",
+      "title": "Sustainable Finance and Investor Groups Push Back Against Weaker CSRD Sustainability Reporting Rules for Non-EU Companies",
       "link": "https://www.esgtoday.com/eu-sustainable-finance-investor-groups-push-back-against-weaker-sustainability-reporting-rules-for-non-eu-companies/?utm_source=rss&utm_medium=rss&utm_campaign=eu-sustainable-finance-investor-groups-push-back-against-weaker-sustainability-reporting-rules-for-non-eu-companies",
       "source": "ESG Today",
       "date": "2026-10-28T15:50:23+00:00",
@@ -808,17 +821,6 @@
       "topics": [
         "Enforcement Actions",
         "AML & Sanctions"
-      ]
-    },
-    {
-      "title": "Emvolon Raises $22 Million to Turn Waste Greenhouse Gas into Sustainable Fuels",
-      "link": "https://www.esgtoday.com/emvolon-raises-22-million-to-turn-waste-greenhouse-gas-into-sustainable-fuels/?utm_source=rss&utm_medium=rss&utm_campaign=emvolon-raises-22-million-to-turn-waste-greenhouse-gas-into-sustainable-fuels",
-      "source": "ESG Today",
-      "date": "2026-10-28T14:30:59+00:00",
-      "display_date": "Oct 28, 2026",
-      "summary": "Clean energy startup Emvolon announced that it has raised $22 million in a Series A […]",
-      "topics": [
-        "ESG & Sustainability"
       ]
     },
     {
@@ -942,17 +944,6 @@
       "summary": "Comptroller of the Currency Jonathan V. Gould today discussed the Office of the Comptroller of the Currency's (OCC) work to help community banks thrive and remain dynamic as the financial industry evolves in remarks before the Ohio Bankers League.",
       "topics": [
         "Operational & Enterprise Risk"
-      ]
-    },
-    {
-      "title": "The chancellor’s pet PuFins have an important role – but they need more scrutiny | Nils Pratley",
-      "link": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/oct/27/the-chancellors-pet-pufins-have-an-important-role-but-they-need-more-scrutiny",
-      "source": "The Guardian Australia",
-      "date": "2026-10-27T17:41:03+00:00",
-      "display_date": "Oct 27, 2026",
-      "summary": "A regulator to keep the National Wealth Fund and the British Business Bank on mission is starting to look essential Two winners in the budget are known already. They are the National Wealth Fund and the British Business Bank, state-funded investment bodies that have rapidly becom...",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
@@ -1163,17 +1154,6 @@
       "summary": "Netanyahu rebuked for plan to use crypto to bypass economic sanctions Reuters",
       "topics": [
         "AML & Sanctions"
-      ]
-    },
-    {
-      "title": "Four ways US foreign policy could change if Democrats win in November - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYVRLMHJmdldMQ1h3TUZkbmpNUUZqUlVTY1VPaTNpU0JLc2xua051SmgtQUJzcFlnRjV3a3VaWVctNFM0dF80X2VKMlM5UTNIQkV4YmJ4TTAxdDFVS2EtdFN6R2pfTDVTVnNfZjJOYXdxbTV3eGxQeUFPZV85ZjBNb0I2dlpVdU9DQkhDaWI2Z214Wko2cUVLenFCYWUtLVY5WF9ydlJOTmlkdjN4RloxQQ?oc=5",
-      "source": "Reuters",
-      "date": "2026-10-25T11:02:30+00:00",
-      "display_date": "Oct 25, 2026",
-      "summary": "Four ways US foreign policy could change if Democrats win in November Reuters",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
