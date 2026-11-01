@@ -1,7 +1,18 @@
 {
-  "last_updated": "October 31, 2026 20:23 UTC",
-  "total_count": 203,
+  "last_updated": "November 01, 2026 00:36 UTC",
+  "total_count": 201,
   "articles": [
+    {
+      "title": "Liberal MP pushes for party to rule out changes to superannuation",
+      "link": "https://www.abc.net.au/news/2026-11-01/liberal-pushes-for-shift-on-superannuation/107328948",
+      "source": "ABC News Business (AU)",
+      "date": "2026-10-31T22:01:23+00:00",
+      "display_date": "Oct 31, 2026",
+      "summary": "Garth Hamilton argues the party has to shift its policy to reflect the mood of the nation and abandon any return to a super-for-housing type of policy.",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
     {
       "title": "SoftBank-Backed OPay Halts IPO to Respond to Regulatory Inquiry - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNWM5MF80T3I5dUtwOGNZOEtrWU5YN1M3UUN1ZWkzc002OG1tZDNjbjc2S1BWbjRIaXdqMUtfY080ZXppSzBHaVlVZ081dVp0VUlDZWZTVWtnaEtqM0VENF9HMWFodzJTQXczeFVWSG5iVnhlN2FWcjVQanFTQkNQeVgtZWhCYWhVbjZzRW1iRnVYcUktdlNjSTRvejJIajhfVmxyNkYtNjFRbTdSa3VxMW5mb2s?oc=5",
@@ -243,17 +254,6 @@
       "summary": "Russian businessman blames sanctions in £30mn divorce battle Financial Times",
       "topics": [
         "AML & Sanctions"
-      ]
-    },
-    {
-      "title": "ASIC sues principals over $500m fund collapse alleging sham loans - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPeVJkejdyUFNPYk14a2ZPNEkwLVVBU0hpMkhQVWsxNkNhVUl2cG9xb1V4YlhOYW1hTWw5MGxCcVBWQ0xLNWkyYWN2RDdYbDhULVhwYmluaTl3QzZuNE41VEhmSF9SSUQ5RWJfZ3V1QWpHQjk5SnNCMGlZa1gzVnlUYWJyUEZ2ZWZiN2tWSmo4R3dqX1BRczhxclVJWU9aQ2psTE96MWFkNkZjemNFR3dIR2VYeGhXZnFPMU9GV3lSRl9XSEdUR1h4bE5HdWtpckF6Ylp6bmpES2R4N1VuUHU4MmZfbGZ3OUJQUEx2a0RJc3RzbUk0MlhDYjhWNkpBSld0V2VB?oc=5",
-      "source": "The Australian",
-      "date": "2026-10-30T04:14:00+00:00",
-      "display_date": "Oct 30, 2026",
-      "summary": "ASIC sues principals over $500m fund collapse alleging sham loans The Australian",
-      "topics": [
-        "Enforcement Actions"
       ]
     },
     {
@@ -720,17 +720,6 @@
       ]
     },
     {
-      "title": "US sanctions North Korean network accused of defrauding businesses - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWUtIYXNSS25velBzRjB0ZGpaYWtLdDhVb3VVeUprZUkxeEVBWUlMdC0wc2gyUU5UR3FWOHozOWdxRThDNlVHRC1aVFBzVGJsZThtLUZWMmEza3QtU0Y4c0VxQlptYjlVbEtuV2NEQ1dzeHVNMjR0RUlCX2Rla0NhbkFFdmlxOFVQbTBfZUpEWXRjQno2Q3VEblB5Q2RDcHM?oc=5",
-      "source": "Reuters",
-      "date": "2026-10-28T16:58:38+00:00",
-      "display_date": "Oct 28, 2026",
-      "summary": "US sanctions North Korean network accused of defrauding businesses Reuters",
-      "topics": [
-        "AML & Sanctions"
-      ]
-    },
-    {
       "title": "US imposes sanctions on Rwanda's defense ministry over Congo conflict - Reuters",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSFV5WTBDc2l5NVRFbllUS1NOZzZTM2x3cVVmaV9ydHhIdGRScmJVV3FQYTdJYlRMclVKZHVCSTEwcnpJaGpVUDZmVWlfZzN6NzA1b0VrZllGZHhWYVc5YkpCYTFONl82NlI5MWVxZ1NzZ3BPRzU4aG9iNlZLLWtVWW0tdXN4ZmVfbktkeHlKV1VpZG44RlNIZEVR?oc=5",
       "source": "Reuters",
@@ -750,17 +739,6 @@
       "summary": "CVS reached a $315 million settlement with the U.S. government for failing to implement safeguards against illegally dispensing controlled substances, offering lessons for compliance teams at U.S. retail pharmacy chains. The post CVS’s $315M opioid settlement brings compliance le...",
       "topics": [
         "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "India markets regulator weighs domestic AI model for securities trading, chairman says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeXZ5eDY4d1U2WWVRVDFIbHJhc1ROWjVzVHZqSGZLZlg0RjJ4NTNCVTAyVHJBSFkwbXE1OHlqV2dhR2QtTTZULTF5SmFZd00waDhjTTFENTZldjhWYTE2ai1XNXpSeWJGdG5SQUdJdGFITk1aZWZabUcyUU1lUE5iNzQwcE1QMl81c1lqZ3czaWlUWkhaU3d2THBUbExjTmxxZlFvRkwyYldZX1N2eTdwUFVEQ0RCeDJKY3hIb082d0s5Zw?oc=5",
-      "source": "Reuters",
-      "date": "2026-10-28T16:22:08+00:00",
-      "display_date": "Oct 28, 2026",
-      "summary": "India markets regulator weighs domestic AI model for securities trading, chairman says Reuters",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
@@ -894,17 +872,6 @@
       "date": "2026-10-27T22:54:00+00:00",
       "display_date": "Oct 27, 2026",
       "summary": "The Manhattan District Attorney’s Office has launched a Corporate Crime and Antitrust Task Force to focus on complex fraud and misconduct investigations. The post New Manhattan DA team is aimed at corporate crime appeared first on Compliance Week .",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "Trump administration sued over rollback of corporate ownership reporting rules - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOU1B3bjV2aWFYWk5PUVg0STlrV2pOVjJEZW5pQWlYZjJzcFFPb2oteTdhYUk4N09FYXZiWTBDSWRRemExT1ZkSU1peW50OFkySHl2cE05ajNMZkR3M0pibzl5S0ZrNzI4eWx5WS1mTmwxeGRzamFLQkNhV2pHd1pIQ25EX3o1TG8tdVJiMVVVMHJiZmk0WDZhOTdOcE9oTlY2d1dZbzctMXkycy1SSmwzQjd0Y0c5LTloRkhMVzBGek5JOGMxVzNJ?oc=5",
-      "source": "Reuters",
-      "date": "2026-10-27T22:43:55+00:00",
-      "display_date": "Oct 27, 2026",
-      "summary": "Trump administration sued over rollback of corporate ownership reporting rules Reuters",
       "topics": [
         "Enforcement Actions"
       ]
@@ -1131,6 +1098,17 @@
       ]
     },
     {
+      "title": "US NRC Issues Final Environmental Impact Statement for Planned Paducah Laser Enrichment Facility - AFR",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUVNwNGRwOWpTdUVXXzc5aWhidDBWcnFxdzRraE1zZDZkQmd1Q2NqQlEzZWp3cmE2SDNNVGN5TG52aFdWS09jRmF0enozNUJrbzVpQ1FXc1FjX2hQdktSMHRQVDBwMndXTnZwMV9pR3hUU3ZmMDgxbXBweDhwcE1ISHdfcEYzS0VWSWVHb3lhTQ?oc=5",
+      "source": "AFR",
+      "date": "2026-10-26T04:27:36+00:00",
+      "display_date": "Oct 26, 2026",
+      "summary": "US NRC Issues Final Environmental Impact Statement for Planned Paducah Laser Enrichment Facility AFR",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
       "title": "Netanyahu rebuked for plan to use crypto to bypass economic sanctions - Reuters",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdEZIYi1YYkZXSDlUeWN0cUgzdzdudTFUNlF5bHE1eVM4Z1NZeUFxVWZrVXp3d0N1dnRRWU5iYzZSc3J5QlJiQ3c4bllDUXFJcFFFdjNGeTFPbGhxc2VRZjYzV1dLSmtKX2JqQlpfd2U4RTFmWUhoRGFtVUVtVWRSc0NBZjc0NjhUdUVLNmM2dDVBYUxLOWRob3BwWkY2bnBKSlhnSGc0aXVfTEZ5RjBsTDJ3?oc=5",
       "source": "Reuters",
@@ -1142,14 +1120,14 @@
       ]
     },
     {
-      "title": "Four ways US foreign policy could change if Democrats win in November - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYVRLMHJmdldMQ1h3TUZkbmpNUUZqUlVTY1VPaTNpU0JLc2xua051SmgtQUJzcFlnRjV3a3VaWVctNFM0dF80X2VKMlM5UTNIQkV4YmJ4TTAxdDFVS2EtdFN6R2pfTDVTVnNfZjJOYXdxbTV3eGxQeUFPZV85ZjBNb0I2dlpVdU9DQkhDaWI2Z214Wko2cUVLenFCYWUtLVY5WF9ydlJOTmlkdjN4RloxQQ?oc=5",
-      "source": "Reuters",
-      "date": "2026-10-25T11:02:30+00:00",
+      "title": "Netanyahu Says Israel Mulls Crypto Ahead of Possible Sanctions - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWHZ6VVBXaDh1SXE5ZTBFa3pJS2ExLWR4b1FFWVJVNlJqRThrWGlxRlVZd0ZKaEhlSnJKMGNPaktXODdmZFR2aWl3WUFlOXNMczFkNXN2SXktQWhvLVJEOFhSaHVaRU96NDlNVWZGdi1mRGo1NHFuSFJKQm1MRHg2NE5jbFVGOTEwd0NRRloxQTd1NlhydW9YaW8zMlRNcFNkVUtpeUNwUDM5MnBNYlozYUVDUQ?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-10-25T10:28:44+00:00",
       "display_date": "Oct 25, 2026",
-      "summary": "Four ways US foreign policy could change if Democrats win in November Reuters",
+      "summary": "Netanyahu Says Israel Mulls Crypto Ahead of Possible Sanctions Bloomberg.com",
       "topics": [
-        "Regulatory Change"
+        "AML & Sanctions"
       ]
     },
     {
