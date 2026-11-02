@@ -1,14 +1,36 @@
 {
-  "last_updated": "November 02, 2026 16:53 UTC",
-  "total_count": 207,
+  "last_updated": "November 02, 2026 20:37 UTC",
+  "total_count": 210,
   "articles": [
+    {
+      "title": "British Gas resume force-fitting prepayment meters months after £112m settlement",
+      "link": "https://www.theguardian.com/money/2026/nov/02/british-gas-resume-force-fitting-prepayment-meters-months-after-112m-settlement",
+      "source": "The Guardian Australia",
+      "date": "2026-11-02T20:05:17+00:00",
+      "display_date": "Nov 02, 2026",
+      "summary": "Regulators have lifted a block on the supplier, enabling it to install meters in the homes of people who cannot afford their energy bills British Gas has resumed force-fitting prepayment meters in the homes of people who cannot afford their energy bills just months after paying t...",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "Who is hacking Europe’s supermarket fridges and freezers, and why?",
+      "link": "https://www.theguardian.com/technology/2026/nov/02/europe-supermarket-fridges-freezers-who-hacking-why",
+      "source": "The Guardian Australia",
+      "date": "2026-11-02T19:07:40+00:00",
+      "display_date": "Nov 02, 2026",
+      "summary": "After a second apparent cyber-attack in as many weeks, we examine possible culprits and their motives Shop fridges and freezers across Europe hit by fresh suspected cyber-attack Supermarket fridges and freezers in seven European countries have malfunctioned , their thermostats re...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
     {
       "title": "Shop fridges and freezers across Europe hit by fresh suspected cyber-attack",
       "link": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack",
       "source": "The Guardian Australia",
       "date": "2026-11-02T16:39:20+00:00",
       "display_date": "Nov 02, 2026",
-      "summary": "Chains in seven countries say cooling unit temperatures rose overnight in incident similar to hack of French stores Supermarket chains in at least seven European countries have said the temperatures of refrigerators and freezers in some of their shops soared overnight to as high ...",
+      "summary": "Chains in seven countries say cooling unit temperatures rose overnight in incident similar to hack of French shops Who is hacking Europe’s supermarket fridges and freezers, and why? Supermarket chains in at least seven European countries have said the temperatures of refrigerator...",
       "topics": [
         "Cybersecurity Risk"
       ]
@@ -55,6 +77,17 @@
       "summary": "Dutch pension fund manager APG, on behalf of its pension fund client ABP, and infrastructure […]",
       "topics": [
         "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "Canadian Investment Regulatory Organization Trading Halt - NOBL – Company Announcement - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNd3FiUU1XX2h5OF9sVUZVbC1hUlRBRm9xRjVLVE9ScTYxeURuRU1rTmJ1WEJ3eE44Q2MtQUFMTGVNNTd1Ym1sa29ZUDhHNlBrdV9kblNkMGdDeHROZ1ZTV0FDVVlvTzVUMTYzWE5PTjRneVo2RXUwbUJ0ZElBdUM5WnNhZDM4OEJLYmdOX05yRjZBaG40RXc?oc=5",
+      "source": "Financial Times",
+      "date": "2026-11-02T13:32:00+00:00",
+      "display_date": "Nov 02, 2026",
+      "summary": "Canadian Investment Regulatory Organization Trading Halt - NOBL – Company Announcement Financial Times",
+      "topics": [
+        "Regulatory Change"
       ]
     },
     {
@@ -157,6 +190,17 @@
       ]
     },
     {
+      "title": "Millennium’s Raiskin Says Asia Markets Enjoying Regulatory Aid - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOM0FrX3ZTQVEzNVhON3RWeUV5dXZOOVNRbGlaUmV5aFVMRWZrLUFJQ0JZV3pCMFlvUUhZZHBMbC1NaDJ4bUlZLTRaQzU3QVlJeklXcEd5NEdZNnJtT1JuTWhLYnFuZDJYZFlaMjZqbVdLLVNDZjlHZXVrOHlVVUZCOFZDd3o1QzI2VjdzY2dyRGxaU3czZDlFSjRQdXp1OHcydDRmaGF5VjBhYUpLUTRoVUZLcW9YRmVnR0diWUFTMVZjazFHZmtJSnJ5d3hfX2ZCQVE?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-11-02T03:22:00+00:00",
+      "display_date": "Nov 02, 2026",
+      "summary": "Millennium’s Raiskin Says Asia Markets Enjoying Regulatory Aid Bloomberg.com",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
       "title": "ACCC clears Vocus to buy Nextgen - The Australian - The Australian",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeWUtcnhJX2wyYThzbjZLYU9VX3ZXaGJMVW1VWEI4cXRFWGhzU1dHVmVqN1BCN3pjWE1tUVpRVklja29qWjMwdmg1cGdIMGQ4OC1ZLTJKYkphVl9QOUxvVEprYUtSYlBxSGxxeERQY2FBZW1tX1dxaHRleS1Eek9NTmc0ZHI0M3FnWG9kcm53RHcxMFlZRkFQblNIRG5UTVJjdG1UdDJZTnVxWGI4OWJhTE9ydHpZbUZzVV96bElqYXRDUDg?oc=5",
       "source": "The Australian",
@@ -171,7 +215,7 @@
       "title": "Victim blaming: ASIC slams super funds over complaint failures - The Australian",
       "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOdmMxWDg2UDItaS1LRWxBU2xpQkFqUGdVNE5vOTMyNUVWWndjTE5aa3VaQXI2ZGJUaTJ3a0ZwdVUtQnhQelZhaGJDcWw3dzBieXN2WWtreTZJbWh2bG81d1lNUGYybkpkZXBVeTlvbEtkY0oxczFYdEFtNWUtbFNOSmJWUG5mbjRzZEVRQ2JVRlZUVlNzZ3RQcFRySkFXZkFGVHZjRU5PMWFER3NFQ3E4X2NKX2J6emQ3MGlyRHIzU09adGxzdWtxdkRHampzN3AzUnd3Ykg4RDhDOUNrWDVyaUlNSGh0bDU2Wk9vM0YxSVc2blNpSklmMGVEdmItY3BJcXpwc1kzNklXZGMxMHdDUE9ZTllCakZpeDEzSjJxUzVaX010VmU4?oc=5",
       "source": "The Australian",
-      "date": "2026-11-01T18:35:57+00:00",
+      "date": "2026-11-01T18:12:00+00:00",
       "display_date": "Nov 01, 2026",
       "summary": "Victim blaming: ASIC slams super funds over complaint failures The Australian",
       "topics": [
@@ -336,6 +380,17 @@
       ]
     },
     {
+      "title": "Canadian Investment Regulatory Organization Trading Halt - GLDR – Company Announcement - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcnk0alRHVFFLN3BuNzR6bzdnb3oyTGRSRUZydXVhMDFSeWFoZGN0bDlodFVqSDhnbXZkVUR5bUpNQkpPUERvZVA5Y09aaWlMRHlwVEZXR3NaRXNBQkppbmNfZm1UMGEtQ2k0cXI2RHFMMHZsWUE0U2RaaHFmVk1iaURsY3lnUWxPN2U1UUkyc0RXZ00?oc=5",
+      "source": "Financial Times",
+      "date": "2026-10-30T17:10:00+00:00",
+      "display_date": "Oct 30, 2026",
+      "summary": "Canadian Investment Regulatory Organization Trading Halt - GLDR – Company Announcement Financial Times",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
       "title": "Compliance Jobs Report: Oct. 30",
       "link": "https://www.radicalcompliance.com/2026/10/30/compliance-jobs-report-oct-30-2/",
       "source": "Radical Compliance",
@@ -356,6 +411,17 @@
       "topics": [
         "Regulatory Change",
         "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "Canadian Investment Regulatory Organization Trading Halt - DUNE – Company Announcement - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPanpJQ1RRbHhKM1BhZzQxWUtJSjRHdGhQWE82YWRwY0FYVkhmVU5jSkxlNXMxaVpMVDBKU3FhSGdsLUZBUnJ2ME9mOUpaSHNpR2poR2RLUnhrUl9VcVljUFFIZlBKWXJ6WkZDY1V6RmFrVkZtZU9YTWhXcjVQVjFjam9OODRpTTFHTEg2SHFnQllmVkNLd0E?oc=5",
+      "source": "Financial Times",
+      "date": "2026-10-30T13:23:00+00:00",
+      "display_date": "Oct 30, 2026",
+      "summary": "Canadian Investment Regulatory Organization Trading Halt - DUNE – Company Announcement Financial Times",
+      "topics": [
+        "Regulatory Change"
       ]
     },
     {
@@ -447,17 +513,6 @@
       ]
     },
     {
-      "title": "‘Biggest hack in history’: Crypto giant freezes assets after $8.9b heist",
-      "link": "https://www.smh.com.au/business/markets/biggest-hack-in-history-crypto-giant-freezes-assets-after-8-9b-heist-20261030-p61a4q.html?ref=rss&utm_medium=rss&utm_source=rss_business",
-      "source": "The Sydney Morning Herald",
-      "date": "2026-10-30T06:33:41+00:00",
-      "display_date": "Oct 30, 2026",
-      "summary": "Binance says a security breach had resulted in an estimated $8.9 billion impact. Analysts said it could amount to the biggest crypto heist ever.",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
       "title": "Russian businessman blames sanctions in £30mn divorce battle - Financial Times",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPU1lKOU5hSjhSZkI4R2RPbVhVdWU4OVkwTEJfaldDeTg0MUtyaWVNSllOR01ranlsLUdTbGxLTzFmbGdORElDMXNtTXlLNkoxaHQ1LTlzS3NBWVR3Y0d3YW8wWUUxWFgzQVRiUExSdU5mVjlURWZFU3haeXRoYXA2QnV0LUo?oc=5",
       "source": "Financial Times",
@@ -530,6 +585,17 @@
       "date": "2026-10-29T20:52:00+00:00",
       "display_date": "Oct 29, 2026",
       "summary": "Federal Court blasts ‘false veneer’ in AUSTRAC’s case against Entain AFR",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "Doug Bergeron Exposes Undisclosed Court Sanctions Against Disgraced Ethan Allen Director Cynthia Ekberg Tsai - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOU0FQb2I0cXhWaWU2Zlk2WkNQcXpReGJTVFRuaXpxSnpYcG1JckhDUEFHcnU3ZHNxME54NldFYUhFa21XSTJMMUdJalpIcDg0XzJGVTEyVE1helNUTDk4bU9DMGtqRGtzTUdCTnpIQWZFRFNkUmFhQ1FyNkZFeHhBcTh4cHVDNjBpM0hDSEtEM0k4a2QxcUwyMUFVZklWeGpnV0x3d1JR?oc=5",
+      "source": "Financial Times",
+      "date": "2026-10-29T20:21:00+00:00",
+      "display_date": "Oct 29, 2026",
+      "summary": "Doug Bergeron Exposes Undisclosed Court Sanctions Against Disgraced Ethan Allen Director Cynthia Ekberg Tsai Financial Times",
       "topics": [
         "AML & Sanctions"
       ]
@@ -610,17 +676,6 @@
       "summary": "The business of GRC is ever-expanding, GRC technology is one of the fastest-growing segments in enterprise software, and compliance professions are rapidly evolving. Here’s the latest from across the industry. Product launches Government and legal technology provider Casepoint la...",
       "topics": [
         "Operational & Enterprise Risk"
-      ]
-    },
-    {
-      "title": "Crypto exchange HTX agrees to exit UK after being sued by watchdog - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZktMUWNyQ0xJR0pUWl9BWDhwSExaQ3ZWYUQ0aVFNNHZZTkwyaG1pVGRRNGRUV0Z4X3VNZ2ZzQnpORmFWa3VsSHBIVG5nVUVuM3VYaWlWNF9jeHpaVW03T0tQZ2Vlb2hxWVNEVnVjVDIxTGRtWkM1NzRMdGNGb0RhdER2dTE?oc=5",
-      "source": "Financial Times",
-      "date": "2026-10-29T12:12:38+00:00",
-      "display_date": "Oct 29, 2026",
-      "summary": "Crypto exchange HTX agrees to exit UK after being sued by watchdog Financial Times",
-      "topics": [
-        "Enforcement Actions"
       ]
     },
     {
@@ -878,17 +933,6 @@
       ]
     },
     {
-      "title": "India markets regulator weighs domestic AI model for securities trading, chairman says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeXZ5eDY4d1U2WWVRVDFIbHJhc1ROWjVzVHZqSGZLZlg0RjJ4NTNCVTAyVHJBSFkwbXE1OHlqV2dhR2QtTTZULTF5SmFZd00waDhjTTFENTZldjhWYTE2ai1XNXpSeWJGdG5SQUdJdGFITk1aZWZabUcyUU1lUE5iNzQwcE1QMl81c1lqZ3czaWlUWkhaU3d2THBUbExjTmxxZlFvRkwyYldZX1N2eTdwUFVEQ0RCeDJKY3hIb082d0s5Zw?oc=5",
-      "source": "Reuters",
-      "date": "2026-10-28T16:22:08+00:00",
-      "display_date": "Oct 28, 2026",
-      "summary": "India markets regulator weighs domestic AI model for securities trading, chairman says Reuters",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "‘Near Miss’ on Self-Disclosure Costs Company",
       "link": "https://www.radicalcompliance.com/2026/10/28/near-miss-on-self-disclosure-costs-company/",
       "source": "Radical Compliance",
@@ -969,28 +1013,6 @@
       ]
     },
     {
-      "title": "Trump administration sued over rollback of corporate ownership reporting rules - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOU1B3bjV2aWFYWk5PUVg0STlrV2pOVjJEZW5pQWlYZjJzcFFPb2oteTdhYUk4N09FYXZiWTBDSWRRemExT1ZkSU1peW50OFkySHl2cE05ajNMZkR3M0pibzl5S0ZrNzI4eWx5WS1mTmwxeGRzamFLQkNhV2pHd1pIQ25EX3o1TG8tdVJiMVVVMHJiZmk0WDZhOTdOcE9oTlY2d1dZbzctMXkycy1SSmwzQjd0Y0c5LTloRkhMVzBGek5JOGMxVzNJ?oc=5",
-      "source": "Reuters",
-      "date": "2026-10-27T22:43:55+00:00",
-      "display_date": "Oct 27, 2026",
-      "summary": "Trump administration sued over rollback of corporate ownership reporting rules Reuters",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "EXCLUSIVE: US agency is again probing if Polymarket broke 2022 settlement, sources says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQUJPZ2Rldk01TnljelMzZVdEcU05ZFFVaGs5bjlDUXVVNWI3bXh2V2JCV0JNR3pfSEJMZVRHUHRyN056MERTbGZUZFJySnlHbzYwUlEzNWcwLXBNclFIaTVNYTZRd3N6emw1OTVHVkhzNnpIcHBqQWJyalJUR2gzYXdZQ0I2RGNJV1N5VVpxVGszRVJQVzdBZFZvbks4VEQxQnktUWtiR2NCdFhITTVsZ0NxM2d3ZU9aUlpWWVVZcTQtMEJCc3ZZ?oc=5",
-      "source": "Reuters",
-      "date": "2026-10-27T19:10:41+00:00",
-      "display_date": "Oct 27, 2026",
-      "summary": "EXCLUSIVE: US agency is again probing if Polymarket broke 2022 settlement, sources says Reuters",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
       "title": "Comptroller Gould Discusses Efforts to Support Community Banks",
       "link": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-94.html",
       "source": "Office of the Comptroller of the Currency",
@@ -1002,14 +1024,25 @@
       ]
     },
     {
-      "title": "The chancellor’s pet PuFins have an important role – but they need more scrutiny | Nils Pratley",
-      "link": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/oct/27/the-chancellors-pet-pufins-have-an-important-role-but-they-need-more-scrutiny",
-      "source": "The Guardian Australia",
-      "date": "2026-10-27T17:41:03+00:00",
+      "title": "October 2026 Global Regulatory Brief: Bank stress tests, Basel III and insurance supervision - Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOT3JFbnF5NFBJelpmY1BRNDk0Q2Vvenh4bms5NTVpdlFCc2RIMHBUMGh2T0dMVEpCcnFmZXVZSXA3cHoyR1MxNk5Cd2pOcC05ak9lWWtsRmVkdTFaejRJcUJpa1pGWTJqZzBBRDVNR0VjTzVBYVVLNjJyNjlocHVHOUc4X05nemFJenRPYWVCREE1R0FaMFoyOVhmWkhsbWVUWERtSTFlWkVUTzVNS1Y4bjh6cTFpZUFaeGxVa0lwdHpPZXpwTTQ0WXNTU2U1ZUsxWFhPVk5NcWd4ZGRUbUNVMmRoYXc?oc=5",
+      "source": "Bloomberg",
+      "date": "2026-10-27T17:00:04+00:00",
       "display_date": "Oct 27, 2026",
-      "summary": "A regulator to keep the National Wealth Fund and the British Business Bank on mission is starting to look essential Two winners in the budget are known already. They are the National Wealth Fund and the British Business Bank, state-funded investment bodies that have rapidly becom...",
+      "summary": "October 2026 Global Regulatory Brief: Bank stress tests, Basel III and insurance supervision Bloomberg",
       "topics": [
         "Regulatory Change"
+      ]
+    },
+    {
+      "title": "EU’s SEC-Lite Plan Hinges on Governance, Outgoing Chief Warns - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOS3hMeWdKRXNuejRXUTUtbGRBOE15czlwNDVSZG0ycmM1NjljVnkzUUl6cUZNSzlla1RfMDZzZGdtdTF1dzh1aG9rUm1jZ3JLakZONW5razRXaXRoZU94VlNuWG55dDh1SEpVZ0cxck5tcEh3TWl0YjJpaTM3ZHFzQzh6Ny1jTzN1QWFxUGxTN05GQ3JZLXo1dVhCbjhnRzlWdFo4b3BWc0hqRVQ4a2Jucg?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-10-27T15:41:47+00:00",
+      "display_date": "Oct 27, 2026",
+      "summary": "EU’s SEC-Lite Plan Hinges on Governance, Outgoing Chief Warns Bloomberg.com",
+      "topics": [
+        "Operational & Enterprise Risk"
       ]
     },
     {
@@ -1079,6 +1112,17 @@
       ]
     },
     {
+      "title": "Co-Diagnostics' Joint Venture CoSara Diagnostics Completes Clinical Study and Regulatory Submission for Point-of-Care Tuberculosis Test, Sets Stage for Commercial Launch in India – Company Announcement - FT.com - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNjR2dmw0T0huaVFBMFFoYnBhZFcwUE9TRmhnZjBEVW9iRjg5NnlGZU5scTFfbjd5Q1VKd1lqYWdjWGY2VnlHeUlhazZWYlZWdWg2UmJTNVFIZXRiR3c1VEFmMlE2cnBPWDRpaFBHaHJmTkU2bTlKMXdNWFplQ3BvaDBEYzNRZXk2Yl83ZkpoZmtJb1p4cHc?oc=5",
+      "source": "Financial Times",
+      "date": "2026-10-27T11:45:00+00:00",
+      "display_date": "Oct 27, 2026",
+      "summary": "Co-Diagnostics' Joint Venture CoSara Diagnostics Completes Clinical Study and Regulatory Submission for Point-of-Care Tuberculosis Test, Sets Stage for Commercial Launch in India – Company Announcement - FT.com Financial Times",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
       "title": "Every New Rule Tempts You to Build a New Silo",
       "link": "https://www.corporatecomplianceinsights.com/every-new-rule-tempts-you-build-new-silo/",
       "source": "Corporate Compliance Insights",
@@ -1099,17 +1143,6 @@
       "topics": [
         "Regulatory Change",
         "Operational & Enterprise Risk"
-      ]
-    },
-    {
-      "title": "Firmus float failure a sign of ‘elevated market risk’: ASIC - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQTXpOVVIzTm84dDVWQTc2c05GUy1WN29CSmdtQzNsbWhCOTlIVUZpd3J3NzBxQUV4NXFfdHAzRUxEcTU5Zm9Ybk9aZ3lITEo2Q2hQN0lQbXE4d0dicnpEVGF0d0U4U1NfeFhublB3UXdUeTJ5d2hIOHRKUkhfMTRBdXp0VzZVaHJ6MkVnNFZCTGYwcEg2Q2UtWDdSYllhWDJiMFFnVFVGcld0YS1GZDZRYVhNRXFlS3FSYk9YekMxNkY4VDBab1pnXzJuQzltMjNXOHRCZmlmRmJXUENZMTZINHNGMklxQzl3dlRON04ySHpsNU1EQmI5TzA0TEdDTURlMUE3dGlQdzFkdw?oc=5",
-      "source": "The Australian",
-      "date": "2026-10-26T18:00:00+00:00",
-      "display_date": "Oct 26, 2026",
-      "summary": "Firmus float failure a sign of ‘elevated market risk’: ASIC The Australian",
-      "topics": [
-        "Enforcement Actions"
       ]
     },
     {
