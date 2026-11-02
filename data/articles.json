@@ -1,12 +1,23 @@
 {
-  "last_updated": "November 01, 2026 20:24 UTC",
-  "total_count": 208,
+  "last_updated": "November 02, 2026 00:38 UTC",
+  "total_count": 210,
   "articles": [
+    {
+      "title": "KPMG set to slash hundreds more jobs before Christmas",
+      "link": "https://www.smh.com.au/business/companies/kpmg-set-to-slash-hundreds-more-jobs-before-christmas-20261102-p61ai4.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+      "source": "The Sydney Morning Herald",
+      "date": "2026-11-01T23:27:24+00:00",
+      "display_date": "Nov 01, 2026",
+      "summary": "The latest round of job cuts will be executed within weeks as the whistleblower scandal continues to hammer its business.",
+      "topics": [
+        "Operational & Enterprise Risk"
+      ]
+    },
     {
       "title": "Victim blaming: ASIC slams super funds over complaint failures - The Australian",
       "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOdmMxWDg2UDItaS1LRWxBU2xpQkFqUGdVNE5vOTMyNUVWWndjTE5aa3VaQXI2ZGJUaTJ3a0ZwdVUtQnhQelZhaGJDcWw3dzBieXN2WWtreTZJbWh2bG81d1lNUGYybkpkZXBVeTlvbEtkY0oxczFYdEFtNWUtbFNOSmJWUG5mbjRzZEVRQ2JVRlZUVlNzZ3RQcFRySkFXZkFGVHZjRU5PMWFER3NFQ3E4X2NKX2J6emQ3MGlyRHIzU09adGxzdWtxdkRHampzN3AzUnd3Ykg4RDhDOUNrWDVyaUlNSGh0bDU2Wk9vM0YxSVc2blNpSklmMGVEdmItY3BJcXpwc1kzNklXZGMxMHdDUE9ZTllCakZpeDEzSjJxUzVaX010VmU4?oc=5",
       "source": "The Australian",
-      "date": "2026-11-01T18:35:46+00:00",
+      "date": "2026-11-01T18:18:58+00:00",
       "display_date": "Nov 01, 2026",
       "summary": "Victim blaming: ASIC slams super funds over complaint failures The Australian",
       "topics": [
@@ -25,7 +36,7 @@
       ]
     },
     {
-      "title": "Watchdog says super funds are failing their members",
+      "title": "Super funds issued with legal warning following regulator's damning report",
       "link": "https://www.abc.net.au/news/2026-11-02/superannuation-funds-failing-members-retirement-savings-asic/107319026",
       "source": "ABC News Business (AU)",
       "date": "2026-11-01T18:00:00+00:00",
@@ -149,17 +160,6 @@
       ]
     },
     {
-      "title": "This teen took over her family's budget and saved $2,000",
-      "link": "https://www.abc.net.au/news/2026-10-31/teenage-boss-molly-took-over-family-budget/107210636",
-      "source": "ABC News Business (AU)",
-      "date": "2026-10-30T18:30:00+00:00",
-      "display_date": "Oct 30, 2026",
-      "summary": "Parents might be tempted to shield children from financial conversations, but research suggests that open communication with kids can build resilience and money management skills that last a lifetime.",
-      "topics": [
-        "Operational & Enterprise Risk"
-      ]
-    },
-    {
       "title": "Conflicts of interest controls failing to keep up with private markets complexity, says UK financial regulator",
       "link": "https://www.complianceweek.com/regulatory-policy/conflicts-of-interest-controls-failing-to-keep-up-with-private-markets-complexity-says-uk-financial-regulator/",
       "source": "Compliance Week",
@@ -202,17 +202,6 @@
       "summary": "The British high-street bank’s shares dropped after it forecast weaker-than-expected interest income next year.",
       "topics": [
         "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Binance suspends transactions after it is targeted in biggest-ever cyber heist - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOdlNMX3R5WHVjeVg1YUZWcjRoSldncWZDRXlyb2ZoMUR6bkV5Um1ud2FSbmo5YVM1Vmx6cHJWSUFtNHZRSDE3Rzk2alV2dFkxUkNseEY5SE1tamtlazdLNURUSWtUMVdHMGhTRXlTSFNXWDZMR0NZTEwyLVlzcC1kZHBUdnM2YW53dlIwc1VfV09QaXRDZDF6TkRxLVJDRTBubkFfeGJyUlNWN0FXR0d2WDl3ZVVSa0JNY3d4dmptSkdNVDdmeFlSQmJ3aDh6dWlnb2ozU0l0ejR2SlpRRFA4UzRILVVjMGJ6TFFyelA5V0JpZEdNUkJRblNvalo?oc=5",
-      "source": "The Australian",
-      "date": "2026-10-30T12:45:00+00:00",
-      "display_date": "Oct 30, 2026",
-      "summary": "Binance suspends transactions after it is targeted in biggest-ever cyber heist The Australian",
-      "topics": [
-        "Cybersecurity Risk"
       ]
     },
     {
@@ -312,6 +301,17 @@
       "summary": "Russian businessman blames sanctions in £30mn divorce battle Financial Times",
       "topics": [
         "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "ASIC sues principals over $500m fund collapse alleging sham loans - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPeVJkejdyUFNPYk14a2ZPNEkwLVVBU0hpMkhQVWsxNkNhVUl2cG9xb1V4YlhOYW1hTWw5MGxCcVBWQ0xLNWkyYWN2RDdYbDhULVhwYmluaTl3QzZuNE41VEhmSF9SSUQ5RWJfZ3V1QWpHQjk5SnNCMGlZa1gzVnlUYWJyUEZ2ZWZiN2tWSmo4R3dqX1BRczhxclVJWU9aQ2psTE96MWFkNkZjemNFR3dIR2VYeGhXZnFPMU9GV3lSRl9XSEdUR1h4bE5HdWtpckF6Ylp6bmpES2R4N1VuUHU4MmZfbGZ3OUJQUEx2a0RJc3RzbUk0MlhDYjhWNkpBSld0V2VB?oc=5",
+      "source": "The Australian",
+      "date": "2026-10-30T04:14:00+00:00",
+      "display_date": "Oct 30, 2026",
+      "summary": "ASIC sues principals over $500m fund collapse alleging sham loans The Australian",
+      "topics": [
+        "Enforcement Actions"
       ]
     },
     {
@@ -646,6 +646,17 @@
       ]
     },
     {
+      "title": "Court rejects ‘fishing expedition’ by Super Retail ex-chief for ASIC files - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPb2N6WGVCNHVvaC1FZ1VCR1FHRGtFSnJSRkNUWFRReXl6bkdVNVE0dGFRMFBfa2kxYXk5Z1RMSF93V0t0dXJ5Z2dEd3NBNG9iaE1pV091M3FBWWtOVTBidmFMN3RDVkNKOHIzUW5NZzc2VTBtVXZLU0JCTU5jWjFyTnZXUGhiNW5vcWlXZFlRdmtIMUdJWHBpdld5TDBiTy15dFNFQUNhMF9QX1l0dXR4QUtWaTdMYjJKOEZ2WThTZXNXVkE1X2RUUVhUeUF0ampQWFhSQWFpRDBqa3k0bkZ2ZFNGUHM4dVJNWkRwZ0NfXzBCWnZSd0tSQmU0cVNpelliUjhVUHA5SXM?oc=5",
+      "source": "The Australian",
+      "date": "2026-10-29T05:01:00+00:00",
+      "display_date": "Oct 29, 2026",
+      "summary": "Court rejects ‘fishing expedition’ by Super Retail ex-chief for ASIC files The Australian",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
       "title": "The State of Third-Party Risk & Integrity",
       "link": "https://www.complianceweek.com/resource/the-state-of-third-party-risk-and-integrity/",
       "source": "Compliance Week",
@@ -713,17 +724,6 @@
       ]
     },
     {
-      "title": "Star chairman says $260m fine won’t be the death of casino operator - AFR",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNE1QTXc4TW9wbHRHUUhGeHl2MFhRbXZLdE5OMlJsV0gySXYxMjFqTHVNTXFqaE9GcjZwaWhacGY3NlZaWVZCRmNVcVRKdExHTks2T21RaXZRZ1BUQUdzc0hITVZ0SjV2SHJ2WlNmUWJGaW1HQTVLSGhLM245UkxxTXlsME96THRQMXkweFJkbVFMaXVrZjctTkxhNGVsNnVJUkJleFJ6UXNQVTFuSzBySWRGWUJfNkpFTlZJ?oc=5",
-      "source": "AFR",
-      "date": "2026-10-28T22:39:00+00:00",
-      "display_date": "Oct 28, 2026",
-      "summary": "Star chairman says $260m fine won’t be the death of casino operator AFR",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
       "title": "‘Calculated bet’: How wounded Star dodged a killer fine - The Australian",
       "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQV1UyeHRtTklnWGVadEtqSEtlYkVLbmZ3Y1kyQTRZMUUxMVExRUtILWw3UnhuNl9vVEJldG1Wdi1GU3VuN1BtbkNkYkk3WFZJRTB2VTNJRm84clQ4ZGk5Q3ltdWY5MHEwQ0hQTl9nZmVRcEIwcmVMU3VMdHROYWlHelpmUFpFYVZyNmRRMHd2d3hRY0Y3dFBsQ2VHdDlqUHFWZUhKeVh2MFdKTks2T2p0NWtBQ0VDV19JckxzWUowaE1jdHFiV243ZzNRTUxudEJuUzZHX0pzN2V4T2VnQkp3TDVldkhxVWdfMGlGRG82WGtSd25hbjd2SFNrb2daMDJJN1lWSTNDZEs2LTRkanp6OFln?oc=5",
       "source": "The Australian",
@@ -732,17 +732,6 @@
       "summary": "‘Calculated bet’: How wounded Star dodged a killer fine The Australian",
       "topics": [
         "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "Opinion | John Podesta’s Permitting Reform Sabotage",
-      "link": "https://www.wsj.com/opinion/john-podesta-permitting-green-energy-fossil-fuels-9ca917b7?mod=pls_whats_news_us_business_f",
-      "source": "Wall Street Journal",
-      "date": "2026-10-28T21:42:00+00:00",
-      "display_date": "Oct 28, 2026",
-      "summary": "Biden’s climate czar tries to scuttle a careful bipartisan Senate compromise.",
-      "topics": [
-        "ESG & Sustainability"
       ]
     },
     {
@@ -801,6 +790,28 @@
       ]
     },
     {
+      "title": "India markets regulator weighs domestic AI model for securities trading, chairman says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeXZ5eDY4d1U2WWVRVDFIbHJhc1ROWjVzVHZqSGZLZlg0RjJ4NTNCVTAyVHJBSFkwbXE1OHlqV2dhR2QtTTZULTF5SmFZd00waDhjTTFENTZldjhWYTE2ai1XNXpSeWJGdG5SQUdJdGFITk1aZWZabUcyUU1lUE5iNzQwcE1QMl81c1lqZ3czaWlUWkhaU3d2THBUbExjTmxxZlFvRkwyYldZX1N2eTdwUFVEQ0RCeDJKY3hIb082d0s5Zw?oc=5",
+      "source": "Reuters",
+      "date": "2026-10-28T16:22:08+00:00",
+      "display_date": "Oct 28, 2026",
+      "summary": "India markets regulator weighs domestic AI model for securities trading, chairman says Reuters",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Inside a casino crime wave: bags of cash, Rolexes and a $250m fine - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQc1kzSnRMMVdYb19lVGU3MUp2SU9XajZJN1NLazJfb2ZlN1dpcnlkaVhTZ2JWdUR1b21RZ1h5d1dwTWl1ZW9VaGNQN1pYbGJzcllFNlJTU0pjcGZoQ29OTDNGcnhIRFo4aGdfSXRJWGZvM0IzRlhnbW9QUzVDLUNDTGhuRnloOF9oa3FBWkdpTEdCbEhHSEQ1SjE2aWx4SmhjWllmalBQdjE2ZXdqVG9WZmxHNFdIcm5IS1pPODQ5NkVqc2gzNjlUbjlSdGZfQ3ZTODZqbURHTFl1Zw?oc=5",
+      "source": "The Australian",
+      "date": "2026-10-28T16:00:00+00:00",
+      "display_date": "Oct 28, 2026",
+      "summary": "Inside a casino crime wave: bags of cash, Rolexes and a $250m fine The Australian",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
       "title": "Sustainable Finance and Investor Groups Push Back Against Weaker CSRD Sustainability Reporting Rules for Non-EU Companies",
       "link": "https://www.esgtoday.com/eu-sustainable-finance-investor-groups-push-back-against-weaker-sustainability-reporting-rules-for-non-eu-companies/?utm_source=rss&utm_medium=rss&utm_campaign=eu-sustainable-finance-investor-groups-push-back-against-weaker-sustainability-reporting-rules-for-non-eu-companies",
       "source": "ESG Today",
@@ -821,17 +832,6 @@
       "topics": [
         "Enforcement Actions",
         "AML & Sanctions"
-      ]
-    },
-    {
-      "title": "The Cheesecake Factory Is Doing Just Fine Without the Political Discourse",
-      "link": "https://www.wsj.com/cmo-today/the-cheesecake-factory-is-doing-just-fine-without-the-political-discourse-0a36b4bb?mod=pls_whats_news_us_business_f",
-      "source": "Wall Street Journal",
-      "date": "2026-10-28T13:48:00+00:00",
-      "display_date": "Oct 28, 2026",
-      "summary": "Plus, Kylian Mbappé loses major sponsorships in China after laughing at a meme.",
-      "topics": [
-        "Enforcement Actions"
       ]
     },
     {
@@ -881,6 +881,17 @@
       ]
     },
     {
+      "title": "Star chairman says $260m fine won’t be the death of casino operator - AFR",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNE1QTXc4TW9wbHRHUUhGeHl2MFhRbXZLdE5OMlJsV0gySXYxMjFqTHVNTXFqaE9GcjZwaWhacGY3NlZaWVZCRmNVcVRKdExHTks2T21RaXZRZ1BUQUdzc0hITVZ0SjV2SHJ2WlNmUWJGaW1HQTVLSGhLM245UkxxTXlsME96THRQMXkweFJkbVFMaXVrZjctTkxhNGVsNnVJUkJleFJ6UXNQVTFuSzBySWRGWUJfNkpFTlZJ?oc=5",
+      "source": "AFR",
+      "date": "2026-10-27T23:54:00+00:00",
+      "display_date": "Oct 27, 2026",
+      "summary": "Star chairman says $260m fine won’t be the death of casino operator AFR",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
       "title": "AI leaders fear rapid tech deployment is encouraging staff to bypass governance processes",
       "link": "https://www.complianceweek.com/artificial-intelligence/ai-leaders-fear-rapid-tech-deployment-is-encouraging-staff-to-bypass-governance-processes/",
       "source": "Compliance Week",
@@ -898,6 +909,17 @@
       "date": "2026-10-27T22:54:00+00:00",
       "display_date": "Oct 27, 2026",
       "summary": "The Manhattan District Attorney’s Office has launched a Corporate Crime and Antitrust Task Force to focus on complex fraud and misconduct investigations. The post New Manhattan DA team is aimed at corporate crime appeared first on Compliance Week .",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "Trump administration sued over rollback of corporate ownership reporting rules - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOU1B3bjV2aWFYWk5PUVg0STlrV2pOVjJEZW5pQWlYZjJzcFFPb2oteTdhYUk4N09FYXZiWTBDSWRRemExT1ZkSU1peW50OFkySHl2cE05ajNMZkR3M0pibzl5S0ZrNzI4eWx5WS1mTmwxeGRzamFLQkNhV2pHd1pIQ25EX3o1TG8tdVJiMVVVMHJiZmk0WDZhOTdOcE9oTlY2d1dZbzctMXkycy1SSmwzQjd0Y0c5LTloRkhMVzBGek5JOGMxVzNJ?oc=5",
+      "source": "Reuters",
+      "date": "2026-10-27T22:43:55+00:00",
+      "display_date": "Oct 27, 2026",
+      "summary": "Trump administration sued over rollback of corporate ownership reporting rules Reuters",
       "topics": [
         "Enforcement Actions"
       ]
@@ -1047,17 +1069,6 @@
       ]
     },
     {
-      "title": "Anthropic Cites Climate Change as Risk to Business in S-1 - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR1BlQkJ0dXQtRzRsdzBaSm14MTAtZmhSSmN5TkFySE92X2ZlUWVUVEFFSmNMQnVSUFZ4NHhQRVhhZ2swdXZUM1FzRTlHNXBma0w4d1lpRGJlVUlmamgxcEJLNVpYdGZ4WmJibUYtUHBaTk5ZZXZXQjRDZy1aTW03SVVFSmU1RjBvZk1xdXdHZ01Cd2JpREV3ajlYZGJQN055S1JHTEh4YVBHQVpz?oc=5",
-      "source": "Bloomberg.com",
-      "date": "2026-10-26T16:55:06+00:00",
-      "display_date": "Oct 26, 2026",
-      "summary": "Anthropic Cites Climate Change as Risk to Business in S-1 Bloomberg.com",
-      "topics": [
-        "ESG & Sustainability"
-      ]
-    },
-    {
       "title": "At Last, a Peek at Anthropic’s Governance!",
       "link": "https://www.radicalcompliance.com/2026/10/26/at-last-a-peek-at-anthropics-governance/",
       "source": "Radical Compliance",
@@ -1121,6 +1132,17 @@
       "summary": "On 17 September 2026, Chandler King (City) Limited (Chandler King) went into creditors’ voluntary liquidation. Grace Jones and Karyn Jones of Parker Andrews were appointed as joint liquidators. Chandler King, an FCA-authorised firm, was an independent financial adviser which advi...",
       "topics": [
         "Regulatory Change"
+      ]
+    },
+    {
+      "title": "US NRC Issues Final Environmental Impact Statement for Planned Paducah Laser Enrichment Facility - AFR",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUVNwNGRwOWpTdUVXXzc5aWhidDBWcnFxdzRraE1zZDZkQmd1Q2NqQlEzZWp3cmE2SDNNVGN5TG52aFdWS09jRmF0enozNUJrbzVpQ1FXc1FjX2hQdktSMHRQVDBwMndXTnZwMV9pR3hUU3ZmMDgxbXBweDhwcE1ISHdfcEYzS0VWSWVHb3lhTQ?oc=5",
+      "source": "AFR",
+      "date": "2026-10-26T04:27:36+00:00",
+      "display_date": "Oct 26, 2026",
+      "summary": "US NRC Issues Final Environmental Impact Statement for Planned Paducah Laser Enrichment Facility AFR",
+      "topics": [
+        "ESG & Sustainability"
       ]
     },
     {
