@@ -1,7 +1,62 @@
 {
-  "last_updated": "November 02, 2026 12:48 UTC",
-  "total_count": 208,
+  "last_updated": "November 02, 2026 16:53 UTC",
+  "total_count": 207,
   "articles": [
+    {
+      "title": "Shop fridges and freezers across Europe hit by fresh suspected cyber-attack",
+      "link": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack",
+      "source": "The Guardian Australia",
+      "date": "2026-11-02T16:39:20+00:00",
+      "display_date": "Nov 02, 2026",
+      "summary": "Chains in seven countries say cooling unit temperatures rose overnight in incident similar to hack of French stores Supermarket chains in at least seven European countries have said the temperatures of refrigerators and freezers in some of their shops soared overnight to as high ...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "OCC Releases CRA Performance Evaluations for 19 National Banks and Federal Savings Associations",
+      "link": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-96.html",
+      "source": "Office of the Comptroller of the Currency",
+      "date": "2026-11-02T16:00:00+00:00",
+      "display_date": "Nov 02, 2026",
+      "summary": "The Office of the Comptroller of the Currency (OCC) today released a list of Community Reinvestment Act (CRA) performance evaluations that became public during the period of October 1, 2026, through October 31, 2026.",
+      "topics": [
+        "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "ESG Playbook Launches Solution to Quantify Climate and Energy Risk for Real Estate",
+      "link": "https://www.esgtoday.com/esg-playbook-launches-solution-to-quantify-climate-and-energy-risk-for-real-estate/?utm_source=rss&utm_medium=rss&utm_campaign=esg-playbook-launches-solution-to-quantify-climate-and-energy-risk-for-real-estate",
+      "source": "ESG Today",
+      "date": "2026-11-02T15:30:47+00:00",
+      "display_date": "Nov 02, 2026",
+      "summary": "Sustainability and business risk software company ESG Playbook announced the launch of its new real estate […]",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "Brazil Reconsiders Mandatory Sustainability Reporting Just Months After Switch to Voluntary",
+      "link": "https://www.esgtoday.com/brazil-reconsiders-mandatory-sustainability-reporting-just-months-after-scrapping-requirement/?utm_source=rss&utm_medium=rss&utm_campaign=brazil-reconsiders-mandatory-sustainability-reporting-just-months-after-scrapping-requirement",
+      "source": "ESG Today",
+      "date": "2026-11-02T14:42:16+00:00",
+      "display_date": "Nov 02, 2026",
+      "summary": "Brazil’s Securities and Exchange Commission (CVM) announced the launch of a new public consultation into […]",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "APG Invests €500 Million in Sustainable European Infrastructure with Equitix",
+      "link": "https://www.esgtoday.com/apg-invests-e500-million-in-sustainable-european-infrastructure-with-equitix/?utm_source=rss&utm_medium=rss&utm_campaign=apg-invests-e500-million-in-sustainable-european-infrastructure-with-equitix",
+      "source": "ESG Today",
+      "date": "2026-11-02T14:06:15+00:00",
+      "display_date": "Nov 02, 2026",
+      "summary": "Dutch pension fund manager APG, on behalf of its pension fund client ABP, and infrastructure […]",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
     {
       "title": "BofA, SMI, Eurazeo Launch New Biodiversity Solutions Fund",
       "link": "https://www.esgtoday.com/bofa-smi-eurazeo-launch-new-biodiversity-solutions-fund/?utm_source=rss&utm_medium=rss&utm_campaign=bofa-smi-eurazeo-launch-new-biodiversity-solutions-fund",
@@ -69,12 +124,12 @@
       ]
     },
     {
-      "title": "China Stocks Rise on Report of Regulator Market Support Meeting - Bloomberg",
+      "title": "China Stocks Rise on Report of Regulator Market Support Meeting - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOendaOF9OYUpHU1R3Q25VVXptSDk0dU1FQkJkcXN2Q0ctRjBzdlNIdHNlcmxIMHFKdlZmM25SZ0pTdUlyMXlGaXBvUFBvZlhFV3VxNks1RGtIQ3FmeXBBNEFDekVYdkFtVC1VR2k2Nl93a0owS0dkaHRaWEpqcFhpdlRIM1MwOVBvNmd4dFJtb0JaeXpjX2otZnZlU0ZBRjh5MllKbzZIc2RnSVJlR2dJWDRDOHA?oc=5",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "date": "2026-11-02T10:05:20+00:00",
       "display_date": "Nov 02, 2026",
-      "summary": "China Stocks Rise on Report of Regulator Market Support Meeting Bloomberg",
+      "summary": "China Stocks Rise on Report of Regulator Market Support Meeting Bloomberg.com",
       "topics": [
         "Regulatory Change"
       ]
@@ -102,10 +157,21 @@
       ]
     },
     {
+      "title": "ACCC clears Vocus to buy Nextgen - The Australian - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeWUtcnhJX2wyYThzbjZLYU9VX3ZXaGJMVW1VWEI4cXRFWGhzU1dHVmVqN1BCN3pjWE1tUVpRVklja29qWjMwdmg1cGdIMGQ4OC1ZLTJKYkphVl9QOUxvVEprYUtSYlBxSGxxeERQY2FBZW1tX1dxaHRleS1Eek9NTmc0ZHI0M3FnWG9kcm53RHcxMFlZRkFQblNIRG5UTVJjdG1UdDJZTnVxWGI4OWJhTE9ydHpZbUZzVV96bElqYXRDUDg?oc=5",
+      "source": "The Australian",
+      "date": "2026-11-02T02:11:11+00:00",
+      "display_date": "Nov 02, 2026",
+      "summary": "ACCC clears Vocus to buy Nextgen - The Australian The Australian",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
       "title": "Victim blaming: ASIC slams super funds over complaint failures - The Australian",
       "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOdmMxWDg2UDItaS1LRWxBU2xpQkFqUGdVNE5vOTMyNUVWWndjTE5aa3VaQXI2ZGJUaTJ3a0ZwdVUtQnhQelZhaGJDcWw3dzBieXN2WWtreTZJbWh2bG81d1lNUGYybkpkZXBVeTlvbEtkY0oxczFYdEFtNWUtbFNOSmJWUG5mbjRzZEVRQ2JVRlZUVlNzZ3RQcFRySkFXZkFGVHZjRU5PMWFER3NFQ3E4X2NKX2J6emQ3MGlyRHIzU09adGxzdWtxdkRHampzN3AzUnd3Ykg4RDhDOUNrWDVyaUlNSGh0bDU2Wk9vM0YxSVc2blNpSklmMGVEdmItY3BJcXpwc1kzNklXZGMxMHdDUE9ZTllCakZpeDEzSjJxUzVaX010VmU4?oc=5",
       "source": "The Australian",
-      "date": "2026-11-01T18:05:54+00:00",
+      "date": "2026-11-01T18:35:57+00:00",
       "display_date": "Nov 01, 2026",
       "summary": "Victim blaming: ASIC slams super funds over complaint failures The Australian",
       "topics": [
@@ -204,12 +270,12 @@
       ]
     },
     {
-      "title": "SoftBank-Backed OPay Halts IPO to Respond to Regulatory Inquiry - Bloomberg",
+      "title": "SoftBank-Backed OPay Halts IPO to Respond to Regulatory Inquiry - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNWM5MF80T3I5dUtwOGNZOEtrWU5YN1M3UUN1ZWkzc002OG1tZDNjbjc2S1BWbjRIaXdqMUtfY080ZXppSzBHaVlVZ081dVp0VUlDZWZTVWtnaEtqM0VENF9HMWFodzJTQXczeFVWSG5iVnhlN2FWcjVQanFTQkNQeVgtZWhCYWhVbjZzRW1iRnVYcUktdlNjSTRvejJIajhfVmxyNkYtNjFRbTdSa3VxMW5mb2s?oc=5",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "date": "2026-10-31T08:48:16+00:00",
       "display_date": "Oct 31, 2026",
-      "summary": "SoftBank-Backed OPay Halts IPO to Respond to Regulatory Inquiry Bloomberg",
+      "summary": "SoftBank-Backed OPay Halts IPO to Respond to Regulatory Inquiry Bloomberg.com",
       "topics": [
         "Regulatory Change"
       ]
@@ -458,17 +524,6 @@
       ]
     },
     {
-      "title": "Hackers Swipe Millions From Polymarket Users in Latest Security Breach",
-      "link": "https://www.wsj.com/business/polymarket-pauses-trading-after-some-users-report-funds-drained-b014527d?mod=pls_whats_news_us_business_f",
-      "source": "Wall Street Journal",
-      "date": "2026-10-29T21:25:00+00:00",
-      "display_date": "Oct 29, 2026",
-      "summary": "Traders who lost money on the incident will be “made whole,” the prediction-markets platform said.",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
       "title": "Federal Court blasts ‘false veneer’ in AUSTRAC’s case against Entain - AFR",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQ2N2MFI1QXpqTzBfQzh5SS00aUlvakVNOHZnYVpGWHpvT3EzNWxGTXNVcGlpTUhNY210ZlB0T2Vkbm9pbWd0bzRrdHN4R2pxVHhRMjNWYVl2RlVteDIwN0lpQXZTUHI3NWY5MmFTdkluMHMyOExuLUtTbHhORTNJdjdWa3NUYjQxc0VSNkdncGMxalE5U2JrOWl5d2RvR3BWeXRDY3J3TmtDYjNINHBuLXBCbzhyQWU5bXpHckJselRqZzRENXZ4b1FSRQ?oc=5",
       "source": "AFR",
@@ -525,17 +580,6 @@
       ]
     },
     {
-      "title": "DuPont Unveils SBTi-Validated Net Zero Targets",
-      "link": "https://www.esgtoday.com/dupont-unveils-sbti-validated-net-zero-targets/?utm_source=rss&utm_medium=rss&utm_campaign=dupont-unveils-sbti-validated-net-zero-targets",
-      "source": "ESG Today",
-      "date": "2026-10-29T14:21:10+00:00",
-      "display_date": "Oct 29, 2026",
-      "summary": "Multinational chemicals company DuPont announced a series of new emissions reduction targets, including goals to […]",
-      "topics": [
-        "ESG & Sustainability"
-      ]
-    },
-    {
       "title": "Internal Audit Budgets Rise, but Cyber & AI Risks Outpace Function’s Capacity",
       "link": "https://www.corporatecomplianceinsights.com/news-roundup-october-29-2026/",
       "source": "Corporate Compliance Insights",
@@ -558,17 +602,6 @@
       ]
     },
     {
-      "title": "Salesforce Signs 500,000 Ton Superpollutant Carbon Credit Deal",
-      "link": "https://www.esgtoday.com/salesforce-signs-500000-ton-superpollutant-carbon-credit-deal/?utm_source=rss&utm_medium=rss&utm_campaign=salesforce-signs-500000-ton-superpollutant-carbon-credit-deal",
-      "source": "ESG Today",
-      "date": "2026-10-29T13:29:17+00:00",
-      "display_date": "Oct 29, 2026",
-      "summary": "CRM solutions provider Salesforce announced that it has signed a new agreement with agricultural methane […]",
-      "topics": [
-        "ESG & Sustainability"
-      ]
-    },
-    {
       "title": "GRC Business Roundup: Casepoint, Smarsh, LexisNexis, EcoVadis, MCO & More",
       "link": "https://www.corporatecomplianceinsights.com/grc-business-roundup-casepoint-smarsh-lexisnexis-ecovadis-mco-more/",
       "source": "Corporate Compliance Insights",
@@ -577,17 +610,6 @@
       "summary": "The business of GRC is ever-expanding, GRC technology is one of the fastest-growing segments in enterprise software, and compliance professions are rapidly evolving. Here’s the latest from across the industry. Product launches Government and legal technology provider Casepoint la...",
       "topics": [
         "Operational & Enterprise Risk"
-      ]
-    },
-    {
-      "title": "Over 80% of Institutional Investors Plan to Increase Allocations to Sustainable Investments: Survey",
-      "link": "https://www.esgtoday.com/over-80-of-institutional-investors-plan-to-increase-allocations-to-sustainable-investments-survey/?utm_source=rss&utm_medium=rss&utm_campaign=over-80-of-institutional-investors-plan-to-increase-allocations-to-sustainable-investments-survey",
-      "source": "ESG Today",
-      "date": "2026-10-29T12:31:57+00:00",
-      "display_date": "Oct 29, 2026",
-      "summary": "More than four out of five institutional investors expect to increase allocations to sustainable investments […]",
-      "topics": [
-        "ESG & Sustainability"
       ]
     },
     {
@@ -674,17 +696,6 @@
       "date": "2026-10-29T10:00:00+00:00",
       "display_date": "Oct 29, 2026",
       "summary": "The FCA has secured High Court undertakings to ensure that HTX (formerly Huobi), a global crypto exchange, will not knowingly promote cryptoasset services unlawfully to UK consumers. The FCA took legal action against HTX in October 2025 for breaking UK financial promotion rules. ...",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Non-compliance with ASX Listing Rule 7.1 - AFR",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQT0lhaW5WNnJmcW9WdWozTUhvSUFtQzhPTWZENzhjbUZSMmlpcG9EQ2tzMUJnMG1XQnBYZ3lQcHVzN0RHekRpZWRWSG5iSVF3ZVIxVm44U0tSalJYV0tIT2tWOEFpN3pMdUxRYVhpcmVlYnZDNnlUa0JUY1lURXdPVVdyaWhLR0UxclZEQ2dSQQ?oc=5",
-      "source": "AFR",
-      "date": "2026-10-29T08:09:27+00:00",
-      "display_date": "Oct 29, 2026",
-      "summary": "Non-compliance with ASX Listing Rule 7.1 AFR",
       "topics": [
         "Regulatory Change"
       ]
@@ -1110,17 +1121,6 @@
       "summary": "Artificial intelligence giant Anthropic filed its IPO registration statement on Monday morning, and while the accounting types are losing their [expletive] over the details of the company’s financial operations, we corporate governance types can obsess over a different, equally i...",
       "topics": [
         "Operational & Enterprise Risk"
-      ]
-    },
-    {
-      "title": "Slovakia to develop Russia ties in areas not hit by sanctions, minister says after Moscow talks - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVWZhLXhIRHFmWGYybC1nMldBMFRYVDU0TTZZOFg5TEZldkNMY0JPbUY5Q29jLURVdmRwYVMwenhKOU81dVVKMkJYM0hYWjBJYkUzZjZxNS1GT2t0WHBPNGpPR04xU0VpeFFoWW9uQ2k2SXIxSFM5M3NxUHZPYjFiMU53WmdicUxkYTYxeEpOYUhZaGlVamVTRHp1c0tVTVdaVEdQazlkeHp6R0dBZEhFYkp1NGhDTmts?oc=5",
-      "source": "Reuters",
-      "date": "2026-10-26T15:36:07+00:00",
-      "display_date": "Oct 26, 2026",
-      "summary": "Slovakia to develop Russia ties in areas not hit by sanctions, minister says after Moscow talks Reuters",
-      "topics": [
-        "AML & Sanctions"
       ]
     },
     {
@@ -1812,17 +1812,6 @@
       "summary": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has learned that the suspect, who uses the hacke...",
       "topics": [
         "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "Comptroller Gould Announces New Efforts to Combat Financial Fraud in Minnesota",
-      "link": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-86.html",
-      "source": "Office of the Comptroller of the Currency",
-      "date": "2026-10-07T13:00:00+00:00",
-      "display_date": "Oct 07, 2026",
-      "summary": "Comptroller of the Currency Jonathan V. Gould today convened a panel of community bankers in Minneapolis, Minnesota, to discuss ongoing efforts to combat financial fraud.",
-      "topics": [
-        "Enforcement Actions"
       ]
     },
     {
