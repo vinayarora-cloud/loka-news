@@ -1,7 +1,41 @@
 {
-  "last_updated": "November 03, 2026 00:39 UTC",
-  "total_count": 213,
+  "last_updated": "November 03, 2026 04:42 UTC",
+  "total_count": 206,
   "articles": [
+    {
+      "title": "Compliance spend on AI rising, but fears about accuracy, reliability remain",
+      "link": "https://www.complianceweek.com/artificial-intelligence/compliance-spend-on-ai-rising-but-fears-about-accuracy-reliability-remain/",
+      "source": "Compliance Week",
+      "date": "2026-11-03T03:14:37+00:00",
+      "display_date": "Nov 03, 2026",
+      "summary": "Organizations are increasing their investments in AI to support compliance and due diligence, but many remain wary of the reliability and accuracy of the technology’s outputs. The post Compliance spend on AI rising, but fears about accuracy, reliability remain appeared first on C...",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "UK SFO strengthens guidance on corporate self-reporting for fraud, bribery, and corruption",
+      "link": "https://www.complianceweek.com/regulatory-policy/uk-sfo-strengthens-guidance-on-corporate-self-reporting-for-fraud-bribery-and-corruption/",
+      "source": "Compliance Week",
+      "date": "2026-11-03T02:43:11+00:00",
+      "display_date": "Nov 03, 2026",
+      "summary": "The UK’s Serious Fraud Office published guidance to support companies that self-report fraud, bribery, and corruption, including a new email route to its general counsel. The post UK SFO strengthens guidance on corporate self-reporting for fraud, bribery, and corruption appeared ...",
+      "topics": [
+        "Enforcement Actions",
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
+      "link": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
+      "source": "Krebs on Security",
+      "date": "2026-11-03T02:24:31+00:00",
+      "display_date": "Nov 03, 2026",
+      "summary": "Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user's Internet connection out to strangers and conducts advertising fraud. Experts involv...",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
     {
       "title": "Latest national scam more sophisticated and 'just the tip of the iceberg'",
       "link": "https://www.abc.net.au/news/2026-11-03/rms-data-breach-kimberley-accommodation-bookings/107328710",
@@ -53,7 +87,7 @@
       "source": "The Guardian Australia",
       "date": "2026-11-02T19:07:40+00:00",
       "display_date": "Nov 02, 2026",
-      "summary": "After a second apparent cyber-attack in as many weeks, we examine possible culprits and their motives Shop fridges and freezers across Europe hit by fresh suspected cyber-attack Supermarket fridges and freezers in seven European countries have malfunctioned , their thermostats re...",
+      "summary": "After a second apparent cyber-attack in weeks, we examine possible culprits and their motives Shop fridges and freezers across Europe hit by fresh suspected cyber-attack Supermarket fridges and freezers in seven European countries have malfunctioned , their thermostats remotely c...",
       "topics": [
         "Cybersecurity Risk"
       ]
@@ -235,6 +269,17 @@
       ]
     },
     {
+      "title": "2026 Corporate Governance Statement - AFR",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOHNsZzFRcVJvcFVydTVtYW1iMzFjT0J2VGtnSUprSzdtdHNmSVpuS1FUOGpBcDJLakJ3QWZVSGxZU2xNZG00MVJaemFBSWxYUEN3QVNnNnBCU3ZIZ0ZhcEkxZlVQNFFMVlg0eTdCcDVfTGpsRFFBZVh4bnNGZV9XV3BNcXpUYWxLRkVkLUVoOA?oc=5",
+      "source": "AFR",
+      "date": "2026-11-01T22:58:39+00:00",
+      "display_date": "Nov 01, 2026",
+      "summary": "2026 Corporate Governance Statement AFR",
+      "topics": [
+        "Operational & Enterprise Risk"
+      ]
+    },
+    {
       "title": "Victim blaming: ASIC slams super funds over complaint failures - The Australian",
       "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOdmMxWDg2UDItaS1LRWxBU2xpQkFqUGdVNE5vOTMyNUVWWndjTE5aa3VaQXI2ZGJUaTJ3a0ZwdVUtQnhQelZhaGJDcWw3dzBieXN2WWtreTZJbWh2bG81d1lNUGYybkpkZXBVeTlvbEtkY0oxczFYdEFtNWUtbFNOSmJWUG5mbjRzZEVRQ2JVRlZUVlNzZ3RQcFRySkFXZkFGVHZjRU5PMWFER3NFQ3E4X2NKX2J6emQ3MGlyRHIzU09adGxzdWtxdkRHampzN3AzUnd3Ykg4RDhDOUNrWDVyaUlNSGh0bDU2Wk9vM0YxSVc2blNpSklmMGVEdmItY3BJcXpwc1kzNklXZGMxMHdDUE9ZTllCakZpeDEzSjJxUzVaX010VmU4?oc=5",
       "source": "The Australian",
@@ -254,17 +299,6 @@
       "summary": "ASIC threatens to sue super funds over customer service failures AFR",
       "topics": [
         "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "This climate fund has returned 120pc - AFR",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMlRuUnl2YkpFUGs3cVFPcDJ2LTh5VGtsQk5rZDNNX0kyR241alhmdHBKWFVBZ2Fqelg5b2VXa1NUczBvVXo1bnByYWdWUXFOU1lrM05SdnpmSVByZno1RG51ZWFTN0pKS1Y5c0M2NG1NOE9nU3B1bVBzeFFEc05RQzVRY1hoSVZYdzdkbHk3STlTTk5VVWl1SXItVzN2ZTh1U0ZQdw?oc=5",
-      "source": "AFR",
-      "date": "2026-11-01T18:00:00+00:00",
-      "display_date": "Nov 01, 2026",
-      "summary": "This climate fund has returned 120pc AFR",
-      "topics": [
-        "ESG & Sustainability"
       ]
     },
     {
@@ -326,34 +360,12 @@
       ]
     },
     {
-      "title": "Liberal MP pushes for party to rule out changes to superannuation",
-      "link": "https://www.abc.net.au/news/2026-11-01/liberal-pushes-for-shift-on-superannuation/107328948",
-      "source": "ABC News Business (AU)",
-      "date": "2026-10-31T22:01:23+00:00",
-      "display_date": "Oct 31, 2026",
-      "summary": "Garth Hamilton argues the party has to shift its policy to reflect the mood of the nation and abandon any return to a super-for-housing type of policy.",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "SoftBank-Backed OPay Halts IPO to Respond to Regulatory Inquiry - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNWM5MF80T3I5dUtwOGNZOEtrWU5YN1M3UUN1ZWkzc002OG1tZDNjbjc2S1BWbjRIaXdqMUtfY080ZXppSzBHaVlVZ081dVp0VUlDZWZTVWtnaEtqM0VENF9HMWFodzJTQXczeFVWSG5iVnhlN2FWcjVQanFTQkNQeVgtZWhCYWhVbjZzRW1iRnVYcUktdlNjSTRvejJIajhfVmxyNkYtNjFRbTdSa3VxMW5mb2s?oc=5",
       "source": "Bloomberg.com",
       "date": "2026-10-31T08:48:16+00:00",
       "display_date": "Oct 31, 2026",
       "summary": "SoftBank-Backed OPay Halts IPO to Respond to Regulatory Inquiry Bloomberg.com",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "SoftBank-Backed OPay Halts IPO to Respond to Regulatory Inquiry - Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORHh3R083QzhDZG9md3VTbHMzZzBfajREX05YZ1JkMFJYSU9PS29TcmtoYVd5dm9oQTkxajR4am9IS2ZRU2JhRXI4dzF2bFVCeFFlellYVEZxOS1ZU05FWk9ERWU1SWFzb25xVEg5UzFnMFVzTXY5UUtncHFNbnlNRHhiN29BdDNuUXc1bkIzam05TVBlNV8zYWhacHhFcEUzREU3OWZVQVVtcHg1NEpIZWdZZWNFSXV2cExTS0pPRFRJTlU5bXVMdzlB?oc=5",
-      "source": "Bloomberg",
-      "date": "2026-10-31T08:48:16+00:00",
-      "display_date": "Oct 31, 2026",
-      "summary": "SoftBank-Backed OPay Halts IPO to Respond to Regulatory Inquiry Bloomberg",
       "topics": [
         "Regulatory Change"
       ]
@@ -403,17 +415,6 @@
       ]
     },
     {
-      "title": "Canadian Investment Regulatory Organization Trade Resumption - GLDR – Company Announcement - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbmpYeWpGclhhVlc0d2ZlaVFGNU0xTEsxdXl2N0UtcVFQeUZkWnVLd3Rpb3R6alc5WjVES2hUamVzd3FqWDVjcmFzS21zdVl1QXN4NlE1bHhkLVBSVkNLUWVyLXMtZU04SzZ0eFVVRk5mZ185X3hBSEJsVHB1ZWhRa0Fuc3hrVXZab0drdTExZXdUaE1QUkE?oc=5",
-      "source": "Financial Times",
-      "date": "2026-10-30T17:12:00+00:00",
-      "display_date": "Oct 30, 2026",
-      "summary": "Canadian Investment Regulatory Organization Trade Resumption - GLDR – Company Announcement Financial Times",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "Canadian Investment Regulatory Organization Trading Halt - GLDR – Company Announcement - Financial Times",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcnk0alRHVFFLN3BuNzR6bzdnb3oyTGRSRUZydXVhMDFSeWFoZGN0bDlodFVqSDhnbXZkVUR5bUpNQkpPUERvZVA5Y09aaWlMRHlwVEZXR3NaRXNBQkppbmNfZm1UMGEtQ2k0cXI2RHFMMHZsWUE0U2RaaHFmVk1iaURsY3lnUWxPN2U1UUkyc0RXZ00?oc=5",
       "source": "Financial Times",
@@ -456,17 +457,6 @@
       "summary": "Canadian Investment Regulatory Organization Trading Halt - DUNE – Company Announcement Financial Times",
       "topics": [
         "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Binance suspends transactions after it is targeted in biggest-ever cyber heist - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOdlNMX3R5WHVjeVg1YUZWcjRoSldncWZDRXlyb2ZoMUR6bkV5Um1ud2FSbmo5YVM1Vmx6cHJWSUFtNHZRSDE3Rzk2alV2dFkxUkNseEY5SE1tamtlazdLNURUSWtUMVdHMGhTRXlTSFNXWDZMR0NZTEwyLVlzcC1kZHBUdnM2YW53dlIwc1VfV09QaXRDZDF6TkRxLVJDRTBubkFfeGJyUlNWN0FXR0d2WDl3ZVVSa0JNY3d4dmptSkdNVDdmeFlSQmJ3aDh6dWlnb2ozU0l0ejR2SlpRRFA4UzRILVVjMGJ6TFFyelA5V0JpZEdNUkJRblNvalo?oc=5",
-      "source": "The Australian",
-      "date": "2026-10-30T12:45:00+00:00",
-      "display_date": "Oct 30, 2026",
-      "summary": "Binance suspends transactions after it is targeted in biggest-ever cyber heist The Australian",
-      "topics": [
-        "Cybersecurity Risk"
       ]
     },
     {
@@ -945,6 +935,17 @@
       ]
     },
     {
+      "title": "Inside a casino crime wave: bags of cash, Rolexes and a $250m fine - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQc1kzSnRMMVdYb19lVGU3MUp2SU9XajZJN1NLazJfb2ZlN1dpcnlkaVhTZ2JWdUR1b21RZ1h5d1dwTWl1ZW9VaGNQN1pYbGJzcllFNlJTU0pjcGZoQ29OTDNGcnhIRFo4aGdfSXRJWGZvM0IzRlhnbW9QUzVDLUNDTGhuRnloOF9oa3FBWkdpTEdCbEhHSEQ1SjE2aWx4SmhjWllmalBQdjE2ZXdqVG9WZmxHNFdIcm5IS1pPODQ5NkVqc2gzNjlUbjlSdGZfQ3ZTODZqbURHTFl1Zw?oc=5",
+      "source": "The Australian",
+      "date": "2026-10-28T16:00:00+00:00",
+      "display_date": "Oct 28, 2026",
+      "summary": "Inside a casino crime wave: bags of cash, Rolexes and a $250m fine The Australian",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
       "title": "‘Near Miss’ on Self-Disclosure Costs Company",
       "link": "https://www.radicalcompliance.com/2026/10/28/near-miss-on-self-disclosure-costs-company/",
       "source": "Radical Compliance",
@@ -966,18 +967,6 @@
       "topics": [
         "Regulatory Change",
         "Operational & Enterprise Risk"
-      ]
-    },
-    {
-      "title": "Australia's Star Entertainment fined $183 million for anti-money laundering law breaches - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdDEzR2l3NGVCMzJiSjBNdGx1NGE1eGN6LUczbUNBb241T0FCU2hKU2FvMDZUbmdMdEVrLXViTzBzWE5udE1TMWkzZjQ0T1JIRmc4Wjh1YURLeW16eE1pX3gwdlhCSkJmRFUtd2Jhd0h3d0R2Sm1VZ3hSWW9CTTl1SDRfbWt2ZnNwcEwtazZCTjZUSEN1a1JJZk5DdElhNlptM3dSa0xZWUQ1eGotcEVtckd6c1dGVXp2LVVyWWM4azRpZnBX?oc=5",
-      "source": "Reuters",
-      "date": "2026-10-28T07:50:16+00:00",
-      "display_date": "Oct 28, 2026",
-      "summary": "Australia's Star Entertainment fined $183 million for anti-money laundering law breaches Reuters",
-      "topics": [
-        "Enforcement Actions",
-        "AML & Sanctions"
       ]
     },
     {
@@ -1015,39 +1004,6 @@
       ]
     },
     {
-      "title": "AI leaders fear rapid tech deployment is encouraging staff to bypass governance processes",
-      "link": "https://www.complianceweek.com/artificial-intelligence/ai-leaders-fear-rapid-tech-deployment-is-encouraging-staff-to-bypass-governance-processes/",
-      "source": "Compliance Week",
-      "date": "2026-10-27T23:13:12+00:00",
-      "display_date": "Oct 27, 2026",
-      "summary": "Human compliance risks are a critical weakness in AI governance. According to an EY US report, 47% of AI decision-makers know their organization has bypassed corporate governance processes to deploy AI faster. The post AI leaders fear rapid tech deployment is encouraging staff to...",
-      "topics": [
-        "Operational & Enterprise Risk"
-      ]
-    },
-    {
-      "title": "New Manhattan DA team is aimed at corporate crime",
-      "link": "https://www.complianceweek.com/top-stories/new-manhattan-da-team-is-aimed-at-corporate-crime/",
-      "source": "Compliance Week",
-      "date": "2026-10-27T22:54:00+00:00",
-      "display_date": "Oct 27, 2026",
-      "summary": "The Manhattan District Attorney’s Office has launched a Corporate Crime and Antitrust Task Force to focus on complex fraud and misconduct investigations. The post New Manhattan DA team is aimed at corporate crime appeared first on Compliance Week .",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "China hands former security regulator anti-graft official suspended death sentence - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQREFlOHg3dHlOSU1aQmo1akw2RDZMclRUQmZFMk5Hb3N6alVMUWFnMWQ5ZW00Rk82V1FuVTNOdXp4eF9DZ0ZZdkUxY08tTmtXR0hOSXp4Qnc3Y0xPN3F4SXV2R0Y0Q201S2tib2ZhSU1RQk5tVnp4LWdVRGljcU1PWnJ5WVNLaWxFV09LYzJvQkpLMHNtOUVNeUZxZldoQkdmTEFrZzlSZGpVbnhLYUlVTTZFM0lRdGtHOElwVDd3?oc=5",
-      "source": "Reuters",
-      "date": "2026-10-27T19:09:45+00:00",
-      "display_date": "Oct 27, 2026",
-      "summary": "China hands former security regulator anti-graft official suspended death sentence Reuters",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "Comptroller Gould Discusses Efforts to Support Community Banks",
       "link": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-94.html",
       "source": "Office of the Comptroller of the Currency",
@@ -1059,34 +1015,12 @@
       ]
     },
     {
-      "title": "Canadian Investment Regulatory Organization Trade Resumption - OSM – Company Announcement - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeG0zdkFuVFVVSUFIUHRJRkRVb1FsWU82Z2NDMGxtbzJlWFR1TzJnZllGOTlLYVY0UXprVzVZY19ZVW1NZlhmcVdERUx4RmY0T1k3SG5iR2VrNlNaSDlJN0VPZXFTT1VkMm8tRGxaRUl4bVZtS00wVEFqeDZLOW5vbjBfQXRHaUZmdWs1b2M2RnhXTGM?oc=5",
-      "source": "Financial Times",
-      "date": "2026-10-27T17:34:00+00:00",
-      "display_date": "Oct 27, 2026",
-      "summary": "Canadian Investment Regulatory Organization Trade Resumption - OSM – Company Announcement Financial Times",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "October 2026 Global Regulatory Brief: Bank stress tests, Basel III and insurance supervision - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOT3JFbnF5NFBJelpmY1BRNDk0Q2Vvenh4bms5NTVpdlFCc2RIMHBUMGh2T0dMVEpCcnFmZXVZSXA3cHoyR1MxNk5Cd2pOcC05ak9lWWtsRmVkdTFaejRJcUJpa1pGWTJqZzBBRDVNR0VjTzVBYVVLNjJyNjlocHVHOUc4X05nemFJenRPYWVCREE1R0FaMFoyOVhmWkhsbWVUWERtSTFlWkVUTzVNS1Y4bjh6cTFpZUFaeGxVa0lwdHpPZXpwTTQ0WXNTU2U1ZUsxWFhPVk5NcWd4ZGRUbUNVMmRoYXc?oc=5",
       "source": "Bloomberg.com",
       "date": "2026-10-27T17:00:04+00:00",
       "display_date": "Oct 27, 2026",
       "summary": "October 2026 Global Regulatory Brief: Bank stress tests, Basel III and insurance supervision Bloomberg.com",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "October 2026 Global Regulatory Brief: AI risk management, tokenized securities and cryptoasset regulation - Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPd1JORW14QWVKU1FRV2ZVclpoM3pwdGFzaF93TGZBbXl4Q2JNbnZEd21BUC1HNkdBLVgxSXNJOUZoM0s4Qnpkd1VpaDBvVFhuaDljQWdyNkhwVFVVOG0ydGtXVVdkX1ZDQkk3VDA2Tmo4VTZWMXJ6dXJneWR6ZEhFZTRqTFZzc3VXT2ZZUUdTTEtFakhoZ1ducDFJeWJrVmlDanl5Z0t2T2UyZGZYRUM3RDFR?oc=5",
-      "source": "Bloomberg",
-      "date": "2026-10-27T17:00:04+00:00",
-      "display_date": "Oct 27, 2026",
-      "summary": "October 2026 Global Regulatory Brief: AI risk management, tokenized securities and cryptoasset regulation Bloomberg",
       "topics": [
         "Regulatory Change"
       ]
@@ -2123,17 +2057,6 @@
       "summary": "Senior officials from the Securities and Exchange Commission, Federal Deposit Insurance Corporation, Commodity Futures Trading Commission, Federal Reserve Board, and Bank of England convened for a tabletop exercise on Sept. 3, 2026, to discuss certain…",
       "topics": [
         "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "Microsoft Plugs Nearly 1,000 Security Holes",
-      "link": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
-      "source": "Krebs on Security",
-      "date": "2026-09-08T21:44:22+00:00",
-      "display_date": "Sep 08, 2026",
-      "summary": "Microsoft Corp. today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch batch ever. Microsoft says artificial intelligence is helping to speed the discovery of vulnerabilities, but security expe...",
-      "topics": [
-        "Cybersecurity Risk"
       ]
     },
     {
