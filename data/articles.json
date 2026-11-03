@@ -1,14 +1,48 @@
 {
-  "last_updated": "November 02, 2026 20:37 UTC",
-  "total_count": 210,
+  "last_updated": "November 03, 2026 00:39 UTC",
+  "total_count": 213,
   "articles": [
     {
-      "title": "British Gas resume force-fitting prepayment meters months after £112m settlement",
+      "title": "Latest national scam more sophisticated and 'just the tip of the iceberg'",
+      "link": "https://www.abc.net.au/news/2026-11-03/rms-data-breach-kimberley-accommodation-bookings/107328710",
+      "source": "ABC News Business (AU)",
+      "date": "2026-11-02T22:30:33+00:00",
+      "display_date": "Nov 02, 2026",
+      "summary": "Academics warn phishing scams are becoming more sophisticated and convincing, with Kimberley holiday-makers saying messages to them have included accurate personal information about their booking.",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "Extreme, Part II: The Sanctions Violations",
+      "link": "https://www.radicalcompliance.com/2026/11/02/extreme-part-ii-the-sanctions-violations/",
+      "source": "Radical Compliance",
+      "date": "2026-11-02T21:55:29+00:00",
+      "display_date": "Nov 02, 2026",
+      "summary": "Today we return to Extreme Networks, the tech company fined $2.5 million last week for sanctions violations and its “near miss” in voluntary self-disclosure that left the company with a non-prosecution agreement rather than a declination. Fascinating as that disclosure flub might...",
+      "topics": [
+        "Enforcement Actions",
+        "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "Clorox Posts Higher Revenue, Profit; Trims Outlook on Higher Costs",
+      "link": "https://www.wsj.com/business/retail/clorox-posts-higher-revenue-profit-trims-outlook-on-higher-costs-4e6a468b?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-11-02T21:24:00+00:00",
+      "display_date": "Nov 02, 2026",
+      "summary": "The maker of cleaning products and other household goods said it now expects full-year adjusted earnings per share at the lower end of its guidance range of $5.70 to $6.",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "British Gas resumes force-fitting prepay meters months after £112m settlement",
       "link": "https://www.theguardian.com/money/2026/nov/02/british-gas-resume-force-fitting-prepayment-meters-months-after-112m-settlement",
       "source": "The Guardian Australia",
       "date": "2026-11-02T20:05:17+00:00",
       "display_date": "Nov 02, 2026",
-      "summary": "Regulators have lifted a block on the supplier, enabling it to install meters in the homes of people who cannot afford their energy bills British Gas has resumed force-fitting prepayment meters in the homes of people who cannot afford their energy bills just months after paying t...",
+      "summary": "Regulators lift block on supplier, enabling it to install meters in homes of people unable to afford energy bills British Gas has resumed force-fitting prepay meters in the homes of people unable to afford their energy bills months after paying the largest settlement on record fo...",
       "topics": [
         "Enforcement Actions"
       ]
@@ -20,17 +54,6 @@
       "date": "2026-11-02T19:07:40+00:00",
       "display_date": "Nov 02, 2026",
       "summary": "After a second apparent cyber-attack in as many weeks, we examine possible culprits and their motives Shop fridges and freezers across Europe hit by fresh suspected cyber-attack Supermarket fridges and freezers in seven European countries have malfunctioned , their thermostats re...",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "Shop fridges and freezers across Europe hit by fresh suspected cyber-attack",
-      "link": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack",
-      "source": "The Guardian Australia",
-      "date": "2026-11-02T16:39:20+00:00",
-      "display_date": "Nov 02, 2026",
-      "summary": "Chains in seven countries say cooling unit temperatures rose overnight in incident similar to hack of French shops Who is hacking Europe’s supermarket fridges and freezers, and why? Supermarket chains in at least seven European countries have said the temperatures of refrigerator...",
       "topics": [
         "Cybersecurity Risk"
       ]
@@ -325,6 +348,17 @@
       ]
     },
     {
+      "title": "SoftBank-Backed OPay Halts IPO to Respond to Regulatory Inquiry - Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORHh3R083QzhDZG9md3VTbHMzZzBfajREX05YZ1JkMFJYSU9PS29TcmtoYVd5dm9oQTkxajR4am9IS2ZRU2JhRXI4dzF2bFVCeFFlellYVEZxOS1ZU05FWk9ERWU1SWFzb25xVEg5UzFnMFVzTXY5UUtncHFNbnlNRHhiN29BdDNuUXc1bkIzam05TVBlNV8zYWhacHhFcEUzREU3OWZVQVVtcHg1NEpIZWdZZWNFSXV2cExTS0pPRFRJTlU5bXVMdzlB?oc=5",
+      "source": "Bloomberg",
+      "date": "2026-10-31T08:48:16+00:00",
+      "display_date": "Oct 31, 2026",
+      "summary": "SoftBank-Backed OPay Halts IPO to Respond to Regulatory Inquiry Bloomberg",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
       "title": "North Korea says sanctions don't work to deny its status as nuclear weapons state - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbVo5aGdRLXQ0a3ltRnJzMUVTRjBjNUJKNW5fWGxtTmh2NEVMZ0ZUUTRqSktEeXotdkNNWk9TS2ExREYtQWZmdFVZUV9MWUZVaGNIaVk0RXJtdXk0LXN5V29CNmY3ME54ZkRueXh5YzB4OXVEakVOYUVBSlFzaVUtV3hBLVZ0WnNHSmwwcGd4ZHJmVzFwR2VPMndoZGxObmtQRVJxM3dEZmdobnlWOGpCYjEwNFRrTERnUFd5S2NEcVhITjFxSndtaw?oc=5",
       "source": "Reuters",
@@ -347,17 +381,6 @@
       ]
     },
     {
-      "title": "Opinion | 1.5 Billion Successes in the War With Iran",
-      "link": "https://www.wsj.com/opinion/u-s-navy-brad-cooper-iran-gulf-oil-middle-east-2c8a934a?mod=pls_whats_news_us_business_f",
-      "source": "Wall Street Journal",
-      "date": "2026-10-30T21:35:00+00:00",
-      "display_date": "Oct 30, 2026",
-      "summary": "That’s how many barrels of oil have made it out of the Hormuz Strait with U.S. military guidance.",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "SEC Issues Exemptive Relief from Treasury Clearing Requirements for Certain Inter-Affiliate and Non-U.S. Repo Transactions",
       "link": "https://www.sec.gov/newsroom/press-releases/2026-111-sec-issues-exemptive-relief-treasury-clearing-requirements-certain-inter-affiliate-non-us-repo",
       "source": "SEC Press Releases",
@@ -375,6 +398,17 @@
       "date": "2026-10-30T17:36:27+00:00",
       "display_date": "Oct 30, 2026",
       "summary": "UK private markets firms are managing conflicts of interest inconsistently and need to prove they are treating investors fairly, according to a new report from the UK Financial Conduct Authority. The post Conflicts of interest controls failing to keep up with private markets comp...",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Canadian Investment Regulatory Organization Trade Resumption - GLDR – Company Announcement - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbmpYeWpGclhhVlc0d2ZlaVFGNU0xTEsxdXl2N0UtcVFQeUZkWnVLd3Rpb3R6alc5WjVES2hUamVzd3FqWDVjcmFzS21zdVl1QXN4NlE1bHhkLVBSVkNLUWVyLXMtZU04SzZ0eFVVRk5mZ185X3hBSEJsVHB1ZWhRa0Fuc3hrVXZab0drdTExZXdUaE1QUkE?oc=5",
+      "source": "Financial Times",
+      "date": "2026-10-30T17:12:00+00:00",
+      "display_date": "Oct 30, 2026",
+      "summary": "Canadian Investment Regulatory Organization Trade Resumption - GLDR – Company Announcement Financial Times",
       "topics": [
         "Regulatory Change"
       ]
@@ -568,17 +602,6 @@
       ]
     },
     {
-      "title": "Opinion | Trump Scores on Methane Regulation",
-      "link": "https://www.wsj.com/opinion/trump-lubbock-texas-oil-drilling-epa-lee-zeldin-13b85d0d?mod=pls_whats_news_us_business_f",
-      "source": "Wall Street Journal",
-      "date": "2026-10-29T21:47:00+00:00",
-      "display_date": "Oct 29, 2026",
-      "summary": "The EPA overturns a costly Biden rule on natural gas drilling.",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "Federal Court blasts ‘false veneer’ in AUSTRAC’s case against Entain - AFR",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQ2N2MFI1QXpqTzBfQzh5SS00aUlvakVNOHZnYVpGWHpvT3EzNWxGTXNVcGlpTUhNY210ZlB0T2Vkbm9pbWd0bzRrdHN4R2pxVHhRMjNWYVl2RlVteDIwN0lpQXZTUHI3NWY5MmFTdkluMHMyOExuLUtTbHhORTNJdjdWa3NUYjQxc0VSNkdncGMxalE5U2JrOWl5d2RvR3BWeXRDY3J3TmtDYjNINHBuLXBCbzhyQWU5bXpHckJselRqZzRENXZ4b1FSRQ?oc=5",
       "source": "AFR",
@@ -767,17 +790,6 @@
       ]
     },
     {
-      "title": "Sale of scandal riddled planner InterPrac now ASIC’s business - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNEdVNGl0SVNIZ1BaamNDSXJuWDhoNGxueHQycE9vNUw2U3R2cGF2YUtXWW9GalVPVWJ3MnFWOEo1NzctUG5tODJxTEdTUVliWmpocXNJRWNSOEN6SUJjalVrOVRDSnJwNGpoQ2dqa0l5TFF1ZTM1Y3ByNnFfZjhTd1ZiVnFwbUNROC1rY09HMVdqRVhLODNiWXdBUUEtZ0x5dFZsWkpYX2FPajRTYWpqeF9lVU1GeGZ6OHRlVy1QVm5vbFpKWkdaT0ZadVV5MzI0UGotbHc2TnlvekhQbjJRZ3ZjeE1vOXFGOWluWg?oc=5",
-      "source": "The Australian",
-      "date": "2026-10-29T05:53:00+00:00",
-      "display_date": "Oct 29, 2026",
-      "summary": "Sale of scandal riddled planner InterPrac now ASIC’s business The Australian",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
       "title": "Court rejects ‘fishing expedition’ by Super Retail ex-chief for ASIC files - The Australian",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPb2N6WGVCNHVvaC1FZ1VCR1FHRGtFSnJSRkNUWFRReXl6bkdVNVE0dGFRMFBfa2kxYXk5Z1RMSF93V0t0dXJ5Z2dEd3NBNG9iaE1pV091M3FBWWtOVTBidmFMN3RDVkNKOHIzUW5NZzc2VTBtVXZLU0JCTU5jWjFyTnZXUGhiNW5vcWlXZFlRdmtIMUdJWHBpdld5TDBiTy15dFNFQUNhMF9QX1l0dXR4QUtWaTdMYjJKOEZ2WThTZXNXVkE1X2RUUVhUeUF0ampQWFhSQWFpRDBqa3k0bkZ2ZFNGUHM4dVJNWkRwZ0NfXzBCWnZSd0tSQmU0cVNpelliUjhVUHA5SXM?oc=5",
       "source": "The Australian",
@@ -957,6 +969,18 @@
       ]
     },
     {
+      "title": "Australia's Star Entertainment fined $183 million for anti-money laundering law breaches - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdDEzR2l3NGVCMzJiSjBNdGx1NGE1eGN6LUczbUNBb241T0FCU2hKU2FvMDZUbmdMdEVrLXViTzBzWE5udE1TMWkzZjQ0T1JIRmc4Wjh1YURLeW16eE1pX3gwdlhCSkJmRFUtd2Jhd0h3d0R2Sm1VZ3hSWW9CTTl1SDRfbWt2ZnNwcEwtazZCTjZUSEN1a1JJZk5DdElhNlptM3dSa0xZWUQ1eGotcEVtckd6c1dGVXp2LVVyWWM4azRpZnBX?oc=5",
+      "source": "Reuters",
+      "date": "2026-10-28T07:50:16+00:00",
+      "display_date": "Oct 28, 2026",
+      "summary": "Australia's Star Entertainment fined $183 million for anti-money laundering law breaches Reuters",
+      "topics": [
+        "Enforcement Actions",
+        "AML & Sanctions"
+      ]
+    },
+    {
       "title": "Star hit with $260m fine over money laundering - The Australian",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQQU1sSjZ4Vm5nTUNUcHFEVlh2LUc0bFJmQk9EbnUySTQ5NWlpNXJrS2E3Ym8tcWxROWVpTnNjc1ExQkdzdmxrR0lwUkNYblpFV0VtNVBrS0stdkdubk1vX0pSNkdoU0YyNk9oaE11ZExlNlBHbk41ajQ4SFVxX1Vad1NEeUE1NmZEYWVOZ3BJZ2EzNU1uNEV6Sk9VM09NdGRJRzNxWHdfWGFEelJBYTRTTk5sdER0ZnY0MUdTajdvVm9DRFNTdWpQTGRsT0dNcDNCbGExQlhmRGM3cTI5WnFLMGhzUWV4TWFRakE?oc=5",
       "source": "The Australian",
@@ -1013,6 +1037,17 @@
       ]
     },
     {
+      "title": "China hands former security regulator anti-graft official suspended death sentence - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQREFlOHg3dHlOSU1aQmo1akw2RDZMclRUQmZFMk5Hb3N6alVMUWFnMWQ5ZW00Rk82V1FuVTNOdXp4eF9DZ0ZZdkUxY08tTmtXR0hOSXp4Qnc3Y0xPN3F4SXV2R0Y0Q201S2tib2ZhSU1RQk5tVnp4LWdVRGljcU1PWnJ5WVNLaWxFV09LYzJvQkpLMHNtOUVNeUZxZldoQkdmTEFrZzlSZGpVbnhLYUlVTTZFM0lRdGtHOElwVDd3?oc=5",
+      "source": "Reuters",
+      "date": "2026-10-27T19:09:45+00:00",
+      "display_date": "Oct 27, 2026",
+      "summary": "China hands former security regulator anti-graft official suspended death sentence Reuters",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
       "title": "Comptroller Gould Discusses Efforts to Support Community Banks",
       "link": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-94.html",
       "source": "Office of the Comptroller of the Currency",
@@ -1024,12 +1059,34 @@
       ]
     },
     {
-      "title": "October 2026 Global Regulatory Brief: Bank stress tests, Basel III and insurance supervision - Bloomberg",
+      "title": "Canadian Investment Regulatory Organization Trade Resumption - OSM – Company Announcement - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeG0zdkFuVFVVSUFIUHRJRkRVb1FsWU82Z2NDMGxtbzJlWFR1TzJnZllGOTlLYVY0UXprVzVZY19ZVW1NZlhmcVdERUx4RmY0T1k3SG5iR2VrNlNaSDlJN0VPZXFTT1VkMm8tRGxaRUl4bVZtS00wVEFqeDZLOW5vbjBfQXRHaUZmdWs1b2M2RnhXTGM?oc=5",
+      "source": "Financial Times",
+      "date": "2026-10-27T17:34:00+00:00",
+      "display_date": "Oct 27, 2026",
+      "summary": "Canadian Investment Regulatory Organization Trade Resumption - OSM – Company Announcement Financial Times",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "October 2026 Global Regulatory Brief: Bank stress tests, Basel III and insurance supervision - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOT3JFbnF5NFBJelpmY1BRNDk0Q2Vvenh4bms5NTVpdlFCc2RIMHBUMGh2T0dMVEpCcnFmZXVZSXA3cHoyR1MxNk5Cd2pOcC05ak9lWWtsRmVkdTFaejRJcUJpa1pGWTJqZzBBRDVNR0VjTzVBYVVLNjJyNjlocHVHOUc4X05nemFJenRPYWVCREE1R0FaMFoyOVhmWkhsbWVUWERtSTFlWkVUTzVNS1Y4bjh6cTFpZUFaeGxVa0lwdHpPZXpwTTQ0WXNTU2U1ZUsxWFhPVk5NcWd4ZGRUbUNVMmRoYXc?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-10-27T17:00:04+00:00",
+      "display_date": "Oct 27, 2026",
+      "summary": "October 2026 Global Regulatory Brief: Bank stress tests, Basel III and insurance supervision Bloomberg.com",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "October 2026 Global Regulatory Brief: AI risk management, tokenized securities and cryptoasset regulation - Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPd1JORW14QWVKU1FRV2ZVclpoM3pwdGFzaF93TGZBbXl4Q2JNbnZEd21BUC1HNkdBLVgxSXNJOUZoM0s4Qnpkd1VpaDBvVFhuaDljQWdyNkhwVFVVOG0ydGtXVVdkX1ZDQkk3VDA2Tmo4VTZWMXJ6dXJneWR6ZEhFZTRqTFZzc3VXT2ZZUUdTTEtFakhoZ1ducDFJeWJrVmlDanl5Z0t2T2UyZGZYRUM3RDFR?oc=5",
       "source": "Bloomberg",
       "date": "2026-10-27T17:00:04+00:00",
       "display_date": "Oct 27, 2026",
-      "summary": "October 2026 Global Regulatory Brief: Bank stress tests, Basel III and insurance supervision Bloomberg",
+      "summary": "October 2026 Global Regulatory Brief: AI risk management, tokenized securities and cryptoasset regulation Bloomberg",
       "topics": [
         "Regulatory Change"
       ]
@@ -1668,17 +1725,6 @@
       ]
     },
     {
-      "title": "Mapping AI Agents’ Compliance Risks",
-      "link": "https://www.radicalcompliance.com/2026/10/15/mapping-ai-agents-compliance-risks/",
-      "source": "Radical Compliance",
-      "date": "2026-10-16T01:51:27+00:00",
-      "display_date": "Oct 16, 2026",
-      "summary": "Here’s a fresh perspective on the compliance risks of AI systems. Rather than yet another survey of GRC professionals expressing their fears that AI agents will go glitchy and introduce compliance risk, an AI research lab had a bunch of frontier models build privacy-sensitive web...",
-      "topics": [
-        "Data Privacy"
-      ]
-    },
-    {
       "title": "ePayments Systems Limited enters special administration",
       "link": "https://www.fca.org.uk/news/news-stories/epayments-systems-limited-enters-special-administration",
       "source": "FCA UK Regulatory News",
@@ -1911,18 +1957,6 @@
       "summary": "The Securities and Exchange Commission’s Division of Examinations today published its new handbook, “The SEC Exam Handbook: A Practical Guide on Process and Engagement,” which replaces and expands upon the previous examination brochure by providing…",
       "topics": [
         "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "The green light for the largest coalmine in NSW history is shocking proof that our governance systems are betraying Australians | Georgina Woods",
-      "link": "https://www.theguardian.com/commentisfree/2026/oct/01/nsw-coalmine-approval-hunter-valley-climate-crisis-lock-the-gate",
-      "source": "The Guardian Australia",
-      "date": "2026-10-01T03:00:25+00:00",
-      "display_date": "Oct 01, 2026",
-      "summary": "There is no greater treachery than this failure to face up to the climate crisis. How can we now fend off despair? The Independent Planning Commission’s published reasons for approving the largest coalmine in New South Wales history in the context of mounting death, disaster and ...",
-      "topics": [
-        "ESG & Sustainability",
-        "Operational & Enterprise Risk"
       ]
     },
     {
