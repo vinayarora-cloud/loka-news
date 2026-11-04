@@ -1,7 +1,62 @@
 {
-  "last_updated": "November 04, 2026 04:45 UTC",
-  "total_count": 205,
+  "last_updated": "November 04, 2026 08:48 UTC",
+  "total_count": 207,
   "articles": [
+    {
+      "title": "Novo Nordisk Lifts Guidance as Rollout of Wegovy Weight-Loss Pill Continues",
+      "link": "https://www.wsj.com/health/pharma/novo-nordisk-lifts-guidance-as-rollout-of-wegovy-weight-loss-pill-continues-1f748068?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-11-04T08:41:00+00:00",
+      "display_date": "Nov 04, 2026",
+      "summary": "The Danish drugmaker raised its guidance for the year after noting an improved outlook for its key obesity and diabetes drugs, particularly in markets outside of the U.S.",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Dollar falls while gold and US Treasury bonds rally as markets react to Democrats’ midterm election victory – business live",
+      "link": "https://www.theguardian.com/business/live/2026/nov/04/dollar-falls-while-gold-us-treasury-bonds-rally-markets-react-democrats-midterm-election-victory-marks-spencer-latest-live-updates",
+      "source": "The Guardian Australia",
+      "date": "2026-11-04T08:30:56+00:00",
+      "display_date": "Nov 04, 2026",
+      "summary": "Democrats’ capture of Congress raise expectations of tougher regulation of AI sector; US stock futures fall but later pare losses The Texas win for the Democrats spells trouble for datacentres , analysts say. According to Chris Beauchamp , chief market analyst at IG in London: Gr...",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "M&S takes more than a year to recover from cyber-attack as profits bounce back to £355m",
+      "link": "https://www.theguardian.com/business/2026/nov/04/m-and-s-recover-from-cyber-attack-profits-bounce-back",
+      "source": "The Guardian Australia",
+      "date": "2026-11-04T08:17:14+00:00",
+      "display_date": "Nov 04, 2026",
+      "summary": "Sales and profit from clothing and homeware remain below two years ago but ‘brand is in good health’ Marks & Spencer has said a devastating cyber-attack that shut down its website last year continued to hurt clothing sales over the summer, more than a year after the hack. The ret...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "North Korea Slams US Hostile Policy as Trump Awaits Vote Outcome - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPT3NtZWxwZU9ld2x4LUNZdEVpY0pMRThQVDJFNlM1OFV2UG1WeUs4dTlrVWVBOVd1eHZKM3pOaDVLeTMzeVFMOThsMl84bUd5V2VXVE90VE1zbDgxbi1RcmhjOWIwRVhtYzZVVnpNMUJ0SXpUdzB3aVI4RXB1N2FWOXBpR0NFNHRhcTJ3REpYZ3BUNGNEVWJ6UnF4SVFlVnN6T3pybl9BVURjTEs0cVpidGlLbDlXUQ?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-11-04T05:20:00+00:00",
+      "display_date": "Nov 04, 2026",
+      "summary": "North Korea Slams US Hostile Policy as Trump Awaits Vote Outcome Bloomberg.com",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Top ICC official urges Europe to shield court from US sanctions - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQel9yc0s2ZE5meDNfVjFMVlpuNG4tdFNZeGM1eXM3a0ZDWHZZMmlvcVhMSDJqVkladWlYSVI5cnVoaGUwOXNhZDN1V2JYXzlSRUtsZVphN3BnQU91SHpNcHctdkNGVF9SMldUcDIzREp1R0E3R2dTU0VIelpnVVZmX2pueDg?oc=5",
+      "source": "Financial Times",
+      "date": "2026-11-04T05:00:18+00:00",
+      "display_date": "Nov 04, 2026",
+      "summary": "Top ICC official urges Europe to shield court from US sanctions Financial Times",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
     {
       "title": "ASIC fines Mona owner David Walsh's company for late financial report",
       "link": "https://www.abc.net.au/news/2026-11-04/mona-museum-company-fined-asic-late-financial-report/107345772",
@@ -19,7 +74,7 @@
       "source": "ABC News Business (AU)",
       "date": "2026-11-04T04:35:38+00:00",
       "display_date": "Nov 04, 2026",
-      "summary": "One of David Jones's biggest landlords says the department store his in breach of its rental agreements and has not paid since September.",
+      "summary": "One of David Jones's biggest landlords says the department store is in breach of its rental agreements and has not paid since September.",
       "topics": [
         "Cybersecurity Risk"
       ]
@@ -47,14 +102,14 @@
       ]
     },
     {
-      "title": "US tech stocks recover after selloff spooks investors over AI spending",
-      "link": "https://www.theguardian.com/business/2026/nov/03/us-tech-stocks-recovery-ai-spending",
-      "source": "The Guardian Australia",
-      "date": "2026-11-03T22:18:45+00:00",
+      "title": "Block lifts profit outlook on Cash App strength, reaches preliminary DOJ settlement - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZGJibkpjcnNYWm1hLWNVbEFQelRUNWdNZDZ1alY0QWkzX2paTmtPRWpldjRFWHNyWmdQdW9pWGc1WURpcjI1QjdSQXNkSjNmOFEyM2hZcDNOUmxla2Q3allvR0J3bmlGN1JjXzFJVUlxb2VHVHZ6clVUSVZEVjVXRS04YUdhYmpPVW1Ed21sbEduM2ZpWVNsbjhHN3BXemthMk16RDdpUlc4RjVQeG4zRnpsb0VKQ194MEIzY21NWnhsQQ?oc=5",
+      "source": "Reuters",
+      "date": "2026-11-03T23:59:00+00:00",
       "display_date": "Nov 03, 2026",
-      "summary": "Midterms didn’t appear to have huge impact, though predicted wins for Democrats could mean more regulation US tech stocks made a recovery on Tuesday afternoon after a selloff spooked investors over AI spending. Tuesday’s midterm elections didn’t appear to have a huge impact on Wa...",
+      "summary": "Block lifts profit outlook on Cash App strength, reaches preliminary DOJ settlement Reuters",
       "topics": [
-        "Regulatory Change"
+        "Enforcement Actions"
       ]
     },
     {
@@ -85,27 +140,16 @@
       "source": "Wall Street Journal",
       "date": "2026-11-03T20:00:00+00:00",
       "display_date": "Nov 03, 2026",
-      "summary": "As the pearling industry faces environmental challenges, tariffs and rising labor costs, Paspaley remains one of the last significant pearl-diving operations in the world",
+      "summary": "As the pearling industry faces environmental challenges, tariffs and rising labor costs, Paspaley remains one of the last significant pearl-diving operations in the world.",
       "topics": [
         "ESG & Sustainability"
-      ]
-    },
-    {
-      "title": "Hackers behind $6.3bn Binance heist ‘used malware and bogus job interviews’",
-      "link": "https://www.theguardian.com/business/2026/nov/03/hackers-63bn-binance-heist-malware-bogus-job-interviews-cryptocurrency",
-      "source": "The Guardian Australia",
-      "date": "2026-11-03T19:00:23+00:00",
-      "display_date": "Nov 03, 2026",
-      "summary": "Firm reveals details about how its cryptocurrency exchange was compromised, saying operation began in June The hackers behind the $6.3bn (£4.7bn) Binance heist used bogus job interviews, malicious software and an internal AI tool, the company has revealed. The world’s largest cry...",
-      "topics": [
-        "Cybersecurity Risk"
       ]
     },
     {
       "title": "Justin Hemmes, David Walsh fined in ASIC late filing crackdown - The Australian",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNNzlhQUVDYU9sa2owdm5SeHluM0tzdUF4alBIeHdzZmhOcC1uY1BhaTN1LWRQcEJjR3pIU1hwam9raVJ6VTdwZGdDd0hxSGJuQ2lEdDZBSjRiQkJvVVFWVlZyRDY0enQ3UmlhVkI1cHZEOW5JcnJEVWFabHdyV2I0TlRkTXc0dHM4QmpBUTVBVnVFMWhIZGFqdnFYUk9lblBSWTB3dXdueWdKcjd4ZUJGbnFIMUxHd3RuaXRhdEVyeW85VVNGRTBERzJRZi1Nd2tZcXozeTlRb2tUUG1JdWJFc3MwRGxUOWRKWDlwQ2ZkdExXSEFnTVRBb3ZqZHBPdw?oc=5",
       "source": "The Australian",
-      "date": "2026-11-03T18:34:55+00:00",
+      "date": "2026-11-03T18:34:57+00:00",
       "display_date": "Nov 03, 2026",
       "summary": "Justin Hemmes, David Walsh fined in ASIC late filing crackdown The Australian",
       "topics": [
@@ -169,6 +213,17 @@
       ]
     },
     {
+      "title": "India's competition regulator clears Kotak Mahindra's acquisition of Deutsche Bank retail business - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZXhBc0Exb185Q1BpSGZPQ0FLc3lqZkR3RVNYUF9NdU5mM1FIbzVYRnRQM0cwLVF0bXgwMTJIaUtNQ1pPTGhQd3plV3FpVzNIUEFVb1UwaFVFS01aODAxUEpPdDdWUV9IQldlQmhCZXlfZ1JMOHpWZ1VHMURMWFljNFo2MDNaejlaSGZBaXgyVlZVS2xuM2F2cGxSemFHYnBCZ0hXOWFJNmhreDhpRlhpQVJmSVM5bzBoTC1ILUUxZUh6SFU?oc=5",
+      "source": "Reuters",
+      "date": "2026-11-03T17:10:42+00:00",
+      "display_date": "Nov 03, 2026",
+      "summary": "India's competition regulator clears Kotak Mahindra's acquisition of Deutsche Bank retail business Reuters",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
       "title": "Audit AI Startup Clark Raises $11M Seed Round",
       "link": "https://www.corporatecomplianceinsights.com/audit-ai-startup-clark-raises-11m-seed-round/",
       "source": "Corporate Compliance Insights",
@@ -188,17 +243,6 @@
       "summary": "Industrial certification provider Isometric announced today the launch of Ready for CBAM, a new service […]",
       "topics": [
         "ESG & Sustainability"
-      ]
-    },
-    {
-      "title": "Shopify Squeezed by AI Compute Costs, Pre-Holiday Infrastructure Buildout",
-      "link": "https://www.wsj.com/business/earnings/shopify-profit-revenue-up-as-merchant-volume-rises-4614feba?mod=pls_whats_news_us_business_f",
-      "source": "Wall Street Journal",
-      "date": "2026-11-03T15:51:00+00:00",
-      "display_date": "Nov 03, 2026",
-      "summary": "The ecommerce company’s third-quarter results and holiday guidance signaled mounting cost pressure from artificial-intelligence compute and infrastructure buildout costs.",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
@@ -241,17 +285,6 @@
       "date": "2026-11-03T14:17:42+00:00",
       "display_date": "Nov 03, 2026",
       "summary": "Versant posted third-quarter earnings that beat Wall Street expectations and reaffirmed its full-year guidance.",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Intesa Raises Profit Guidance as Monte Dei Paschi Bid Nears",
-      "link": "https://www.wsj.com/business/earnings/intesa-raises-profit-guidance-as-takeover-of-monte-dei-paschi-nears-dd194dcf?mod=pls_whats_news_us_business_f",
-      "source": "Wall Street Journal",
-      "date": "2026-11-03T13:39:00+00:00",
-      "display_date": "Nov 03, 2026",
-      "summary": "The lender boosted its outlook, citing higher revenue and stable costs, as it prepares to buy smaller rival Banca Monte dei Paschi di Siena.",
       "topics": [
         "Regulatory Change"
       ]
@@ -516,12 +549,12 @@
       ]
     },
     {
-      "title": "EXCLUSIVE: Communications firm Public Policy buys Reevemark for up to $80 million, sources say - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNmdoQUN2Vl9tRm92WEFzTHFyUXZpUWV3Zy1XRjctQXpDUGg3QWJRNklIdnVoUVhGZmlvSFptWEVhNFpUSjNMRlU2QXd3aG9NRU1aX1AzdTdsdEtvUEE0VHVNeXVRYVQzNEpyOHBER3hjdWZjZ1RPdXFqTkJiY2puZUM0OWxFRjhVazNFUkE4QTdPQkk3d3czTHFUTzk0ZVc0TkxTenVsd1BMUWdvMTJVM2ZyT25Zam9mMmYw?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-02T05:15:00+00:00",
+      "title": "Millennium’s Raiskin Says Asia Markets Enjoying Regulatory Aid - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOM0FrX3ZTQVEzNVhON3RWeUV5dXZOOVNRbGlaUmV5aFVMRWZrLUFJQ0JZV3pCMFlvUUhZZHBMbC1NaDJ4bUlZLTRaQzU3QVlJeklXcEd5NEdZNnJtT1JuTWhLYnFuZDJYZFlaMjZqbVdLLVNDZjlHZXVrOHlVVUZCOFZDd3o1QzI2VjdzY2dyRGxaU3czZDlFSjRQdXp1OHcydDRmaGF5VjBhYUpLUTRoVUZLcW9YRmVnR0diWUFTMVZjazFHZmtJSnJ5d3hfX2ZCQVE?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-11-02T03:22:00+00:00",
       "display_date": "Nov 02, 2026",
-      "summary": "EXCLUSIVE: Communications firm Public Policy buys Reevemark for up to $80 million, sources say Reuters",
+      "summary": "Millennium’s Raiskin Says Asia Markets Enjoying Regulatory Aid Bloomberg.com",
       "topics": [
         "Regulatory Change"
       ]
@@ -605,14 +638,14 @@
       ]
     },
     {
-      "title": "India's RBI tightens cyber checks on lenders after spate of hacks - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUV9lcE01R2l5NFJ3Nmg3YWVuSUxtcUNET1ZsTHdEMGNTcGh6X1pqT0NjUkk3NFBXOHliWlhuaXZISV9KdXMxbFVyVGo0OXhUMkdFczRyVjRVMWhfWVRtN1JWRlNpVkdzNUJUNDQzTFM2TlJjbkxVUmljbnFSNDFQeWNXUE1ZTkJuQ2hxRnRIMENTUGprdW9NRWFYMkstLVNIbVpBc0NaZk1mVmlCV0pTUQ?oc=5",
+      "title": "Navalny ally says EU sanctions sends 'clear message' - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1TV0FIMGs2aUg1djlrZHNSRXF4VDloZFRaNElpc1czTnRjTmpfbjdhelN2S1gweDJmdHh4MWZ6WXJiYUVObWtrS0FRSkpxOGQtcEhQT28wSjkzQXV3?oc=5",
       "source": "Reuters",
-      "date": "2026-10-30T21:59:04+00:00",
-      "display_date": "Oct 30, 2026",
-      "summary": "India's RBI tightens cyber checks on lenders after spate of hacks Reuters",
+      "date": "2026-10-31T07:00:00+00:00",
+      "display_date": "Oct 31, 2026",
+      "summary": "Navalny ally says EU sanctions sends 'clear message' Reuters",
       "topics": [
-        "Cybersecurity Risk"
+        "AML & Sanctions"
       ]
     },
     {
@@ -669,6 +702,17 @@
       "topics": [
         "Regulatory Change",
         "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "Canadian Investment Regulatory Organization Trading Halt - DUNE – Company Announcement - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPanpJQ1RRbHhKM1BhZzQxWUtJSjRHdGhQWE82YWRwY0FYVkhmVU5jSkxlNXMxaVpMVDBKU3FhSGdsLUZBUnJ2ME9mOUpaSHNpR2poR2RLUnhrUl9VcVljUFFIZlBKWXJ6WkZDY1V6RmFrVkZtZU9YTWhXcjVQVjFjam9OODRpTTFHTEg2SHFnQllmVkNLd0E?oc=5",
+      "source": "Financial Times",
+      "date": "2026-10-30T13:23:00+00:00",
+      "display_date": "Oct 30, 2026",
+      "summary": "Canadian Investment Regulatory Organization Trading Halt - DUNE – Company Announcement Financial Times",
+      "topics": [
+        "Regulatory Change"
       ]
     },
     {
@@ -857,17 +901,6 @@
       "summary": "The business of GRC is ever-expanding, GRC technology is one of the fastest-growing segments in enterprise software, and compliance professions are rapidly evolving. Here’s the latest from across the industry. Product launches Government and legal technology provider Casepoint la...",
       "topics": [
         "Operational & Enterprise Risk"
-      ]
-    },
-    {
-      "title": "Crypto exchange HTX agrees to exit UK after being sued by watchdog - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZktMUWNyQ0xJR0pUWl9BWDhwSExaQ3ZWYUQ0aVFNNHZZTkwyaG1pVGRRNGRUV0Z4X3VNZ2ZzQnpORmFWa3VsSHBIVG5nVUVuM3VYaWlWNF9jeHpaVW03T0tQZ2Vlb2hxWVNEVnVjVDIxTGRtWkM1NzRMdGNGb0RhdER2dTE?oc=5",
-      "source": "Financial Times",
-      "date": "2026-10-29T12:12:38+00:00",
-      "display_date": "Oct 29, 2026",
-      "summary": "Crypto exchange HTX agrees to exit UK after being sued by watchdog Financial Times",
-      "topics": [
-        "Enforcement Actions"
       ]
     },
     {
@@ -1102,17 +1135,6 @@
       "topics": [
         "Regulatory Change",
         "Operational & Enterprise Risk"
-      ]
-    },
-    {
-      "title": "Rule-breaking data centres to have power switched off - AFR",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOank4cUd2enlNbndTWFlzLVpweGNwclNFUUNLTXdNT2hOejZnU25NYWtiRmFwTTNiOXkyWXZ4YWZxNFRMR3QyWEk2M0l5SlluWG1OT0l5SEdKTmJkMFE4VXlMZ2xUd3gtWm9nV0lFelFIX3Rqd21SbU5lNmNHeHJRRm5aTm1BMzlOZUJhWjBtXzRnZmYwdUNTT1loR25qLTBPaERGTTMyRDRtbHMxUTdKVGttUUpaQQ?oc=5",
-      "source": "AFR",
-      "date": "2026-10-28T06:31:00+00:00",
-      "display_date": "Oct 28, 2026",
-      "summary": "Rule-breaking data centres to have power switched off AFR",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
