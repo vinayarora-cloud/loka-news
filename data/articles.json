@@ -1,7 +1,51 @@
 {
-  "last_updated": "November 03, 2026 20:37 UTC",
-  "total_count": 221,
+  "last_updated": "November 04, 2026 00:37 UTC",
+  "total_count": 215,
   "articles": [
+    {
+      "title": "3M Announces $7.4 Billion Settlement in ‘Forever Chemicals’ Injuries Case",
+      "link": "https://www.wsj.com/business/3m-announces-7-4-billion-settlement-in-forever-chemicals-injuries-case-17dd1e41?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-11-03T23:58:00+00:00",
+      "display_date": "Nov 03, 2026",
+      "summary": "The agreement covers up to 120,000 plaintiffs who claim they were hurt by chemicals containing PFAS.",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "US tech stocks recover after selloff spooks investors over AI spending",
+      "link": "https://www.theguardian.com/business/2026/nov/03/us-tech-stocks-recovery-ai-spending",
+      "source": "The Guardian Australia",
+      "date": "2026-11-03T22:18:45+00:00",
+      "display_date": "Nov 03, 2026",
+      "summary": "Midterms didn’t appear to have huge impact, though predicted wins for Democrats could mean more regulation US tech stocks made a recovery on Tuesday afternoon after a selloff spooked investors over AI spending. Tuesday’s midterm elections didn’t appear to have a huge impact on Wa...",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Ferrari raises 2026 guidance after Q3 earnings beat",
+      "link": "https://www.cnbc.com/2026/11/03/ferrari-race-earnings-q3-2026.html",
+      "source": "CNBC",
+      "date": "2026-11-03T21:11:34+00:00",
+      "display_date": "Nov 03, 2026",
+      "summary": "Ferrari raised its 2026 guidance Tuesday after third-quarter revenue and adjusted earnings per share edged past Wall Street expectations.",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Further links between CLP and gas firm emerge as ex-staffer's shares revealed",
+      "link": "https://www.abc.net.au/news/2026-11-04/nt-beetaloo-energy-gas-shares-bill-yan-government-staffer/107338086",
+      "source": "ABC News Business (AU)",
+      "date": "2026-11-03T21:06:07+00:00",
+      "display_date": "Nov 03, 2026",
+      "summary": "Northern Territory Treasurer and Infrastructure Minister Bill Yan's former adviser says she disclosed her shareholdings in Beetaloo Energy before starting work in a senior advisory role.",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
     {
       "title": "The Family Behind Some of the World’s Rarest Pearls",
       "link": "https://www.wsj.com/style/paspaley-pearls-21d041ae?mod=pls_whats_news_us_business_f",
@@ -14,6 +58,17 @@
       ]
     },
     {
+      "title": "Justin Hemmes, David Walsh fined in ASIC late filing crackdown - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNNzlhQUVDYU9sa2owdm5SeHluM0tzdUF4alBIeHdzZmhOcC1uY1BhaTN1LWRQcEJjR3pIU1hwam9raVJ6VTdwZGdDd0hxSGJuQ2lEdDZBSjRiQkJvVVFWVlZyRDY0enQ3UmlhVkI1cHZEOW5JcnJEVWFabHdyV2I0TlRkTXc0dHM4QmpBUTVBVnVFMWhIZGFqdnFYUk9lblBSWTB3dXdueWdKcjd4ZUJGbnFIMUxHd3RuaXRhdEVyeW85VVNGRTBERzJRZi1Nd2tZcXozeTlRb2tUUG1JdWJFc3MwRGxUOWRKWDlwQ2ZkdExXSEFnTVRBb3ZqZHBPdw?oc=5",
+      "source": "The Australian",
+      "date": "2026-11-03T19:04:53+00:00",
+      "display_date": "Nov 03, 2026",
+      "summary": "Justin Hemmes, David Walsh fined in ASIC late filing crackdown The Australian",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
       "title": "Hackers behind $6.3bn Binance heist ‘used malware and bogus job interviews’",
       "link": "https://www.theguardian.com/business/2026/nov/03/hackers-63bn-binance-heist-malware-bogus-job-interviews-cryptocurrency",
       "source": "The Guardian Australia",
@@ -22,28 +77,6 @@
       "summary": "Firm reveals details about how its cryptocurrency exchange was compromised, saying operation began in June The hackers behind the $6.3bn (£4.7bn) Binance heist used bogus job interviews, malicious software and an internal AI tool, the company has revealed. The world’s largest cry...",
       "topics": [
         "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "Ferrari raises 2026 guidance after Q3 earnings beat",
-      "link": "https://www.cnbc.com/2026/11/03/ferrari-race-earnings-q3-2026.html",
-      "source": "CNBC",
-      "date": "2026-11-03T18:52:06+00:00",
-      "display_date": "Nov 03, 2026",
-      "summary": "Ferrari raised its 2026 guidance Tuesday after third-quarter revenue and adjusted earnings per share edged past Wall Street expectations.",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Justin Hemmes, David Walsh fined in ASIC late filing crackdown - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNNzlhQUVDYU9sa2owdm5SeHluM0tzdUF4alBIeHdzZmhOcC1uY1BhaTN1LWRQcEJjR3pIU1hwam9raVJ6VTdwZGdDd0hxSGJuQ2lEdDZBSjRiQkJvVVFWVlZyRDY0enQ3UmlhVkI1cHZEOW5JcnJEVWFabHdyV2I0TlRkTXc0dHM4QmpBUTVBVnVFMWhIZGFqdnFYUk9lblBSWTB3dXdueWdKcjd4ZUJGbnFIMUxHd3RuaXRhdEVyeW85VVNGRTBERzJRZi1Nd2tZcXozeTlRb2tUUG1JdWJFc3MwRGxUOWRKWDlwQ2ZkdExXSEFnTVRBb3ZqZHBPdw?oc=5",
-      "source": "The Australian",
-      "date": "2026-11-03T18:34:50+00:00",
-      "display_date": "Nov 03, 2026",
-      "summary": "Justin Hemmes, David Walsh fined in ASIC late filing crackdown The Australian",
-      "topics": [
-        "Enforcement Actions"
       ]
     },
     {
@@ -88,17 +121,6 @@
       "summary": "Anthony Albanese. He’s a man who’s taken little interest in the economy now being caught by the iron rule of politics: if the economy turns bad on your watch, you take the blame.",
       "topics": [
         "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Oil Futures Turn Lower as Market Holds Out Hope for Middle East Diplomacy",
-      "link": "https://www.wsj.com/world/middle-east/oil-prices-rebound-as-u-s-strikes-on-iran-renew-supply-concerns-c662f284?mod=pls_whats_news_us_business_f",
-      "source": "Wall Street Journal",
-      "date": "2026-11-03T17:57:00+00:00",
-      "display_date": "Nov 03, 2026",
-      "summary": "Oil futures gave up early gains that followed U.S. strikes on Iranian targets, slipping into the red amid optimism about diplomatic efforts to bring the U.S. and Iran to a conflict settlement.",
-      "topics": [
-        "Enforcement Actions"
       ]
     },
     {
@@ -235,17 +257,6 @@
       ]
     },
     {
-      "title": "Ferrari Lifts Guidance Again on Strong Demand for Car Customizations",
-      "link": "https://www.wsj.com/business/earnings/ferrari-lifts-guidance-again-on-strong-demand-for-car-customizations-869f62fd?mod=pls_whats_news_us_business_f",
-      "source": "Wall Street Journal",
-      "date": "2026-11-03T13:25:00+00:00",
-      "display_date": "Nov 03, 2026",
-      "summary": "The company—which also lifted expectations in July—said it was benefiting from stronger personalizations than initially expected and a ramp up of newer model deliveries.",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "Russia Plots Ways to Exploit a Weakened Trump After Midterms - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcUVDbUVhb2c2eDlnWFFTNENJeUJlODZUOHBKTkZTclBOaG02OWlrV21oYmo3OHF6TjdnS2kzODVobmlfTlVlMk1YQjN2ZWpNMVUtcEZmTzZzakM0aDBibWc0Rk1peUYzdzcxSEdON0lmeVdLUEl1U0l4U2FyOVluemxodTlTUzhEOU9pMW1KRkVMZVJmM3NzczZHbGZYSXlnUEU0cEZDYVFEMV9hWkJ3ag?oc=5",
       "source": "Bloomberg.com",
@@ -287,6 +298,17 @@
       "date": "2026-11-03T12:00:00+00:00",
       "display_date": "Nov 03, 2026",
       "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to execute unauthorized SQL commands and gain access to unauthorized resources. The following versions of Subnet Solutions PowerSYSTEM Center are affected: PowerSYSTEM Center 2020 <=5.29.x ...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/11/03/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-11-03T12:00:00+00:00",
+      "display_date": "Nov 03, 2026",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-119977 WordPress Core Time-of-check Time-of-use (TOCTOU) Race Condition Vulnerability This type of vulnerability is a frequent attack vec...",
       "topics": [
         "Cybersecurity Risk"
       ]
@@ -549,6 +571,17 @@
       ]
     },
     {
+      "title": "2026 Corporate Governance Statement - AFR",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOHNsZzFRcVJvcFVydTVtYW1iMzFjT0J2VGtnSUprSzdtdHNmSVpuS1FUOGpBcDJLakJ3QWZVSGxZU2xNZG00MVJaemFBSWxYUEN3QVNnNnBCU3ZIZ0ZhcEkxZlVQNFFMVlg0eTdCcDVfTGpsRFFBZVh4bnNGZV9XV3BNcXpUYWxLRkVkLUVoOA?oc=5",
+      "source": "AFR",
+      "date": "2026-11-01T22:58:39+00:00",
+      "display_date": "Nov 01, 2026",
+      "summary": "2026 Corporate Governance Statement AFR",
+      "topics": [
+        "Operational & Enterprise Risk"
+      ]
+    },
+    {
       "title": "Victim blaming: ASIC slams super funds over complaint failures - The Australian",
       "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOdmMxWDg2UDItaS1LRWxBU2xpQkFqUGdVNE5vOTMyNUVWWndjTE5aa3VaQXI2ZGJUaTJ3a0ZwdVUtQnhQelZhaGJDcWw3dzBieXN2WWtreTZJbWh2bG81d1lNUGYybkpkZXBVeTlvbEtkY0oxczFYdEFtNWUtbFNOSmJWUG5mbjRzZEVRQ2JVRlZUVlNzZ3RQcFRySkFXZkFGVHZjRU5PMWFER3NFQ3E4X2NKX2J6emQ3MGlyRHIzU09adGxzdWtxdkRHampzN3AzUnd3Ykg4RDhDOUNrWDVyaUlNSGh0bDU2Wk9vM0YxSVc2blNpSklmMGVEdmItY3BJcXpwc1kzNklXZGMxMHdDUE9ZTllCakZpeDEzSjJxUzVaX010VmU4?oc=5",
       "source": "The Australian",
@@ -568,17 +601,6 @@
       "summary": "ASIC threatens to sue super funds over customer service failures AFR",
       "topics": [
         "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "This climate fund has returned 120pc - AFR",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMlRuUnl2YkpFUGs3cVFPcDJ2LTh5VGtsQk5rZDNNX0kyR241alhmdHBKWFVBZ2Fqelg5b2VXa1NUczBvVXo1bnByYWdWUXFOU1lrM05SdnpmSVByZno1RG51ZWFTN0pKS1Y5c0M2NG1NOE9nU3B1bVBzeFFEc05RQzVRY1hoSVZYdzdkbHk3STlTTk5VVWl1SXItVzN2ZTh1U0ZQdw?oc=5",
-      "source": "AFR",
-      "date": "2026-11-01T18:00:00+00:00",
-      "display_date": "Nov 01, 2026",
-      "summary": "This climate fund has returned 120pc AFR",
-      "topics": [
-        "ESG & Sustainability"
       ]
     },
     {
@@ -616,17 +638,6 @@
       ]
     },
     {
-      "title": "U.S. considers sanctions on China's Muslim crackdown - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1vcDBqeGNydjVBdWdYVVF5RlVSM2RCelFOVV90WTZRNnhyVVpvWkQ4RTJZbHF5dHVnM09mNFBkSDk5cXJ3UXNwR1paWVFiSGQ3ZHlQTVNGWmxhaHFl?oc=5",
-      "source": "Reuters",
-      "date": "2026-10-31T07:00:00+00:00",
-      "display_date": "Oct 31, 2026",
-      "summary": "U.S. considers sanctions on China's Muslim crackdown Reuters",
-      "topics": [
-        "AML & Sanctions"
-      ]
-    },
-    {
       "title": "North Korea says sanctions don't work to deny its status as nuclear weapons state - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbVo5aGdRLXQ0a3ltRnJzMUVTRjBjNUJKNW5fWGxtTmh2NEVMZ0ZUUTRqSktEeXotdkNNWk9TS2ExREYtQWZmdFVZUV9MWUZVaGNIaVk0RXJtdXk0LXN5V29CNmY3ME54ZkRueXh5YzB4OXVEakVOYUVBSlFzaVUtV3hBLVZ0WnNHSmwwcGd4ZHJmVzFwR2VPMndoZGxObmtQRVJxM3dEZmdobnlWOGpCYjEwNFRrTERnUFd5S2NEcVhITjFxSndtaw?oc=5",
       "source": "Reuters",
@@ -635,17 +646,6 @@
       "summary": "North Korea says sanctions don't work to deny its status as nuclear weapons state Reuters",
       "topics": [
         "AML & Sanctions"
-      ]
-    },
-    {
-      "title": "Canadian Investment Regulatory Organization Trade Resumption - LKY – Company Announcement - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYWlNazlhTnFGeDdkeTF5S3g0dkZzVDZ5ODdMeVUwT1NMWnNNZ3FSNWM3RHJmUXpvTnoyUHg1SmpqZlpHZ0VEVkF2NmpEWXVhVUhISUhHNjN1UWpyVFJXWFZaRDBFc1V5dWJ0bGJNOWtDRXdLRnRsWlg4a011RU5ZTXNRLVRIQUtqclNxdVpsOG4yMW44Mmc?oc=5",
-      "source": "Financial Times",
-      "date": "2026-10-30T20:47:00+00:00",
-      "display_date": "Oct 30, 2026",
-      "summary": "Canadian Investment Regulatory Organization Trade Resumption - LKY – Company Announcement Financial Times",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
@@ -724,17 +724,6 @@
       "summary": "Canadian Investment Regulatory Organization Trading Halt - DUNE – Company Announcement Financial Times",
       "topics": [
         "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Binance suspends transactions after it is targeted in biggest-ever cyber heist - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOdlNMX3R5WHVjeVg1YUZWcjRoSldncWZDRXlyb2ZoMUR6bkV5Um1ud2FSbmo5YVM1Vmx6cHJWSUFtNHZRSDE3Rzk2alV2dFkxUkNseEY5SE1tamtlazdLNURUSWtUMVdHMGhTRXlTSFNXWDZMR0NZTEwyLVlzcC1kZHBUdnM2YW53dlIwc1VfV09QaXRDZDF6TkRxLVJDRTBubkFfeGJyUlNWN0FXR0d2WDl3ZVVSa0JNY3d4dmptSkdNVDdmeFlSQmJ3aDh6dWlnb2ozU0l0ejR2SlpRRFA4UzRILVVjMGJ6TFFyelA5V0JpZEdNUkJRblNvalo?oc=5",
-      "source": "The Australian",
-      "date": "2026-10-30T12:45:00+00:00",
-      "display_date": "Oct 30, 2026",
-      "summary": "Binance suspends transactions after it is targeted in biggest-ever cyber heist The Australian",
-      "topics": [
-        "Cybersecurity Risk"
       ]
     },
     {
@@ -948,17 +937,6 @@
       ]
     },
     {
-      "title": "Hitachi Energy CoreTec Product",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-03",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-10-29T12:00:00+00:00",
-      "display_date": "Oct 29, 2026",
-      "summary": "View CSAF Summary Hitachi Energy is aware of OS command injection and Dirty Frag vulnerabilities that affect CoreTec product versions listed in this document. Successful exploitation of these vulnerabilities could result in impact on confidentiality, integrity and availability of...",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
       "title": "Hitachi Energy TRO600 series products",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-02",
       "source": "CISA Cybersecurity Advisories",
@@ -976,6 +954,17 @@
       "date": "2026-10-29T12:00:00+00:00",
       "display_date": "Oct 29, 2026",
       "summary": "View CSAF Summary Mendix SAML module contains an authentication bypass vulnerability that could allow an unauthenticated remote attacker to gain unauthorized access by replaying a valid SAML assertion in IdP-initiated authentication flows. Siemens has released new versions for th...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "Hitachi Energy CoreTec Product",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-03",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-10-29T12:00:00+00:00",
+      "display_date": "Oct 29, 2026",
+      "summary": "View CSAF Summary Hitachi Energy is aware of OS command injection and Dirty Frag vulnerabilities that affect CoreTec product versions listed in this document. Successful exploitation of these vulnerabilities could result in impact on confidentiality, integrity and availability of...",
       "topics": [
         "Cybersecurity Risk"
       ]
@@ -1020,17 +1009,6 @@
       "date": "2026-10-29T10:00:00+00:00",
       "display_date": "Oct 29, 2026",
       "summary": "The FCA has secured High Court undertakings to ensure that HTX (formerly Huobi), a global crypto exchange, will not knowingly promote cryptoasset services unlawfully to UK consumers. The FCA took legal action against HTX in October 2025 for breaking UK financial promotion rules. ...",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Lambie scolded by ADF chief over hidden camera revelation – as it happened",
-      "link": "https://www.theguardian.com/australia-news/live/2026/oct/29/labor-treasurer-jim-chalmers-social-media-anthony-albanese-coalition-one-nation-ntwnfb",
-      "source": "The Guardian Australia",
-      "date": "2026-10-29T06:58:35+00:00",
-      "display_date": "Oct 29, 2026",
-      "summary": "Get our breaking news email , free app or daily news podcast Gas reservation policy set for lower house vote today Australia’s domestic gas reservation is set to be debated and voted on in the lower house today. Rather than international base companies, determining through algori...",
       "topics": [
         "Regulatory Change"
       ]
@@ -1125,17 +1103,6 @@
       ]
     },
     {
-      "title": "Star chairman says $260m fine won’t be the death of casino operator - AFR",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNE1QTXc4TW9wbHRHUUhGeHl2MFhRbXZLdE5OMlJsV0gySXYxMjFqTHVNTXFqaE9GcjZwaWhacGY3NlZaWVZCRmNVcVRKdExHTks2T21RaXZRZ1BUQUdzc0hITVZ0SjV2SHJ2WlNmUWJGaW1HQTVLSGhLM245UkxxTXlsME96THRQMXkweFJkbVFMaXVrZjctTkxhNGVsNnVJUkJleFJ6UXNQVTFuSzBySWRGWUJfNkpFTlZJ?oc=5",
-      "source": "AFR",
-      "date": "2026-10-28T22:39:00+00:00",
-      "display_date": "Oct 28, 2026",
-      "summary": "Star chairman says $260m fine won’t be the death of casino operator AFR",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
       "title": "‘Calculated bet’: How wounded Star dodged a killer fine - The Australian",
       "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQV1UyeHRtTklnWGVadEtqSEtlYkVLbmZ3Y1kyQTRZMUUxMVExRUtILWw3UnhuNl9vVEJldG1Wdi1GU3VuN1BtbkNkYkk3WFZJRTB2VTNJRm84clQ4ZGk5Q3ltdWY5MHEwQ0hQTl9nZmVRcEIwcmVMU3VMdHROYWlHelpmUFpFYVZyNmRRMHd2d3hRY0Y3dFBsQ2VHdDlqUHFWZUhKeVh2MFdKTks2T2p0NWtBQ0VDV19JckxzWUowaE1jdHFiV243ZzNRTUxudEJuUzZHX0pzN2V4T2VnQkp3TDVldkhxVWdfMGlGRG82WGtSd25hbjd2SFNrb2daMDJJN1lWSTNDZEs2LTRkanp6OFln?oc=5",
       "source": "The Australian",
@@ -1191,6 +1158,17 @@
       ]
     },
     {
+      "title": "Inside a casino crime wave: bags of cash, Rolexes and a $250m fine - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQc1kzSnRMMVdYb19lVGU3MUp2SU9XajZJN1NLazJfb2ZlN1dpcnlkaVhTZ2JWdUR1b21RZ1h5d1dwTWl1ZW9VaGNQN1pYbGJzcllFNlJTU0pjcGZoQ29OTDNGcnhIRFo4aGdfSXRJWGZvM0IzRlhnbW9QUzVDLUNDTGhuRnloOF9oa3FBWkdpTEdCbEhHSEQ1SjE2aWx4SmhjWllmalBQdjE2ZXdqVG9WZmxHNFdIcm5IS1pPODQ5NkVqc2gzNjlUbjlSdGZfQ3ZTODZqbURHTFl1Zw?oc=5",
+      "source": "The Australian",
+      "date": "2026-10-28T16:00:00+00:00",
+      "display_date": "Oct 28, 2026",
+      "summary": "Inside a casino crime wave: bags of cash, Rolexes and a $250m fine The Australian",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
       "title": "‘Near Miss’ on Self-Disclosure Costs Company",
       "link": "https://www.radicalcompliance.com/2026/10/28/near-miss-on-self-disclosure-costs-company/",
       "source": "Radical Compliance",
@@ -1227,35 +1205,12 @@
       ]
     },
     {
-      "title": "Star hit with $260m fine over money laundering - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQQU1sSjZ4Vm5nTUNUcHFEVlh2LUc0bFJmQk9EbnUySTQ5NWlpNXJrS2E3Ym8tcWxROWVpTnNjc1ExQkdzdmxrR0lwUkNYblpFV0VtNVBrS0stdkdubk1vX0pSNkdoU0YyNk9oaE11ZExlNlBHbk41ajQ4SFVxX1Vad1NEeUE1NmZEYWVOZ3BJZ2EzNU1uNEV6Sk9VM09NdGRJRzNxWHdfWGFEelJBYTRTTk5sdER0ZnY0MUdTajdvVm9DRFNTdWpQTGRsT0dNcDNCbGExQlhmRGM3cTI5WnFLMGhzUWV4TWFRakE?oc=5",
-      "source": "The Australian",
-      "date": "2026-10-28T07:02:00+00:00",
-      "display_date": "Oct 28, 2026",
-      "summary": "Star hit with $260m fine over money laundering The Australian",
-      "topics": [
-        "Enforcement Actions",
-        "AML & Sanctions"
-      ]
-    },
-    {
       "title": "Rule-breaking data centres to have power switched off - AFR",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOank4cUd2enlNbndTWFlzLVpweGNwclNFUUNLTXdNT2hOejZnU25NYWtiRmFwTTNiOXkyWXZ4YWZxNFRMR3QyWEk2M0l5SlluWG1OT0l5SEdKTmJkMFE4VXlMZ2xUd3gtWm9nV0lFelFIX3Rqd21SbU5lNmNHeHJRRm5aTm1BMzlOZUJhWjBtXzRnZmYwdUNTT1loR25qLTBPaERGTTMyRDRtbHMxUTdKVGttUUpaQQ?oc=5",
       "source": "AFR",
       "date": "2026-10-28T06:31:00+00:00",
       "display_date": "Oct 28, 2026",
       "summary": "Rule-breaking data centres to have power switched off AFR",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Regulatory announcement no 22: InstallatørGruppen initiates a share buy-back programme of up to DKK 25 million - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOXNwWmVoamlubS01Z1Nuckp4UFMyTXFkSGRlWUJza3lVZS13dnlHUHN4ZmpYWHMxYmJSeEFSQ1ZjNnNBOTk4ZzRINnRVanU1bi1jbjYwT096WmFzWjR3Tko3T3ZQRTQwdnNaSTJUQW5JZktYMktlMk52OFFUXzB6WkI5VnhDMVdRRmtpSXJtQWNmTWJHM21iRHRnOA?oc=5",
-      "source": "Financial Times",
-      "date": "2026-10-28T05:28:40+00:00",
-      "display_date": "Oct 28, 2026",
-      "summary": "Regulatory announcement no 22: InstallatørGruppen initiates a share buy-back programme of up to DKK 25 million Financial Times",
       "topics": [
         "Regulatory Change"
       ]
@@ -1404,17 +1359,6 @@
       ]
     },
     {
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/10/23/cisa-adds-one-known-exploited-vulnerability-catalog-0",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-10-23T12:00:00+00:00",
-      "display_date": "Oct 23, 2026",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-110447 Collabora Online – Built-in CODE Server OS Command Injection Vulnerability This type of vulnerability is a frequent attack vector ...",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
       "title": "FCA calls on private market firms to manage conflicts of interest in line with rapid growth",
       "link": "https://www.fca.org.uk/news/press-releases/fca-calls-private-market-firms-manage-conflicts-interest-line-rapid-growth",
       "source": "FCA UK Regulatory News",
@@ -1492,12 +1436,45 @@
       ]
     },
     {
-      "title": "Siemens RUGGEDCOM CROSSBOW",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-12",
+      "title": "Siemens WinCC",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-13",
       "source": "CISA Cybersecurity Advisories",
       "date": "2026-10-22T12:00:00+00:00",
       "display_date": "Oct 22, 2026",
-      "summary": "View CSAF Summary RUGGEDCOM CROSSBOW contains multiple vulnerabilities that could allow an attacker to execute arbitrary SQL commands on the underlying database, retrieve sensitive administrative credentials, escalate privileges, and perform unauthorized operations such as modify...",
+      "summary": "View CSAF Summary Multiple SIMATIC WinCC versions are affected by a database privilege escalation vulnerability that could allow an authenticated user with access to the database to execute commands on the underlying host system. Siemens has released new versions for several affe...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "Siemens SIMATIC IPCs",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-07",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-10-22T12:00:00+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "View CSAF Summary The products listed below contain a vulnerability that could allow an attacker to boot an operating system or UEFI application signed with that test key, bypassing UEFI Secure Boot protections even when Secure Boot is enabled. Siemens has released new versions f...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "Siemens SIMATIC S7-1500 CPU 1518(F)-4 PN/DP MFP",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-11",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-10-22T12:00:00+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "View CSAF Summary Multiple vulnerabilities have been identified in the additional GNU/Linux subsystem of the firmware version V3.1.7 for the SIMATIC S7-1500 CPU 1518(F)-4 PN/DP MFP (incl. SIPLUS variant). Siemens is preparing fixes and recommends specific mitigations for products...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "Siemens SIMATIC S7 Webserver API",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-10",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-10-22T12:00:00+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "View CSAF Summary .NET Client Library for SIMATIC S7 Webserver API contains multiple vulnerabilities that could allow an attacker to obtain sensitive information or write arbitrary files outside the intended download directory. Siemens has released a new version for .NET Client L...",
       "topics": [
         "Cybersecurity Risk"
       ]
@@ -1514,34 +1491,12 @@
       ]
     },
     {
-      "title": "Siemens SIMATIC S7-1500 CPU 1518(F)-4 PN/DP MFP",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-11",
+      "title": "Siemens RUGGEDCOM CROSSBOW",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-12",
       "source": "CISA Cybersecurity Advisories",
       "date": "2026-10-22T12:00:00+00:00",
       "display_date": "Oct 22, 2026",
-      "summary": "View CSAF Summary Multiple vulnerabilities have been identified in the additional GNU/Linux subsystem of the firmware version V3.1.7 for the SIMATIC S7-1500 CPU 1518(F)-4 PN/DP MFP (incl. SIPLUS variant). Siemens is preparing fixes and recommends specific mitigations for products...",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "Siemens WinCC",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-13",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-10-22T12:00:00+00:00",
-      "display_date": "Oct 22, 2026",
-      "summary": "View CSAF Summary Multiple SIMATIC WinCC versions are affected by a database privilege escalation vulnerability that could allow an authenticated user with access to the database to execute commands on the underlying host system. Siemens has released new versions for several affe...",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "Siemens Industrial Edge Device Kit",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-09",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-10-22T12:00:00+00:00",
-      "display_date": "Oct 22, 2026",
-      "summary": "View CSAF Summary Users of Industrial Edge Devices are advised to consult the respective Security Advisories for their devices (for Siemens Industrial Edge devices see Additional Information). Industrial Edge Device Kit contains multiple path traversal vulnerabilities that could ...",
+      "summary": "View CSAF Summary RUGGEDCOM CROSSBOW contains multiple vulnerabilities that could allow an attacker to execute arbitrary SQL commands on the underlying database, retrieve sensitive administrative credentials, escalate privileges, and perform unauthorized operations such as modify...",
       "topics": [
         "Cybersecurity Risk"
       ]
@@ -1558,16 +1513,14 @@
       ]
     },
     {
-      "title": "Managing AI Token Consumption for Operational Resilience",
-      "link": "https://www.cisa.gov/resources-tools/resources/managing-ai-token-consumption-operational-resilience",
+      "title": "Siemens Industrial Edge Device Kit",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-09",
       "source": "CISA Cybersecurity Advisories",
       "date": "2026-10-22T12:00:00+00:00",
       "display_date": "Oct 22, 2026",
-      "summary": "CISA, the Canadian Centre for Cyber Security (Cyber Centre), and partners are releasing joint guidance, Managing AI Token Consumption for Operational Resilience , to help organizations understand and manage token usage in support of operations. As organizations adopt third-party ...",
+      "summary": "View CSAF Summary Users of Industrial Edge Devices are advised to consult the respective Security Advisories for their devices (for Siemens Industrial Edge devices see Additional Information). Industrial Edge Device Kit contains multiple path traversal vulnerabilities that could ...",
       "topics": [
-        "Regulatory Change",
-        "Cybersecurity Risk",
-        "Operational & Enterprise Risk"
+        "Cybersecurity Risk"
       ]
     },
     {
@@ -1593,14 +1546,16 @@
       ]
     },
     {
-      "title": "Siemens SIMATIC IPCs",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-07",
+      "title": "Managing AI Token Consumption for Operational Resilience",
+      "link": "https://www.cisa.gov/resources-tools/resources/managing-ai-token-consumption-operational-resilience",
       "source": "CISA Cybersecurity Advisories",
       "date": "2026-10-22T12:00:00+00:00",
       "display_date": "Oct 22, 2026",
-      "summary": "View CSAF Summary The products listed below contain a vulnerability that could allow an attacker to boot an operating system or UEFI application signed with that test key, bypassing UEFI Secure Boot protections even when Secure Boot is enabled. Siemens has released new versions f...",
+      "summary": "CISA, the Canadian Centre for Cyber Security (Cyber Centre), and partners are releasing joint guidance, Managing AI Token Consumption for Operational Resilience , to help organizations understand and manage token usage in support of operations. As organizations adopt third-party ...",
       "topics": [
-        "Cybersecurity Risk"
+        "Regulatory Change",
+        "Cybersecurity Risk",
+        "Operational & Enterprise Risk"
       ]
     },
     {
@@ -1654,28 +1609,6 @@
       "date": "2026-10-22T12:00:00+00:00",
       "display_date": "Oct 22, 2026",
       "summary": "View CSAF Summary Successful exploitation of this these vulnerabilities could allow an attacker to fully compromise the device. The following versions of Kiloview E3 NDI Encoder are affected: E3 Firmware <1.30 (CVE-2026-109122, CVE-2026-111100, CVE-2026-96616, CVE-2026-105265, CV...",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "Siemens SIMATIC S7-1500 TM MFP",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-16",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-10-22T12:00:00+00:00",
-      "display_date": "Oct 22, 2026",
-      "summary": "View CSAF Summary Multiple vulnerabilities have been identified in the additional GNU/Linux subsystem of the SIMATIC S7-1500 TM MFP V1.1.1. Siemens is preparing fixes and recommends specific mitigations for products where fixes are not or not yet available. The following versions...",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "Siemens Industrial Edge Devices",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-17",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-10-22T12:00:00+00:00",
-      "display_date": "Oct 22, 2026",
-      "summary": "View CSAF Summary Siemens Industrial Edge Devices contain multiple path traversal vulnerabilities that could facilitate an authenticated remote attacker to access sensitive internal information. Siemens has released new versions for several affected products and recommends to upd...",
       "topics": [
         "Cybersecurity Risk"
       ]
