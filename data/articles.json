@@ -1,13 +1,46 @@
 {
-  "last_updated": "November 04, 2026 00:37 UTC",
-  "total_count": 215,
+  "last_updated": "November 04, 2026 04:45 UTC",
+  "total_count": 205,
   "articles": [
+    {
+      "title": "ASIC fines Mona owner David Walsh's company for late financial report",
+      "link": "https://www.abc.net.au/news/2026-11-04/mona-museum-company-fined-asic-late-financial-report/107345772",
+      "source": "ABC News Business (AU)",
+      "date": "2026-11-04T04:37:59+00:00",
+      "display_date": "Nov 04, 2026",
+      "summary": "The parent company of Tasmania's Mona museum has been slugged with a hefty fine after failing to lodge a financial report on time.",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "David Jones on brink of collapse and behind on rent to Westfield",
+      "link": "https://www.abc.net.au/news/2026-11-04/david-jones-could-collapse-behind-on-westfield-rent/107345094",
+      "source": "ABC News Business (AU)",
+      "date": "2026-11-04T04:35:38+00:00",
+      "display_date": "Nov 04, 2026",
+      "summary": "One of David Jones's biggest landlords says the department store his in breach of its rental agreements and has not paid since September.",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "Banking experts see Trump’s fingerprints on OCC’s ‘debanking’ report, call reputation risk very real",
+      "link": "https://www.complianceweek.com/banking/banking-experts-see-trumps-fingerprints-on-occs-debanking-report-call-reputation-risk-very-real/",
+      "source": "Compliance Week",
+      "date": "2026-11-04T01:13:29+00:00",
+      "display_date": "Nov 04, 2026",
+      "summary": "Experts see political motivations in an Office of the Comptroller of the Currency report finding the nine largest US banks denied services over reputation risk. The post Banking experts see Trump’s fingerprints on OCC’s ‘debanking’ report, call reputation risk very real appeared ...",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
     {
       "title": "3M Announces $7.4 Billion Settlement in ‘Forever Chemicals’ Injuries Case",
       "link": "https://www.wsj.com/business/3m-announces-7-4-billion-settlement-in-forever-chemicals-injuries-case-17dd1e41?mod=pls_whats_news_us_business_f",
       "source": "Wall Street Journal",
-      "date": "2026-11-03T23:58:00+00:00",
-      "display_date": "Nov 03, 2026",
+      "date": "2026-11-04T00:39:00+00:00",
+      "display_date": "Nov 04, 2026",
       "summary": "The agreement covers up to 120,000 plaintiffs who claim they were hurt by chemicals containing PFAS.",
       "topics": [
         "Enforcement Actions"
@@ -58,17 +91,6 @@
       ]
     },
     {
-      "title": "Justin Hemmes, David Walsh fined in ASIC late filing crackdown - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNNzlhQUVDYU9sa2owdm5SeHluM0tzdUF4alBIeHdzZmhOcC1uY1BhaTN1LWRQcEJjR3pIU1hwam9raVJ6VTdwZGdDd0hxSGJuQ2lEdDZBSjRiQkJvVVFWVlZyRDY0enQ3UmlhVkI1cHZEOW5JcnJEVWFabHdyV2I0TlRkTXc0dHM4QmpBUTVBVnVFMWhIZGFqdnFYUk9lblBSWTB3dXdueWdKcjd4ZUJGbnFIMUxHd3RuaXRhdEVyeW85VVNGRTBERzJRZi1Nd2tZcXozeTlRb2tUUG1JdWJFc3MwRGxUOWRKWDlwQ2ZkdExXSEFnTVRBb3ZqZHBPdw?oc=5",
-      "source": "The Australian",
-      "date": "2026-11-03T19:04:53+00:00",
-      "display_date": "Nov 03, 2026",
-      "summary": "Justin Hemmes, David Walsh fined in ASIC late filing crackdown The Australian",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
       "title": "Hackers behind $6.3bn Binance heist ‘used malware and bogus job interviews’",
       "link": "https://www.theguardian.com/business/2026/nov/03/hackers-63bn-binance-heist-malware-bogus-job-interviews-cryptocurrency",
       "source": "The Guardian Australia",
@@ -77,6 +99,17 @@
       "summary": "Firm reveals details about how its cryptocurrency exchange was compromised, saying operation began in June The hackers behind the $6.3bn (£4.7bn) Binance heist used bogus job interviews, malicious software and an internal AI tool, the company has revealed. The world’s largest cry...",
       "topics": [
         "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "Justin Hemmes, David Walsh fined in ASIC late filing crackdown - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNNzlhQUVDYU9sa2owdm5SeHluM0tzdUF4alBIeHdzZmhOcC1uY1BhaTN1LWRQcEJjR3pIU1hwam9raVJ6VTdwZGdDd0hxSGJuQ2lEdDZBSjRiQkJvVVFWVlZyRDY0enQ3UmlhVkI1cHZEOW5JcnJEVWFabHdyV2I0TlRkTXc0dHM4QmpBUTVBVnVFMWhIZGFqdnFYUk9lblBSWTB3dXdueWdKcjd4ZUJGbnFIMUxHd3RuaXRhdEVyeW85VVNGRTBERzJRZi1Nd2tZcXozeTlRb2tUUG1JdWJFc3MwRGxUOWRKWDlwQ2ZkdExXSEFnTVRBb3ZqZHBPdw?oc=5",
+      "source": "The Australian",
+      "date": "2026-11-03T18:34:55+00:00",
+      "display_date": "Nov 03, 2026",
+      "summary": "Justin Hemmes, David Walsh fined in ASIC late filing crackdown The Australian",
+      "topics": [
+        "Enforcement Actions"
       ]
     },
     {
@@ -180,45 +213,12 @@
       ]
     },
     {
-      "title": "Canadian Investment Regulatory Organization Trade Resumption - EQTY – Company Announcement - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcndrUlhlUnhWcEJxd0xmTzd5WHphOGlKX3VKdHVrdDM5OFBQR255aUFGSFhFbVVtZUlicDRpLTNLQlktSUp3bjNWcTEtOTdYaS0xa20ySmRSOVNIUlFjQVI1TTl2VjhkRm9NaFdPVTh4NUZjek5kdUdkT1BQVW1TeDBaQ2V3b0E1eGxnTVFpTi1LSGFwRHc?oc=5",
-      "source": "Financial Times",
-      "date": "2026-11-03T15:41:00+00:00",
+      "title": "Cboe, Citadel Securities-backed group sues US regulator over single-stock perpetual futures - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLUc4Wkl5LTJUaW5Cb0duX0lhTm5HbDVLRFg0YjBqNmlmbk1MSEhBMVBYVWdvOWJiemQ0R05GMTlNVmZZTWEyTWJraVNMaDBkdXJ3SXFsZ2c2bGxxZjc2QzYyTGpocUE2TS15clhfZDRlOGJpX0ZEREFHS1p1TDB4TkhJalJJTVJpeWdCWm5zU1YzVHZCeTRVU1FINkUzSVp0Z0pXeFhfd1N0c0k?oc=5",
+      "source": "Reuters",
+      "date": "2026-11-03T15:34:00+00:00",
       "display_date": "Nov 03, 2026",
-      "summary": "Canadian Investment Regulatory Organization Trade Resumption - EQTY – Company Announcement Financial Times",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "LexisNexis Risk Solutions Launches Accurint One, Reimagining the Future of Law Enforcement Investigations - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ2JzTmNWVFBMZUd1YTd4djlQSU40WUVVeVlhMExDT1AwTC1Vb1Q1a0piSVN0Z0ZQcnFKbjE1cjRfcDViVEN0VjBEUzdiWkVYVkdTN0tNWVNMVzJIZkNncGFYdjg3OFlKRmdkSmFTd1hpcnp0YVd0dmRNVVJ6dWRSbGRvUlkzOWZaVHFsSkdKWTdwWGgxRGl3Mg?oc=5",
-      "source": "Financial Times",
-      "date": "2026-11-03T15:13:00+00:00",
-      "display_date": "Nov 03, 2026",
-      "summary": "LexisNexis Risk Solutions Launches Accurint One, Reimagining the Future of Law Enforcement Investigations Financial Times",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "Canadian Investment Regulatory Organization Trade Resumption - OGI – Company Announcement - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcDU0V2hrLTF0ajdLVVJfQVFWM0xEcmNkcnFrdFpvV2tpcUJGUXVVb3lHVjJqU05UVndnTE1BYXZGaXgySm5UWmwteUl1bm9wRzEtTFdTYy1xRTJZaW1CdXZRakdVdzBmQTlsQVkxX0dyMWZhM0ZTd3FSc1d4Wk1URWF1R25ZZnFOcGFlcks0M1Q5a0tSbnc?oc=5",
-      "source": "Financial Times",
-      "date": "2026-11-03T14:46:00+00:00",
-      "display_date": "Nov 03, 2026",
-      "summary": "Canadian Investment Regulatory Organization Trade Resumption - OGI – Company Announcement Financial Times",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Canadian Investment Regulatory Organization Trade Resumption - ACB – Company Announcement - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdFdyallpY09tQmRZTlhqVkFYS1UxMFZISlZEektES2Q4MFdxTF8xQlZ1d1lFUFVzNl9pSnRDRm5GSGRpbHRTekt0UkJORExTdzlyUmo3V195NzRJWS1sYnk1YWdoMkVzdHBxUGsxN1FTYUktQ0EyNFN0YlVud1hSY19zQzJtQlJGWXhKVnI2S3Jrblhpa2c?oc=5",
-      "source": "Financial Times",
-      "date": "2026-11-03T14:41:00+00:00",
-      "display_date": "Nov 03, 2026",
-      "summary": "Canadian Investment Regulatory Organization Trade Resumption - ACB – Company Announcement Financial Times",
+      "summary": "Cboe, Citadel Securities-backed group sues US regulator over single-stock perpetual futures Reuters",
       "topics": [
         "Regulatory Change"
       ]
@@ -416,17 +416,6 @@
       ]
     },
     {
-      "title": "Latest national scam more sophisticated and 'just the tip of the iceberg'",
-      "link": "https://www.abc.net.au/news/2026-11-03/rms-data-breach-kimberley-accommodation-bookings/107328710",
-      "source": "ABC News Business (AU)",
-      "date": "2026-11-02T22:30:33+00:00",
-      "display_date": "Nov 02, 2026",
-      "summary": "Academics warn phishing scams are becoming more sophisticated and convincing, with Kimberley holiday-makers saying messages to them have included accurate personal information about their booking.",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
       "title": "Extreme, Part II: The Sanctions Violations",
       "link": "https://www.radicalcompliance.com/2026/11/02/extreme-part-ii-the-sanctions-violations/",
       "source": "Radical Compliance",
@@ -483,17 +472,6 @@
       ]
     },
     {
-      "title": "Canadian Investment Regulatory Organization Trading Halt - NOBL – Company Announcement - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNd3FiUU1XX2h5OF9sVUZVbC1hUlRBRm9xRjVLVE9ScTYxeURuRU1rTmJ1WEJ3eE44Q2MtQUFMTGVNNTd1Ym1sa29ZUDhHNlBrdV9kblNkMGdDeHROZ1ZTV0FDVVlvTzVUMTYzWE5PTjRneVo2RXUwbUJ0ZElBdUM5WnNhZDM4OEJLYmdOX05yRjZBaG40RXc?oc=5",
-      "source": "Financial Times",
-      "date": "2026-11-02T13:32:00+00:00",
-      "display_date": "Nov 02, 2026",
-      "summary": "Canadian Investment Regulatory Organization Trading Halt - NOBL – Company Announcement Financial Times",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "BofA, SMI, Eurazeo Launch New Biodiversity Solutions Fund",
       "link": "https://www.esgtoday.com/bofa-smi-eurazeo-launch-new-biodiversity-solutions-fund/?utm_source=rss&utm_medium=rss&utm_campaign=bofa-smi-eurazeo-launch-new-biodiversity-solutions-fund",
       "source": "ESG Today",
@@ -538,23 +516,12 @@
       ]
     },
     {
-      "title": "The staggering irony of the Binance hack",
-      "link": "https://www.smh.com.au/business/companies/the-staggering-irony-of-the-binance-hack-20261102-p61ai5.html?ref=rss&utm_medium=rss&utm_source=rss_business",
-      "source": "The Sydney Morning Herald",
-      "date": "2026-11-02T04:55:25+00:00",
+      "title": "EXCLUSIVE: Communications firm Public Policy buys Reevemark for up to $80 million, sources say - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNmdoQUN2Vl9tRm92WEFzTHFyUXZpUWV3Zy1XRjctQXpDUGg3QWJRNklIdnVoUVhGZmlvSFptWEVhNFpUSjNMRlU2QXd3aG9NRU1aX1AzdTdsdEtvUEE0VHVNeXVRYVQzNEpyOHBER3hjdWZjZ1RPdXFqTkJiY2puZUM0OWxFRjhVazNFUkE4QTdPQkk3d3czTHFUTzk0ZVc0TkxTenVsd1BMUWdvMTJVM2ZyT25Zam9mMmYw?oc=5",
+      "source": "Reuters",
+      "date": "2026-11-02T05:15:00+00:00",
       "display_date": "Nov 02, 2026",
-      "summary": "The company’s boss, Changpeng Zhao, served time in jail over anti-money laundering failures. To get his users’ money back, he must hope the rest of the industry has learned a lesson.",
-      "topics": [
-        "AML & Sanctions"
-      ]
-    },
-    {
-      "title": "Millennium’s Raiskin Says Asia Markets Enjoying Regulatory Aid - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOM0FrX3ZTQVEzNVhON3RWeUV5dXZOOVNRbGlaUmV5aFVMRWZrLUFJQ0JZV3pCMFlvUUhZZHBMbC1NaDJ4bUlZLTRaQzU3QVlJeklXcEd5NEdZNnJtT1JuTWhLYnFuZDJYZFlaMjZqbVdLLVNDZjlHZXVrOHlVVUZCOFZDd3o1QzI2VjdzY2dyRGxaU3czZDlFSjRQdXp1OHcydDRmaGF5VjBhYUpLUTRoVUZLcW9YRmVnR0diWUFTMVZjazFHZmtJSnJ5d3hfX2ZCQVE?oc=5",
-      "source": "Bloomberg.com",
-      "date": "2026-11-02T03:22:00+00:00",
-      "display_date": "Nov 02, 2026",
-      "summary": "Millennium’s Raiskin Says Asia Markets Enjoying Regulatory Aid Bloomberg.com",
+      "summary": "EXCLUSIVE: Communications firm Public Policy buys Reevemark for up to $80 million, sources say Reuters",
       "topics": [
         "Regulatory Change"
       ]
@@ -638,6 +605,17 @@
       ]
     },
     {
+      "title": "India's RBI tightens cyber checks on lenders after spate of hacks - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUV9lcE01R2l5NFJ3Nmg3YWVuSUxtcUNET1ZsTHdEMGNTcGh6X1pqT0NjUkk3NFBXOHliWlhuaXZISV9KdXMxbFVyVGo0OXhUMkdFczRyVjRVMWhfWVRtN1JWRlNpVkdzNUJUNDQzTFM2TlJjbkxVUmljbnFSNDFQeWNXUE1ZTkJuQ2hxRnRIMENTUGprdW9NRWFYMkstLVNIbVpBc0NaZk1mVmlCV0pTUQ?oc=5",
+      "source": "Reuters",
+      "date": "2026-10-30T21:59:04+00:00",
+      "display_date": "Oct 30, 2026",
+      "summary": "India's RBI tightens cyber checks on lenders after spate of hacks Reuters",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
       "title": "North Korea says sanctions don't work to deny its status as nuclear weapons state - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbVo5aGdRLXQ0a3ltRnJzMUVTRjBjNUJKNW5fWGxtTmh2NEVMZ0ZUUTRqSktEeXotdkNNWk9TS2ExREYtQWZmdFVZUV9MWUZVaGNIaVk0RXJtdXk0LXN5V29CNmY3ME54ZkRueXh5YzB4OXVEakVOYUVBSlFzaVUtV3hBLVZ0WnNHSmwwcGd4ZHJmVzFwR2VPMndoZGxObmtQRVJxM3dEZmdobnlWOGpCYjEwNFRrTERnUFd5S2NEcVhITjFxSndtaw?oc=5",
       "source": "Reuters",
@@ -671,28 +649,6 @@
       ]
     },
     {
-      "title": "Canadian Investment Regulatory Organization Trade Resumption - GLDR – Company Announcement - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbmpYeWpGclhhVlc0d2ZlaVFGNU0xTEsxdXl2N0UtcVFQeUZkWnVLd3Rpb3R6alc5WjVES2hUamVzd3FqWDVjcmFzS21zdVl1QXN4NlE1bHhkLVBSVkNLUWVyLXMtZU04SzZ0eFVVRk5mZ185X3hBSEJsVHB1ZWhRa0Fuc3hrVXZab0drdTExZXdUaE1QUkE?oc=5",
-      "source": "Financial Times",
-      "date": "2026-10-30T17:12:00+00:00",
-      "display_date": "Oct 30, 2026",
-      "summary": "Canadian Investment Regulatory Organization Trade Resumption - GLDR – Company Announcement Financial Times",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Canadian Investment Regulatory Organization Trading Halt - GLDR – Company Announcement - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcnk0alRHVFFLN3BuNzR6bzdnb3oyTGRSRUZydXVhMDFSeWFoZGN0bDlodFVqSDhnbXZkVUR5bUpNQkpPUERvZVA5Y09aaWlMRHlwVEZXR3NaRXNBQkppbmNfZm1UMGEtQ2k0cXI2RHFMMHZsWUE0U2RaaHFmVk1iaURsY3lnUWxPN2U1UUkyc0RXZ00?oc=5",
-      "source": "Financial Times",
-      "date": "2026-10-30T17:10:00+00:00",
-      "display_date": "Oct 30, 2026",
-      "summary": "Canadian Investment Regulatory Organization Trading Halt - GLDR – Company Announcement Financial Times",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "Compliance Jobs Report: Oct. 30",
       "link": "https://www.radicalcompliance.com/2026/10/30/compliance-jobs-report-oct-30-2/",
       "source": "Radical Compliance",
@@ -713,17 +669,6 @@
       "topics": [
         "Regulatory Change",
         "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "Canadian Investment Regulatory Organization Trading Halt - DUNE – Company Announcement - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPanpJQ1RRbHhKM1BhZzQxWUtJSjRHdGhQWE82YWRwY0FYVkhmVU5jSkxlNXMxaVpMVDBKU3FhSGdsLUZBUnJ2ME9mOUpaSHNpR2poR2RLUnhrUl9VcVljUFFIZlBKWXJ6WkZDY1V6RmFrVkZtZU9YTWhXcjVQVjFjam9OODRpTTFHTEg2SHFnQllmVkNLd0E?oc=5",
-      "source": "Financial Times",
-      "date": "2026-10-30T13:23:00+00:00",
-      "display_date": "Oct 30, 2026",
-      "summary": "Canadian Investment Regulatory Organization Trading Halt - DUNE – Company Announcement Financial Times",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
@@ -848,17 +793,6 @@
       ]
     },
     {
-      "title": "Doug Bergeron Exposes Undisclosed Court Sanctions Against Disgraced Ethan Allen Director Cynthia Ekberg Tsai - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOU0FQb2I0cXhWaWU2Zlk2WkNQcXpReGJTVFRuaXpxSnpYcG1JckhDUEFHcnU3ZHNxME54NldFYUhFa21XSTJMMUdJalpIcDg0XzJGVTEyVE1helNUTDk4bU9DMGtqRGtzTUdCTnpIQWZFRFNkUmFhQ1FyNkZFeHhBcTh4cHVDNjBpM0hDSEtEM0k4a2QxcUwyMUFVZklWeGpnV0x3d1JR?oc=5",
-      "source": "Financial Times",
-      "date": "2026-10-29T20:21:00+00:00",
-      "display_date": "Oct 29, 2026",
-      "summary": "Doug Bergeron Exposes Undisclosed Court Sanctions Against Disgraced Ethan Allen Director Cynthia Ekberg Tsai Financial Times",
-      "topics": [
-        "AML & Sanctions"
-      ]
-    },
-    {
       "title": "Norwegian shares surge 13% on earnings beat, guidance raise",
       "link": "https://www.cnbc.com/2026/10/29/norwegian-earnings-guidance-shares.html",
       "source": "CNBC",
@@ -879,17 +813,6 @@
       "topics": [
         "Regulatory Change",
         "ESG & Sustainability"
-      ]
-    },
-    {
-      "title": "Canadian Investment Regulatory Organization Trade Resumption - HG – Company Announcement - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOXNQZlRTX2VNc3BSbXBVMFhZR3A1Y3g0ck50N1N4bDA5M2pTdmRGeURTdmw2NjZHWUU0aWFsUGVNSU1mSzU3YklnQjA1bjlKTjBHdHhMMWZ0dXhMX0pTSnNZT3FYS2hfTU5ucDBtZ0haVm5EblRmVU1QcXRRbXZFN0gwaC1wZGJLZGQ4TFJpMlp2Z00?oc=5",
-      "source": "Financial Times",
-      "date": "2026-10-29T19:53:00+00:00",
-      "display_date": "Oct 29, 2026",
-      "summary": "Canadian Investment Regulatory Organization Trade Resumption - HG – Company Announcement Financial Times",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
@@ -934,6 +857,17 @@
       "summary": "The business of GRC is ever-expanding, GRC technology is one of the fastest-growing segments in enterprise software, and compliance professions are rapidly evolving. Here’s the latest from across the industry. Product launches Government and legal technology provider Casepoint la...",
       "topics": [
         "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "Crypto exchange HTX agrees to exit UK after being sued by watchdog - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZktMUWNyQ0xJR0pUWl9BWDhwSExaQ3ZWYUQ0aVFNNHZZTkwyaG1pVGRRNGRUV0Z4X3VNZ2ZzQnpORmFWa3VsSHBIVG5nVUVuM3VYaWlWNF9jeHpaVW03T0tQZ2Vlb2hxWVNEVnVjVDIxTGRtWkM1NzRMdGNGb0RhdER2dTE?oc=5",
+      "source": "Financial Times",
+      "date": "2026-10-29T12:12:38+00:00",
+      "display_date": "Oct 29, 2026",
+      "summary": "Crypto exchange HTX agrees to exit UK after being sued by watchdog Financial Times",
+      "topics": [
+        "Enforcement Actions"
       ]
     },
     {
@@ -1103,17 +1037,6 @@
       ]
     },
     {
-      "title": "‘Calculated bet’: How wounded Star dodged a killer fine - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQV1UyeHRtTklnWGVadEtqSEtlYkVLbmZ3Y1kyQTRZMUUxMVExRUtILWw3UnhuNl9vVEJldG1Wdi1GU3VuN1BtbkNkYkk3WFZJRTB2VTNJRm84clQ4ZGk5Q3ltdWY5MHEwQ0hQTl9nZmVRcEIwcmVMU3VMdHROYWlHelpmUFpFYVZyNmRRMHd2d3hRY0Y3dFBsQ2VHdDlqUHFWZUhKeVh2MFdKTks2T2p0NWtBQ0VDV19JckxzWUowaE1jdHFiV243ZzNRTUxudEJuUzZHX0pzN2V4T2VnQkp3TDVldkhxVWdfMGlGRG82WGtSd25hbjd2SFNrb2daMDJJN1lWSTNDZEs2LTRkanp6OFln?oc=5",
-      "source": "The Australian",
-      "date": "2026-10-28T22:20:00+00:00",
-      "display_date": "Oct 28, 2026",
-      "summary": "‘Calculated bet’: How wounded Star dodged a killer fine The Australian",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
       "title": "Deloitte Cyprus named in leaked documents for advising on sanctioned oligarch’s fake accounts",
       "link": "https://www.complianceweek.com/accounting-auditing/deloitte-cyprus-named-in-leaked-documents-for-advising-on-sanctioned-oligarchs-fake-accounts/",
       "source": "Compliance Week",
@@ -1131,17 +1054,6 @@
       "date": "2026-10-28T20:11:00+00:00",
       "display_date": "Oct 28, 2026",
       "summary": "The cell carrier now expects full-year postpaid net account additions at the midpoint of its prior guidance range and it also narrowed its profit forecast for the year.",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "FTC and 20 states sue Dollar General for allegedly overcharging customers",
-      "link": "https://www.complianceweek.com/top-stories/ftc-and-20-states-sue-dollar-general-for-allegedly-overcharging-customers/",
-      "source": "Compliance Week",
-      "date": "2026-10-28T19:06:00+00:00",
-      "display_date": "Oct 28, 2026",
-      "summary": "Dollar General routinely and knowingly overcharged customers, the FTC and 20 states allege in a complaint. The post FTC and 20 states sue Dollar General for allegedly overcharging customers appeared first on Compliance Week .",
       "topics": [
         "Regulatory Change"
       ]
@@ -1193,18 +1105,6 @@
       ]
     },
     {
-      "title": "Australia's Star Entertainment fined $183 million for anti-money laundering law breaches - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdDEzR2l3NGVCMzJiSjBNdGx1NGE1eGN6LUczbUNBb241T0FCU2hKU2FvMDZUbmdMdEVrLXViTzBzWE5udE1TMWkzZjQ0T1JIRmc4Wjh1YURLeW16eE1pX3gwdlhCSkJmRFUtd2Jhd0h3d0R2Sm1VZ3hSWW9CTTl1SDRfbWt2ZnNwcEwtazZCTjZUSEN1a1JJZk5DdElhNlptM3dSa0xZWUQ1eGotcEVtckd6c1dGVXp2LVVyWWM4azRpZnBX?oc=5",
-      "source": "Reuters",
-      "date": "2026-10-28T07:50:16+00:00",
-      "display_date": "Oct 28, 2026",
-      "summary": "Australia's Star Entertainment fined $183 million for anti-money laundering law breaches Reuters",
-      "topics": [
-        "Enforcement Actions",
-        "AML & Sanctions"
-      ]
-    },
-    {
       "title": "Rule-breaking data centres to have power switched off - AFR",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOank4cUd2enlNbndTWFlzLVpweGNwclNFUUNLTXdNT2hOejZnU25NYWtiRmFwTTNiOXkyWXZ4YWZxNFRMR3QyWEk2M0l5SlluWG1OT0l5SEdKTmJkMFE4VXlMZ2xUd3gtWm9nV0lFelFIX3Rqd21SbU5lNmNHeHJRRm5aTm1BMzlOZUJhWjBtXzRnZmYwdUNTT1loR25qLTBPaERGTTMyRDRtbHMxUTdKVGttUUpaQQ?oc=5",
       "source": "AFR",
@@ -1213,17 +1113,6 @@
       "summary": "Rule-breaking data centres to have power switched off AFR",
       "topics": [
         "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Inflation above forecasts; Star on brink after $260m fine; Iron ore price’s scary China warning - AFR",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUXYtdk1URE5YSHBlLWpDRGFXMlNzWjB6WGwxOXJoM1FlMy1fSEVmRWlEX01GajJKZHR5Wms2NEtEeC1yVk1QV2JycHRQQ2ZCaW1uWk9DdE9xOVhWZ0RfdFMxSUd6TkhiNzRHVFVkeXAxSGFfcFpDaVVFY1lTelBXQXd0elJfd2pHRVBYei04ZkRCZnNETndGQ3BCbFdWWWhOTGdBLUVyb2k3OWZsWVZCOFVWWlRmVlV1dERNamNmbzlCSk9jcFkzWW5ab19jamprT1h5OVE3YTlLNldYRElrZ0RycFFCdw?oc=5",
-      "source": "AFR",
-      "date": "2026-10-28T01:01:00+00:00",
-      "display_date": "Oct 28, 2026",
-      "summary": "Inflation above forecasts; Star on brink after $260m fine; Iron ore price’s scary China warning AFR",
-      "topics": [
-        "Enforcement Actions"
       ]
     },
     {
