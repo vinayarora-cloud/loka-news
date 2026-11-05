@@ -1,7 +1,95 @@
 {
-  "last_updated": "November 05, 2026 00:43 UTC",
-  "total_count": 187,
+  "last_updated": "November 05, 2026 04:49 UTC",
+  "total_count": 185,
   "articles": [
+    {
+      "title": "Want to Rent an Internet Address at the White House?",
+      "link": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
+      "source": "Krebs on Security",
+      "date": "2026-11-05T04:36:17+00:00",
+      "display_date": "Nov 05, 2026",
+      "summary": "Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts warned today. One of the proxy services is a Russian company whose founder's web ho...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "Sydney’s culture needs change — and so does the AFL’s drug policy - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQdHpTWUlCQmJBVjNVMi02ZXY3RE5BdW05V1pGSHFpM0R6RmQxRmh1ci14LUVSUmpSQm5GSVhQd20xSDhlUDhMUFAySEpOOGhUbk9LOUhSWmtFVmVtTnR0aE5VOHh5cWdXdWlZRzhQMUs2UzVKWXE1SkxWbVhHeHdieC1FMGp2VHEyNFNBa2pKSURiVWZuQ21QZk5LRVVXc2pTQzg2U2RLSWVaVlpTNmJrSk9QODQzRVctdkV0S2JXam5aNjJKZzJzY2ZybWcxOTZUSFhTYnR2OWJENjVBSllVa1JtM2F3QUMwS1I4cl9ac2IyMkJ5WjM0UjhvTXlNbmg0bE9kWURLZkJfNm9hUGVHNnFmb09HTk0yQlJ1ZFhDVnVDbHhBa21jUlJZd2pUQmltY0F4Vg?oc=5",
+      "source": "The Australian",
+      "date": "2026-11-05T03:56:26+00:00",
+      "display_date": "Nov 05, 2026",
+      "summary": "Sydney’s culture needs change — and so does the AFL’s drug policy The Australian",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Financial Stability Board sets out 12 ‘sound practices’ for FS firms’ AI adoption",
+      "link": "https://www.complianceweek.com/artificial-intelligence/financial-stability-board-sets-out-12-sound-practices-for-fs-firms-ai-adoption/",
+      "source": "Compliance Week",
+      "date": "2026-11-05T03:17:03+00:00",
+      "display_date": "Nov 05, 2026",
+      "summary": "The Financial Stability Board has issued a report outlining 12 “sound practices” financial institutions should consider for responsible AI adoption. The post Financial Stability Board sets out 12 ‘sound practices’ for FS firms’ AI adoption appeared first on Compliance Week .",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Q3 2026 DAYBUE net sales up 39% from Q3 2025, full year guidance upgraded - AFR",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeDhmWHBxUVJaUnp5YmhZUlB3Und4aDJwNDhIb3ZqOUI0clA2Y3VOV0VaYTZFbTBFcXR4UjBtXzN6TndLU3FiajZSXzd3MW0xam5hbndUVTA1aXd3cjV3RHV1U05TZnNnaHYxbEZTZUw3dWJBMUMyN2o1MTR1RGx6N1pOVDFtQ0RSYmVvQzdYNA?oc=5",
+      "source": "AFR",
+      "date": "2026-11-05T03:03:40+00:00",
+      "display_date": "Nov 05, 2026",
+      "summary": "Q3 2026 DAYBUE net sales up 39% from Q3 2025, full year guidance upgraded AFR",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "PCAOB publishes agendas for setting standards and rules following first public consultation",
+      "link": "https://www.complianceweek.com/accounting-auditing/pcaob-publishes-agendas-for-setting-standards-and-rules-following-first-public-consultation/",
+      "source": "Compliance Week",
+      "date": "2026-11-05T02:38:20+00:00",
+      "display_date": "Nov 05, 2026",
+      "summary": "The PCAOB has updated its agendas for standard-setting, research projects, and rulemaking. The update follows the board’s first-ever public consultation. The post PCAOB publishes agendas for setting standards and rules following first public consultation appeared first on Complia...",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "What a Democratic congress means for Trump’s foreign-policy agenda - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNajQzeUxzQWxnUlh4TXB1a29uV09JMV9WaXBRY0hqTk9pSC1hdUZUSEFVbzVTemhpYVRVZUdiM1RHVXRLa0FZLVF2Rld3OTVsYjZQcDFBdEROWGx5Z3U0MnplbExiQlBqWW9PSHg3SlVmY1lreTE2UjJDYnpPZWxTR0VKbV9OdFp4N2ktck9YSDVZOHp3UE5OSTRuNzk2STFPUVdkVEZJTXo5TmtJQUE3QU9yajVMS2VxX3p4XzA5dXRlQlEyT2tYVElqbDJrMUlGUUI3dF96NXlVSlFqc2NzUQ?oc=5",
+      "source": "The Australian",
+      "date": "2026-11-05T02:16:09+00:00",
+      "display_date": "Nov 05, 2026",
+      "summary": "What a Democratic congress means for Trump’s foreign-policy agenda The Australian",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Toast misled subscribers about strength of customer service, FTC alleges",
+      "link": "https://www.complianceweek.com/regulatory-enforcement/toast-misled-subscribers-about-strength-of-customer-service-ftc-alleges/",
+      "source": "Compliance Week",
+      "date": "2026-11-05T01:30:12+00:00",
+      "display_date": "Nov 05, 2026",
+      "summary": "Toast, a company that provides payment-processing software to restaurants, charged hidden fees, made it difficult for restaurants to cancel their subscriptions, and didn’t offer the customer support it promised, the FTC and eight states alleged in a complaint. The post Toast misl...",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Inside CVS’s Decision to Break Up a Healthcare Juggernaut",
+      "link": "https://www.wsj.com/health/healthcare/inside-cvss-decision-to-break-up-a-healthcare-juggernaut-39925a2e?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-11-05T01:30:00+00:00",
+      "display_date": "Nov 05, 2026",
+      "summary": "The company is splitting its drugstore and insurance businesses amid mounting regulatory pressure.",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
     {
       "title": "US judge rules DOJ cannot link states' grant funding to immigration enforcement - Reuters",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdllVSlVYNC12bGJxOE5vanRCQlNTODBHX3VHMDc5cU9xQ0g2cXFNYmp6Y3dvOGJ3UGVUZ3haLUpsb1NRYWRBQ3d4VkFZdVpablNyZmRDM0VmVUs2UVozSndKT01KeFRtYk4xdVowV1V2Y2czQW1kUmdhbjBiNjN4Z3dkVjY3anhxV1hDT3I4dEdBSGZqS3hObnRhVC1Vam1XWVNCMDJYblMyVndjLWl4ZW0xVVl4dTZGcEMtQ3VERkJtaGktOFVz?oc=5",
@@ -11,17 +99,6 @@
       "summary": "US judge rules DOJ cannot link states' grant funding to immigration enforcement Reuters",
       "topics": [
         "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "What a Democratic Congress means for Trump’s foreign-policy agenda - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNajQzeUxzQWxnUlh4TXB1a29uV09JMV9WaXBRY0hqTk9pSC1hdUZUSEFVbzVTemhpYVRVZUdiM1RHVXRLa0FZLVF2Rld3OTVsYjZQcDFBdEROWGx5Z3U0MnplbExiQlBqWW9PSHg3SlVmY1lreTE2UjJDYnpPZWxTR0VKbV9OdFp4N2ktck9YSDVZOHp3UE5OSTRuNzk2STFPUVdkVEZJTXo5TmtJQUE3QU9yajVMS2VxX3p4XzA5dXRlQlEyT2tYVElqbDJrMUlGUUI3dF96NXlVSlFqc2NzUQ?oc=5",
-      "source": "The Australian",
-      "date": "2026-11-04T22:30:55+00:00",
-      "display_date": "Nov 04, 2026",
-      "summary": "What a Democratic Congress means for Trump’s foreign-policy agenda The Australian",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
@@ -69,17 +146,6 @@
       ]
     },
     {
-      "title": "US slaps sanctions on Indian, Turkish firms and people for aiding Iran - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTU5EOWpMNjZvcmh2TzIzTHo1OWRzaUdGRWZEN0xwbWpqV09pOGFoY2M5dlEya2xHTHJnS0VsQjZGM2lSTVk1U05TbHpLc3FveFhySUgtb1dPWEtXTkNXVlg4MWlwbTBSeGw1R2pPWTg3d3ZuV01nSDNvWWVQSjRTeFRSb3N2QnFMa0FMUDBGTWY5NDVIdG41Z05wdnRQT3pBRWJvSzg3Z0tEVXZSZDM5ag?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-04T19:36:33+00:00",
-      "display_date": "Nov 04, 2026",
-      "summary": "US slaps sanctions on Indian, Turkish firms and people for aiding Iran Reuters",
-      "topics": [
-        "AML & Sanctions"
-      ]
-    },
-    {
       "title": "On The Record",
       "link": "https://www.corporatecomplianceinsights.com/on-the-record-with-cci/",
       "source": "Corporate Compliance Insights",
@@ -102,6 +168,17 @@
       ]
     },
     {
+      "title": "US slaps sanctions on Indian, Turkish firms and people for aiding Iran - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTU5EOWpMNjZvcmh2TzIzTHo1OWRzaUdGRWZEN0xwbWpqV09pOGFoY2M5dlEya2xHTHJnS0VsQjZGM2lSTVk1U05TbHpLc3FveFhySUgtb1dPWEtXTkNXVlg4MWlwbTBSeGw1R2pPWTg3d3ZuV01nSDNvWWVQSjRTeFRSb3N2QnFMa0FMUDBGTWY5NDVIdG41Z05wdnRQT3pBRWJvSzg3Z0tEVXZSZDM5ag?oc=5",
+      "source": "Reuters",
+      "date": "2026-11-04T18:48:00+00:00",
+      "display_date": "Nov 04, 2026",
+      "summary": "US slaps sanctions on Indian, Turkish firms and people for aiding Iran Reuters",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
       "title": "Explainer: Five ways US foreign policy may change with a Democratic Congress - Reuters",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMUhtZlVMd1gzdC1DRkZpNUxiX0t5a2ZwVkl1UGdDcXFROFZ1UzcxSjB1bUNSVE1kaE53bG1hNVE3cktDVzNNN1lpUHFVdWo0V19pMG9mLTI2VnRjYWVFNFFGamdWaVBvVTdyRHZWczZ5Ul93UjJTaC10VW5ZbmxQcG94RllSVGpoX3BTeTdzMHpmRjZqSnZCYmQtQzlZS2RNS1Z0UVdqajhGdGdp?oc=5",
       "source": "Reuters",
@@ -119,6 +196,17 @@
       "date": "2026-11-04T18:42:30+00:00",
       "display_date": "Nov 04, 2026",
       "summary": "Be honest: were you really surprised? The Democrats always looked likely to romp in the midterm elections last night, and romp they did, to control of both House and Senate. Now come the questions of how Democrats will use their new power, how President Trump will respond to it, ...",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Democrat Wins Texas Oil Regulator Seat for First Time Since 1990 - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORFdmMUJjV0NmaW5iOFB6WV9VMm51Zjd2YUtHYkhtQlNoelVVTnMwd1pncjY5aGpwZWJFQzY5ajJkdU0yaVJuY3otMkEtc3JEckVfZkJDa3d4M1NsTWwyS0N5bHhGVjdOUzV6RXgxejJIYUZOdFFKUXJtbEw5b1ZVTFJxanR1UXRvc1VHeGp3aHVrVE1LTnZ4TDlQblJqUUlwY2ZwVi1Kd1BuZkhHa3F1M3ZBTWxadw?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-11-04T17:01:09+00:00",
+      "display_date": "Nov 04, 2026",
+      "summary": "Democrat Wins Texas Oil Regulator Seat for First Time Since 1990 Bloomberg.com",
       "topics": [
         "Regulatory Change"
       ]
@@ -198,6 +286,17 @@
       "summary": "Building materials company Holcim announced today an investment in carbon sequestration technology company 44.01, aimed […]",
       "topics": [
         "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "Sherritt Furloughs 47% of Canada Workforce Amid Cuba Sanctions - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQN3BwQURpNFkzLXl0QTBzY25lSU0ta2VlREE3WDBNS3h5RG9jSHM2cWdxOXRERGxvLUlMdnVJSnNwRzRhVDRWcS1QLUMzejF3YXVwSUZCY3VzS0haZC1YWWlBMEVQejQ1YUk3Ukt3THJITFJReXpoQzJpdDlJakRBUFk5X1lxUXA5Ni1BUTJOb1QzeEhWOUdPel9CbWRObGsyblRSajhwTU9YRHJLU19xUVhn?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-11-04T13:01:43+00:00",
+      "display_date": "Nov 04, 2026",
+      "summary": "Sherritt Furloughs 47% of Canada Workforce Amid Cuba Sanctions Bloomberg.com",
+      "topics": [
+        "AML & Sanctions"
       ]
     },
     {
@@ -390,8 +489,8 @@
     },
     {
       "title": "If the RBA gets its job wrong, the PM will pay with his",
-      "link": "https://www.smh.com.au/business/the-economy/if-the-rba-gets-its-job-wrong-the-pm-will-pay-with-his-20261104-p61axk.html?ref=rss&utm_medium=rss&utm_source=rss_business",
-      "source": "The Sydney Morning Herald",
+      "link": "https://www.theage.com.au/business/the-economy/if-the-rba-gets-its-job-wrong-the-pm-will-pay-with-his-20261104-p61axk.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+      "source": "The Age",
       "date": "2026-11-03T18:00:00+00:00",
       "display_date": "Nov 03, 2026",
       "summary": "Anthony Albanese. He’s a man who’s taken little interest in the economy now being caught by the iron rule of politics: if the economy turns bad on your watch, you take the blame.",
@@ -462,17 +561,6 @@
       "date": "2026-11-03T15:34:00+00:00",
       "display_date": "Nov 03, 2026",
       "summary": "Cboe, Citadel Securities-backed group sues US regulator over single-stock perpetual futures Reuters",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Canadian Investment Regulatory Organization Trade Resumption - ACB – Company Announcement - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdFdyallpY09tQmRZTlhqVkFYS1UxMFZISlZEektES2Q4MFdxTF8xQlZ1d1lFUFVzNl9pSnRDRm5GSGRpbHRTekt0UkJORExTdzlyUmo3V195NzRJWS1sYnk1YWdoMkVzdHBxUGsxN1FTYUktQ0EyNFN0YlVud1hSY19zQzJtQlJGWXhKVnI2S3Jrblhpa2c?oc=5",
-      "source": "Financial Times",
-      "date": "2026-11-03T14:41:00+00:00",
-      "display_date": "Nov 03, 2026",
-      "summary": "Canadian Investment Regulatory Organization Trade Resumption - ACB – Company Announcement Financial Times",
       "topics": [
         "Regulatory Change"
       ]
@@ -562,7 +650,7 @@
       "title": "China regulator tells banks to pause IPOs, FT reports - Reuters",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRjN6YlQ3VTFGbEdFbkIwWDc1NzBsaDg3RlUycGtxVE9kNEplZUVNZ3VJbDQyUEFZVGdWcnVZaUdPOFJqTk0tNmhKVi1yVTFGeDE3X1ZHZ3lfNWpDTU1aczAyeEZhSmktNi1WcFZ2WEMyaXZiSTluMFRuQ0FWMi1yMS1RTDM4VHZCRmVEY3BkbC1jN3ctcklXZjJVQnVtQQ?oc=5",
       "source": "Reuters",
-      "date": "2026-11-03T06:59:00+00:00",
+      "date": "2026-11-03T07:30:35+00:00",
       "display_date": "Nov 03, 2026",
       "summary": "China regulator tells banks to pause IPOs, FT reports Reuters",
       "topics": [
@@ -635,17 +723,6 @@
       "summary": "The Office of the Comptroller of the Currency (OCC) today released a list of Community Reinvestment Act (CRA) performance evaluations that became public during the period of October 1, 2026, through October 31, 2026.",
       "topics": [
         "Operational & Enterprise Risk"
-      ]
-    },
-    {
-      "title": "Canadian Investment Regulatory Organization Trading Halt - NOBL – Company Announcement - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNd3FiUU1XX2h5OF9sVUZVbC1hUlRBRm9xRjVLVE9ScTYxeURuRU1rTmJ1WEJ3eE44Q2MtQUFMTGVNNTd1Ym1sa29ZUDhHNlBrdV9kblNkMGdDeHROZ1ZTV0FDVVlvTzVUMTYzWE5PTjRneVo2RXUwbUJ0ZElBdUM5WnNhZDM4OEJLYmdOX05yRjZBaG40RXc?oc=5",
-      "source": "Financial Times",
-      "date": "2026-11-02T13:32:00+00:00",
-      "display_date": "Nov 02, 2026",
-      "summary": "Canadian Investment Regulatory Organization Trading Halt - NOBL – Company Announcement Financial Times",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
@@ -734,17 +811,6 @@
       "summary": "This climate fund has returned 120pc AFR",
       "topics": [
         "ESG & Sustainability"
-      ]
-    },
-    {
-      "title": "Klain: Hack response will go beyond 'just sanctions' - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8wc1Q5cHptbENoVEJjUHhkVy0yXzZpLXJyTTAzNXRWRFo4a29FS1ZzWmc1V09BLUl3cmxwWFFqanZ5dUF1LTlKUG5sY3plZzY1Q1VOZ0pHVFRLN1Fm?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-01T07:00:00+00:00",
-      "display_date": "Nov 01, 2026",
-      "summary": "Klain: Hack response will go beyond 'just sanctions' Reuters",
-      "topics": [
-        "AML & Sanctions"
       ]
     },
     {
@@ -846,17 +912,6 @@
       "topics": [
         "Regulatory Change",
         "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "Canadian Investment Regulatory Organization Trading Halt - DUNE – Company Announcement - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPanpJQ1RRbHhKM1BhZzQxWUtJSjRHdGhQWE82YWRwY0FYVkhmVU5jSkxlNXMxaVpMVDBKU3FhSGdsLUZBUnJ2ME9mOUpaSHNpR2poR2RLUnhrUl9VcVljUFFIZlBKWXJ6WkZDY1V6RmFrVkZtZU9YTWhXcjVQVjFjam9OODRpTTFHTEg2SHFnQllmVkNLd0E?oc=5",
-      "source": "Financial Times",
-      "date": "2026-10-30T13:23:00+00:00",
-      "display_date": "Oct 30, 2026",
-      "summary": "Canadian Investment Regulatory Organization Trading Halt - DUNE – Company Announcement Financial Times",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
@@ -1026,17 +1081,6 @@
       ]
     },
     {
-      "title": "Fears grow over companies’ use of cheaper, potentially dangerous Chinese AI",
-      "link": "https://www.complianceweek.com/artificial-intelligence/fears-grow-over-companies-use-of-cheaper-potentially-dangerous-chinese-ai/",
-      "source": "Compliance Week",
-      "date": "2026-10-29T14:00:00+00:00",
-      "display_date": "Oct 29, 2026",
-      "summary": "Regulators and national authorities worry that companies may be unwittingly exposing themselves to significant risk by adopting cheaper Chinese-made AI tools or using available “open-source” software that may also rely heavily on Chinese AI. The post Fears grow over companies’ us...",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "GRC Business Roundup: Casepoint, Smarsh, LexisNexis, EcoVadis, MCO & More",
       "link": "https://www.corporatecomplianceinsights.com/grc-business-roundup-casepoint-smarsh-lexisnexis-ecovadis-mco-more/",
       "source": "Corporate Compliance Insights",
@@ -1045,17 +1089,6 @@
       "summary": "The business of GRC is ever-expanding, GRC technology is one of the fastest-growing segments in enterprise software, and compliance professions are rapidly evolving. Here’s the latest from across the industry. Product launches Government and legal technology provider Casepoint la...",
       "topics": [
         "Operational & Enterprise Risk"
-      ]
-    },
-    {
-      "title": "Trump administration has dropped or reversed 205 corporate enforcement cases, Public Citizen finds",
-      "link": "https://www.complianceweek.com/regulatory-enforcement/trump-administration-has-dropped-or-reversed-205-corporate-enforcement-cases-public-citizen-finds/",
-      "source": "Compliance Week",
-      "date": "2026-10-29T12:00:00+00:00",
-      "display_date": "Oct 29, 2026",
-      "summary": "The Trump administration has terminated or reversed 205 corporate enforcement cases, to date, including federal criminal investigations, lawsuits, and previously resolved settlements reached under the Biden administration. The post Trump administration has dropped or reversed 205...",
-      "topics": [
-        "Enforcement Actions"
       ]
     },
     {
@@ -1111,51 +1144,6 @@
       "summary": "Court rejects ‘fishing expedition’ by Super Retail ex-chief for ASIC files The Australian",
       "topics": [
         "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "The State of Third-Party Risk & Integrity",
-      "link": "https://www.complianceweek.com/resource/the-state-of-third-party-risk-and-integrity/",
-      "source": "Compliance Week",
-      "date": "2026-10-29T04:00:00+00:00",
-      "display_date": "Oct 29, 2026",
-      "summary": "ECI Compliance Week and Diligent partnered on a new benchmarking survey of ethics, compliance and risk professionals to understand how organizations are managing third-party risk today. The post The State of Third-Party Risk & Integrity appeared first on Compliance Week .",
-      "topics": [
-        "Operational & Enterprise Risk"
-      ]
-    },
-    {
-      "title": "Bunnings, JB Hi-Fi sound alarm; ASIC probes Firmus failure; Google plunges despite AI stunner - AFR",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZExGZ2V3UmdCbmZLVmhkOS0tUkpOcXBIX000SmpNaVZVelliQXQ2eVFwLWFBSS1uVUd0dnlmYjdUY2lUc19tdWtScGZoRk9maTVIcm9zQkhNRm91MGJVc0NBb1N4d0NTb2l0QThZdG03blVrR3dpVmZYYkZYVW9rS2dlN3NLX0hXSG5jMUNBSjE0VkI0cXpVS25xZDRLQkkzbm5KRXJ3Vy1BUXBaSzVWR1ZtelR6TWlEWlgzTnpobEg2QmVXcG9CNkFpZUdGM01lclZSZzR3RVFvTkNySURQaXJ5WQ?oc=5",
-      "source": "AFR",
-      "date": "2026-10-29T01:05:00+00:00",
-      "display_date": "Oct 29, 2026",
-      "summary": "Bunnings, JB Hi-Fi sound alarm; ASIC probes Firmus failure; Google plunges despite AI stunner AFR",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "Kremlin aide says discussions underway with US to lift sanctions on Russian investment fund - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVl9HWWNraGlYV3NRSGloLWwxUjBRN0ZDc1M4dVZKTnM4NEtDejItVlAwZFdib3VsNWE2bk1XX0Fpc2dmLVh3X3hBeFNmVkdyTk1OSW9VbUd5TFdOaWtQQkxiWnBjaXdOWHlwYklBSlZ5ekYxTEdEVEt0T1NfOGF3cExwWVVCZlM1RFhsUnpCYzBrOWNxaDJEZzloSTZQM1p4OE01UlJGT2hmM1R2VjZtS1lvUEgwTVJ3WFRfWTVFMA?oc=5",
-      "source": "Reuters",
-      "date": "2026-10-29T00:52:00+00:00",
-      "display_date": "Oct 29, 2026",
-      "summary": "Kremlin aide says discussions underway with US to lift sanctions on Russian investment fund Reuters",
-      "topics": [
-        "AML & Sanctions"
-      ]
-    },
-    {
-      "title": "Australia's Star Entertainment accepts $183.6 million anti-money laundering penalty - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQelRRajVmUUU2QUVObkJDRnM1ZXdIR3czM2pZVkpxWUJWd0VPMTFnSm1RYzNFc1BGMGJaS3h1WkRNM1dsbGdfM2EtcVRELUgteUt6eTZfX2N5Wkc5eWowVzF2WmNOYzJZT3Fab1FHRDVBUVhIVXR2NE84V1BUV3JGSHBmTDE0UkE3TEZReWV2RXpOb2QtaWg3NENzZHNaV1JEUzJ6Ny1YQ0xlSFJHbDdMdE1STnZGNkMzR2lLS2ZtZlo1ck14aVJvcFVkU3FkZw?oc=5",
-      "source": "Reuters",
-      "date": "2026-10-29T00:11:00+00:00",
-      "display_date": "Oct 29, 2026",
-      "summary": "Australia's Star Entertainment accepts $183.6 million anti-money laundering penalty Reuters",
-      "topics": [
-        "Enforcement Actions",
-        "AML & Sanctions"
       ]
     },
     {
@@ -1813,17 +1801,6 @@
       "summary": "The SEC is taking a significant step forward, within its statutory authority, to bring America’s capital markets into the digital age by facilitating onchain trading of certain tokenized stocks.",
       "topics": [
         "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "Data Broker Radaris Loses Domains in Privacy Fight",
-      "link": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
-      "source": "Krebs on Security",
-      "date": "2026-09-16T18:14:22+00:00",
-      "display_date": "Sep 16, 2026",
-      "summary": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recently in a lawsuit alleging Radaris violated a New Jersey priva...",
-      "topics": [
-        "Data Privacy"
       ]
     },
     {
