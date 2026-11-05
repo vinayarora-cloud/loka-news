@@ -1,7 +1,97 @@
 {
-  "last_updated": "November 05, 2026 04:49 UTC",
-  "total_count": 185,
+  "last_updated": "November 05, 2026 08:50 UTC",
+  "total_count": 188,
   "articles": [
+    {
+      "title": "Rheinmetall Shares Plunge After Order Delays Force Arms Maker to Trim Guidance Again",
+      "link": "https://www.wsj.com/business/earnings/rheinmetall-shares-plunge-after-order-delays-force-arms-maker-to-trim-guidance-again-87734af7?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-11-05T08:34:00+00:00",
+      "display_date": "Nov 05, 2026",
+      "summary": "The company said it expected sales of roughly $14.82 billion in 2026, below a prior guidance range of between $15.39 billion and $15.95 billion euros.",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Sony Boosts Guidance as Profit Jumps on ‘Spider-Man’ Hit, Game Strength",
+      "link": "https://www.wsj.com/business/earnings/sony-boosts-guidance-as-profit-jumps-on-spider-man-hit-game-strength-4e9322ae?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-11-05T08:02:00+00:00",
+      "display_date": "Nov 05, 2026",
+      "summary": "The company has spent billions of dollars on acquisitions in recent years to beef up its entertainment content.",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Maersk Raises Guidance Again on Higher Freight Rates and Resilient Demand",
+      "link": "https://www.wsj.com/business/logistics/maersk-raises-guidance-again-on-higher-freight-rates-and-resilient-demand-12a571b0?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-11-05T07:54:00+00:00",
+      "display_date": "Nov 05, 2026",
+      "summary": "The Danish shipping group said typhoons in and disruption to shipping from the Strait of Hormuz caused widespread network congestion, driving capacity constraints and sending freight rates higher.",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Smart glasses present 'elevated risk' to patients, says NT Health",
+      "link": "https://www.abc.net.au/news/2026-11-05/nt-health-issues-ban-on-meta-glasses-after-privacy-breach-at-rdh/107349740",
+      "source": "ABC News Business (AU)",
+      "date": "2026-11-05T07:37:21+00:00",
+      "display_date": "Nov 05, 2026",
+      "summary": "The Northern Territory health department has issued a ban to its staff around the use of smart glasses, as part of an internal department review into its privacy policies triggered by a recent breach.",
+      "topics": [
+        "Cybersecurity Risk",
+        "Data Privacy"
+      ]
+    },
+    {
+      "title": "Clive Palmer loses High Court battle against ex-ASIC boss James Shipton - AFR",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZ2tkMWxTS1A3OGd1Y0ZIbjdDeGRlc0EzeGlYYy1nZENCOWN5c2JDRm4wblVVeGllVEpzbUcwZkZVU1Rwd0pGQ054RVhjQWVSbHBQWnc5TFcwQmE0XzVoWVVYa0lCb1FGLWZUREdISlFlN0dFVW84bXZ6MWVRRzVqWk5mbDZrUHUyVHVMM213WUFLQ2FYcFU4VTJrZ29STUZIbFhoQS1ObEJ6bW1CMG5tdG9hQmF6SFdrTDNLOFFPRU81eGxmeTZTMV9relRZMnc?oc=5",
+      "source": "AFR",
+      "date": "2026-11-05T07:03:56+00:00",
+      "display_date": "Nov 05, 2026",
+      "summary": "Clive Palmer loses High Court battle against ex-ASIC boss James Shipton AFR",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "ACCC forced to intervene after big banks, Armaguard relations unravel - AFR",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdy0tSS1rei04bUh0d0NOZHNadHhuUEh1TVZhN3Jkc3BxVklxZWs1dTdHN3JTdWtoOTRLaWZLcWt4aGY3WFc2QnpFVlRnM04yeE1EYXJvSXdsU3c5TmphbEJWODdHSE9ndXRYZTFVRGhBTnZQSmt1ZzMwN3NlSTZZYzM1YzNiUktwVW03Qmg2cDlUOTNSX1lYVzAzM2h2Q3JpRnA4WHV3LVczMVpDcHE1UzRlbDBydnluWWp6X08zS2J2ZkpGNjRzQVhHVEJxdw?oc=5",
+      "source": "AFR",
+      "date": "2026-11-05T06:02:00+00:00",
+      "display_date": "Nov 05, 2026",
+      "summary": "ACCC forced to intervene after big banks, Armaguard relations unravel AFR",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "Will Democrats’ midterms triumph put wind back in sails of the renewables sector?",
+      "link": "https://www.theguardian.com/business/2026/nov/05/democrats-midterms-triumph-renewable-energy-industry-donald-trump",
+      "source": "The Guardian Australia",
+      "date": "2026-11-05T06:00:55+00:00",
+      "display_date": "Nov 05, 2026",
+      "summary": "Future brightens for US developers in particular after election when voters rejected Trump’s war on clean energy After years as collateral damage in Donald Trump’s war on climate action, the Democrats’ sweeping triumph in the US midterm elections has emerged as a victory for the ...",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "UK found to be ‘dangerously’ reliant on China for critical minerals needed for defence and AI",
+      "link": "https://www.theguardian.com/world/2026/nov/05/uk-dangerously-reliant-on-china-critical-minerals-military-ai-renewable-energy",
+      "source": "The Guardian Australia",
+      "date": "2026-11-05T05:00:55+00:00",
+      "display_date": "Nov 05, 2026",
+      "summary": "Delivering net zero also at risk, say MPs as they call for centralised policy and funding for mines and diversification The UK is “dangerously” dependent on China for critical raw materials needed for the military, renewable energy infrastructure and AI, a parliamentary investiga...",
+      "topics": [
+        "Regulatory Change",
+        "ESG & Sustainability"
+      ]
+    },
     {
       "title": "Want to Rent an Internet Address at the White House?",
       "link": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
@@ -17,7 +107,7 @@
       "title": "Sydney’s culture needs change — and so does the AFL’s drug policy - The Australian",
       "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQdHpTWUlCQmJBVjNVMi02ZXY3RE5BdW05V1pGSHFpM0R6RmQxRmh1ci14LUVSUmpSQm5GSVhQd20xSDhlUDhMUFAySEpOOGhUbk9LOUhSWmtFVmVtTnR0aE5VOHh5cWdXdWlZRzhQMUs2UzVKWXE1SkxWbVhHeHdieC1FMGp2VHEyNFNBa2pKSURiVWZuQ21QZk5LRVVXc2pTQzg2U2RLSWVaVlpTNmJrSk9QODQzRVctdkV0S2JXam5aNjJKZzJzY2ZybWcxOTZUSFhTYnR2OWJENjVBSllVa1JtM2F3QUMwS1I4cl9ac2IyMkJ5WjM0UjhvTXlNbmg0bE9kWURLZkJfNm9hUGVHNnFmb09HTk0yQlJ1ZFhDVnVDbHhBa21jUlJZd2pUQmltY0F4Vg?oc=5",
       "source": "The Australian",
-      "date": "2026-11-05T03:56:26+00:00",
+      "date": "2026-11-05T03:46:27+00:00",
       "display_date": "Nov 05, 2026",
       "summary": "Sydney’s culture needs change — and so does the AFL’s drug policy The Australian",
       "topics": [
@@ -124,17 +214,6 @@
       ]
     },
     {
-      "title": "Expedia Raises Outlook Following Higher Profit, Sales",
-      "link": "https://www.wsj.com/business/earnings/expedia-raises-outlook-following-higher-profit-sales-6556d0a2?mod=pls_whats_news_us_business_f",
-      "source": "Wall Street Journal",
-      "date": "2026-11-04T21:09:00+00:00",
-      "display_date": "Nov 04, 2026",
-      "summary": "The online travel agency now expects annual revenue to be $16.37 billion to $16.43 billion, up from its previous guidance of $16.05 billion to $16.22 billion.",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "Ethan Allen Shareholders Hand Board Control to Activist Investor Doug Bergeron",
       "link": "https://www.wsj.com/business/retail/ethan-allen-shareholders-hand-board-control-to-activist-investor-doug-bergeron-c79df327?mod=pls_whats_news_us_business_f",
       "source": "Wall Street Journal",
@@ -196,17 +275,6 @@
       "date": "2026-11-04T18:42:30+00:00",
       "display_date": "Nov 04, 2026",
       "summary": "Be honest: were you really surprised? The Democrats always looked likely to romp in the midterm elections last night, and romp they did, to control of both House and Senate. Now come the questions of how Democrats will use their new power, how President Trump will respond to it, ...",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Democrat Wins Texas Oil Regulator Seat for First Time Since 1990 - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORFdmMUJjV0NmaW5iOFB6WV9VMm51Zjd2YUtHYkhtQlNoelVVTnMwd1pncjY5aGpwZWJFQzY5ajJkdU0yaVJuY3otMkEtc3JEckVfZkJDa3d4M1NsTWwyS0N5bHhGVjdOUzV6RXgxejJIYUZOdFFKUXJtbEw5b1ZVTFJxanR1UXRvc1VHeGp3aHVrVE1LTnZ4TDlQblJqUUlwY2ZwVi1Kd1BuZkhHa3F1M3ZBTWxadw?oc=5",
-      "source": "Bloomberg.com",
-      "date": "2026-11-04T17:01:09+00:00",
-      "display_date": "Nov 04, 2026",
-      "summary": "Democrat Wins Texas Oil Regulator Seat for First Time Since 1990 Bloomberg.com",
       "topics": [
         "Regulatory Change"
       ]
@@ -370,7 +438,7 @@
       "title": "Top ICC official urges Europe to shield court from US sanctions - Financial Times",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQel9yc0s2ZE5meDNfVjFMVlpuNG4tdFNZeGM1eXM3a0ZDWHZZMmlvcVhMSDJqVkladWlYSVI5cnVoaGUwOXNhZDN1V2JYXzlSRUtsZVphN3BnQU91SHpNcHctdkNGVF9SMldUcDIzREp1R0E3R2dTU0VIelpnVVZmX2pueDg?oc=5",
       "source": "Financial Times",
-      "date": "2026-11-04T05:00:18+00:00",
+      "date": "2026-11-04T05:00:45+00:00",
       "display_date": "Nov 04, 2026",
       "summary": "Top ICC official urges Europe to shield court from US sanctions Financial Times",
       "topics": [
@@ -397,17 +465,6 @@
       "summary": "One of David Jones's biggest landlords says the department store is in breach of its rental agreements and has not paid since September.",
       "topics": [
         "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "Telco fined $653k for spam emails - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPZ2I3NzZObkVPQ1NPU0t1N1hRZUE3UTE1VXBHYnZJN0Y2N3VjTUUyV2FUd1lldUZjWk9UUzBMQ3FsQjFYS25scUtSY094aGV3QmoyTVFEaEptMWdfR01FdzIyZmJ2MU9hWkFRUlNmc1J3OFVhaHNka2RaQ3g2Zl9McjJGdlRFY2VGVm8zX2JDLWpWTW84VkJBa3Q0a1JmWWtOYldvNjlXaEFnTndiU09seTVvWFRGeWZwUS0zLVprc3RTVldKS1RkQkVDMC1lVGVMR0Z2d241cy1WMTVZVHVMb2pDTEJmN1hiU1p6cEwta0xEVEVvX0RuWlRlOHc5QQ?oc=5",
-      "source": "The Australian",
-      "date": "2026-11-04T02:30:54+00:00",
-      "display_date": "Nov 04, 2026",
-      "summary": "Telco fined $653k for spam emails The Australian",
-      "topics": [
-        "Enforcement Actions"
       ]
     },
     {
@@ -455,17 +512,6 @@
       ]
     },
     {
-      "title": "Further links between CLP and gas firm emerge as ex-staffer's shares revealed",
-      "link": "https://www.abc.net.au/news/2026-11-04/nt-beetaloo-energy-gas-shares-bill-yan-government-staffer/107338086",
-      "source": "ABC News Business (AU)",
-      "date": "2026-11-03T21:06:07+00:00",
-      "display_date": "Nov 03, 2026",
-      "summary": "Northern Territory Treasurer and Infrastructure Minister Bill Yan's former adviser says she disclosed her shareholdings in Beetaloo Energy before starting work in a senior advisory role.",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "Justin Hemmes, David Walsh fined in ASIC late filing crackdown - The Australian",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNNzlhQUVDYU9sa2owdm5SeHluM0tzdUF4alBIeHdzZmhOcC1uY1BhaTN1LWRQcEJjR3pIU1hwam9raVJ6VTdwZGdDd0hxSGJuQ2lEdDZBSjRiQkJvVVFWVlZyRDY0enQ3UmlhVkI1cHZEOW5JcnJEVWFabHdyV2I0TlRkTXc0dHM4QmpBUTVBVnVFMWhIZGFqdnFYUk9lblBSWTB3dXdueWdKcjd4ZUJGbnFIMUxHd3RuaXRhdEVyeW85VVNGRTBERzJRZi1Nd2tZcXozeTlRb2tUUG1JdWJFc3MwRGxUOWRKWDlwQ2ZkdExXSEFnTVRBb3ZqZHBPdw?oc=5",
       "source": "The Australian",
@@ -488,17 +534,6 @@
       ]
     },
     {
-      "title": "If the RBA gets its job wrong, the PM will pay with his",
-      "link": "https://www.theage.com.au/business/the-economy/if-the-rba-gets-its-job-wrong-the-pm-will-pay-with-his-20261104-p61axk.html?ref=rss&utm_medium=rss&utm_source=rss_business",
-      "source": "The Age",
-      "date": "2026-11-03T18:00:00+00:00",
-      "display_date": "Nov 03, 2026",
-      "summary": "Anthony Albanese. He’s a man who’s taken little interest in the economy now being caught by the iron rule of politics: if the economy turns bad on your watch, you take the blame.",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "Extreme Networks accepts DOJ “near-miss” non-prosecution agreement for alleged sanctions violations",
       "link": "https://www.complianceweek.com/regulatory-enforcement/extreme-networks-accepts-doj-near-miss-non-prosecution-agreement-for-alleged-sanctions-violations/",
       "source": "Compliance Week",
@@ -508,17 +543,6 @@
       "topics": [
         "Enforcement Actions",
         "AML & Sanctions"
-      ]
-    },
-    {
-      "title": "India's competition regulator clears Kotak Mahindra's acquisition of Deutsche Bank retail business - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZXhBc0Exb185Q1BpSGZPQ0FLc3lqZkR3RVNYUF9NdU5mM1FIbzVYRnRQM0cwLVF0bXgwMTJIaUtNQ1pPTGhQd3plV3FpVzNIUEFVb1UwaFVFS01aODAxUEpPdDdWUV9IQldlQmhCZXlfZ1JMOHpWZ1VHMURMWFljNFo2MDNaejlaSGZBaXgyVlZVS2xuM2F2cGxSemFHYnBCZ0hXOWFJNmhreDhpRlhpQVJmSVM5bzBoTC1ILUUxZUh6SFU?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-03T17:10:42+00:00",
-      "display_date": "Nov 03, 2026",
-      "summary": "India's competition regulator clears Kotak Mahindra's acquisition of Deutsche Bank retail business Reuters",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
@@ -561,6 +585,17 @@
       "date": "2026-11-03T15:34:00+00:00",
       "display_date": "Nov 03, 2026",
       "summary": "Cboe, Citadel Securities-backed group sues US regulator over single-stock perpetual futures Reuters",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Canadian Investment Regulatory Organization Trade Resumption - ACB – Company Announcement - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdFdyallpY09tQmRZTlhqVkFYS1UxMFZISlZEektES2Q4MFdxTF8xQlZ1d1lFUFVzNl9pSnRDRm5GSGRpbHRTekt0UkJORExTdzlyUmo3V195NzRJWS1sYnk1YWdoMkVzdHBxUGsxN1FTYUktQ0EyNFN0YlVud1hSY19zQzJtQlJGWXhKVnI2S3Jrblhpa2c?oc=5",
+      "source": "Financial Times",
+      "date": "2026-11-03T14:41:00+00:00",
+      "display_date": "Nov 03, 2026",
+      "summary": "Canadian Investment Regulatory Organization Trade Resumption - ACB – Company Announcement Financial Times",
       "topics": [
         "Regulatory Change"
       ]
@@ -726,6 +761,17 @@
       ]
     },
     {
+      "title": "Canadian Investment Regulatory Organization Trading Halt - NOBL – Company Announcement - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNd3FiUU1XX2h5OF9sVUZVbC1hUlRBRm9xRjVLVE9ScTYxeURuRU1rTmJ1WEJ3eE44Q2MtQUFMTGVNNTd1Ym1sa29ZUDhHNlBrdV9kblNkMGdDeHROZ1ZTV0FDVVlvTzVUMTYzWE5PTjRneVo2RXUwbUJ0ZElBdUM5WnNhZDM4OEJLYmdOX05yRjZBaG40RXc?oc=5",
+      "source": "Financial Times",
+      "date": "2026-11-02T13:32:00+00:00",
+      "display_date": "Nov 02, 2026",
+      "summary": "Canadian Investment Regulatory Organization Trading Halt - NOBL – Company Announcement Financial Times",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
       "title": "Demands for disguised remuneration scheme loan repayments",
       "link": "https://www.fca.org.uk/news/statements/demands-disguised-remuneration-scheme-loan-repayments",
       "source": "FCA UK Regulatory News",
@@ -814,6 +860,17 @@
       ]
     },
     {
+      "title": "Klain: Hack response will go beyond 'just sanctions' - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8wc1Q5cHptbENoVEJjUHhkVy0yXzZpLXJyTTAzNXRWRFo4a29FS1ZzWmc1V09BLUl3cmxwWFFqanZ5dUF1LTlKUG5sY3plZzY1Q1VOZ0pHVFRLN1Fm?oc=5",
+      "source": "Reuters",
+      "date": "2026-11-01T07:00:00+00:00",
+      "display_date": "Nov 01, 2026",
+      "summary": "Klain: Hack response will go beyond 'just sanctions' Reuters",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
       "title": "The three key issues on ASIC’s radar as it unpicks Firmus’ IPO flop - AFR",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMDNvVUVTZWpjSEJCemJOQ1ZRQVBhT1BUc0FITDNfaDV5TnZUNmhTNDM1clQyWWxndkw0OWpBMlV1eDZmWTdxenR1TEhDUkZTQll1dEVoaVlub3NXcDN0cU45ZmRzWjdqTF9EdkVZQ2M3elRaMkZuMXB5Z3BRSnV3ZmZhZ3lSZmp4YU1GcWlMZDdpWWg2OTJmUUdSMmtTZEhUWmFxTkJtQVdCTTZ5Qkl6R21KbkkzNlNUbG4tNGVaM1pRYlhvdjhKLVE5cw?oc=5",
       "source": "AFR",
@@ -837,12 +894,12 @@
       ]
     },
     {
-      "title": "SoftBank-Backed OPay Halts IPO to Respond to Regulatory Inquiry - Bloomberg",
+      "title": "SoftBank-Backed OPay Halts IPO to Respond to Regulatory Inquiry - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNWM5MF80T3I5dUtwOGNZOEtrWU5YN1M3UUN1ZWkzc002OG1tZDNjbjc2S1BWbjRIaXdqMUtfY080ZXppSzBHaVlVZ081dVp0VUlDZWZTVWtnaEtqM0VENF9HMWFodzJTQXczeFVWSG5iVnhlN2FWcjVQanFTQkNQeVgtZWhCYWhVbjZzRW1iRnVYcUktdlNjSTRvejJIajhfVmxyNkYtNjFRbTdSa3VxMW5mb2s?oc=5",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "date": "2026-10-31T08:48:16+00:00",
       "display_date": "Oct 31, 2026",
-      "summary": "SoftBank-Backed OPay Halts IPO to Respond to Regulatory Inquiry Bloomberg",
+      "summary": "SoftBank-Backed OPay Halts IPO to Respond to Regulatory Inquiry Bloomberg.com",
       "topics": [
         "Regulatory Change"
       ]
@@ -912,6 +969,17 @@
       "topics": [
         "Regulatory Change",
         "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "Canadian Investment Regulatory Organization Trading Halt - DUNE – Company Announcement - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPanpJQ1RRbHhKM1BhZzQxWUtJSjRHdGhQWE82YWRwY0FYVkhmVU5jSkxlNXMxaVpMVDBKU3FhSGdsLUZBUnJ2ME9mOUpaSHNpR2poR2RLUnhrUl9VcVljUFFIZlBKWXJ6WkZDY1V6RmFrVkZtZU9YTWhXcjVQVjFjam9OODRpTTFHTEg2SHFnQllmVkNLd0E?oc=5",
+      "source": "Financial Times",
+      "date": "2026-10-30T13:23:00+00:00",
+      "display_date": "Oct 30, 2026",
+      "summary": "Canadian Investment Regulatory Organization Trading Halt - DUNE – Company Announcement Financial Times",
+      "topics": [
+        "Regulatory Change"
       ]
     },
     {
@@ -1122,28 +1190,6 @@
       "summary": "The FCA has secured High Court undertakings to ensure that HTX (formerly Huobi), a global crypto exchange, will not knowingly promote cryptoasset services unlawfully to UK consumers. The FCA took legal action against HTX in October 2025 for breaking UK financial promotion rules. ...",
       "topics": [
         "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Sale of scandal riddled planner InterPrac now ASIC’s business - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNEdVNGl0SVNIZ1BaamNDSXJuWDhoNGxueHQycE9vNUw2U3R2cGF2YUtXWW9GalVPVWJ3MnFWOEo1NzctUG5tODJxTEdTUVliWmpocXNJRWNSOEN6SUJjalVrOVRDSnJwNGpoQ2dqa0l5TFF1ZTM1Y3ByNnFfZjhTd1ZiVnFwbUNROC1rY09HMVdqRVhLODNiWXdBUUEtZ0x5dFZsWkpYX2FPajRTYWpqeF9lVU1GeGZ6OHRlVy1QVm5vbFpKWkdaT0ZadVV5MzI0UGotbHc2TnlvekhQbjJRZ3ZjeE1vOXFGOWluWg?oc=5",
-      "source": "The Australian",
-      "date": "2026-10-29T05:53:00+00:00",
-      "display_date": "Oct 29, 2026",
-      "summary": "Sale of scandal riddled planner InterPrac now ASIC’s business The Australian",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "Court rejects ‘fishing expedition’ by Super Retail ex-chief for ASIC files - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPb2N6WGVCNHVvaC1FZ1VCR1FHRGtFSnJSRkNUWFRReXl6bkdVNVE0dGFRMFBfa2kxYXk5Z1RMSF93V0t0dXJ5Z2dEd3NBNG9iaE1pV091M3FBWWtOVTBidmFMN3RDVkNKOHIzUW5NZzc2VTBtVXZLU0JCTU5jWjFyTnZXUGhiNW5vcWlXZFlRdmtIMUdJWHBpdld5TDBiTy15dFNFQUNhMF9QX1l0dXR4QUtWaTdMYjJKOEZ2WThTZXNXVkE1X2RUUVhUeUF0ampQWFhSQWFpRDBqa3k0bkZ2ZFNGUHM4dVJNWkRwZ0NfXzBCWnZSd0tSQmU0cVNpelliUjhVUHA5SXM?oc=5",
-      "source": "The Australian",
-      "date": "2026-10-29T05:01:00+00:00",
-      "display_date": "Oct 29, 2026",
-      "summary": "Court rejects ‘fishing expedition’ by Super Retail ex-chief for ASIC files The Australian",
-      "topics": [
-        "Enforcement Actions"
       ]
     },
     {
@@ -1466,18 +1512,6 @@
       "summary": "Jessica Rusu, FCA chief data, information and intelligence officerat Bloomberg's UK Policy Series. The Mills ReviewThat is why we commissioned the Mills Review, published in July, focused on how AI could reshape retail financial services by 2030.Some developments we anticipated a...",
       "topics": [
         "Regulatory Change"
-      ]
-    },
-    {
-      "title": "EVs are holding value better than expected – and it has a lot to do with Australia’s cost of living",
-      "link": "https://www.theguardian.com/environment/2026/oct/17/second-hand-electric-vehicles-ev-value-australia-petrol-prices",
-      "source": "The Guardian Australia",
-      "date": "2026-10-16T14:00:15+00:00",
-      "display_date": "Oct 16, 2026",
-      "summary": "The appeal of electric vehicles is financial as much as environmental for many drivers Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here The electric vehicles were splattered after a concrete spray incident, but repairable. Eager to recoup th...",
-      "topics": [
-        "Cybersecurity Risk",
-        "ESG & Sustainability"
       ]
     },
     {
