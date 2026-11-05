@@ -1,14 +1,47 @@
 {
-  "last_updated": "November 05, 2026 08:50 UTC",
-  "total_count": 188,
+  "last_updated": "November 05, 2026 12:51 UTC",
+  "total_count": 189,
   "articles": [
     {
-      "title": "Rheinmetall Shares Plunge After Order Delays Force Arms Maker to Trim Guidance Again",
-      "link": "https://www.wsj.com/business/earnings/rheinmetall-shares-plunge-after-order-delays-force-arms-maker-to-trim-guidance-again-87734af7?mod=pls_whats_news_us_business_f",
+      "title": "Molson Coors Cuts Outlook, Expects Soft Beer Demand to Continue",
+      "link": "https://www.wsj.com/business/earnings/molson-coors-cuts-outlook-expects-soft-beer-demand-to-continue-5718eeae?mod=pls_whats_news_us_business_f",
       "source": "Wall Street Journal",
-      "date": "2026-11-05T08:34:00+00:00",
+      "date": "2026-11-05T12:35:00+00:00",
       "display_date": "Nov 05, 2026",
-      "summary": "The company said it expected sales of roughly $14.82 billion in 2026, below a prior guidance range of between $15.39 billion and $15.95 billion euros.",
+      "summary": "Molson Coors Beverage cut its full-year guidance as it expects the economic environment to continue weighing on beer demand in the current quarter.",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Ahold Delhaize Reaches 100% Renewables Milestone with New Clean Energy Deal",
+      "link": "https://www.esgtoday.com/ahold-delhaize-reaches-100-renewables-milestone-with-new-clean-energy-deal/?utm_source=rss&utm_medium=rss&utm_campaign=ahold-delhaize-reaches-100-renewables-milestone-with-new-clean-energy-deal",
+      "source": "ESG Today",
+      "date": "2026-11-05T12:09:54+00:00",
+      "display_date": "Nov 05, 2026",
+      "summary": "Netherlands-based international food retailer Ahold Delhaize announced today that it has signed a 10-year virtual […]",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "What’s Up, Doc? The DOJ’s New Healthcare Carrot & Its Catch",
+      "link": "https://www.corporatecomplianceinsights.com/whats-up-doc-doj-new-healthcare-carrot-catch/",
+      "source": "Corporate Compliance Insights",
+      "date": "2026-11-05T12:00:40+00:00",
+      "display_date": "Nov 05, 2026",
+      "summary": "Government’s best leads still come from whistleblowers who often get there first The post What’s Up, Doc? The DOJ’s New Healthcare Carrot & Its Catch appeared first on Corporate Compliance Insights .",
+      "topics": [
+        "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "Americold Gains as Demand for Refrigerated Storage Stabilizes",
+      "link": "https://www.wsj.com/logistics-report/americold-gains-as-demand-for-refrigerated-storage-stabilizes-354b78c5?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-11-05T11:58:00+00:00",
+      "display_date": "Nov 05, 2026",
+      "summary": "Plus, the U.S. goods-trade deficit contracted in September, and ocean carrier Maersk raised its full-year guidance on higher rates.",
       "topics": [
         "Regulatory Change"
       ]
@@ -17,7 +50,7 @@
       "title": "Sony Boosts Guidance as Profit Jumps on ‘Spider-Man’ Hit, Game Strength",
       "link": "https://www.wsj.com/business/earnings/sony-boosts-guidance-as-profit-jumps-on-spider-man-hit-game-strength-4e9322ae?mod=pls_whats_news_us_business_f",
       "source": "Wall Street Journal",
-      "date": "2026-11-05T08:02:00+00:00",
+      "date": "2026-11-05T11:55:00+00:00",
       "display_date": "Nov 05, 2026",
       "summary": "The company has spent billions of dollars on acquisitions in recent years to beef up its entertainment content.",
       "topics": [
@@ -25,12 +58,89 @@
       ]
     },
     {
-      "title": "Maersk Raises Guidance Again on Higher Freight Rates and Resilient Demand",
+      "title": "UK to Introduce Mandatory Supply Chain Human Rights Due Diligence Law",
+      "link": "https://www.esgtoday.com/uk-to-introduce-mandatory-supply-chain-human-rights-due-diligence-law/?utm_source=rss&utm_medium=rss&utm_campaign=uk-to-introduce-mandatory-supply-chain-human-rights-due-diligence-law",
+      "source": "ESG Today",
+      "date": "2026-11-05T11:22:07+00:00",
+      "display_date": "Nov 05, 2026",
+      "summary": "The UK government announced a new commitment to introduce a new mandatory human rights due […]",
+      "topics": [
+        "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "Fresh ideas, stat! Chalmers’ productivity policy SOS - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxON1VFNVJ2T05zSGhyRWNRQ05EQ0VHR2QtcmR6UXdtZnBRelFMdlhxUXhYSlM5SEphVzFiUW9WQkk1RHFjQW8yc2Fob1BiZ3gwckVTNTcwa0hkMVluQ2JjUVEzdXBialVwc0xFdE0ycFdLN1hsaU9OWFhTUkRYZkFOcDR3dGp5LVdfWDB4V3BHTWtzRDhDUWlNblNYV0R6S1JFdFdOdFpid1BYS1l4ck8zQVY3eUtuT0R0YVJKZnpGa1VLRGg3aWw5bGwwM1VyQnNWUVdLZHJUSjRXWGJia2xacFlnQ1phMFBHOUV2cTd1UmtsWXlKZzNHRmNTQnRZY3FK?oc=5",
+      "source": "The Australian",
+      "date": "2026-11-05T11:02:15+00:00",
+      "display_date": "Nov 05, 2026",
+      "summary": "Fresh ideas, stat! Chalmers’ productivity policy SOS The Australian",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Looking back to move forward: why reviewing our rules matters",
+      "link": "https://www.fca.org.uk/news/blogs/looking-back-move-forward-why-reviewing-our-rules-matters",
+      "source": "FCA UK Regulatory News",
+      "date": "2026-11-05T10:32:00+00:00",
+      "display_date": "Nov 05, 2026",
+      "summary": "Markets evolve. Consumer behaviour changes. Technology creates new opportunities and risks. Rules that were appropriate when they were introduced may need to be updated, simplified or, in some cases, removed altogether.That is why the FCA regularly reviews its rules.",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Sydney’s culture needs change — and so does the AFL’s drug policy - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQdHpTWUlCQmJBVjNVMi02ZXY3RE5BdW05V1pGSHFpM0R6RmQxRmh1ci14LUVSUmpSQm5GSVhQd20xSDhlUDhMUFAySEpOOGhUbk9LOUhSWmtFVmVtTnR0aE5VOHh5cWdXdWlZRzhQMUs2UzVKWXE1SkxWbVhHeHdieC1FMGp2VHEyNFNBa2pKSURiVWZuQ21QZk5LRVVXc2pTQzg2U2RLSWVaVlpTNmJrSk9QODQzRVctdkV0S2JXam5aNjJKZzJzY2ZybWcxOTZUSFhTYnR2OWJENjVBSllVa1JtM2F3QUMwS1I4cl9ac2IyMkJ5WjM0UjhvTXlNbmg0bE9kWURLZkJfNm9hUGVHNnFmb09HTk0yQlJ1ZFhDVnVDbHhBa21jUlJZd2pUQmltY0F4Vg?oc=5",
+      "source": "The Australian",
+      "date": "2026-11-05T09:46:28+00:00",
+      "display_date": "Nov 05, 2026",
+      "summary": "Sydney’s culture needs change — and so does the AFL’s drug policy The Australian",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "The Emergency Brake on Deforestation is Ready. Will Companies Step Up?",
+      "link": "https://www.esgtoday.com/the-emergency-brake-on-deforestation-is-ready-will-companies-step-up/?utm_source=rss&utm_medium=rss&utm_campaign=the-emergency-brake-on-deforestation-is-ready-will-companies-step-up",
+      "source": "ESG Today",
+      "date": "2026-11-05T09:42:11+00:00",
+      "display_date": "Nov 05, 2026",
+      "summary": "Guest post by: Lucy Almond, Director and Chair, Nature4Climate After decades of debate, we finally […]",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "Maersk Shares Tumble After Earnings, Guidance Disappoint",
       "link": "https://www.wsj.com/business/logistics/maersk-raises-guidance-again-on-higher-freight-rates-and-resilient-demand-12a571b0?mod=pls_whats_news_us_business_f",
       "source": "Wall Street Journal",
-      "date": "2026-11-05T07:54:00+00:00",
+      "date": "2026-11-05T09:41:00+00:00",
       "display_date": "Nov 05, 2026",
-      "summary": "The Danish shipping group said typhoons in and disruption to shipping from the Strait of Hormuz caused widespread network congestion, driving capacity constraints and sending freight rates higher.",
+      "summary": "The Danish company said severe typhoons in East Asia and the disruption to shipping from the Strait of Hormuz closure caused widespread network congestion.",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "‘I never understood wind’: midterms spark hope for renewables after Trump’s hostility",
+      "link": "https://www.theguardian.com/business/2026/nov/05/democrats-midterms-triumph-renewable-energy-industry-donald-trump",
+      "source": "The Guardian Australia",
+      "date": "2026-11-05T09:04:05+00:00",
+      "display_date": "Nov 05, 2026",
+      "summary": "Future brightens for US developers in particular after election when voters rejected Trump’s war on clean energy After years as collateral damage in Donald Trump’s war on climate action, the Democrats’ sweeping triumph in the US midterm elections has emerged as a victory for the ...",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "FCA to explore quantum computing to tackle financial crime",
+      "link": "https://www.fca.org.uk/news/press-releases/fca-explore-quantum-computing-tackle-financial-crime",
+      "source": "FCA UK Regulatory News",
+      "date": "2026-11-05T09:03:00+00:00",
+      "display_date": "Nov 05, 2026",
+      "summary": "A new initiative will bring together firms, quantum technology providers, and national research labs to explore practical applications of quantum computing. The FCA will bring together financial services firms, quantum technology providers and national research laboratories to ex...",
       "topics": [
         "Regulatory Change"
       ]
@@ -51,7 +161,7 @@
       "title": "Clive Palmer loses High Court battle against ex-ASIC boss James Shipton - AFR",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZ2tkMWxTS1A3OGd1Y0ZIbjdDeGRlc0EzeGlYYy1nZENCOWN5c2JDRm4wblVVeGllVEpzbUcwZkZVU1Rwd0pGQ054RVhjQWVSbHBQWnc5TFcwQmE0XzVoWVVYa0lCb1FGLWZUREdISlFlN0dFVW84bXZ6MWVRRzVqWk5mbDZrUHUyVHVMM213WUFLQ2FYcFU4VTJrZ29STUZIbFhoQS1ObEJ6bW1CMG5tdG9hQmF6SFdrTDNLOFFPRU81eGxmeTZTMV9relRZMnc?oc=5",
       "source": "AFR",
-      "date": "2026-11-05T07:03:56+00:00",
+      "date": "2026-11-05T06:32:00+00:00",
       "display_date": "Nov 05, 2026",
       "summary": "Clive Palmer loses High Court battle against ex-ASIC boss James Shipton AFR",
       "topics": [
@@ -70,26 +180,14 @@
       ]
     },
     {
-      "title": "Will Democrats’ midterms triumph put wind back in sails of the renewables sector?",
-      "link": "https://www.theguardian.com/business/2026/nov/05/democrats-midterms-triumph-renewable-energy-industry-donald-trump",
-      "source": "The Guardian Australia",
-      "date": "2026-11-05T06:00:55+00:00",
+      "title": "Indian drugmaker Dr Reddy's gets Brazil regulator nod to sell generic Ozempic - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaVNtaDBEdS1rclJsSmE4R3B3RG5jV09sa1NsbDdQT0l5NzJ2TUJrN2tvdkhEU2dDa0hhTTktQVFZUGRWZG1CRm1FZkp3aGgzNkt1dUhsMDFBdFJycnNIX29SOXVmR1V1cU44aUY4QlpFdWhUTUlZZklMVFFidERQaGJXTFdlZjBqZERfY1pubUtXSHJtUFY3dC16aklmRlE0enBfN3hTNHdiNmxfWmhqXzY4WGQ2cXlyNG5RdTlFUXJ0VVZh?oc=5",
+      "source": "Reuters",
+      "date": "2026-11-05T05:42:00+00:00",
       "display_date": "Nov 05, 2026",
-      "summary": "Future brightens for US developers in particular after election when voters rejected Trump’s war on clean energy After years as collateral damage in Donald Trump’s war on climate action, the Democrats’ sweeping triumph in the US midterm elections has emerged as a victory for the ...",
+      "summary": "Indian drugmaker Dr Reddy's gets Brazil regulator nod to sell generic Ozempic Reuters",
       "topics": [
-        "ESG & Sustainability"
-      ]
-    },
-    {
-      "title": "UK found to be ‘dangerously’ reliant on China for critical minerals needed for defence and AI",
-      "link": "https://www.theguardian.com/world/2026/nov/05/uk-dangerously-reliant-on-china-critical-minerals-military-ai-renewable-energy",
-      "source": "The Guardian Australia",
-      "date": "2026-11-05T05:00:55+00:00",
-      "display_date": "Nov 05, 2026",
-      "summary": "Delivering net zero also at risk, say MPs as they call for centralised policy and funding for mines and diversification The UK is “dangerously” dependent on China for critical raw materials needed for the military, renewable energy infrastructure and AI, a parliamentary investiga...",
-      "topics": [
-        "Regulatory Change",
-        "ESG & Sustainability"
+        "Regulatory Change"
       ]
     },
     {
@@ -101,17 +199,6 @@
       "summary": "Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts warned today. One of the proxy services is a Russian company whose founder's web ho...",
       "topics": [
         "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "Sydney’s culture needs change — and so does the AFL’s drug policy - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQdHpTWUlCQmJBVjNVMi02ZXY3RE5BdW05V1pGSHFpM0R6RmQxRmh1ci14LUVSUmpSQm5GSVhQd20xSDhlUDhMUFAySEpOOGhUbk9LOUhSWmtFVmVtTnR0aE5VOHh5cWdXdWlZRzhQMUs2UzVKWXE1SkxWbVhHeHdieC1FMGp2VHEyNFNBa2pKSURiVWZuQ21QZk5LRVVXc2pTQzg2U2RLSWVaVlpTNmJrSk9QODQzRVctdkV0S2JXam5aNjJKZzJzY2ZybWcxOTZUSFhTYnR2OWJENjVBSllVa1JtM2F3QUMwS1I4cl9ac2IyMkJ5WjM0UjhvTXlNbmg0bE9kWURLZkJfNm9hUGVHNnFmb09HTk0yQlJ1ZFhDVnVDbHhBa21jUlJZd2pUQmltY0F4Vg?oc=5",
-      "source": "The Australian",
-      "date": "2026-11-05T03:46:27+00:00",
-      "display_date": "Nov 05, 2026",
-      "summary": "Sydney’s culture needs change — and so does the AFL’s drug policy The Australian",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
@@ -192,17 +279,6 @@
       ]
     },
     {
-      "title": "FICO Declines to Share Guidance Amid Price Structure Change",
-      "link": "https://www.wsj.com/business/earnings/fico-declines-to-share-guidance-amid-price-structure-change-27edfe82?mod=pls_whats_news_us_business_f",
-      "source": "Wall Street Journal",
-      "date": "2026-11-04T21:52:00+00:00",
-      "display_date": "Nov 04, 2026",
-      "summary": "The credit-score provider said it is transitioning its mortgage originations pricing structure to be tailored to the individual needs of customers, rather than a single flat fee.",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "E.l.f. Beauty posts 51% sales increase, raises full-year guidance",
       "link": "https://www.cnbc.com/2026/11/04/elf-beauty-elf-q2-2027-earnings.html",
       "source": "CNBC",
@@ -248,9 +324,9 @@
     },
     {
       "title": "US slaps sanctions on Indian, Turkish firms and people for aiding Iran - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTU5EOWpMNjZvcmh2TzIzTHo1OWRzaUdGRWZEN0xwbWpqV09pOGFoY2M5dlEya2xHTHJnS0VsQjZGM2lSTVk1U05TbHpLc3FveFhySUgtb1dPWEtXTkNXVlg4MWlwbTBSeGw1R2pPWTg3d3ZuV01nSDNvWWVQSjRTeFRSb3N2QnFMa0FMUDBGTWY5NDVIdG41Z05wdnRQT3pBRWJvSzg3Z0tEVXZSZDM5ag?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSEhmUWlhLUFxUEhVeEJxVXdwc3FtVndOSUg4YlNfQ2RyYUt2OUFlM200M1h3M3NLZEFpU2c1MHJza2JPV2dkWGRWU05sMlp2ZmRqVUxUa3Rvd2RSeGFyQXctSDZPYTNfUmEza1lLSEY5SUN2OUdmZkhHQW5tTTcza3FfbGZ2X1ZkZk5VWmVWWHRhLW9pZmx3QmJOSVJLdWR1OHRNaUJoQVVKZw?oc=5",
       "source": "Reuters",
-      "date": "2026-11-04T18:48:00+00:00",
+      "date": "2026-11-04T19:06:12+00:00",
       "display_date": "Nov 04, 2026",
       "summary": "US slaps sanctions on Indian, Turkish firms and people for aiding Iran Reuters",
       "topics": [
@@ -299,17 +375,6 @@
       "summary": "Computer peripherals and technology company Logitech announced the launch of Chain Reaction, a supply chain […]",
       "topics": [
         "Operational & Enterprise Risk"
-      ]
-    },
-    {
-      "title": "US bank regulator issues first-ever AI guidance for examiners - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNXzJNWm5iUUp0bUVhSUJOR0FZZHVBbjJwb3BqbW5yYUJTZlpYYTNlVEU5ZXBORnhZQUpyVnNYeWlnaXFkdmZQa2h1YjVEVk92aEpkcUhueTRsTjRMU3NPekZMLWRxdGFyOUFvNWlHNmhCSFZmcTBLbVNiU1Zlb0hHeDZyLVVORnRUMDNLZ3VTZTBOd2pyajVCSnlqWXZuOEpzUkdEa01VRF9aYnpOemlz?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-04T15:35:36+00:00",
-      "display_date": "Nov 04, 2026",
-      "summary": "US bank regulator issues first-ever AI guidance for examiners Reuters",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
@@ -568,17 +633,6 @@
       ]
     },
     {
-      "title": "BCG Appoints Jan Philipp Bender as New Global Climate & Sustainability Practice Leader",
-      "link": "https://www.esgtoday.com/bcg-appoints-jan-philipp-bender-as-new-global-climate-sustainability-practice-leader/?utm_source=rss&utm_medium=rss&utm_campaign=bcg-appoints-jan-philipp-bender-as-new-global-climate-sustainability-practice-leader",
-      "source": "ESG Today",
-      "date": "2026-11-03T15:46:40+00:00",
-      "display_date": "Nov 03, 2026",
-      "summary": "Boston Consulting Group (BCG) announced the appointment of Jan Philipp Bender as its new Global […]",
-      "topics": [
-        "ESG & Sustainability"
-      ]
-    },
-    {
       "title": "Cboe, Citadel Securities-backed group sues US regulator over single-stock perpetual futures - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLUc4Wkl5LTJUaW5Cb0duX0lhTm5HbDVLRFg0YjBqNmlmbk1MSEhBMVBYVWdvOWJiemQ0R05GMTlNVmZZTWEyTWJraVNMaDBkdXJ3SXFsZ2c2bGxxZjc2QzYyTGpocUE2TS15clhfZDRlOGJpX0ZEREFHS1p1TDB4TkhJalJJTVJpeWdCWm5zU1YzVHZCeTRVU1FINkUzSVp0Z0pXeFhfd1N0c0k?oc=5",
       "source": "Reuters",
@@ -601,17 +655,6 @@
       ]
     },
     {
-      "title": "Thailand Launches Mandatory ISSB-Aligned Sustainability Reporting for Public Companies",
-      "link": "https://www.esgtoday.com/thailand-launches-mandatory-issb-aligned-sustainability-reporting-for-public-companies/?utm_source=rss&utm_medium=rss&utm_campaign=thailand-launches-mandatory-issb-aligned-sustainability-reporting-for-public-companies",
-      "source": "ESG Today",
-      "date": "2026-11-03T14:18:41+00:00",
-      "display_date": "Nov 03, 2026",
-      "summary": "Thailand’s Securities and Exchange Commission (SEC) announced the publication of new regulations requiring listed companies […]",
-      "topics": [
-        "ESG & Sustainability"
-      ]
-    },
-    {
       "title": "Versant earnings beat expectations as digital platforms drive growth",
       "link": "https://www.cnbc.com/2026/11/03/versant-vsnt-q3-2026-earnings.html",
       "source": "CNBC",
@@ -631,18 +674,6 @@
       "summary": "Russia Plots Ways to Exploit a Weakened Trump After Midterms Bloomberg.com",
       "topics": [
         "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "UK Brings ESG Ratings Providers Under Regulation",
-      "link": "https://www.esgtoday.com/uk-regulates-esg-ratings-providers/?utm_source=rss&utm_medium=rss&utm_campaign=uk-regulates-esg-ratings-providers",
-      "source": "ESG Today",
-      "date": "2026-11-03T12:04:51+00:00",
-      "display_date": "Nov 03, 2026",
-      "summary": "The Financial Conduct Authority (FCA), the UK’s conduct regulator for financial services firms and financial […]",
-      "topics": [
-        "Regulatory Change",
-        "ESG & Sustainability"
       ]
     },
     {
@@ -911,6 +942,17 @@
       "date": "2026-10-31T07:00:00+00:00",
       "display_date": "Oct 31, 2026",
       "summary": "Navalny ally says EU sanctions sends 'clear message' Reuters",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "U.S. hits Syria with toughest sanctions yet - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ZT3JTa1hTV2pkdHhjMGh0MzB0emxzWjFpM0o2S2tXdlpvY2dkOVd5eG9YVzk5bWVpRFhCZ1NycHpjSmlSQ0FkUXU2T2k0OFp0b1ZSNnhzX21IaDdB?oc=5",
+      "source": "Reuters",
+      "date": "2026-10-31T07:00:00+00:00",
+      "display_date": "Oct 31, 2026",
+      "summary": "U.S. hits Syria with toughest sanctions yet Reuters",
       "topics": [
         "AML & Sanctions"
       ]
@@ -1216,18 +1258,6 @@
       ]
     },
     {
-      "title": "COSO’s 2026 Framework Provides Common Language for Governance, From the Board to the Compliance Office",
-      "link": "https://www.corporatecomplianceinsights.com/coso-2026-framework-provides-common-language-governance-from-board-compliance-office/",
-      "source": "Corporate Compliance Insights",
-      "date": "2026-10-28T11:00:12+00:00",
-      "display_date": "Oct 28, 2026",
-      "summary": "COSO’s 2025 attempt at board-oversight guidance was quite prescriptive, and the result was an unpopular publication that was eventually withdrawn. That’s how we got the streamlined version: 12 principles, not a step-by-step manual. Jim DeLoach of Protiviti reads each one as somet...",
-      "topics": [
-        "Regulatory Change",
-        "Operational & Enterprise Risk"
-      ]
-    },
-    {
       "title": "Comptroller Gould Discusses Efforts to Support Community Banks",
       "link": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-94.html",
       "source": "Office of the Comptroller of the Currency",
@@ -1438,17 +1468,6 @@
       ]
     },
     {
-      "title": "Former chief executive banned after misconduct led to £4m losses in high-risk investments",
-      "link": "https://www.fca.org.uk/news/press-releases/former-chief-executive-banned-after-misconduct-led-4m-losses-high-risk-investments",
-      "source": "FCA UK Regulatory News",
-      "date": "2026-10-21T10:34:00+00:00",
-      "display_date": "Oct 21, 2026",
-      "summary": "The FCA has banned Jeffrey Dawkins, the former chief executive of Vector Wealth Ltd, after he dishonestly acted as a front for a disqualified director using the company to sell high-risk bonds. Mr Dawkins has also been fined nearly £270,000.In 2019, Mr Dawkins sold Vector Wealth ...",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
       "title": "Notes on Building AI Accountability",
       "link": "https://www.radicalcompliance.com/2026/10/20/notes-on-building-ai-accountability/",
       "source": "Radical Compliance",
@@ -1501,17 +1520,6 @@
       "summary": "U.S. federal investigators pursuing the ShinyHunters hacking group that recently stole highly sensitive data from the FBI have identified executives at two different ransomware negotiation firms who maintained unusually close relations with the extortion group, KrebsOnSecurity ha...",
       "topics": [
         "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "Building the future of finance in the age of AI",
-      "link": "https://www.fca.org.uk/news/speeches/building-future-finance-age-ai",
-      "source": "FCA UK Regulatory News",
-      "date": "2026-10-19T09:05:00+00:00",
-      "display_date": "Oct 19, 2026",
-      "summary": "Jessica Rusu, FCA chief data, information and intelligence officerat Bloomberg's UK Policy Series. The Mills ReviewThat is why we commissioned the Mills Review, published in July, focused on how AI could reshape retail financial services by 2030.Some developments we anticipated a...",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
