@@ -1,7 +1,40 @@
 {
-  "last_updated": "November 06, 2026 20:38 UTC",
-  "total_count": 220,
+  "last_updated": "November 07, 2026 00:38 UTC",
+  "total_count": 207,
   "articles": [
+    {
+      "title": "US Treasury sanctions Canadian money services firms over Iran-related transactions - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQanB1RlNfclNuTUN5SEpJTjFWWUM1UVR2V2xLclNnTjhfNnp0VjNGZE5qeDBiekZXOFpLR2hOTnFud1ZKYlgzaFF6dGpwbkdENXF5VldQSEl0MEE1X0dHbWMyWHFvOU82WC01SjNSamFuSFQtY1M4VHJMN1VEMzlyQnN3UkotaXhiTm4taGdud2w5Wnk0cmtVQlp1MjRvNEJreERfdzZZbmtRQWo5d3NTYnVpOThYRjUwU3BJSGRFSEE?oc=5",
+      "source": "Reuters",
+      "date": "2026-11-06T22:46:57+00:00",
+      "display_date": "Nov 06, 2026",
+      "summary": "US Treasury sanctions Canadian money services firms over Iran-related transactions Reuters",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "UK experts divided over sudden rise in whistleblower reports",
+      "link": "https://www.complianceweek.com/whistleblowers/uk-experts-divided-over-sudden-rise-in-whistleblower-reports/",
+      "source": "Compliance Week",
+      "date": "2026-11-06T22:22:52+00:00",
+      "display_date": "Nov 06, 2026",
+      "summary": "The UK has seen a massive rise in whistleblower reports from workers making claims at employment tribunals, but experts say it is unclear whether this reflects the success of speak-up channels and whistleblower protection, poor corporate governance, or AI enabling quicker complai...",
+      "topics": [
+        "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "ECI-CW TPRM 2026: The two sides of the coin in AI risk management",
+      "link": "https://www.complianceweek.com/artificial-intelligence/eci-cw-tprm-2026-the-two-sides-of-the-coin-in-ai-risk-management/",
+      "source": "Compliance Week",
+      "date": "2026-11-06T22:12:36+00:00",
+      "display_date": "Nov 06, 2026",
+      "summary": "Panelists at ECI Compliance Week’s TPRM summit warned AI’s randomness and bias can undermine due diligence, while vetting vendors’ AI governance becomes increasingly essential. The post ECI-CW TPRM 2026: The two sides of the coin in AI risk management appeared first on Compliance...",
+      "topics": [
+        "Operational & Enterprise Risk"
+      ]
+    },
     {
       "title": "SEC May Revisit Penalties Approach",
       "link": "https://www.radicalcompliance.com/2026/11/06/sec-may-revisit-penalties-approach/",
@@ -63,20 +96,9 @@
       "source": "The Guardian Australia",
       "date": "2026-11-06T15:17:08+00:00",
       "display_date": "Nov 06, 2026",
-      "summary": "Regulator’s initial ruling says algorithm ‘can be harmful’ and led young and vulnerable viewers ‘down rabbit holes they can’t easily escape’ Business live – latest updates TikTok has been charged by the European Commission with failing to protect users’ mental health by exposing ...",
+      "summary": "Regulator’s initial ruling says algorithm ‘can be harmful’ and led young and vulnerable viewers ‘down rabbit holes they can’t easily escape’ TikTok has been charged by the European Commission with failing to protect users’ mental health by exposing them to a relentless stream of ...",
       "topics": [
         "Enforcement Actions",
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Canadian Investment Regulatory Organization Trading Halt - ELEF – Company Announcement - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV3hlTzMxUktnaW5vbndzMk0tbWJsdE9fQS1RSVZ2eFBUT1FUOFFoVl9RQ1k3dVgzRmRUMlNla21TeFVhaXpMNXpDVEdyVWlWeU5xei1vWFd0TVBnQ08ydGNsR1ROYXpZNHFtN1JBWk5mc0hRa29rM3cwbjZXR2dUU2N6TmtCemFMSXVHczl1bGE1Y0FPYXc?oc=5",
-      "source": "Financial Times",
-      "date": "2026-11-06T14:35:00+00:00",
-      "display_date": "Nov 06, 2026",
-      "summary": "Canadian Investment Regulatory Organization Trading Halt - ELEF – Company Announcement Financial Times",
-      "topics": [
         "Regulatory Change"
       ]
     },
@@ -133,6 +155,17 @@
       "summary": "Until corporate practices match the speed and sophistication of deception, ‘We did not know’ will remain a costly excuse The post At Brazil’s Banco Master, the Red Flags Were Hiding in Plain Sight appeared first on Corporate Compliance Insights .",
       "topics": [
         "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/11/06/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-11-06T12:00:00+00:00",
+      "display_date": "Nov 06, 2026",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-19868 SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability This type of vulnerability is a frequent attack vector f...",
+      "topics": [
+        "Cybersecurity Risk"
       ]
     },
     {
@@ -236,17 +269,6 @@
       ]
     },
     {
-      "title": "MSCI says it needs to see South Korea's regulatory changes put into practice for market upgrade - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWEgxQ1BoU2RsY2FCQmZwUWo2aTQzUlB4V196RzRZY1lsUUY3dEdCZG5fdjFHWDY2dTlKX3NtUG41OURjbUZUNWdIbW5uSXFoZmVXdmRFNnZPQnhGa0J0enJiNjFhdlZPd1Q4UVRPaGI3a2p3RW1jcEdWcF90Sjhqek0tREVVQllJZ2dEUVdRUUhfRUsyV0k2bzhlU0RkMVZ4Yy1PQTA3NV9meDh2RmxyZTUxTjROeERKTXJ2VG1feXN4ZHE5OHpqX29QUkI3Unc?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-06T02:19:00+00:00",
-      "display_date": "Nov 06, 2026",
-      "summary": "MSCI says it needs to see South Korea's regulatory changes put into practice for market upgrade Reuters",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "Experts warn of ‘compliance conflict’ between GDPR and companies’ AI use",
       "link": "https://www.complianceweek.com/data-privacy/experts-warn-of-compliance-conflict-between-gdpr-and-companies-ai-use/",
       "source": "Compliance Week",
@@ -314,17 +336,6 @@
       ]
     },
     {
-      "title": "Webull fined $4.2 million over compliance failures, FINRA says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOGVWWUdGVTdYWW5RemU3dFEwdWgzZXdQYVZHbGNWT01lVURrWWx4aVNPb1JyazZuT3JON3lGdS1BMzdRWVRTVnNQSWpyeEhEMUVNQkhlVF9BTzA5WEZUbUxFNkJkUk5GUGMzRV9WRVVwMWYwczZWZERzcEdWa2ttX2I1cDBWZ01kOVplZG5IUXVwaWktWkxVdW1hRFA1bERxVzlad0RnSGlQR1pDTDRuaTJn?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-05T20:45:45+00:00",
-      "display_date": "Nov 05, 2026",
-      "summary": "Webull fined $4.2 million over compliance failures, FINRA says Reuters",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
       "title": "Oil Prices Pick Up as Market Mulls Over Prospects for Middle East Settlement",
       "link": "https://www.wsj.com/business/energy-oil/oil-prices-stay-below-100-as-traders-weigh-iran-diplomacy-supply-outlook-4e8f12e5?mod=pls_whats_news_us_business_f",
       "source": "Wall Street Journal",
@@ -369,17 +380,6 @@
       ]
     },
     {
-      "title": "Indian drugmaker Dr Reddy's gets Brazil regulator nod to sell generic Ozempic - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaVNtaDBEdS1rclJsSmE4R3B3RG5jV09sa1NsbDdQT0l5NzJ2TUJrN2tvdkhEU2dDa0hhTTktQVFZUGRWZG1CRm1FZkp3aGgzNkt1dUhsMDFBdFJycnNIX29SOXVmR1V1cU44aUY4QlpFdWhUTUlZZklMVFFidERQaGJXTFdlZjBqZERfY1pubUtXSHJtUFY3dC16aklmRlE0enBfN3hTNHdiNmxfWmhqXzY4WGQ2cXlyNG5RdTlFUXJ0VVZh?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-05T16:34:06+00:00",
-      "display_date": "Nov 05, 2026",
-      "summary": "Indian drugmaker Dr Reddy's gets Brazil regulator nod to sell generic Ozempic Reuters",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "Deutsche Bank, Rabobank Back $936 Million Financing for Battery Storage Expansion in Germany",
       "link": "https://www.esgtoday.com/deutsche-bank-rabobank-back-936-million-financing-for-battery-storage-expansion-in-germany/?utm_source=rss&utm_medium=rss&utm_campaign=deutsche-bank-rabobank-back-936-million-financing-for-battery-storage-expansion-in-germany",
       "source": "ESG Today",
@@ -421,17 +421,6 @@
       "summary": "Lawmakers in the European Parliament’s Environment Committee (ENVI) adopted a position in a 48-30 vote […]",
       "topics": [
         "ESG & Sustainability"
-      ]
-    },
-    {
-      "title": "Canadian Investment Regulatory Organization Trading Halt - TNZ – Company Announcement - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTGZ6aF8wdVRzVnljb3k3Q2tuQUFqdkczc2pkTVk5TGhLY3M0cXIzOUNXZnJNYWdud1VSWS1rNk0wdlFCZVVkdXlTdkQ3LThSd0tQRS02eDBYQ0YwVXpIeXpYamI3R2Z4VWdGbnNlS01DY2RvcU1KRHhzeThYa0s2RjY1a3FiaTdmMklHeDViUUpBTlZMaFE?oc=5",
-      "source": "Financial Times",
-      "date": "2026-11-05T15:00:00+00:00",
-      "display_date": "Nov 05, 2026",
-      "summary": "Canadian Investment Regulatory Organization Trading Halt - TNZ – Company Announcement Financial Times",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
@@ -490,6 +479,17 @@
       ]
     },
     {
+      "title": "US Government Partners Urge Hardening Industrial Refrigeration and Cold Chain Monitoring Systems",
+      "link": "https://www.cisa.gov/resources-tools/resources/us-government-partners-urge-hardening-industrial-refrigeration-and-cold-chain-monitoring-systems",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-11-05T12:00:00+00:00",
+      "display_date": "Nov 05, 2026",
+      "summary": "Overview The Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), Health and Human Services (HHS), U.S. Department of Agriculture (USDA), and the Department of Transportation (DoT)—hereafter referred to as “the authoring organizations”—a...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
       "title": "Post-Quantum Questions to Ask Your Vendors",
       "link": "https://www.cisa.gov/resources-tools/resources/post-quantum-questions-ask-your-vendors",
       "source": "CISA Cybersecurity Advisories",
@@ -500,17 +500,6 @@
         "Regulatory Change",
         "Cybersecurity Risk",
         "Operational & Enterprise Risk"
-      ]
-    },
-    {
-      "title": "US Government Partners Urge Hardening Industrial Refrigeration and Cold Chain Monitoring Systems",
-      "link": "https://www.cisa.gov/resources-tools/resources/us-government-partners-urge-hardening-industrial-refrigeration-and-cold-chain-monitoring-systems",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-11-05T12:00:00+00:00",
-      "display_date": "Nov 05, 2026",
-      "summary": "Overview The Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), Health and Human Services (HHS), U.S. Department of Agriculture (USDA), and the Department of Transportation (DoT)—hereafter referred to as “the authoring organizations”—a...",
-      "topics": [
-        "Cybersecurity Risk"
       ]
     },
     {
@@ -622,6 +611,17 @@
       "summary": "ACCC forced to intervene after big banks, Armaguard relations unravel AFR",
       "topics": [
         "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "Indian drugmaker Dr Reddy's gets Brazil regulator nod to sell generic Ozempic - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaVNtaDBEdS1rclJsSmE4R3B3RG5jV09sa1NsbDdQT0l5NzJ2TUJrN2tvdkhEU2dDa0hhTTktQVFZUGRWZG1CRm1FZkp3aGgzNkt1dUhsMDFBdFJycnNIX29SOXVmR1V1cU44aUY4QlpFdWhUTUlZZklMVFFidERQaGJXTFdlZjBqZERfY1pubUtXSHJtUFY3dC16aklmRlE0enBfN3hTNHdiNmxfWmhqXzY4WGQ2cXlyNG5RdTlFUXJ0VVZh?oc=5",
+      "source": "Reuters",
+      "date": "2026-11-05T05:42:00+00:00",
+      "display_date": "Nov 05, 2026",
+      "summary": "Indian drugmaker Dr Reddy's gets Brazil regulator nod to sell generic Ozempic Reuters",
+      "topics": [
+        "Regulatory Change"
       ]
     },
     {
@@ -790,17 +790,6 @@
       ]
     },
     {
-      "title": "Canadian Investment Regulatory Organization Trade Resumption - SX – Company Announcement - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTFBUdWNfMmNhZGIweHFJVWI3dkZHTzBCREhpazZEcmlrMjN1WE9nRkxUdjljTktwcDJoVXlENlV4UUtiNVR0ZGJtdjI1bnd1OFhtVzhmd3AxckI3RUtTSTh5bm91enh2ekpzUE9iZEg1MnhqSjNVVkpQLVJJMC1DTDFZb2VmZE1HbS10YnNvUHJyVnNBNFE?oc=5",
-      "source": "Financial Times",
-      "date": "2026-11-04T15:48:00+00:00",
-      "display_date": "Nov 04, 2026",
-      "summary": "Canadian Investment Regulatory Organization Trade Resumption - SX – Company Announcement Financial Times",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "Andersons to Buy Harvestone Low Carbon Partners for $915 Million",
       "link": "https://www.wsj.com/pro/private-equity/andersons-to-buy-harvestone-low-carbon-partners-for-915-million-4dc82e7b?mod=pls_whats_news_us_business_f",
       "source": "Wall Street Journal",
@@ -809,17 +798,6 @@
       "summary": "Andersons agreed to buy low-carbon ethanol producer Harvestone Low Carbon Partners for $915 million in a deal that expands the diversified agricultural company’s renewables platform by more than 40%.",
       "topics": [
         "ESG & Sustainability"
-      ]
-    },
-    {
-      "title": "Canadian Investment Regulatory Organization Trading Halt - MOSS – Company Announcement - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNU05tU0IxMmlTVXZMZDdNSEllR0tVQktTUHJ1TG8xZ1A3Q3hXUGw0dEx0THVZS2NJRS0yWFNKRzFTa0ZIWEM5dWNIWU81V25MRGlCdVhXQ3ZGaDVSR3p5OG9BY0lhRFZKckxJM1BMNk54Vzk5VGtzZnpGaE9KTE1idE0yX1Z0dkZMdVc2alFDT2lGY0tMM1E?oc=5",
-      "source": "Financial Times",
-      "date": "2026-11-04T13:12:00+00:00",
-      "display_date": "Nov 04, 2026",
-      "summary": "Canadian Investment Regulatory Organization Trading Halt - MOSS – Company Announcement Financial Times",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
@@ -842,17 +820,6 @@
       "summary": "When an employee relocates, the company can take on a new state or country’s employment law, payroll taxes and other duties, often unintentionally The post ‘Remote’ & ‘Work From Anywhere’ Are Not the Same Thing appeared first on Corporate Compliance Insights .",
       "topics": [
         "Operational & Enterprise Risk"
-      ]
-    },
-    {
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/11/04/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-11-04T12:00:00+00:00",
-      "display_date": "Nov 04, 2026",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2024-27834 Apple Multiple Products Improper Authentication Vulnerability This type of vulnerability is a frequent attack vector for malicious ...",
-      "topics": [
-        "Cybersecurity Risk"
       ]
     },
     {
@@ -923,17 +890,6 @@
       ]
     },
     {
-      "title": "Block Agrees to $964 Million Penalty on Money-Laundering Lapses - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWkZuLTBXRkJwM3ZFcjF3dTlwZVdfRUowbTZOLWdRSmRfczBiV1hRVHI4V3VfcDJMOENPY25icHMwYWZtejhuWFItQTBGRXpwX0lDUEx6MzJsY1FJRk8yM0VwaHJLWXZrN0s2b29iQzNQUi1Md0VHZWRRMkxKU0NySFNxWEh6TFhHUDBkaWFjdk0zX00tMTNrSEZrYllwRkNpcVZCTGxWZFVCQnNYdDZ0RUxFRQ?oc=5",
-      "source": "Bloomberg.com",
-      "date": "2026-11-03T22:02:49+00:00",
-      "display_date": "Nov 03, 2026",
-      "summary": "Block Agrees to $964 Million Penalty on Money-Laundering Lapses Bloomberg.com",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
       "title": "Ferrari raises 2026 guidance after Q3 earnings beat",
       "link": "https://www.cnbc.com/2026/11/03/ferrari-race-earnings-q3-2026.html",
       "source": "CNBC",
@@ -967,18 +923,6 @@
       ]
     },
     {
-      "title": "Extreme Networks accepts DOJ “near-miss” non-prosecution agreement for alleged sanctions violations",
-      "link": "https://www.complianceweek.com/regulatory-enforcement/extreme-networks-accepts-doj-near-miss-non-prosecution-agreement-for-alleged-sanctions-violations/",
-      "source": "Compliance Week",
-      "date": "2026-11-03T17:56:53+00:00",
-      "display_date": "Nov 03, 2026",
-      "summary": "An alleged lack of compliance due diligence at Extreme Networks led the company to commit multiple sanctions violations, the US Treasury’s Office of Foreign Assets Control and the DOJ said, imposing penalties of more than $2.5 million. The post Extreme Networks accepts DOJ “near-...",
-      "topics": [
-        "Enforcement Actions",
-        "AML & Sanctions"
-      ]
-    },
-    {
       "title": "Audit AI Startup Clark Raises $11M Seed Round",
       "link": "https://www.corporatecomplianceinsights.com/audit-ai-startup-clark-raises-11m-seed-round/",
       "source": "Corporate Compliance Insights",
@@ -987,50 +931,6 @@
       "summary": "Clark, an AI company that builds autonomous agents to perform audit work for CPA firms, announced an $11 million seed round led by Touring Capital, bringing total funding to $16 million. Founded in October 2024 as uiAgent and rebranded to Clark in July 2026 as part of a positioni...",
       "topics": [
         "Operational & Enterprise Risk"
-      ]
-    },
-    {
-      "title": "Canadian Investment Regulatory Organization Trade Resumption - EQTY – Company Announcement - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcndrUlhlUnhWcEJxd0xmTzd5WHphOGlKX3VKdHVrdDM5OFBQR255aUFGSFhFbVVtZUlicDRpLTNLQlktSUp3bjNWcTEtOTdYaS0xa20ySmRSOVNIUlFjQVI1TTl2VjhkRm9NaFdPVTh4NUZjek5kdUdkT1BQVW1TeDBaQ2V3b0E1eGxnTVFpTi1LSGFwRHc?oc=5",
-      "source": "Financial Times",
-      "date": "2026-11-03T15:41:00+00:00",
-      "display_date": "Nov 03, 2026",
-      "summary": "Canadian Investment Regulatory Organization Trade Resumption - EQTY – Company Announcement Financial Times",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Cboe, Citadel Securities-backed group sues US regulator over single-stock perpetual futures - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLUc4Wkl5LTJUaW5Cb0duX0lhTm5HbDVLRFg0YjBqNmlmbk1MSEhBMVBYVWdvOWJiemQ0R05GMTlNVmZZTWEyTWJraVNMaDBkdXJ3SXFsZ2c2bGxxZjc2QzYyTGpocUE2TS15clhfZDRlOGJpX0ZEREFHS1p1TDB4TkhJalJJTVJpeWdCWm5zU1YzVHZCeTRVU1FINkUzSVp0Z0pXeFhfd1N0c0k?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-03T15:34:00+00:00",
-      "display_date": "Nov 03, 2026",
-      "summary": "Cboe, Citadel Securities-backed group sues US regulator over single-stock perpetual futures Reuters",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "LexisNexis Risk Solutions Launches Accurint One, Reimagining the Future of Law Enforcement Investigations - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ2JzTmNWVFBMZUd1YTd4djlQSU40WUVVeVlhMExDT1AwTC1Vb1Q1a0piSVN0Z0ZQcnFKbjE1cjRfcDViVEN0VjBEUzdiWkVYVkdTN0tNWVNMVzJIZkNncGFYdjg3OFlKRmdkSmFTd1hpcnp0YVd0dmRNVVJ6dWRSbGRvUlkzOWZaVHFsSkdKWTdwWGgxRGl3Mg?oc=5",
-      "source": "Financial Times",
-      "date": "2026-11-03T15:13:00+00:00",
-      "display_date": "Nov 03, 2026",
-      "summary": "LexisNexis Risk Solutions Launches Accurint One, Reimagining the Future of Law Enforcement Investigations Financial Times",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "Canadian Investment Regulatory Organization Trade Resumption - OGI – Company Announcement - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcDU0V2hrLTF0ajdLVVJfQVFWM0xEcmNkcnFrdFpvV2tpcUJGUXVVb3lHVjJqU05UVndnTE1BYXZGaXgySm5UWmwteUl1bm9wRzEtTFdTYy1xRTJZaW1CdXZRakdVdzBmQTlsQVkxX0dyMWZhM0ZTd3FSc1d4Wk1URWF1R25ZZnFOcGFlcks0M1Q5a0tSbnc?oc=5",
-      "source": "Financial Times",
-      "date": "2026-11-03T14:46:00+00:00",
-      "display_date": "Nov 03, 2026",
-      "summary": "Canadian Investment Regulatory Organization Trade Resumption - OGI – Company Announcement Financial Times",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
@@ -1114,34 +1014,12 @@
       ]
     },
     {
-      "title": "Compliance spend on AI rising, but fears about accuracy, reliability remain",
-      "link": "https://www.complianceweek.com/artificial-intelligence/compliance-spend-on-ai-rising-but-fears-about-accuracy-reliability-remain/",
-      "source": "Compliance Week",
-      "date": "2026-11-03T03:14:37+00:00",
-      "display_date": "Nov 03, 2026",
-      "summary": "Organizations are increasing their investments in AI to support compliance and due diligence, but many remain wary of the reliability and accuracy of the technology’s outputs. The post Compliance spend on AI rising, but fears about accuracy, reliability remain appeared first on C...",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
       "link": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
       "source": "Krebs on Security",
       "date": "2026-11-03T02:24:31+00:00",
       "display_date": "Nov 03, 2026",
       "summary": "Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user's Internet connection out to strangers and conducts advertising fraud. Experts involv...",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "Remara co-founder claims false fraud allegations used to push him out - AFR",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNTlTdlBXZ2Rlb3lHYXN6enlUaENqLUlTaThEY3FaS3lXVVJQaHhCM3gyekFDYjJEZHU4MDloMTkzY1V3SlVDVFNYUGRCbmp5eVd1bWx3bTFBOEFfTW1GWkNYc3lHaVRUc011dzdCaUtXLVJVblZERVZNdmlXZnVZbDU1N3pYZTJpNWRkSHB1czZDeTc5TTlfeUR1MUZxOWIyYzNQeXBjdEJGeVpyWlRnRjNXZDFRYXRkQjB3NHcxWDdITERjRkxkOEVZNDAxa00?oc=5",
-      "source": "AFR",
-      "date": "2026-11-03T01:00:00+00:00",
-      "display_date": "Nov 03, 2026",
-      "summary": "Remara co-founder claims false fraud allegations used to push him out AFR",
       "topics": [
         "Enforcement Actions"
       ]
@@ -1320,17 +1198,6 @@
       "date": "2026-10-31T07:00:00+00:00",
       "display_date": "Oct 31, 2026",
       "summary": "U.S. hits Syria with toughest sanctions yet Reuters",
-      "topics": [
-        "AML & Sanctions"
-      ]
-    },
-    {
-      "title": "North Korea says sanctions don't work to deny its status as nuclear weapons state - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbVo5aGdRLXQ0a3ltRnJzMUVTRjBjNUJKNW5fWGxtTmh2NEVMZ0ZUUTRqSktEeXotdkNNWk9TS2ExREYtQWZmdFVZUV9MWUZVaGNIaVk0RXJtdXk0LXN5V29CNmY3ME54ZkRueXh5YzB4OXVEakVOYUVBSlFzaVUtV3hBLVZ0WnNHSmwwcGd4ZHJmVzFwR2VPMndoZGxObmtQRVJxM3dEZmdobnlWOGpCYjEwNFRrTERnUFd5S2NEcVhITjFxSndtaw?oc=5",
-      "source": "Reuters",
-      "date": "2026-10-30T21:44:09+00:00",
-      "display_date": "Oct 30, 2026",
-      "summary": "North Korea says sanctions don't work to deny its status as nuclear weapons state Reuters",
       "topics": [
         "AML & Sanctions"
       ]
@@ -1668,34 +1535,23 @@
       ]
     },
     {
-      "title": "Siemens Industrial Edge Device Kit",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-09",
+      "title": "Siemens WinCC",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-13",
       "source": "CISA Cybersecurity Advisories",
       "date": "2026-10-22T12:00:00+00:00",
       "display_date": "Oct 22, 2026",
-      "summary": "View CSAF Summary Users of Industrial Edge Devices are advised to consult the respective Security Advisories for their devices (for Siemens Industrial Edge devices see Additional Information). Industrial Edge Device Kit contains multiple path traversal vulnerabilities that could ...",
+      "summary": "View CSAF Summary Multiple SIMATIC WinCC versions are affected by a database privilege escalation vulnerability that could allow an authenticated user with access to the database to execute commands on the underlying host system. Siemens has released new versions for several affe...",
       "topics": [
         "Cybersecurity Risk"
       ]
     },
     {
-      "title": "Siemens SIMATIC S7-1500 TM MFP",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-16",
+      "title": "Siemens SENTRON 3NA COM Fuse",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-05",
       "source": "CISA Cybersecurity Advisories",
       "date": "2026-10-22T12:00:00+00:00",
       "display_date": "Oct 22, 2026",
-      "summary": "View CSAF Summary Multiple vulnerabilities have been identified in the additional GNU/Linux subsystem of the SIMATIC S7-1500 TM MFP V1.1.1. Siemens is preparing fixes and recommends specific mitigations for products where fixes are not or not yet available. The following versions...",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "Kiloview E3 NDI Encoder",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-01",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-10-22T12:00:00+00:00",
-      "display_date": "Oct 22, 2026",
-      "summary": "View CSAF Summary Successful exploitation of this these vulnerabilities could allow an attacker to fully compromise the device. The following versions of Kiloview E3 NDI Encoder are affected: E3 Firmware <1.30 (CVE-2026-109122, CVE-2026-111100, CVE-2026-96616, CVE-2026-105265, CV...",
+      "summary": "View CSAF Summary SENTRON 3NA COM Fuse contains a Denial-of-Service vulnerability. Improper handling of a network management message could allow an attacker to trigger a denial-of-service (DoS) condition. Successful exploitation may require the affected network to be re-establish...",
       "topics": [
         "Cybersecurity Risk"
       ]
@@ -1712,12 +1568,12 @@
       ]
     },
     {
-      "title": "Siemens SENTRON 3NA COM Fuse",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-05",
+      "title": "Siemens SIMATIC S7 PLCs Web Server",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-14",
       "source": "CISA Cybersecurity Advisories",
       "date": "2026-10-22T12:00:00+00:00",
       "display_date": "Oct 22, 2026",
-      "summary": "View CSAF Summary SENTRON 3NA COM Fuse contains a Denial-of-Service vulnerability. Improper handling of a network management message could allow an attacker to trigger a denial-of-service (DoS) condition. Successful exploitation may require the affected network to be re-establish...",
+      "summary": "View CSAF Summary SIMATIC S7-1500 devices contain multiple vulnerabilities in the web server that could allow an attacker to execute malicious code in an authorized user’s browser session and perform PLC operations within the scope of that user’s authorization. Siemens is prepari...",
       "topics": [
         "Cybersecurity Risk"
       ]
@@ -1745,12 +1601,23 @@
       ]
     },
     {
-      "title": "Siemens WinCC",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-13",
+      "title": "Siemens Industrial Edge Device Kit",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-09",
       "source": "CISA Cybersecurity Advisories",
       "date": "2026-10-22T12:00:00+00:00",
       "display_date": "Oct 22, 2026",
-      "summary": "View CSAF Summary Multiple SIMATIC WinCC versions are affected by a database privilege escalation vulnerability that could allow an authenticated user with access to the database to execute commands on the underlying host system. Siemens has released new versions for several affe...",
+      "summary": "View CSAF Summary Users of Industrial Edge Devices are advised to consult the respective Security Advisories for their devices (for Siemens Industrial Edge devices see Additional Information). Industrial Edge Device Kit contains multiple path traversal vulnerabilities that could ...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "Siemens SIMATIC S7-1500 TM MFP",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-16",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-10-22T12:00:00+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "View CSAF Summary Multiple vulnerabilities have been identified in the additional GNU/Linux subsystem of the SIMATIC S7-1500 TM MFP V1.1.1. Siemens is preparing fixes and recommends specific mitigations for products where fixes are not or not yet available. The following versions...",
       "topics": [
         "Cybersecurity Risk"
       ]
@@ -1795,17 +1662,6 @@
       "date": "2026-10-22T12:00:00+00:00",
       "display_date": "Oct 22, 2026",
       "summary": "View CSAF Summary The affected application loads dynamic-link libraries (DLLs) from an uncontrolled search path. This could allow an authenticated local attacker to place a specially crafted DLL in a directory that the application searches, leading to arbitrary code execution wit...",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "Siemens RUGGEDCOM CROSSBOW Station Access Controller",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-15",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-10-22T12:00:00+00:00",
-      "display_date": "Oct 22, 2026",
-      "summary": "View CSAF Summary RUGGEDCOM CROSSBOW Station Access Controller (SAC) contains multiple vulnerabilities in the integrated SQLite component that could allow an attacker to execute arbitrary code, cause a denial of service, or obtain sensitive information. Siemens has released a new...",
       "topics": [
         "Cybersecurity Risk"
       ]
