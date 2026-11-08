@@ -1,7 +1,84 @@
 {
-  "last_updated": "November 08, 2026 16:27 UTC",
-  "total_count": 203,
+  "last_updated": "November 08, 2026 20:26 UTC",
+  "total_count": 206,
   "articles": [
+    {
+      "title": "Firms using telemarketers to spruik super switches could lose licences",
+      "link": "https://www.abc.net.au/news/2026-11-09/asic-warns-firms-using-lead-generators-to-push-super-switching/107356376",
+      "source": "ABC News Business (AU)",
+      "date": "2026-11-08T19:01:22+00:00",
+      "display_date": "Nov 08, 2026",
+      "summary": "Unqualified and unlicensed telemarketers are targeting Australians to switch their superannuation savings into riskier schemes. This has prompted the corporate regulator to threaten the licences of financial advice firms that use these \"lead generators\".",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "ASIC targets dodgy cold callers raiding your super - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPeG83QWJ2SHRKMUZlcU5hdEpRWXBQUFZPaUtFeDFtUk9FUDJ0cHFBS2Q4VHQ0YlNqdkN3UWR6aGRZdFJpQmlHbzBQSk9TSml2YXE5SUhzNjZHZ05lcmdkS0dMaFY0VzJpbU4tYUVMVG01djNzQmZIQ1BnTi1XSk1WdUk0Ulp3TGpYS1RNYk5EbFRMbWtqRjA5emhUX0ZGTGpOQXM3ZmlWOVRLd045SlFscXQ2X29uZFhYbE5sSEQwRjV1ZXAtc0d6dFA3VUJ0UDRVLTh2dEx2a0xwZUk4NG5KeEJlZlQ0LUdjZHhYSHhPc1Vvd1VraEppeDlqRm1DT2JvelV6VEJxSWZ6QQ?oc=5",
+      "source": "The Australian",
+      "date": "2026-11-08T18:57:31+00:00",
+      "display_date": "Nov 08, 2026",
+      "summary": "ASIC targets dodgy cold callers raiding your super The Australian",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "Opinion | Why the Lights Go Dark in Cuba",
+      "link": "https://www.wsj.com/opinion/why-the-lights-go-dark-in-cuba-bee46dce?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-11-08T18:35:00+00:00",
+      "display_date": "Nov 08, 2026",
+      "summary": "The regime blames U.S. sanctions. The actual cause is socialist grid mismanagement.",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "Beware the fine print in FTA with Europe - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQTBlbTRWZmM5NkpGS1FBSnVCUlBnUnU2eE9pb2dPc1hYdmowTlo3ajQ3WmZIeWNYUXJDZWp4MjNNRnhfZkc5eEkzaVVZT1BNRU5Cc2Vra1k4Zl9ld0hUeldXdE9PTWNYaHR1UUUzdWZQZ0pEZEVXU2twRUtIZXhRRmpiN1N2TjA3Z0R5RVNlM0RPY0xmbUJWejhfeUVLU3ZicnRfQlJza3VTZVlSYXR1MkpSSTZUby1WRDhvQzVxdFVROHFVUkVN?oc=5",
+      "source": "The Australian",
+      "date": "2026-11-08T18:33:28+00:00",
+      "display_date": "Nov 08, 2026",
+      "summary": "Beware the fine print in FTA with Europe The Australian",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "Why the UN climate summit will miss the point on Nepal - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQbm5NY2NNT1B3UWhXdWZ6WXF4Sm93OFpSd0w2U0N6aHlIeDNweG5XRWNpX21KaDAwdm5Ncmh6RnRpS0hPb1NESVBaQ1hjc3dYTVNWdW9uNUVESHdyUk9hcFA5VFRnREs4N2hqU2FhUGlWUFpiQmZRSkJyYTZqUjB1ZVozeVdZWmFpaEdOOXdrTC1mZ3lUYVZLLXpPa0ozcWZ3a2NQY1U5NVZDdE9TTkNFQmtvZ0s5aFZwNG9KVm9MODVQRm1fdjNnbDRsTUVvY0h3Rm5HcjFzbmV3VzJzYjBzMFlnVllydjQ?oc=5",
+      "source": "The Australian",
+      "date": "2026-11-08T18:32:50+00:00",
+      "display_date": "Nov 08, 2026",
+      "summary": "Why the UN climate summit will miss the point on Nepal The Australian",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "The ‘immediate warning sign’ to protect your super",
+      "link": "https://www.smh.com.au/business/banking-and-finance/the-immediate-warning-sign-to-protect-your-super-20261109-p61c3q.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+      "source": "The Sydney Morning Herald",
+      "date": "2026-11-08T18:01:00+00:00",
+      "display_date": "Nov 08, 2026",
+      "summary": "The financial regulator has put firms on notice after it found some were using unlicensed marketers trying to convince customers to switch or review their super.",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "‘Final warning’: ASIC flags licence threat over lead generators - AFR",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVE1VeGRYcFRJRkxXYlM1LTE4V0lXT20zVXhVYlZCU3daWXRMWWpRT0VuWE5DVFFhX1U1Q0QtSUdGM2ZzMjdNYktaVXRvMzRrU1hfOUY2ZUJnSmZiVi01YTdUaFRBeXF6U1JIbnFvSUFOajRZV1RLb3NUU1dGTjlxUEVhR09zX0Zpalc3LVRsV2Q4MkJ2WDY3cjRvVnJYWXRJV1pZS3otNFZUcHFORnhEMkw5NlZ3Ni1rUFE?oc=5",
+      "source": "AFR",
+      "date": "2026-11-08T18:00:00+00:00",
+      "display_date": "Nov 08, 2026",
+      "summary": "‘Final warning’: ASIC flags licence threat over lead generators AFR",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
     {
       "title": "ESG Today: Week in Review",
       "link": "https://www.esgtoday.com/esg-today-week-in-review-282/?utm_source=rss&utm_medium=rss&utm_campaign=esg-today-week-in-review-282",
@@ -26,6 +103,17 @@
       ]
     },
     {
+      "title": "Revealed: Bowen climate ‘integrity’ unit’s COP31 talking points - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNdlYxbEJoNWFJTUJlWmYxOTNES2ZSMVFTQm1BMWFiNm5tY0o0Z2kzdm9OSl9wemdtNENpS0NRRXgxdUkxcEhHZVp5LVZTbklpTkwyam5LRmp0LWZHVDFwa1VzZmYzUmlKeHh4Z1p4cU56VWFxd2NJblE3NUUwNmJOOXFVQVFQNEFvXzR2S3NESUt4VEozbk5DSDJndk9UcUVoQzJHSlJwbU0zSlhiWVphUU8xekxyVm9QcUwyNHl0TkMtamgweURiemtMWi00b2pxRFp6ZGtvT3hNeHdDSi1DSUdGRElma0d0NHAtMENuNVg0eG9qU25v?oc=5",
+      "source": "The Australian",
+      "date": "2026-11-08T07:04:32+00:00",
+      "display_date": "Nov 08, 2026",
+      "summary": "Revealed: Bowen climate ‘integrity’ unit’s COP31 talking points The Australian",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
       "title": "Banana producers in Latin America want better pay to cope with effects of climate crisis",
       "link": "https://www.theguardian.com/business/2026/nov/08/banana-producers-in-latin-america-want-better-pay-to-cope-with-effects-of-climate-crisis",
       "source": "The Guardian Australia",
@@ -37,17 +125,6 @@
       ]
     },
     {
-      "title": "‘Liberated’ East Timor won’t rule out Chinese, Russian investment - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNbFJsUU5zaEZGamU1RGE3S0JrVDhWaVJCZ1k0RkZfVHc4QWpxZWI1Qm1Hems1LTdCdDJ1Qi14SWlPYmRiSjFyOXBjeEowd2FOSW1uVnQ1OHYtd1NFVmo5dlVPUmhXTzVYNTJFcEhSZVp3eENSNm1mSy14cFRFM0NOMGg0UWtDXzlzZU5Lamt5TzFfZnFpZkM2TmJXQXhDakRKMmlndGE2aGRJd3NjTmh2WDF1UlhWc3pVYUkyZXZQbURaNnJ6NGtKWWt2cnZHNDBNTy1FZzM4c0d2Z1JRQkNsQnNWSlN0cDhMZ2IxTTF2S0REbm52cmc?oc=5",
-      "source": "The Australian",
-      "date": "2026-11-08T03:47:01+00:00",
-      "display_date": "Nov 08, 2026",
-      "summary": "‘Liberated’ East Timor won’t rule out Chinese, Russian investment The Australian",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "Canavan supports Paris Agreement but says EU trade deal goes too far",
       "link": "https://www.abc.net.au/news/2026-11-08/federal-politics-matt-canavan-insiders-paris-eu-free-trade/107360586",
       "source": "ABC News Business (AU)",
@@ -56,17 +133,6 @@
       "summary": "The Queensland senator says it is important to take measures to reduce emissions where the country can afford it.",
       "topics": [
         "ESG & Sustainability"
-      ]
-    },
-    {
-      "title": "Sydney financiers at war despite Firmus stake settlement - AFR",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZDY4aVpxaVBzeXppVDhndUVQTTZqQkNxajB1UVhyNGRWTEhuTUlVUHFLMzduU3Y4WlFwekpfeVd4eHhnVXJUMnZwT3RUWFQwZ1RCb01JODVza3I4MVB6NFhkd1NsRm1IQURMbmNTYVlodFJfS1FzVGctSm8wQlJPOFZYOG0tYXE5RkhoRlVMNjlYLThjc0cyQnlBTmtxckRDdWtRbnZsdkJ3V0tKdHRoUXFyR29rNThubTVSbFVB?oc=5",
-      "source": "AFR",
-      "date": "2026-11-08T01:00:00+00:00",
-      "display_date": "Nov 08, 2026",
-      "summary": "Sydney financiers at war despite Firmus stake settlement AFR",
-      "topics": [
-        "Enforcement Actions"
       ]
     },
     {
@@ -114,12 +180,12 @@
       ]
     },
     {
-      "title": "Beijing Vows to Hit Back Against US Sanctions on China Companies - Bloomberg",
+      "title": "Beijing Vows to Hit Back Against US Sanctions on China Companies - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQR3FDNDVJS3VUN0RSZ0N4MjN3U3BGbHF1c0U3OGRnWlpVc21LMHM3dWd2TDhNR2lIUHBSOHAxNmZXSks0a01DM25XcjVIMnBMY2FJOHk2a2xXSXdZY3B1dnhaNmpPbW5wT2VoM0dlM1JqQkpXeHk3bURRcWJXTG5iZFRSb2hreDVHaTNwWUxnT08xbEpjVWdqODVFSFFOenZxdDRZSFFRRVBYOGVJRzFBbVpSVFFRQQ?oc=5",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "date": "2026-11-07T01:54:00+00:00",
       "display_date": "Nov 07, 2026",
-      "summary": "Beijing Vows to Hit Back Against US Sanctions on China Companies Bloomberg",
+      "summary": "Beijing Vows to Hit Back Against US Sanctions on China Companies Bloomberg.com",
       "topics": [
         "AML & Sanctions"
       ]
@@ -1121,39 +1187,6 @@
       "summary": "OncoSil Medical Submits Regulatory Application for Australian Manufacturing Facility AFR",
       "topics": [
         "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Victim blaming: ASIC slams super funds over complaint failures - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOdmMxWDg2UDItaS1LRWxBU2xpQkFqUGdVNE5vOTMyNUVWWndjTE5aa3VaQXI2ZGJUaTJ3a0ZwdVUtQnhQelZhaGJDcWw3dzBieXN2WWtreTZJbWh2bG81d1lNUGYybkpkZXBVeTlvbEtkY0oxczFYdEFtNWUtbFNOSmJWUG5mbjRzZEVRQ2JVRlZUVlNzZ3RQcFRySkFXZkFGVHZjRU5PMWFER3NFQ3E4X2NKX2J6emQ3MGlyRHIzU09adGxzdWtxdkRHampzN3AzUnd3Ykg4RDhDOUNrWDVyaUlNSGh0bDU2Wk9vM0YxSVc2blNpSklmMGVEdmItY3BJcXpwc1kzNklXZGMxMHdDUE9ZTllCakZpeDEzSjJxUzVaX010VmU4?oc=5",
-      "source": "The Australian",
-      "date": "2026-11-01T18:12:00+00:00",
-      "display_date": "Nov 01, 2026",
-      "summary": "Victim blaming: ASIC slams super funds over complaint failures The Australian",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "ASIC threatens to sue super funds over customer service failures - AFR",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQV83YU9qcC1UUVpuUmExM2NZWmQ3Tl90WkJkNllkWnJGSnl5Q1p1LXJNRWZCYUg3d21tOE1JOTF1MlItenRmMUFYT05RVXBaenkwRHNtYXR0eVU2N21ZblBhQWRaOVJYQW1VTDd4RkVhd044b3NPQkZNSmNtNExvanZ0WEVxeWJ6NXZwQW1lRkt3T3Z1RndxS1VMYktNTDk2dDljVFhHbHdqQ1MwNVBPWEs4M09rMi1aWmRSdWk3VlRwTXBFRVZZYg?oc=5",
-      "source": "AFR",
-      "date": "2026-11-01T18:00:00+00:00",
-      "display_date": "Nov 01, 2026",
-      "summary": "ASIC threatens to sue super funds over customer service failures AFR",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "This climate fund has returned 120pc - AFR",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMlRuUnl2YkpFUGs3cVFPcDJ2LTh5VGtsQk5rZDNNX0kyR241alhmdHBKWFVBZ2Fqelg5b2VXa1NUczBvVXo1bnByYWdWUXFOU1lrM05SdnpmSVByZno1RG51ZWFTN0pKS1Y5c0M2NG1NOE9nU3B1bVBzeFFEc05RQzVRY1hoSVZYdzdkbHk3STlTTk5VVWl1SXItVzN2ZTh1U0ZQdw?oc=5",
-      "source": "AFR",
-      "date": "2026-11-01T18:00:00+00:00",
-      "display_date": "Nov 01, 2026",
-      "summary": "This climate fund has returned 120pc AFR",
-      "topics": [
-        "ESG & Sustainability"
       ]
     },
     {
