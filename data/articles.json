@@ -1,7 +1,128 @@
 {
-  "last_updated": "November 09, 2026 12:53 UTC",
-  "total_count": 203,
+  "last_updated": "November 09, 2026 16:55 UTC",
+  "total_count": 216,
   "articles": [
+    {
+      "title": "Hyperscalers Face Fresh Scrutiny Over Data-Center Emissions",
+      "link": "https://www.wsj.com/pro/business-resilience/hyperscalers-face-fresh-scrutiny-over-data-center-emissions-e18b668c?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-11-09T16:06:00+00:00",
+      "display_date": "Nov 09, 2026",
+      "summary": "Plus: Putting nuclear reactors on ships; California utility raises rates in effort to combat wildfires.",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "EU States Back One-Year Delay to Methane Reporting Rules, While Parliament Pushes for Three Years",
+      "link": "https://www.esgtoday.com/eu-states-back-one-year-delay-to-methane-reporting-rules-while-parliament-pushes-for-three-years/?utm_source=rss&utm_medium=rss&utm_campaign=eu-states-back-one-year-delay-to-methane-reporting-rules-while-parliament-pushes-for-three-years",
+      "source": "ESG Today",
+      "date": "2026-11-09T16:00:26+00:00",
+      "display_date": "Nov 09, 2026",
+      "summary": "Member stated in the European Council announced that they have agreed to postpone methane monitoring […]",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "Danish court fines Nordea $23 million over insufficient money laundering checks - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQa3RTbEpTdUx0Zm11ZGx3dmJnMF9ZRVBkUV9uSk50TU4yTkkxa3ROUloxbFBxOWRReXpGY3V0d0J3UU15ZGdIWHZySjVuUExwVGh1emFlc1ZOVFZrX0toQXNXMzlDRmgtXzd1bkI0aVpPaHdtZUhwcWRrcjdHY3NWbkh3WUFVY2UwcE1xVUFqVl8zM0xIa1FIT25GcndMVldRNTQxX2doVHVCX2lDT2dyazI5Y2dvMjlBdjU0YUtNQUttd3gwTTFWUy0zRQ?oc=5",
+      "source": "Reuters",
+      "date": "2026-11-09T15:52:24+00:00",
+      "display_date": "Nov 09, 2026",
+      "summary": "Danish court fines Nordea $23 million over insufficient money laundering checks Reuters",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "Russell Brand Sentenced to 10½ Years in Jail for Rape and Sexual Assault",
+      "link": "https://www.wsj.com/world/uk/russell-brand-sentenced-to-10-years-in-jail-for-rape-and-sexual-assault-271db16f?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-11-09T15:38:00+00:00",
+      "display_date": "Nov 09, 2026",
+      "summary": "A jury had found the U.K. actor guilty of one count of rape and three counts of sexual assault, following a four-week trial.",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "COP31 summit targets major electrification push as 1.5C goal slips away",
+      "link": "https://www.abc.net.au/news/2026-11-10/cop31-tingle-global-temperature-1-5c/107366402",
+      "source": "ABC News Business (AU)",
+      "date": "2026-11-09T15:15:10+00:00",
+      "display_date": "Nov 09, 2026",
+      "summary": "The climate summit will push for nations around the world to electrify their energy faster and move away from fossil fuels, as Chris Bowen predicts global temperatures will rise to 2.6 degrees above pre-industrial levels.",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "ICE Launches Wind Power Futures to Help Manage Risk from Intermittent Renewable Energy Supply",
+      "link": "https://www.esgtoday.com/ice-launches-wind-power-futures-to-help-manage-risk-from-intermittent-renewable-energy-supply/?utm_source=rss&utm_medium=rss&utm_campaign=ice-launches-wind-power-futures-to-help-manage-risk-from-intermittent-renewable-energy-supply",
+      "source": "ESG Today",
+      "date": "2026-11-09T14:59:25+00:00",
+      "display_date": "Nov 09, 2026",
+      "summary": "Financial technology provider and exchange operator Intercontinental Exchange (ICE) announced its entry into climatic variable […]",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "Canadian Investment Regulatory Organization Trading Halt - FNT.U – Company Announcement - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNN3haSkFXNEg1TGVhNDFIN1pCWWw0YlhNdHAwN1JxQ0t5bXQxVmJzZUFPdWRKQXIxWjNxdlFic1kzODZqQVBGRGNNeDJyUVpDclp4Ymg3VnlYS2o1TnlCOTlZX3JhT0VQRVVLejV5RGJPVzJERnhITW9VeG9QRENyeW9ic3VxaDg5b19YdUtLOGRkWDUxMnc?oc=5",
+      "source": "Financial Times",
+      "date": "2026-11-09T14:31:00+00:00",
+      "display_date": "Nov 09, 2026",
+      "summary": "Canadian Investment Regulatory Organization Trading Halt - FNT.U – Company Announcement Financial Times",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "BBVA Sustainable Finance Activity Jumps 27% to €120 Billion",
+      "link": "https://www.esgtoday.com/bbva-sustainable-finance-activity-jumps-27-to-e120-billion/?utm_source=rss&utm_medium=rss&utm_campaign=bbva-sustainable-finance-activity-jumps-27-to-e120-billion",
+      "source": "ESG Today",
+      "date": "2026-11-09T14:23:47+00:00",
+      "display_date": "Nov 09, 2026",
+      "summary": "Spanish bank BBVA announced a significant increase in its sustainable finance activity in the first […]",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "When I became unemployed I expected to find a job in no time. As months passed, I realised I was being shunned | John Emerson",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/10/when-i-became-unemployed-i-expected-to-find-a-job-in-no-time-as-months-passed-i-realised-i-was-being-shunned",
+      "source": "The Guardian Australia",
+      "date": "2026-11-09T14:00:11+00:00",
+      "display_date": "Nov 09, 2026",
+      "summary": "The jobless are the sacrificial lambs of Australia’s monetary policy. I remain shocked that the lucky country actively excludes so many from a chance at its luck The causes of finding yourself out of work are many. Being made redundant, having a contract not renewed, bullied into...",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Anchor Energy Partners Launches Debut €75 Million Fund to Target Energy Storage and Flexibility Opportunities",
+      "link": "https://www.esgtoday.com/anchor-energy-partners-launches-debut-e75-million-fund-to-target-energy-storage-and-flexibility-opportunities/?utm_source=rss&utm_medium=rss&utm_campaign=anchor-energy-partners-launches-debut-e75-million-fund-to-target-energy-storage-and-flexibility-opportunities",
+      "source": "ESG Today",
+      "date": "2026-11-09T13:34:57+00:00",
+      "display_date": "Nov 09, 2026",
+      "summary": "Newly formed investment platform Anchor Energy Partners announced today the launch of its first fund, […]",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "Apple Intelligence AI service registers with Chinese regulator for use on tablets, laptops - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQanptRUNhdmdrV2x6Y01qWFNCU3BlRTZTN1FyZ2hubTNralRKUE8yWWVpNUd0NERlVngtNS00dG1JYmd0bzVobkNjcDl4X0lXUFdKdnhwQU5ZbW1mMWh1dGZHS3N4Mmk5UGozTzdBdEpwZi1lNl9HUEJXUFYxaGtua2cyUWNVNC1EQjE4M2FJQURmQU4xUjhzR281UkpZa3V2VTVXRmhJOHNFRjJXS1VpUENObEpId0x6VFFSUjh6c01jdEFCUGhVM0xwaEZtM2NG?oc=5",
+      "source": "Reuters",
+      "date": "2026-11-09T12:54:20+00:00",
+      "display_date": "Nov 09, 2026",
+      "summary": "Apple Intelligence AI service registers with Chinese regulator for use on tablets, laptops Reuters",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
     {
       "title": "EBA Delays ESG Reporting Simplification Measures for Banks to 2028",
       "link": "https://www.esgtoday.com/eba-delays-esg-reporting-simplification-measures-for-banks-to-2028/?utm_source=rss&utm_medium=rss&utm_campaign=eba-delays-esg-reporting-simplification-measures-for-banks-to-2028",
@@ -11,6 +132,17 @@
       "summary": "EU banking supervisor The European Banking Authority (EBA) provided an update to its ongoing initiative […]",
       "topics": [
         "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "Canada announces fresh Russia-related sanctions - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdTU3SXVhdzhXRTl5T3ZvTVlYWGlDZ0NwQk44N1MxbkdaSHN3bTZhbTZCX3Y5Q3NsaTNBX09SRDhLZkU4S1lzaDNkVjFuWElNajVLbkpucUk2ckNnbDdPbDdFNFVzY2VzY2JoUE1IV0VUVkhLS283WDBtT2pPMzBUNzBXZldVN0NkR1otcGYwbVZ3RkhRUzlmRHRmNFIxSGs?oc=5",
+      "source": "Reuters",
+      "date": "2026-11-09T12:22:51+00:00",
+      "display_date": "Nov 09, 2026",
+      "summary": "Canada announces fresh Russia-related sanctions Reuters",
+      "topics": [
+        "AML & Sanctions"
       ]
     },
     {
@@ -44,6 +176,17 @@
       "summary": "Social media posts its opposition to being sued by users The Australian",
       "topics": [
         "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "Coinbase Gets Final Regulatory Stamp For Trust-Bank Charter - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTU1jWHZhTVJlRkJ5UXRQbzliNmRCc2VMSm9sZXNCVlJIVVdiOW1qOG9Ba0pSU3Rjb0RQekZBUnVSaDAtSU9sNnZaTUhJOWhWMVRsVzgxbUE3TUw3dldTeW9XZ0pPai0xR2ZKQWJaM0k1YlNrVnFmSUhXczUtcC1jNkRKVkdsSkZPcDYzaDlfREM4bC00YjdNM1JwRXBkektvQVp6ZFpZQ181ckZwbGtR?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-11-09T10:00:00+00:00",
+      "display_date": "Nov 09, 2026",
+      "summary": "Coinbase Gets Final Regulatory Stamp For Trust-Bank Charter Bloomberg.com",
+      "topics": [
+        "Regulatory Change"
       ]
     },
     {
@@ -105,7 +248,7 @@
       "title": "Trump says deportation policy ‘too tough’ for voters after midterm blowout - The Australian",
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQR09DLVpKUEVfT19Gc1lkZDVmSkEta283VFg2VWtDcGZBVm1BUlMzR050MlF4OG1yNlRkOHl4T1F4aU9UZ3c0SEc0ZnhkcWxyNHVLeTZsRF9FZWRvQTA2OXlFOGltaXEwM0FLdXJIRDlMWXRKM05mUk9QRmVTbEN5N1czZm9JZU5LdjZXQ0t6QzRPUHBIZmtHV0gxeHdEblpjbzVnT25XMjhmdjdvY0lYaTZWaWYyMTlXczljR0Iya2trQVI0SWgtU2VLd3ZScUhNUVFEODViQ1NUU3UzaG5mVVNFcmUzNndtbnVfa1ZTZm4ySkk?oc=5",
       "source": "The Australian",
-      "date": "2026-11-09T03:43:17+00:00",
+      "date": "2026-11-09T03:43:19+00:00",
       "display_date": "Nov 09, 2026",
       "summary": "Trump says deportation policy ‘too tough’ for voters after midterm blowout The Australian",
       "topics": [
@@ -121,17 +264,6 @@
       "summary": "Bathla lender finds itself in ASIC’s sights over disclosure failures AFR",
       "topics": [
         "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "COP31 summit leaders urge world to \"move faster\" on climate - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNG5EYWpyMmdRNjFiczRIWWJsVDRkN1lHM0tidG9SQ25oallJSEF4dkhZVWVWYU9PaVJ6YVJQNmlWTGVObEZVb3FyUzFKWEtjNE8wWGFuc0g2dTRsa0pDODRXY2JwTmdOLVpTc3ZvejZZa1U3X1dhbV9KakR0SG1ObER0aWpEajBELVphVG1RTW1sSVFGTzMyX3dpa1puV3hNaTRmdmpncDVWa1Z3SVI0VGtTZw?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-09T01:04:00+00:00",
-      "display_date": "Nov 09, 2026",
-      "summary": "COP31 summit leaders urge world to \"move faster\" on climate Reuters",
-      "topics": [
-        "ESG & Sustainability"
       ]
     },
     {
@@ -209,6 +341,17 @@
       "summary": "‘Final warning’: ASIC flags licence threat over lead generators AFR",
       "topics": [
         "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "G7 ministers to discuss recent cyber attacks, Italy says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcHF2VFVWdGExcXZzQ21UTV9taFMyUzJObWJYRXoxRzVWeDB6WmcwTkpJRkFtN3ozU183YzVDVG9Ockk1UjI4WUxTLS1vbDEwYndDeFQ1NV92WEI2Y1VDUzdJVmJTOGVQV1ZxVTQ0NnJfSFJpd3A5Tzh2R1ZyTWlYbk8yMWVyX1hMNDFOYlAzZmlwWjZGTVQ0dk13?oc=5",
+      "source": "Reuters",
+      "date": "2026-11-08T16:59:43+00:00",
+      "display_date": "Nov 08, 2026",
+      "summary": "G7 ministers to discuss recent cyber attacks, Italy says Reuters",
+      "topics": [
+        "Cybersecurity Risk"
       ]
     },
     {
@@ -334,12 +477,34 @@
       ]
     },
     {
+      "title": "Live Q&A: Can COP31 Revive the Stalled Global Climate Agenda? - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQlJTendibkNRUU5nX2xrYkFuRlVUZ0xycFR6Znk3QkxzQ3FoSXQ0Z2E1cUl5MW4tTU1jWmVfVUNSTmpYeXozcmlGLXFudEJFeTlYekM4SUxHSC1uTVFXbGo3UzQ0WkplRnZWMUx5SHUwUHViV0pmTUROdzVaUXlKSFBUdURvWDIxdENXNVlTWEVHNjFxVFJ2Qm9zWDVJZWJ6ZzZUcHVMYzBRWjJUaG8xdWFUbDVyVFYxUVBmMUJzbzBxQU00d2xOMTBYQTY?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-11-06T21:25:57+00:00",
+      "display_date": "Nov 06, 2026",
+      "summary": "Live Q&A: Can COP31 Revive the Stalled Global Climate Agenda? Bloomberg.com",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
       "title": "SEC May Revisit Penalties Approach",
       "link": "https://www.radicalcompliance.com/2026/11/06/sec-may-revisit-penalties-approach/",
       "source": "Radical Compliance",
       "date": "2026-11-06T17:58:20+00:00",
       "display_date": "Nov 06, 2026",
       "summary": "One of the two remaining commissioners at the Securities and Exchange Commission says the agency should revisit its framework for imposing penalties against corporations, arguing that the significant penalties imposed against corporations in recent years are far afield from the w...",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Fidelity China Special Situations Plc - Compliance with Market Abuse Regulation – Company Announcement - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNTNaZzVNVDNQOXpvME40ZEJzbFRpd3RhTzVMZEFSTjZBMVlrSEdZU0RoQjRnQ1hyWTVZUXMxa2EzS0FZVkJOb3NkRnVYM3M3cUlPb24xMjFNRmM4aXpSek5PbjlEeVN4RUNrLXRMYTVGVjhyX0N3NVJRcTlkYnlrS3JvLXNRSFZNQVgxUUE2WWhaU0t0?oc=5",
+      "source": "Financial Times",
+      "date": "2026-11-06T16:11:00+00:00",
+      "display_date": "Nov 06, 2026",
+      "summary": "Fidelity China Special Situations Plc - Compliance with Market Abuse Regulation – Company Announcement Financial Times",
       "topics": [
         "Regulatory Change"
       ]
@@ -364,6 +529,17 @@
       "summary": "Readers present opposing views on whether low-volume oil and gas wells should face strict federal oversight.",
       "topics": [
         "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "Canadian Investment Regulatory Organization Trade Resumption - ELEF – Company Announcement - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQU3JTZEpNNEdHdlZVeWVDNldYbnJPRjhrMV9OZzFDcDVHc0htT0lrNXJiTHVya2RlME05Wk1hb0IyY3BTbjB6SnZMaXQ0dzdwNE4tbVVlUk80clUyQmhvVkk5Tk9vT2FEeTY4TTQ5NFpVTVlIWDVxbjFPZmhVY3E5OFZxeWdBekw1UWNDMG1OOE5hVWY1YkE?oc=5",
+      "source": "Financial Times",
+      "date": "2026-11-06T15:32:00+00:00",
+      "display_date": "Nov 06, 2026",
+      "summary": "Canadian Investment Regulatory Organization Trade Resumption - ELEF – Company Announcement Financial Times",
+      "topics": [
+        "Regulatory Change"
       ]
     },
     {
@@ -477,28 +653,6 @@
       ]
     },
     {
-      "title": "Impact Investing Platform Builders Vision Appoints Matt Knott as CEO",
-      "link": "https://www.esgtoday.com/impact-investing-platform-builders-vision-appoints-matt-knott-as-ceo/?utm_source=rss&utm_medium=rss&utm_campaign=impact-investing-platform-builders-vision-appoints-matt-knott-as-ceo",
-      "source": "ESG Today",
-      "date": "2026-11-06T09:28:00+00:00",
-      "display_date": "Nov 06, 2026",
-      "summary": "Sustainability-focused investment and philanthropy platform Builders Vision announced the appointment of Matt Knott as its […]",
-      "topics": [
-        "ESG & Sustainability"
-      ]
-    },
-    {
-      "title": "Seedling Acquires Carbon Accounting Platform Go Climate Positive",
-      "link": "https://www.esgtoday.com/seedling-acquires-carbon-accounting-provider-go-climate-positive/?utm_source=rss&utm_medium=rss&utm_campaign=seedling-acquires-carbon-accounting-provider-go-climate-positive",
-      "source": "ESG Today",
-      "date": "2026-11-06T08:32:40+00:00",
-      "display_date": "Nov 06, 2026",
-      "summary": "Carbon management platform Seedling announced the acquisition of carbon accounting company Go Climate Positive, in […]",
-      "topics": [
-        "ESG & Sustainability"
-      ]
-    },
-    {
       "title": "Macquarie’s Wikramanayake bows out with bumper profit and APRA penalty - AFR",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUmM0QVVQbGlfU2hFNXEwSFk3ak5fZVN0bENrQmRhUTdLc3h0SkFLOXFkM3lrNFkzOF9UZGd1UlktRHdGZEVNWlVtUjVsUl9lQmlMX29UTng1b0kwYTVxZHBvZExmaExHMGl0M2lFMXdjdl9FZDA2X2V5WnFtVUVwNk4zYzNHZGVpY0xzZF81cmQ5TmNyaFBEMER5SVJaVnJQakktX3BvX0FNQlJNaUY5Yzk3TzNkMUo5OXJocG1KWGg?oc=5",
       "source": "AFR",
@@ -542,6 +696,17 @@
       "topics": [
         "Enforcement Actions",
         "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "MediPharm Labs Achieves Critical European Regulatory Milestone Supporting Commercialization of Proprietary Metered-Dose Cannabis Inhaler Platform – Company Announcement - FT.com - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNek1ZMGl6bFFoUVh3SjVOeGdscmlSZWZva3dJa2VsNHM2RXlwOEI5QThtU0xHY0lHbV84Q2JjNXFsN3ppX1dRVzRFSE9NaHhsb3hPWDBRd0hZWW90M290cDdOQ25abHVuZDFzSm9fVEY2YkpneUVobjFqZkdfMWt2cU5ObGZiSWVDdXY2SzRJdWdfU2xYNkZJ?oc=5",
+      "source": "Financial Times",
+      "date": "2026-11-05T23:00:00+00:00",
+      "display_date": "Nov 05, 2026",
+      "summary": "MediPharm Labs Achieves Critical European Regulatory Milestone Supporting Commercialization of Proprietary Metered-Dose Cannabis Inhaler Platform – Company Announcement - FT.com Financial Times",
+      "topics": [
+        "Regulatory Change"
       ]
     },
     {
@@ -600,28 +765,6 @@
       ]
     },
     {
-      "title": "Russell Brand Found Guilty of Rape, Sexual Assault Charges",
-      "link": "https://www.wsj.com/world/uk/russell-brand-guilty-verdict-02e0ad15?mod=pls_whats_news_us_business_f",
-      "source": "Wall Street Journal",
-      "date": "2026-11-05T17:54:00+00:00",
-      "display_date": "Nov 05, 2026",
-      "summary": "The verdict follows a four-week trial in London. The sentencing will occur Monday.",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "Deutsche Bank, Rabobank Back $936 Million Financing for Battery Storage Expansion in Germany",
-      "link": "https://www.esgtoday.com/deutsche-bank-rabobank-back-936-million-financing-for-battery-storage-expansion-in-germany/?utm_source=rss&utm_medium=rss&utm_campaign=deutsche-bank-rabobank-back-936-million-financing-for-battery-storage-expansion-in-germany",
-      "source": "ESG Today",
-      "date": "2026-11-05T16:11:11+00:00",
-      "display_date": "Nov 05, 2026",
-      "summary": "Energy storage provider Return announced that it has secured €835 million (USD$936 million) in portfolio […]",
-      "topics": [
-        "ESG & Sustainability"
-      ]
-    },
-    {
       "title": "Federal Bank Regulatory Agencies Release 2025 Small Business, Small Farm, and Community Development Lending Data",
       "link": "https://www.occ.gov/news-issuances/news-releases/2026/nr-ia-2026-98.html",
       "source": "Office of the Comptroller of the Currency",
@@ -630,17 +773,6 @@
       "summary": "Federal Bank Regulatory Agencies Release 2025 Small Business, Small Farm, and Community Development Lending Data The federal bank regulatory agencies, as members of the Federal Financial Institutions Examination Council (FFIEC), today released data on small business, small farm, ...",
       "topics": [
         "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Deloitte Launches New Solution to Help Companies Avoid Greenwashing",
-      "link": "https://www.esgtoday.com/deloitte-launches-new-solution-to-help-companies-avoid-greenwashing/?utm_source=rss&utm_medium=rss&utm_campaign=deloitte-launches-new-solution-to-help-companies-avoid-greenwashing",
-      "source": "ESG Today",
-      "date": "2026-11-05T15:46:49+00:00",
-      "display_date": "Nov 05, 2026",
-      "summary": "Deloitte announced the launch of Green Claims Navigator, a new AI-powered solution aimed at enabling […]",
-      "topics": [
-        "ESG & Sustainability"
       ]
     },
     {
@@ -764,6 +896,18 @@
       "summary": "A new initiative will bring together firms, quantum technology providers, and national research labs to explore practical applications of quantum computing. The FCA will bring together financial services firms, quantum technology providers and national research laboratories to ex...",
       "topics": [
         "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Bloomberg Wins Best AML/CTF & Sanctions Data Provider at the Regulation Asia Awards | Press | Bloomberg LP - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORHZoMDZFVUh5NVkwY0RRcnM0SWx0b3BvcV9kV0tfOVNBbERZZjhXZnhrVzdoeWJnSzVkN0FKdzFUVlUyUUUwZHJwdWVXMkg0bWdsR0RIUlg3V2hYU3d4amc3ZnhpaDBsV0lVVFU4VXNoUWhZby1rMDJ3T2ZPYjd3a0JOOGx6bTh4LVZJQlo0TWphS0xwRUVMaU1Ed1hkYXAwejAxYXJPLXFzdldUdk96TlJ6Z2Jrakg1RDNzaXdwMA?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-11-05T08:00:00+00:00",
+      "display_date": "Nov 05, 2026",
+      "summary": "Bloomberg Wins Best AML/CTF & Sanctions Data Provider at the Regulation Asia Awards | Press | Bloomberg LP Bloomberg.com",
+      "topics": [
+        "Regulatory Change",
+        "AML & Sanctions"
       ]
     },
     {
@@ -910,12 +1054,12 @@
       ]
     },
     {
-      "title": "Sherritt Furloughs 47% of Canada Workforce Amid Cuba Sanctions - Bloomberg",
+      "title": "Sherritt Furloughs 47% of Canada Workforce Amid Cuba Sanctions - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQN3BwQURpNFkzLXl0QTBzY25lSU0ta2VlREE3WDBNS3h5RG9jSHM2cWdxOXRERGxvLUlMdnVJSnNwRzRhVDRWcS1QLUMzejF3YXVwSUZCY3VzS0haZC1YWWlBMEVQejQ1YUk3Ukt3THJITFJReXpoQzJpdDlJakRBUFk5X1lxUXA5Ni1BUTJOb1QzeEhWOUdPel9CbWRObGsyblRSajhwTU9YRHJLU19xUVhn?oc=5",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "date": "2026-11-04T13:01:43+00:00",
       "display_date": "Nov 04, 2026",
-      "summary": "Sherritt Furloughs 47% of Canada Workforce Amid Cuba Sanctions Bloomberg",
+      "summary": "Sherritt Furloughs 47% of Canada Workforce Amid Cuba Sanctions Bloomberg.com",
       "topics": [
         "AML & Sanctions"
       ]
