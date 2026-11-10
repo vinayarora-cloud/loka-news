@@ -1,23 +1,67 @@
 {
-  "last_updated": "November 10, 2026 04:42 UTC",
-  "total_count": 216,
+  "last_updated": "November 10, 2026 08:49 UTC",
+  "total_count": 214,
   "articles": [
     {
-      "title": "AFL star fined after drink-driving charge - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPa1p2d19CeWtBa1JQR0lVdXJLRHlHTkkwNGgxOXZENTdidjhWNURjek9qY3Rka3gxdnc3YmkyWlpWbTdfaHdLa01WYUowak9hbkFfRE5VVWFadThlcm5td21nT0J2bGhwb3FfR29jRERHb2U3Q2ptaFVKQUhJVExlejVSVm9zbDNfbzFNLURZQ0JnaE13eW1tQlpZbl9VakR2aW5zeko3ZWUxTDg4QW1qLVdMa0U5ei1kVlN5VEdOSTBocTdLeFFwcWJrZmdoazNMeXFWQUQtX1RRcE44OUVMbEozckd6NXdLMHVQOWxnNE9fNkxBZzd5Zlp4RlZka0FqaTQyNm1OakU1Y0NQbGJhZjZNd3pXUVQxQjdIOXB4MngxcURTcjVF?oc=5",
-      "source": "The Australian",
-      "date": "2026-11-10T04:05:13+00:00",
+      "title": "Vodafone Dials Up Guidance But Says German Unit Needs Improvement",
+      "link": "https://www.wsj.com/business/telecom/vodafone-dials-up-guidance-but-says-german-unit-needs-improvement-49043777?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-11-10T07:58:00+00:00",
       "display_date": "Nov 10, 2026",
-      "summary": "AFL star fined after drink-driving charge The Australian",
+      "summary": "Vodafone Group cited cost savings and strong performance in its business-focused operations, but called out weakness in its German unit.",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Nvidia and Jensen Huang sued by shareholders over affair with alleged Chinese spy",
+      "link": "https://www.theguardian.com/technology/2026/nov/10/nvidia-jensen-huang-sued-donald-trump-fbi",
+      "source": "The Guardian Australia",
+      "date": "2026-11-10T07:30:15+00:00",
+      "display_date": "Nov 10, 2026",
+      "summary": "Legal action comes as Donald Trump says FBI is investigating tech company CEO’s links with Alice Huang Business live – latest updates Nvidia’s board needs to do some succession planning – sharpish Nvidia and its chief executive, Jensen Huang, have been accused of defrauding share...",
       "topics": [
         "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "Author Jojo Moyes among UK travellers at risk of EU ban amid digital border system glitches",
+      "link": "https://www.theguardian.com/business/2026/nov/10/jojo-moyes-uk-travellers-eu-ban-digital-border-system-ees",
+      "source": "The Guardian Australia",
+      "date": "2026-11-10T07:00:32+00:00",
+      "display_date": "Nov 10, 2026",
+      "summary": "Errors in entry and exit records leave some Britons wrongly flagged as having overstayed post-Brexit 90-day limit EU sues IBM and two European firms over entry/exit border system The writer Jojo Moyes is facing a two-year EU travel ban and €10,000 (£8,300) fine because of glitche...",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "Trump refugee joins Climate 200 board - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPUE5XVnFIMEQyUzZ1YkRid2I4Mk1FdnJWc1N3bERfMlVLNjZndk5QMTBsSWxKLUxmMlNEWUJfNzhUZUFySS1Yc1Vjbnc3eVpsNnNjNUtlaHA1Y0xsdWwySGRIeUVfOTJ1RE5GbXFwZVlkQ1FyNmRyVS1KcnhGX1lpd0JLaXZuNlg4RkJQRUVoRGdYaGNZRGY2eUlMSUdfNnZHekdaSjU5MDdHcmNLZVNmTGs4YjJxOWpLZ3lfWnc3Q25BT1J4aWYyRlpsOVlGTkdFRzN5dS1TbC1ZLXkxTUVyRUhNOGZ1ZUZ4a1R2SHF3NXh4b1htdmZNTWFWTTh1Q2YtUS11QmVxLXZmZ2JhNTVzTw?oc=5",
+      "source": "The Australian",
+      "date": "2026-11-10T05:26:42+00:00",
+      "display_date": "Nov 10, 2026",
+      "summary": "Trump refugee joins Climate 200 board The Australian",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "Australia to Create AI Safety Regulator, Mandatory Rules - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWGViZ2xsOWVMUVRfQnNEeWNfZ0RIQzEydE1qOHBjSkk4ZEVvTThTSnpBUmNqV0lGVEtPaW4xTmtTYUVEeGxQQW83X1hWZTM0ai1uUDA0ZWRBTGoyQTdldmNScGhncWJab1pIajY1SlhIeXpnNTdGWGdkQ2kzLURqZGQxeVN6NlQyM2d2Yy1ndm1YOW9BWmFDOVplano2ZHh5R0FOVnV5WDBmMDZZNHpOT0gtaw?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-11-10T03:51:00+00:00",
+      "display_date": "Nov 10, 2026",
+      "summary": "Australia to Create AI Safety Regulator, Mandatory Rules Bloomberg.com",
+      "topics": [
+        "Regulatory Change"
       ]
     },
     {
       "title": "ASIC probe finds 22 of 24 private credit funds flawed - The Australian",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRzR4MGtlNDRXaVB6RlIxN2F5VVlqQnJ1dDFBano2VkY0MGRvN1dJTnlCWWtoSHNIQlVnV2VYeWRCQjJTYklpVFZuS0hDTzdEV3FKS0ZIaUswR1Z6SHJjVy0ybEJ6S3kzWkhIdkpjQWdjdjdYOXBJMmFITFhHTWE3c29vdGpNSWVSZHhCMU5DMG1rdjJjVUNoVlQwNGMxOHhFV0VlVHJLQUJ5MjFsZkZ1VEFDU0hKTHlHQU9tRG5ONWZ6YnJBOGZrUWJVYmlzdUZ1MElwSHdYOXUtalU?oc=5",
       "source": "The Australian",
-      "date": "2026-11-10T03:22:30+00:00",
+      "date": "2026-11-10T03:26:06+00:00",
       "display_date": "Nov 10, 2026",
       "summary": "ASIC probe finds 22 of 24 private credit funds flawed The Australian",
       "topics": [
@@ -48,7 +92,7 @@
     },
     {
       "title": "ATO-dodging barrister’s attack on judge backfires, leads to big fine - AFR",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQU19LTkpBUXZmRGpnWHJPbnE2WmluWF90bmk5cTB5MHg3UTJPLU9JQnFxLUFEQ2lSYWp1UTVkQmt6Q0NnNDFMX1cySEoxZjFoTmpCMVFrMUFvY3EzX0JBUmpEcGg3djlDd0xISXEzWEJfMjRadno1QWt1aGJfN29QS0FzWEZPZnFaeTJKTmVBSHIxMEJPWFFLbV9LSW4yVnZGbFBELWNPaFpkYm5LdGN1OFJxdVlzVHFoWmNobXVzNnY2NDZRWFdzZkstcUYtVnNB?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNSm5KcWt0Ym9rYy10VGpqTGUyTWRPR0RwNVg5S0QyWkZSODBhZmlJZnZIUDlRZmdKZWhNdDUtTGMzU1ZRa2Vtdm9fSE5IU1V2eWNuMHU5U2lJZk1fU0x1eEtwMENwajdZMUI0eEpQZV9hVnEyeU4ydlBsLS10X3FRV0E5dlVKZ29vc3VTUDB1Mk5WNzZacEliTW9MX1VLRW80azZaVWJGTG9RYndFbzlMb0tSOExmSXdNRkRjY3ZzV1dFcDB2SWF2dmZJRkk3elNJNF9IYzBkMWRGNzBtUVREeVB4YTNQN3c2VGwxSXhB?oc=5",
       "source": "AFR",
       "date": "2026-11-10T01:24:00+00:00",
       "display_date": "Nov 10, 2026",
@@ -155,17 +199,6 @@
       "summary": "Advisory firm’s founder knows the power of a female team AFR",
       "topics": [
         "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Recruiters’ tip for graduates: AI governance is where the money is - AFR",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQk1OaXBkNHBmdXhmb0xwRWI4ZHExNElMd2daZHYzX3h4TVZTSDFLZ29ERXNIQU5vRlRCc3ZkcmJqTUluMk5VdXlhSHdhZVhRcGdIakN2UUdnQmt5ZzFFV2ZFbUQ2ZHU5X2w4NzNwbnNUYjZCOWMtc0N2c2JBOHBoeFV0TGFaR05FRW1DUE00V09wSy1aMFpBY2JiR1c1aGt0cVlIMDlKVjBNU1NEenJlejBGTmJNRllhS3AtV1lrQW1TMFVtcWJn?oc=5",
-      "source": "AFR",
-      "date": "2026-11-09T18:00:00+00:00",
-      "display_date": "Nov 09, 2026",
-      "summary": "Recruiters’ tip for graduates: AI governance is where the money is AFR",
-      "topics": [
-        "Operational & Enterprise Risk"
       ]
     },
     {
@@ -288,17 +321,6 @@
       "summary": "Newly formed investment platform Anchor Energy Partners announced today the launch of its first fund, […]",
       "topics": [
         "ESG & Sustainability"
-      ]
-    },
-    {
-      "title": "Apple Intelligence AI service registers with Chinese regulator for use on tablets, laptops - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQanptRUNhdmdrV2x6Y01qWFNCU3BlRTZTN1FyZ2hubTNralRKUE8yWWVpNUd0NERlVngtNS00dG1JYmd0bzVobkNjcDl4X0lXUFdKdnhwQU5ZbW1mMWh1dGZHS3N4Mmk5UGozTzdBdEpwZi1lNl9HUEJXUFYxaGtua2cyUWNVNC1EQjE4M2FJQURmQU4xUjhzR281UkpZa3V2VTVXRmhJOHNFRjJXS1VpUENObEpId0x6VFFSUjh6c01jdEFCUGhVM0xwaEZtM2NG?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-09T12:54:20+00:00",
-      "display_date": "Nov 09, 2026",
-      "summary": "Apple Intelligence AI service registers with Chinese regulator for use on tablets, laptops Reuters",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
@@ -456,17 +478,6 @@
       ]
     },
     {
-      "title": "The questionable sales tactics prompting people to switch their super",
-      "link": "https://www.abc.net.au/news/2026-11-09/asic-warns-firms-using-lead-generators-to-push-super-switching/107356376",
-      "source": "ABC News Business (AU)",
-      "date": "2026-11-08T19:01:22+00:00",
-      "display_date": "Nov 08, 2026",
-      "summary": "Unqualified and unlicensed telemarketers are targeting Australians to switch their superannuation savings into riskier schemes. This has prompted the corporate regulator to threaten the licences of financial advice firms that use these \"lead generators\".",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "Opinion | Why the Lights Go Dark in Cuba",
       "link": "https://www.wsj.com/opinion/why-the-lights-go-dark-in-cuba-bee46dce?mod=pls_whats_news_us_business_f",
       "source": "Wall Street Journal",
@@ -486,17 +497,6 @@
       "summary": "ASIC targets dodgy cold callers raiding your super The Australian",
       "topics": [
         "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "The ‘immediate warning sign’ to protect your super",
-      "link": "https://www.smh.com.au/business/banking-and-finance/the-immediate-warning-sign-to-protect-your-super-20261109-p61c3q.html?ref=rss&utm_medium=rss&utm_source=rss_business",
-      "source": "The Sydney Morning Herald",
-      "date": "2026-11-08T18:01:00+00:00",
-      "display_date": "Nov 08, 2026",
-      "summary": "The financial regulator has put firms on notice after it found some were using unlicensed marketers trying to convince customers to switch or review their super.",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
@@ -1077,17 +1077,6 @@
       ]
     },
     {
-      "title": "What a Democratic congress means for Trump’s foreign-policy agenda - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNajQzeUxzQWxnUlh4TXB1a29uV09JMV9WaXBRY0hqTk9pSC1hdUZUSEFVbzVTemhpYVRVZUdiM1RHVXRLa0FZLVF2Rld3OTVsYjZQcDFBdEROWGx5Z3U0MnplbExiQlBqWW9PSHg3SlVmY1lreTE2UjJDYnpPZWxTR0VKbV9OdFp4N2ktck9YSDVZOHp3UE5OSTRuNzk2STFPUVdkVEZJTXo5TmtJQUE3QU9yajVMS2VxX3p4XzA5dXRlQlEyT2tYVElqbDJrMUlGUUI3dF96NXlVSlFqc2NzUQ?oc=5",
-      "source": "The Australian",
-      "date": "2026-11-04T22:16:00+00:00",
-      "display_date": "Nov 04, 2026",
-      "summary": "What a Democratic congress means for Trump’s foreign-policy agenda The Australian",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "E.l.f. Beauty posts 51% sales increase, raises full-year guidance",
       "link": "https://www.cnbc.com/2026/11/04/elf-beauty-elf-q2-2027-earnings.html",
       "source": "CNBC",
@@ -1264,17 +1253,6 @@
       "summary": "Research shows consumers want the choice, rather than wait for the legal challenges to conclude. Almost 9 out of 10 (89%) car finance customers who have complained or are considering doing so want the choice of an offer of compensation now, rather than waiting for the legal chall...",
       "topics": [
         "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "China regulator tells banks to pause IPOs, FT reports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRjN6YlQ3VTFGbEdFbkIwWDc1NzBsaDg3RlUycGtxVE9kNEplZUVNZ3VJbDQyUEFZVGdWcnVZaUdPOFJqTk0tNmhKVi1yVTFGeDE3X1ZHZ3lfNWpDTU1aczAyeEZhSmktNi1WcFZ2WEMyaXZiSTluMFRuQ0FWMi1yMS1RTDM4VHZCRmVEY3BkbC1jN3ctcklXZjJVQnVtQQ?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-03T07:30:35+00:00",
-      "display_date": "Nov 03, 2026",
-      "summary": "China regulator tells banks to pause IPOs, FT reports Reuters",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
