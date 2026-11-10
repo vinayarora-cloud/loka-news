@@ -1,7 +1,63 @@
 {
-  "last_updated": "November 09, 2026 20:42 UTC",
-  "total_count": 222,
+  "last_updated": "November 10, 2026 00:38 UTC",
+  "total_count": 219,
   "articles": [
+    {
+      "title": "AI governance work is harder than firms expect, compliance leaders warn",
+      "link": "https://www.complianceweek.com/artificial-intelligence/ai-governance-work-is-harder-than-firms-expect-compliance-leaders-warn/",
+      "source": "Compliance Week",
+      "date": "2026-11-09T23:17:09+00:00",
+      "display_date": "Nov 09, 2026",
+      "summary": "As financial firms increasingly use AI, FINRA leadership and financial executives discussed governance, supervisory, and risk management controls at the regulator’s 2026 Advertising Regulation Conference. The post AI governance work is harder than firms expect, compliance leaders...",
+      "topics": [
+        "Regulatory Change",
+        "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "QC 1000 amendments approved a month before new accounting quality regulation comes into force",
+      "link": "https://www.complianceweek.com/accounting-auditing/qc-1000-amendments-approved-a-month-before-new-accounting-quality-regulation-comes-into-force/",
+      "source": "Compliance Week",
+      "date": "2026-11-09T23:01:29+00:00",
+      "display_date": "Nov 09, 2026",
+      "summary": "The SEC has approved targeted amendments to QC 1000, A Firm’s System of Quality Control. The amendments do not change the date when QC 1000 comes into effect, which remains Dec. 15. The post QC 1000 amendments approved a month before new accounting quality regulation comes into f...",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Court blocks California from enforcing climate disclosure laws - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaGZUX2pURmUxakdKMFBzSVNfanU0ZzJOclc2ejFKWV9OUDdUYlVQbUpIelE5VVc1a3c3VEhjTEFpMkNuNlNrUWhWcHJnRVVmbmRXSWFRWlNwZi1OTkRhSVpCNEpDYTc3U3NlVG50cWU4Mmd5YkFoOWo3WFI4Q292TnB0SUFyNkRfZTdfRGhyVk9GcFZ6TlNqUnZpV2ZVeTFrTjV0eEJhZndyOXU3bVRv?oc=5",
+      "source": "Reuters",
+      "date": "2026-11-09T22:57:14+00:00",
+      "display_date": "Nov 09, 2026",
+      "summary": "Court blocks California from enforcing climate disclosure laws Reuters",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "Another False Claims Act Case on Cybersecurity",
+      "link": "https://www.radicalcompliance.com/2026/11/09/another-false-claims-act-case-on-cybersecurity/",
+      "source": "Radical Compliance",
+      "date": "2026-11-09T21:09:23+00:00",
+      "display_date": "Nov 09, 2026",
+      "summary": "Last week a technology company in Delaware paid $13 million to settle allegations that its poor cybersecurity practices violated the False Claims Act. If compliance and audit professionals ever wanted a case that’s emblematic of cybersecurity compliance risks these days, this one...",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Australia's corporate regulator starts official probe into $2.3 billion Bathla collapse - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUWtNMG5zZFBHaDluV3hLMUJvVUE4S3VuYzQxTkxSSlViRzhHUkxXQV9tNDB4dFI0V1F3VXR2VGVmSlQtd2ZQNDQwRFlzUkpQaHowYjF1TUF4VlpIYUZOY3FYX25nNGFVWWFCN0lTR1JKWENralpWZ1YxNXd6SVRPUUx1ejdMd1FXOUlYd3FJdUk4LXBMOHB2RHJJMnpUVHpwV0xCRmVZYkVFalVOaV8weHNVUTJ0YV9wSjZWLXZPLTU5dGc5SGt2Vmdn?oc=5",
+      "source": "Reuters",
+      "date": "2026-11-09T20:41:55+00:00",
+      "display_date": "Nov 09, 2026",
+      "summary": "Australia's corporate regulator starts official probe into $2.3 billion Bathla collapse Reuters",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
     {
       "title": "Canadian Investment Regulatory Organization Trading Halt - ALTU.WT – Company Announcement - Financial Times",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWlNqNzZmYzVYRDNFT1I2ZF8zTWY5b1dOaGJMNGJfcHNGUVlWMmZtRGpfLTRtb25SNmZwdGgyVlc1UUJCQVJlSUN0TU0zbVAzU3VjbjNhX1VjWXFqUlVpMXFzVXpVeUlJakd0S1RFc2F2SUFuOUlqSVVCYkRzMk1hUWc4VnVJLWtZbndsRUtON1loRnJuVFE?oc=5",
@@ -11,6 +67,17 @@
       "summary": "Canadian Investment Regulatory Organization Trading Halt - ALTU.WT – Company Announcement Financial Times",
       "topics": [
         "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Nvidia CEO Huang sued by shareholders over ties with suspected Chinese spy",
+      "link": "https://www.abc.net.au/news/2026-11-10/nvidia-share-price-falls-ceo-jensen-huang-investigated/107366868",
+      "source": "ABC News Business (AU)",
+      "date": "2026-11-09T20:28:14+00:00",
+      "display_date": "Nov 09, 2026",
+      "summary": "Nvidia shares tumbled after the company opened an investigation into Mr Huang's ties ‌with a ⁠suspected Chinese spy.",
+      "topics": [
+        "Enforcement Actions"
       ]
     },
     {
@@ -25,14 +92,14 @@
       ]
     },
     {
-      "title": "Trump’s close ties to Nvidia billionaire under scrutiny amid ‘Chinese spy’ probe",
-      "link": "https://www.smh.com.au/business/companies/trump-s-close-ties-to-nvidia-boss-under-scrutiny-amid-chinese-spy-probe-20261110-p61cr8.html?ref=rss&utm_medium=rss&utm_source=rss_business",
-      "source": "The Sydney Morning Herald",
-      "date": "2026-11-09T19:00:57+00:00",
+      "title": "ASIC probe finds 22 of 24 private credit funds flawed - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRzR4MGtlNDRXaVB6RlIxN2F5VVlqQnJ1dDFBano2VkY0MGRvN1dJTnlCWWtoSHNIQlVnV2VYeWRCQjJTYklpVFZuS0hDTzdEV3FKS0ZIaUswR1Z6SHJjVy0ybEJ6S3kzWkhIdkpjQWdjdjdYOXBJMmFITFhHTWE3c29vdGpNSWVSZHhCMU5DMG1rdjJjVUNoVlQwNGMxOHhFV0VlVHJLQUJ5MjFsZkZ1VEFDU0hKTHlHQU9tRG5ONWZ6YnJBOGZrUWJVYmlzdUZ1MElwSHdYOXUtalU?oc=5",
+      "source": "The Australian",
+      "date": "2026-11-09T18:33:09+00:00",
       "display_date": "Nov 09, 2026",
-      "summary": "Nvidia chief Jensen Huang is one of Trump’s closest allies in Silicon Valley and their relationship has coincided with several favourable policy developments for the company.",
+      "summary": "ASIC probe finds 22 of 24 private credit funds flawed The Australian",
       "topics": [
-        "Regulatory Change"
+        "Enforcement Actions"
       ]
     },
     {
@@ -47,17 +114,6 @@
       ]
     },
     {
-      "title": "Private credit fails ASIC’s test with miserable 22/24 score - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRzR4MGtlNDRXaVB6RlIxN2F5VVlqQnJ1dDFBano2VkY0MGRvN1dJTnlCWWtoSHNIQlVnV2VYeWRCQjJTYklpVFZuS0hDTzdEV3FKS0ZIaUswR1Z6SHJjVy0ybEJ6S3kzWkhIdkpjQWdjdjdYOXBJMmFITFhHTWE3c29vdGpNSWVSZHhCMU5DMG1rdjJjVUNoVlQwNGMxOHhFV0VlVHJLQUJ5MjFsZkZ1VEFDU0hKTHlHQU9tRG5ONWZ6YnJBOGZrUWJVYmlzdUZ1MElwSHdYOXUtalU?oc=5",
-      "source": "The Australian",
-      "date": "2026-11-09T18:03:37+00:00",
-      "display_date": "Nov 09, 2026",
-      "summary": "Private credit fails ASIC’s test with miserable 22/24 score The Australian",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
       "title": "ASIC slams private credit fund conflicts after 10-month probe - AFR",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMGtUUmNVaHlmTldtZ2o0QUtRSTBQdzFpMGNhS09oZWl4SlpYdW1ETVVaSkdvR1g0T2JjRmE5eFBqR3B4TlpSaGZpaTNYbUNZUkpVbm9jZE1lOU1pNk1pWWI3N2U1SkJ5ZXRjODBtMTQzWHpxQ1BzdWxtZHo5LUF6WTNndXVqLV94dkRCc3N5WHAyeGJUcDZDS0RJNFRRQUtocUNXTzZ4ZS1tYnVYc1dncFlKY3A5bzdXU1VvNU9UUmkxWlpk?oc=5",
       "source": "AFR",
@@ -66,6 +122,28 @@
       "summary": "ASIC slams private credit fund conflicts after 10-month probe AFR",
       "topics": [
         "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "Advisory firm’s founder knows the power of a female team - AFR",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcWY1NFY4NFNBdDQ3ei1Bc0xwNTJxemw3dVBnbGZjb3J4bERlM2REQWp0M2gyZWo2RUhpM3dVMFNoQ2pnWkFoZ1ZUQ2hHcUhMTmdPUTVUVmRKN081eUYxSUlsZEtjZzB6RG1wN2FOZHNwOVFUcmc0MG0xNlItbVFIeTc3Rk95YndvR0tQTW5nOTNwMWl5ZVJ4RldnSnFqanpLcUxodm9ldTJMLWJlXzk0TTlwZGpFV3F3ZlE4VG1B?oc=5",
+      "source": "AFR",
+      "date": "2026-11-09T18:00:00+00:00",
+      "display_date": "Nov 09, 2026",
+      "summary": "Advisory firm’s founder knows the power of a female team AFR",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Recruiters’ tip for graduates: AI governance is where the money is - AFR",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQk1OaXBkNHBmdXhmb0xwRWI4ZHExNElMd2daZHYzX3h4TVZTSDFLZ29ERXNIQU5vRlRCc3ZkcmJqTUluMk5VdXlhSHdhZVhRcGdIakN2UUdnQmt5ZzFFV2ZFbUQ2ZHU5X2w4NzNwbnNUYjZCOWMtc0N2c2JBOHBoeFV0TGFaR05FRW1DUE00V09wSy1aMFpBY2JiR1c1aGt0cVlIMDlKVjBNU1NEenJlejBGTmJNRllhS3AtV1lrQW1TMFVtcWJn?oc=5",
+      "source": "AFR",
+      "date": "2026-11-09T18:00:00+00:00",
+      "display_date": "Nov 09, 2026",
+      "summary": "Recruiters’ tip for graduates: AI governance is where the money is AFR",
+      "topics": [
+        "Operational & Enterprise Risk"
       ]
     },
     {
@@ -89,17 +167,6 @@
       "summary": "Financial advisers are channelling money into a sector that ASIC has accused of being home to some operators that use hidden fees and shift investor cash around.",
       "topics": [
         "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "Financial Services Roundup: Market Talk",
-      "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-cfd812a8?mod=pls_whats_news_us_business_f",
-      "source": "Wall Street Journal",
-      "date": "2026-11-09T17:23:00+00:00",
-      "display_date": "Nov 09, 2026",
-      "summary": "Find insight on Standard Life, Allianz, Credit Agricole and more in the latest Market Talks covering Financial Services.",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
@@ -166,17 +233,6 @@
       "summary": "Financial technology provider and exchange operator Intercontinental Exchange (ICE) announced its entry into climatic variable […]",
       "topics": [
         "ESG & Sustainability"
-      ]
-    },
-    {
-      "title": "Canadian Investment Regulatory Organization Trading Halt - FNT.U – Company Announcement - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNN3haSkFXNEg1TGVhNDFIN1pCWWw0YlhNdHAwN1JxQ0t5bXQxVmJzZUFPdWRKQXIxWjNxdlFic1kzODZqQVBGRGNNeDJyUVpDclp4Ymg3VnlYS2o1TnlCOTlZX3JhT0VQRVVLejV5RGJPVzJERnhITW9VeG9QRENyeW9ic3VxaDg5b19YdUtLOGRkWDUxMnc?oc=5",
-      "source": "Financial Times",
-      "date": "2026-11-09T14:31:00+00:00",
-      "display_date": "Nov 09, 2026",
-      "summary": "Canadian Investment Regulatory Organization Trading Halt - FNT.U – Company Announcement Financial Times",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
@@ -268,6 +324,17 @@
       ]
     },
     {
+      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/11/09/cisa-adds-four-known-exploited-vulnerabilities-catalog",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-11-09T12:00:00+00:00",
+      "display_date": "Nov 09, 2026",
+      "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-102895 GPUStack Improper Authentication Vulnerability CVE-2026-116779 SignalWire FreeSwitch Code Injection Vulnerability CVE-2026-1231...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
       "title": "Circularity Fuels Raises $7 Million to Turn Dairy Biogas into Clean Jet Fuel",
       "link": "https://www.esgtoday.com/circularity-fuels-raises-7-million-to-turn-dairy-biogas-into-clean-jet-fuel/?utm_source=rss&utm_medium=rss&utm_campaign=circularity-fuels-raises-7-million-to-turn-dairy-biogas-into-clean-jet-fuel",
       "source": "ESG Today",
@@ -312,17 +379,6 @@
       ]
     },
     {
-      "title": "China extends sanctions suspension on US-linked units of S.Korea's Hanwha Ocean by 2 months - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTFVYbkFaNVZvaS1sSWd5YXQxYnhlWW05bEZkUjhxQ1NpeXQtQl96UVV5c0JLYUhqWHlzZU52MDFDcVBNZTk4LU5qSUdxMld5YnIwb2ZpamxmSU9sc3FuTkN6UER3ZWhsc0Z1dld1NEoxLXcwVUVpaWh5QTZvcEFpS2txMXdZSmFuclFaS19paE41ekJPYzdXWEdaazBpTFZmaG1pWFVjeGJiODU5eXRIcGVsSVc3X3JyOG0zZFUtSHpfcXBDV2tXT3VCSQ?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-09T08:21:44+00:00",
-      "display_date": "Nov 09, 2026",
-      "summary": "China extends sanctions suspension on US-linked units of S.Korea's Hanwha Ocean by 2 months Reuters",
-      "topics": [
-        "AML & Sanctions"
-      ]
-    },
-    {
       "title": "Intesa Gets Green Light From Italian Markets Regulator for Monte Dei Paschi Bid",
       "link": "https://www.wsj.com/business/deals/intesa-gets-green-light-from-italian-markets-regulator-for-monte-dei-paschi-bid-054726f9?mod=pls_whats_news_us_business_f",
       "source": "Wall Street Journal",
@@ -359,7 +415,7 @@
       "title": "Trump says deportation policy ‘too tough’ for voters after midterm blowout - The Australian",
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQR09DLVpKUEVfT19Gc1lkZDVmSkEta283VFg2VWtDcGZBVm1BUlMzR050MlF4OG1yNlRkOHl4T1F4aU9UZ3c0SEc0ZnhkcWxyNHVLeTZsRF9FZWRvQTA2OXlFOGltaXEwM0FLdXJIRDlMWXRKM05mUk9QRmVTbEN5N1czZm9JZU5LdjZXQ0t6QzRPUHBIZmtHV0gxeHdEblpjbzVnT25XMjhmdjdvY0lYaTZWaWYyMTlXczljR0Iya2trQVI0SWgtU2VLd3ZScUhNUVFEODViQ1NUU3UzaG5mVVNFcmUzNndtbnVfa1ZTZm4ySkk?oc=5",
       "source": "The Australian",
-      "date": "2026-11-09T04:04:14+00:00",
+      "date": "2026-11-09T04:34:17+00:00",
       "display_date": "Nov 09, 2026",
       "summary": "Trump says deportation policy ‘too tough’ for voters after midterm blowout The Australian",
       "topics": [
@@ -373,28 +429,6 @@
       "date": "2026-11-09T01:40:00+00:00",
       "display_date": "Nov 09, 2026",
       "summary": "Bathla lender finds itself in ASIC’s sights over disclosure failures AFR",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "ASIC targets dodgy cold callers raiding your super - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPeG83QWJ2SHRKMUZlcU5hdEpRWXBQUFZPaUtFeDFtUk9FUDJ0cHFBS2Q4VHQ0YlNqdkN3UWR6aGRZdFJpQmlHbzBQSk9TSml2YXE5SUhzNjZHZ05lcmdkS0dMaFY0VzJpbU4tYUVMVG01djNzQmZIQ1BnTi1XSk1WdUk0Ulp3TGpYS1RNYk5EbFRMbWtqRjA5emhUX0ZGTGpOQXM3ZmlWOVRLd045SlFscXQ2X29uZFhYbE5sSEQwRjV1ZXAtc0d6dFA3VUJ0UDRVLTh2dEx2a0xwZUk4NG5KeEJlZlQ0LUdjZHhYSHhPc1Vvd1VraEppeDlqRm1DT2JvelV6VEJxSWZ6QQ?oc=5",
-      "source": "The Australian",
-      "date": "2026-11-08T19:35:37+00:00",
-      "display_date": "Nov 08, 2026",
-      "summary": "ASIC targets dodgy cold callers raiding your super The Australian",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "Beware the fine print in FTA with Europe - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQTBlbTRWZmM5NkpGS1FBSnVCUlBnUnU2eE9pb2dPc1hYdmowTlo3ajQ3WmZIeWNYUXJDZWp4MjNNRnhfZkc5eEkzaVVZT1BNRU5Cc2Vra1k4Zl9ld0hUeldXdE9PTWNYaHR1UUUzdWZQZ0pEZEVXU2twRUtIZXhRRmpiN1N2TjA3Z0R5RVNlM0RPY0xmbUJWejhfeUVLU3ZicnRfQlJza3VTZVlSYXR1MkpSSTZUby1WRDhvQzVxdFVROHFVUkVN?oc=5",
-      "source": "The Australian",
-      "date": "2026-11-08T19:03:32+00:00",
-      "display_date": "Nov 08, 2026",
-      "summary": "Beware the fine print in FTA with Europe The Australian",
       "topics": [
         "Enforcement Actions"
       ]
@@ -433,6 +467,17 @@
       ]
     },
     {
+      "title": "ASIC targets dodgy cold callers raiding your super - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPeG83QWJ2SHRKMUZlcU5hdEpRWXBQUFZPaUtFeDFtUk9FUDJ0cHFBS2Q4VHQ0YlNqdkN3UWR6aGRZdFJpQmlHbzBQSk9TSml2YXE5SUhzNjZHZ05lcmdkS0dMaFY0VzJpbU4tYUVMVG01djNzQmZIQ1BnTi1XSk1WdUk0Ulp3TGpYS1RNYk5EbFRMbWtqRjA5emhUX0ZGTGpOQXM3ZmlWOVRLd045SlFscXQ2X29uZFhYbE5sSEQwRjV1ZXAtc0d6dFA3VUJ0UDRVLTh2dEx2a0xwZUk4NG5KeEJlZlQ0LUdjZHhYSHhPc1Vvd1VraEppeDlqRm1DT2JvelV6VEJxSWZ6QQ?oc=5",
+      "source": "The Australian",
+      "date": "2026-11-08T18:22:00+00:00",
+      "display_date": "Nov 08, 2026",
+      "summary": "ASIC targets dodgy cold callers raiding your super The Australian",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
       "title": "The ‘immediate warning sign’ to protect your super",
       "link": "https://www.smh.com.au/business/banking-and-finance/the-immediate-warning-sign-to-protect-your-super-20261109-p61c3q.html?ref=rss&utm_medium=rss&utm_source=rss_business",
       "source": "The Sydney Morning Herald",
@@ -452,17 +497,6 @@
       "summary": "‘Final warning’: ASIC flags licence threat over lead generators AFR",
       "topics": [
         "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "G7 ministers to discuss recent cyber attacks, Italy says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcHF2VFVWdGExcXZzQ21UTV9taFMyUzJObWJYRXoxRzVWeDB6WmcwTkpJRkFtN3ozU183YzVDVG9Ockk1UjI4WUxTLS1vbDEwYndDeFQ1NV92WEI2Y1VDUzdJVmJTOGVQV1ZxVTQ0NnJfSFJpd3A5Tzh2R1ZyTWlYbk8yMWVyX1hMNDFOYlAzZmlwWjZGTVQ0dk13?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-08T16:59:43+00:00",
-      "display_date": "Nov 08, 2026",
-      "summary": "G7 ministers to discuss recent cyber attacks, Italy says Reuters",
-      "topics": [
-        "Cybersecurity Risk"
       ]
     },
     {
@@ -618,17 +652,6 @@
       "summary": "Readers present opposing views on whether low-volume oil and gas wells should face strict federal oversight.",
       "topics": [
         "ESG & Sustainability"
-      ]
-    },
-    {
-      "title": "Canadian Investment Regulatory Organization Trade Resumption - ELEF – Company Announcement - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQU3JTZEpNNEdHdlZVeWVDNldYbnJPRjhrMV9OZzFDcDVHc0htT0lrNXJiTHVya2RlME05Wk1hb0IyY3BTbjB6SnZMaXQ0dzdwNE4tbVVlUk80clUyQmhvVkk5Tk9vT2FEeTY4TTQ5NFpVTVlIWDVxbjFPZmhVY3E5OFZxeWdBekw1UWNDMG1OOE5hVWY1YkE?oc=5",
-      "source": "Financial Times",
-      "date": "2026-11-06T15:32:00+00:00",
-      "display_date": "Nov 06, 2026",
-      "summary": "Canadian Investment Regulatory Organization Trade Resumption - ELEF – Company Announcement Financial Times",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
@@ -854,6 +877,17 @@
       ]
     },
     {
+      "title": "US slaps sanctions on Indian, Turkish firms and people for aiding Iran - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTU5EOWpMNjZvcmh2TzIzTHo1OWRzaUdGRWZEN0xwbWpqV09pOGFoY2M5dlEya2xHTHJnS0VsQjZGM2lSTVk1U05TbHpLc3FveFhySUgtb1dPWEtXTkNXVlg4MWlwbTBSeGw1R2pPWTg3d3ZuV01nSDNvWWVQSjRTeFRSb3N2QnFMa0FMUDBGTWY5NDVIdG41Z05wdnRQT3pBRWJvSzg3Z0tEVXZSZDM5ag?oc=5",
+      "source": "Reuters",
+      "date": "2026-11-05T15:22:35+00:00",
+      "display_date": "Nov 05, 2026",
+      "summary": "US slaps sanctions on Indian, Turkish firms and people for aiding Iran Reuters",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
       "title": "Supply Chain Platform Achilles Acquires Contractor Management Tool Cm3",
       "link": "https://www.corporatecomplianceinsights.com/supply-chain-platform-achilles-acquires-contractor-management-tool-cm3/",
       "source": "Corporate Compliance Insights",
@@ -898,17 +932,6 @@
       ]
     },
     {
-      "title": "US Government Partners Urge Hardening Industrial Refrigeration and Cold Chain Monitoring Systems",
-      "link": "https://www.cisa.gov/resources-tools/resources/us-government-partners-urge-hardening-industrial-refrigeration-and-cold-chain-monitoring-systems",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-11-05T12:00:00+00:00",
-      "display_date": "Nov 05, 2026",
-      "summary": "Overview The Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), Health and Human Services (HHS), U.S. Department of Agriculture (USDA), and the Department of Transportation (DoT)—hereafter referred to as “the authoring organizations”—a...",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
       "title": "Post-Quantum Questions to Ask Your Vendors",
       "link": "https://www.cisa.gov/resources-tools/resources/post-quantum-questions-ask-your-vendors",
       "source": "CISA Cybersecurity Advisories",
@@ -919,6 +942,17 @@
         "Regulatory Change",
         "Cybersecurity Risk",
         "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "US Government Partners Urge Hardening Industrial Refrigeration and Cold Chain Monitoring Systems",
+      "link": "https://www.cisa.gov/resources-tools/resources/us-government-partners-urge-hardening-industrial-refrigeration-and-cold-chain-monitoring-systems",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-11-05T12:00:00+00:00",
+      "display_date": "Nov 05, 2026",
+      "summary": "Overview The Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), Health and Human Services (HHS), U.S. Department of Agriculture (USDA), and the Department of Transportation (DoT)—hereafter referred to as “the authoring organizations”—a...",
+      "topics": [
+        "Cybersecurity Risk"
       ]
     },
     {
@@ -1099,17 +1133,6 @@
       ]
     },
     {
-      "title": "US slaps sanctions on Indian, Turkish firms and people for aiding Iran - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTU5EOWpMNjZvcmh2TzIzTHo1OWRzaUdGRWZEN0xwbWpqV09pOGFoY2M5dlEya2xHTHJnS0VsQjZGM2lSTVk1U05TbHpLc3FveFhySUgtb1dPWEtXTkNXVlg4MWlwbTBSeGw1R2pPWTg3d3ZuV01nSDNvWWVQSjRTeFRSb3N2QnFMa0FMUDBGTWY5NDVIdG41Z05wdnRQT3pBRWJvSzg3Z0tEVXZSZDM5ag?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-04T18:48:00+00:00",
-      "display_date": "Nov 04, 2026",
-      "summary": "US slaps sanctions on Indian, Turkish firms and people for aiding Iran Reuters",
-      "topics": [
-        "AML & Sanctions"
-      ]
-    },
-    {
       "title": "Ethics, Compliance, and the Midterms",
       "link": "https://www.radicalcompliance.com/2026/11/04/ethics-compliance-and-the-midterms/",
       "source": "Radical Compliance",
@@ -1176,18 +1199,6 @@
       ]
     },
     {
-      "title": "The State of AI Governance in Third-Party Risk",
-      "link": "https://www.complianceweek.com/third-party-risk/the-state-of-ai-governance-in-third-party-risk/",
-      "source": "Compliance Week",
-      "date": "2026-11-04T09:13:00+00:00",
-      "display_date": "Nov 04, 2026",
-      "summary": "In this session, ECI CEO James Lindstrom and Integrity Bridge CEO Andrew McBride look at where AI governance stands today, including recent cases where vendors’ unmanaged AI use led to fabricated citations and exposed personal data. The post The State of AI Governance in Third-Pa...",
-      "topics": [
-        "Data Privacy",
-        "Operational & Enterprise Risk"
-      ]
-    },
-    {
       "title": "Top ICC official urges Europe to shield court from US sanctions - Financial Times",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQel9yc0s2ZE5meDNfVjFMVlpuNG4tdFNZeGM1eXM3a0ZDWHZZMmlvcVhMSDJqVkladWlYSVI5cnVoaGUwOXNhZDN1V2JYXzlSRUtsZVphN3BnQU91SHpNcHctdkNGVF9SMldUcDIzREp1R0E3R2dTU0VIelpnVVZmX2pueDg?oc=5",
       "source": "Financial Times",
@@ -1196,17 +1207,6 @@
       "summary": "Top ICC official urges Europe to shield court from US sanctions Financial Times",
       "topics": [
         "AML & Sanctions"
-      ]
-    },
-    {
-      "title": "Banking experts see Trump’s fingerprints on OCC’s ‘debanking’ report, call reputation risk very real",
-      "link": "https://www.complianceweek.com/banking/banking-experts-see-trumps-fingerprints-on-occs-debanking-report-call-reputation-risk-very-real/",
-      "source": "Compliance Week",
-      "date": "2026-11-04T01:13:29+00:00",
-      "display_date": "Nov 04, 2026",
-      "summary": "Experts see political motivations in an Office of the Comptroller of the Currency report finding the nine largest US banks denied services over reputation risk. The post Banking experts see Trump’s fingerprints on OCC’s ‘debanking’ report, call reputation risk very real appeared ...",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
@@ -1240,17 +1240,6 @@
       "summary": "Clark, an AI company that builds autonomous agents to perform audit work for CPA firms, announced an $11 million seed round led by Touring Capital, bringing total funding to $16 million. Founded in October 2024 as uiAgent and rebranded to Clark in July 2026 as part of a positioni...",
       "topics": [
         "Operational & Enterprise Risk"
-      ]
-    },
-    {
-      "title": "Versant earnings beat expectations as digital platforms drive growth",
-      "link": "https://www.cnbc.com/2026/11/03/versant-vsnt-q3-2026-earnings.html",
-      "source": "CNBC",
-      "date": "2026-11-03T14:17:42+00:00",
-      "display_date": "Nov 03, 2026",
-      "summary": "Versant posted third-quarter earnings that beat Wall Street expectations and reaffirmed its full-year guidance.",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
@@ -1446,12 +1435,12 @@
       ]
     },
     {
-      "title": "Hitachi Energy CoreTec Product",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-03",
+      "title": "Hitachi Energy TRO600 series products",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-02",
       "source": "CISA Cybersecurity Advisories",
       "date": "2026-10-29T12:00:00+00:00",
       "display_date": "Oct 29, 2026",
-      "summary": "View CSAF Summary Hitachi Energy is aware of OS command injection and Dirty Frag vulnerabilities that affect CoreTec product versions listed in this document. Successful exploitation of these vulnerabilities could result in impact on confidentiality, integrity and availability of...",
+      "summary": "View CSAF Summary Hitachi Energy is aware of multiple vulnerabilities that affect the TRO600 series product versions listed in this document. These vulnerabilities can be exploited for remote code execution (RCE) to carry out further attacks and disclosure of sensitive informatio...",
       "topics": [
         "Cybersecurity Risk"
       ]
@@ -1468,12 +1457,12 @@
       ]
     },
     {
-      "title": "Hitachi Energy TRO600 series products",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-02",
+      "title": "Hitachi Energy CoreTec Product",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-03",
       "source": "CISA Cybersecurity Advisories",
       "date": "2026-10-29T12:00:00+00:00",
       "display_date": "Oct 29, 2026",
-      "summary": "View CSAF Summary Hitachi Energy is aware of multiple vulnerabilities that affect the TRO600 series product versions listed in this document. These vulnerabilities can be exploited for remote code execution (RCE) to carry out further attacks and disclosure of sensitive informatio...",
+      "summary": "View CSAF Summary Hitachi Energy is aware of OS command injection and Dirty Frag vulnerabilities that affect CoreTec product versions listed in this document. Successful exploitation of these vulnerabilities could result in impact on confidentiality, integrity and availability of...",
       "topics": [
         "Cybersecurity Risk"
       ]
@@ -1678,17 +1667,6 @@
       ]
     },
     {
-      "title": "Bank of America, Part II: Transaction Monitoring",
-      "link": "https://www.radicalcompliance.com/2026/10/22/bank-of-america-part-ii-transaction-monitoring/",
-      "source": "Radical Compliance",
-      "date": "2026-10-22T17:56:01+00:00",
-      "display_date": "Oct 22, 2026",
-      "summary": "Today we return to Bank of America and the huge anti-money laundering case it settled with federal regulators earlier this month. This case is all about ineffective transaction monitoring and the many compliance failures that followed, so let’s examine the system that Bank of Ame...",
-      "topics": [
-        "AML & Sanctions"
-      ]
-    },
-    {
       "title": "OCC Announces Enforcement Actions for October 2026",
       "link": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-93.html",
       "source": "Office of the Comptroller of the Currency",
@@ -1700,89 +1678,12 @@
       ]
     },
     {
-      "title": "Siemens WinCC",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-13",
+      "title": "InterSystems Corporation InterSystems IRIS for Health",
+      "link": "https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-295-01",
       "source": "CISA Cybersecurity Advisories",
       "date": "2026-10-22T12:00:00+00:00",
       "display_date": "Oct 22, 2026",
-      "summary": "View CSAF Summary Multiple SIMATIC WinCC versions are affected by a database privilege escalation vulnerability that could allow an authenticated user with access to the database to execute commands on the underlying host system. Siemens has released new versions for several affe...",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "Siemens SENTRON 3NA COM Fuse",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-05",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-10-22T12:00:00+00:00",
-      "display_date": "Oct 22, 2026",
-      "summary": "View CSAF Summary SENTRON 3NA COM Fuse contains a Denial-of-Service vulnerability. Improper handling of a network management message could allow an attacker to trigger a denial-of-service (DoS) condition. Successful exploitation may require the affected network to be re-establish...",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "Siemens RUGGEDCOM CROSSBOW",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-12",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-10-22T12:00:00+00:00",
-      "display_date": "Oct 22, 2026",
-      "summary": "View CSAF Summary RUGGEDCOM CROSSBOW contains multiple vulnerabilities that could allow an attacker to execute arbitrary SQL commands on the underlying database, retrieve sensitive administrative credentials, escalate privileges, and perform unauthorized operations such as modify...",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "Siemens SIMATIC S7 PLCs Web Server",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-14",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-10-22T12:00:00+00:00",
-      "display_date": "Oct 22, 2026",
-      "summary": "View CSAF Summary SIMATIC S7-1500 devices contain multiple vulnerabilities in the web server that could allow an attacker to execute malicious code in an authorized user’s browser session and perform PLC operations within the scope of that user’s authorization. Siemens is prepari...",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "Siemens RUGGEDCOM APE1808 Devices",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-18",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-10-22T12:00:00+00:00",
-      "display_date": "Oct 22, 2026",
-      "summary": "View CSAF Summary Nozomi Networks has published information on vulnerabilities in Nozomi Guardian/CMC. This advisory lists the related Siemens Industrial products affected by these vulnerabilities. Siemens recommends to contact customer support to receive patch and update informa...",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Siemens SIMATIC S7-1500 CPU 1518(F)-4 PN/DP MFP",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-11",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-10-22T12:00:00+00:00",
-      "display_date": "Oct 22, 2026",
-      "summary": "View CSAF Summary Multiple vulnerabilities have been identified in the additional GNU/Linux subsystem of the firmware version V3.1.7 for the SIMATIC S7-1500 CPU 1518(F)-4 PN/DP MFP (incl. SIPLUS variant). Siemens is preparing fixes and recommends specific mitigations for products...",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "Siemens Industrial Edge Device Kit",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-09",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-10-22T12:00:00+00:00",
-      "display_date": "Oct 22, 2026",
-      "summary": "View CSAF Summary Users of Industrial Edge Devices are advised to consult the respective Security Advisories for their devices (for Siemens Industrial Edge devices see Additional Information). Industrial Edge Device Kit contains multiple path traversal vulnerabilities that could ...",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "Siemens SIMATIC S7-1500 TM MFP",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-16",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-10-22T12:00:00+00:00",
-      "display_date": "Oct 22, 2026",
-      "summary": "View CSAF Summary Multiple vulnerabilities have been identified in the additional GNU/Linux subsystem of the SIMATIC S7-1500 TM MFP V1.1.1. Siemens is preparing fixes and recommends specific mitigations for products where fixes are not or not yet available. The following versions...",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to view transmitted data and use that data to log into the device. The following versions of InterSystems Corporation InterSystems IRIS for Health are affected: InterSystems IRIS for Health 20...",
       "topics": [
         "Cybersecurity Risk"
       ]
@@ -1799,25 +1700,58 @@
       ]
     },
     {
-      "title": "InterSystems Corporation InterSystems IRIS for Health",
-      "link": "https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-295-01",
+      "title": "Siemens SIMATIC S7-1500 TM MFP",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-16",
       "source": "CISA Cybersecurity Advisories",
       "date": "2026-10-22T12:00:00+00:00",
       "display_date": "Oct 22, 2026",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to view transmitted data and use that data to log into the device. The following versions of InterSystems Corporation InterSystems IRIS for Health are affected: InterSystems IRIS for Health 20...",
+      "summary": "View CSAF Summary Multiple vulnerabilities have been identified in the additional GNU/Linux subsystem of the SIMATIC S7-1500 TM MFP V1.1.1. Siemens is preparing fixes and recommends specific mitigations for products where fixes are not or not yet available. The following versions...",
       "topics": [
         "Cybersecurity Risk"
       ]
     },
     {
-      "title": "Siemens SIMATIC IPCs",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-07",
+      "title": "Siemens Industrial Edge Device Kit",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-09",
       "source": "CISA Cybersecurity Advisories",
       "date": "2026-10-22T12:00:00+00:00",
       "display_date": "Oct 22, 2026",
-      "summary": "View CSAF Summary The products listed below contain a vulnerability that could allow an attacker to boot an operating system or UEFI application signed with that test key, bypassing UEFI Secure Boot protections even when Secure Boot is enabled. Siemens has released new versions f...",
+      "summary": "View CSAF Summary Users of Industrial Edge Devices are advised to consult the respective Security Advisories for their devices (for Siemens Industrial Edge devices see Additional Information). Industrial Edge Device Kit contains multiple path traversal vulnerabilities that could ...",
       "topics": [
         "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "Siemens WinCC",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-13",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-10-22T12:00:00+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "View CSAF Summary Multiple SIMATIC WinCC versions are affected by a database privilege escalation vulnerability that could allow an authenticated user with access to the database to execute commands on the underlying host system. Siemens has released new versions for several affe...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "Siemens SIMATIC S7-1500 CPU 1518(F)-4 PN/DP MFP",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-11",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-10-22T12:00:00+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "View CSAF Summary Multiple vulnerabilities have been identified in the additional GNU/Linux subsystem of the firmware version V3.1.7 for the SIMATIC S7-1500 CPU 1518(F)-4 PN/DP MFP (incl. SIPLUS variant). Siemens is preparing fixes and recommends specific mitigations for products...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "Siemens RUGGEDCOM APE1808 Devices",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-18",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-10-22T12:00:00+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "View CSAF Summary Nozomi Networks has published information on vulnerabilities in Nozomi Guardian/CMC. This advisory lists the related Siemens Industrial products affected by these vulnerabilities. Siemens recommends to contact customer support to receive patch and update informa...",
+      "topics": [
+        "Regulatory Change"
       ]
     },
     {
@@ -1827,6 +1761,39 @@
       "date": "2026-10-22T12:00:00+00:00",
       "display_date": "Oct 22, 2026",
       "summary": "View CSAF Summary The affected application loads dynamic-link libraries (DLLs) from an uncontrolled search path. This could allow an authenticated local attacker to place a specially crafted DLL in a directory that the application searches, leading to arbitrary code execution wit...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "Siemens RUGGEDCOM CROSSBOW",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-12",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-10-22T12:00:00+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "View CSAF Summary RUGGEDCOM CROSSBOW contains multiple vulnerabilities that could allow an attacker to execute arbitrary SQL commands on the underlying database, retrieve sensitive administrative credentials, escalate privileges, and perform unauthorized operations such as modify...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "Siemens RUGGEDCOM CROSSBOW Station Access Controller",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-15",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-10-22T12:00:00+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "View CSAF Summary RUGGEDCOM CROSSBOW Station Access Controller (SAC) contains multiple vulnerabilities in the integrated SQLite component that could allow an attacker to execute arbitrary code, cause a denial of service, or obtain sensitive information. Siemens has released a new...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "Siemens SIMATIC S7 PLCs Web Server",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-14",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-10-22T12:00:00+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "View CSAF Summary SIMATIC S7-1500 devices contain multiple vulnerabilities in the web server that could allow an attacker to execute malicious code in an authorized user’s browser session and perform PLC operations within the scope of that user’s authorization. Siemens is prepari...",
       "topics": [
         "Cybersecurity Risk"
       ]
