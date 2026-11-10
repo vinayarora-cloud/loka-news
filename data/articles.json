@@ -1,12 +1,89 @@
 {
-  "last_updated": "November 10, 2026 08:49 UTC",
-  "total_count": 214,
+  "last_updated": "November 10, 2026 12:49 UTC",
+  "total_count": 223,
   "articles": [
+    {
+      "title": "HSBC Doubles China Clean Energy, Transition Financing Facility to $8 Billion",
+      "link": "https://www.esgtoday.com/hsbc-doubles-china-clean-energy-transition-financing-facility-to-8-billion/?utm_source=rss&utm_medium=rss&utm_campaign=hsbc-doubles-china-clean-energy-transition-financing-facility-to-8-billion",
+      "source": "ESG Today",
+      "date": "2026-11-10T12:29:53+00:00",
+      "display_date": "Nov 10, 2026",
+      "summary": "HSBC announced on Wednesday that it has doubled its Sustainability and Transition Credit Facility, designed […]",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "Nvidia hit by shareholder lawsuit over Jensen Huang’s relationship with suspected Chinese spy – business live",
+      "link": "https://www.theguardian.com/business/live/2026/nov/10/nvidia-shareholder-lawsuit-jensen-huang-relationship-suspected-chinese-spy-fbi-trump-bank-of-england-latest-news-updates",
+      "source": "The Guardian Australia",
+      "date": "2026-11-10T12:27:07+00:00",
+      "display_date": "Nov 10, 2026",
+      "summary": "Rolling coverage of the latest economic and financial news Nvidia and Jensen Huang sued by shareholders over affair with alleged Chinese spy The AI poster boy, the ‘Chinese spy’ and Trump: how an affair may have harmed US security Jensen Huang’s image has been shattered. Could he...",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "Stop Calling Compliance a Cost Center",
+      "link": "https://www.corporatecomplianceinsights.com/stop-calling-compliance-cost-center/",
+      "source": "Corporate Compliance Insights",
+      "date": "2026-11-10T12:00:43+00:00",
+      "display_date": "Nov 10, 2026",
+      "summary": "As budgets shrink again, Bank of America’s $2 billion October penalties show what it costs when compliance can see a problem but lacks the authority to stop it The post Stop Calling Compliance a Cost Center appeared first on Corporate Compliance Insights .",
+      "topics": [
+        "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "SoftBank Posts Multibillion-Dollar Loss Linked to U.S. Data-Center Equipment",
+      "link": "https://www.wsj.com/business/earnings/softbank-group-posts-quarterly-loss-on-special-losses-linked-to-u-s-data-center-projects-23b37a41?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-11-10T11:53:00+00:00",
+      "display_date": "Nov 10, 2026",
+      "summary": "SoftBank Group swung to its first quarterly loss in nearly two years, dragged in part by $3.7 billion in losses related to equipment for U.S. data-center projects, a potential warning sign about the sustainability of AI spending.",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "Bloomberg Launches New Tool Enabling Investors to Assess Sustainable Bond Impact",
+      "link": "https://www.esgtoday.com/bloomberg-launches-new-tool-enabling-investors-to-assess-sustainable-bond-allocations-and-impact/?utm_source=rss&utm_medium=rss&utm_campaign=bloomberg-launches-new-tool-enabling-investors-to-assess-sustainable-bond-allocations-and-impact",
+      "source": "ESG Today",
+      "date": "2026-11-10T11:50:56+00:00",
+      "display_date": "Nov 10, 2026",
+      "summary": "Business and financial markets information service provider Bloomberg announced the launch of its new Impact […]",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "Nvidia and Jensen Huang sued in US over affair with alleged Chinese spy",
+      "link": "https://www.theguardian.com/technology/2026/nov/10/nvidia-jensen-huang-sued-donald-trump-fbi",
+      "source": "The Guardian Australia",
+      "date": "2026-11-10T11:44:15+00:00",
+      "display_date": "Nov 10, 2026",
+      "summary": "Shareholders’ lawsuit comes as Donald Trump says FBI is investigating tech CEO’s links with Alice Huang Business live – latest updates Nvidia’s board needs to do some succession planning – sharpish Nvidia and its chief executive, Jensen Huang, have been accused of misleading shar...",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "U.S. Appeals Court Blocks Key Parts of California Corporate Climate Reporting Laws",
+      "link": "https://www.esgtoday.com/u-s-appeals-court-blocks-key-parts-of-california-corporate-climate-reporting-laws/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-appeals-court-blocks-key-parts-of-california-corporate-climate-reporting-laws",
+      "source": "ESG Today",
+      "date": "2026-11-10T11:20:23+00:00",
+      "display_date": "Nov 10, 2026",
+      "summary": "A U.S. appeals court ruled on Tuesday to pause key parts of new California laws […]",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
     {
       "title": "Vodafone Dials Up Guidance But Says German Unit Needs Improvement",
       "link": "https://www.wsj.com/business/telecom/vodafone-dials-up-guidance-but-says-german-unit-needs-improvement-49043777?mod=pls_whats_news_us_business_f",
       "source": "Wall Street Journal",
-      "date": "2026-11-10T07:58:00+00:00",
+      "date": "2026-11-10T11:12:00+00:00",
       "display_date": "Nov 10, 2026",
       "summary": "Vodafone Group cited cost savings and strong performance in its business-focused operations, but called out weakness in its German unit.",
       "topics": [
@@ -14,25 +91,47 @@
       ]
     },
     {
-      "title": "Nvidia and Jensen Huang sued by shareholders over affair with alleged Chinese spy",
-      "link": "https://www.theguardian.com/technology/2026/nov/10/nvidia-jensen-huang-sued-donald-trump-fbi",
-      "source": "The Guardian Australia",
-      "date": "2026-11-10T07:30:15+00:00",
+      "title": "IAG acknowledges ACCC’s preliminary assessment of public benefit application - AFR",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOG9BYUhoMzhYV3dJMU9rcWpzVTFMX2pWSC1hRWpqb001dVg5MDdxVEFBQm9iTDFhd3JkUFVNWGFrT2lmQ0g0bDhFUmxTNlVWUE5yazVFT3Y2dUxleWxzWjZ6YlFxVlFDZWtPcTlOSmVlckRVVjRFU1hYbEFsbkFXV2lvSGI1Rmx1eU9aU3ZLTQ?oc=5",
+      "source": "AFR",
+      "date": "2026-11-10T08:03:49+00:00",
       "display_date": "Nov 10, 2026",
-      "summary": "Legal action comes as Donald Trump says FBI is investigating tech company CEO’s links with Alice Huang Business live – latest updates Nvidia’s board needs to do some succession planning – sharpish Nvidia and its chief executive, Jensen Huang, have been accused of defrauding share...",
+      "summary": "IAG acknowledges ACCC’s preliminary assessment of public benefit application AFR",
       "topics": [
         "Enforcement Actions"
       ]
     },
     {
-      "title": "Author Jojo Moyes among UK travellers at risk of EU ban amid digital border system glitches",
-      "link": "https://www.theguardian.com/business/2026/nov/10/jojo-moyes-uk-travellers-eu-ban-digital-border-system-ees",
-      "source": "The Guardian Australia",
-      "date": "2026-11-10T07:00:32+00:00",
+      "title": "Honda Raises Guidance After First-Half Profit Growth",
+      "link": "https://www.wsj.com/business/earnings/honda-raises-guidance-after-first-half-profit-growth-8da73339?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-11-10T07:19:00+00:00",
       "display_date": "Nov 10, 2026",
-      "summary": "Errors in entry and exit records leave some Britons wrongly flagged as having overstayed post-Brexit 90-day limit EU sues IBM and two European firms over entry/exit border system The writer Jojo Moyes is facing a two-year EU travel ban and €10,000 (£8,300) fine because of glitche...",
+      "summary": "Solid North American vehicle demand and a weaker yen boosted Honda’s overseas earnings.",
       "topics": [
-        "Enforcement Actions"
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Australia regulator rejects warning of internet safety bill chilling free speech - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVTlfWmF5c0VGY282Ul9ib0VPd1B1RWpRQ2tyZkZCWlVOX2lkQ2R5VHBhWU1DeFpCazBMVy12czk4RDNCaXI2OG5wY3JqMVhOUHpkY0lEd0tqcU5WdVhSSVkzUnZOWlQ4ay1zRW52ZmI0ZWR4ak1zNTBVTlJYQTBTUkQzQ1NzbkM1bm9wTFFpVVJnS3pDNEFBcFRCUzI4WU1COFZ6WkVKOXRybmFzNzRhQ19HYnl2N3RycE1Dc1VPeG45VG1MbjRHQVZ3?oc=5",
+      "source": "Reuters",
+      "date": "2026-11-10T06:52:00+00:00",
+      "display_date": "Nov 10, 2026",
+      "summary": "Australia regulator rejects warning of internet safety bill chilling free speech Reuters",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "FACTBOX Fires, protests, pollution: Apple's supply chain woes in India - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZWtQRWVONlM0b1NBcUVkV3hTWVJnQWRpTHlUMGxFa0M0NEhyV2hJVURMLVdvVTFFYm9FNFF6bTRTQ1g1QW04WnJLenpMWTUzdDBKcmNjSzZxblc4Rk1Bb2ZpdzVYekhnamk2UDdXSmVWbkRLMU9pZEN1WkxrVEZPSzFLY2ZEOVphRGdPZndiV0cxUHF2WU5wd3gxaGFKUmNzSnMzandnNUxnMDBfWEt2eG9ISUlzUkU?oc=5",
+      "source": "Reuters",
+      "date": "2026-11-10T05:54:00+00:00",
+      "display_date": "Nov 10, 2026",
+      "summary": "FACTBOX Fires, protests, pollution: Apple's supply chain woes in India Reuters",
+      "topics": [
+        "Operational & Enterprise Risk"
       ]
     },
     {
@@ -125,17 +224,6 @@
       ]
     },
     {
-      "title": "Court blocks California from enforcing climate disclosure laws - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaGZUX2pURmUxakdKMFBzSVNfanU0ZzJOclc2ejFKWV9OUDdUYlVQbUpIelE5VVc1a3c3VEhjTEFpMkNuNlNrUWhWcHJnRVVmbmRXSWFRWlNwZi1OTkRhSVpCNEpDYTc3U3NlVG50cWU4Mmd5YkFoOWo3WFI4Q292TnB0SUFyNkRfZTdfRGhyVk9GcFZ6TlNqUnZpV2ZVeTFrTjV0eEJhZndyOXU3bVRv?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-09T22:57:14+00:00",
-      "display_date": "Nov 09, 2026",
-      "summary": "Court blocks California from enforcing climate disclosure laws Reuters",
-      "topics": [
-        "ESG & Sustainability"
-      ]
-    },
-    {
       "title": "Another False Claims Act Case on Cybersecurity",
       "link": "https://www.radicalcompliance.com/2026/11/09/another-false-claims-act-case-on-cybersecurity/",
       "source": "Radical Compliance",
@@ -158,14 +246,14 @@
       ]
     },
     {
-      "title": "Is the Nvidia Affair Securities Fraud? - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdGY3MWhhWHBaZk54YjdsNTVCX29VeC1VTEVBXzBNQTViQmpyNUVMdFVla2s3NDZlQnZ3RjZwM1BSWVc4b1A5d004Nk42Vm4zTExTcE1PWjVKQ0lVRTFZLWVmM19yUGtIY1ZLenhINlpuOUxxOUpxYXBnMlBtZ2J1Uy05d05LZXlBeE5SYXJHTXNMQ1ZNTUNxOTFn?oc=5",
-      "source": "Bloomberg.com",
-      "date": "2026-11-09T19:00:57+00:00",
+      "title": "Canadian Investment Regulatory Organization Trading Halt - ALTU.WT – Company Announcement - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWlNqNzZmYzVYRDNFT1I2ZF8zTWY5b1dOaGJMNGJfcHNGUVlWMmZtRGpfLTRtb25SNmZwdGgyVlc1UUJCQVJlSUN0TU0zbVAzU3VjbjNhX1VjWXFqUlVpMXFzVXpVeUlJakd0S1RFc2F2SUFuOUlqSVVCYkRzMk1hUWc4VnVJLWtZbndsRUtON1loRnJuVFE?oc=5",
+      "source": "Financial Times",
+      "date": "2026-11-09T20:31:00+00:00",
       "display_date": "Nov 09, 2026",
-      "summary": "Is the Nvidia Affair Securities Fraud? Bloomberg.com",
+      "summary": "Canadian Investment Regulatory Organization Trading Halt - ALTU.WT – Company Announcement Financial Times",
       "topics": [
-        "Enforcement Actions"
+        "Regulatory Change"
       ]
     },
     {
@@ -225,14 +313,14 @@
       ]
     },
     {
-      "title": "Hyperscalers Face Fresh Scrutiny Over Data-Center Emissions",
-      "link": "https://www.wsj.com/pro/business-resilience/hyperscalers-face-fresh-scrutiny-over-data-center-emissions-e18b668c?mod=pls_whats_news_us_business_f",
-      "source": "Wall Street Journal",
-      "date": "2026-11-09T16:06:00+00:00",
+      "title": "Czech government approves energy price regulation during market stress - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQamQ3aFgxOG9YdEpwdi1fRWhVZU9Ta3NoVVZ3bE5GWEJISURNellUWV9XWElMRnhYRlJFRlFKWWRjNUpmVE0xVTRvTm1tY3pBckdEeG1xX0pHUWdwVjN3UXBSYTR5a2dUYk9nYjdFb1k1a0x1N1ZBSlkxSWZseHBKVlZyUFdEOU5TYlVvMmVReXBadlJKYkhsMEswX1hncFRFaDB5XzMzSjJFZEJQRWRYVENydVVma2dNTTFSYUhxWQ?oc=5",
+      "source": "Reuters",
+      "date": "2026-11-09T16:21:44+00:00",
       "display_date": "Nov 09, 2026",
-      "summary": "Plus: Putting nuclear reactors on ships; California utility raises rates in effort to combat wildfires.",
+      "summary": "Czech government approves energy price regulation during market stress Reuters",
       "topics": [
-        "ESG & Sustainability"
+        "Regulatory Change"
       ]
     },
     {
@@ -291,6 +379,17 @@
       ]
     },
     {
+      "title": "Canadian Investment Regulatory Organization Trading Halt - FNT.U – Company Announcement - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNN3haSkFXNEg1TGVhNDFIN1pCWWw0YlhNdHAwN1JxQ0t5bXQxVmJzZUFPdWRKQXIxWjNxdlFic1kzODZqQVBGRGNNeDJyUVpDclp4Ymg3VnlYS2o1TnlCOTlZX3JhT0VQRVVLejV5RGJPVzJERnhITW9VeG9QRENyeW9ic3VxaDg5b19YdUtLOGRkWDUxMnc?oc=5",
+      "source": "Financial Times",
+      "date": "2026-11-09T14:31:00+00:00",
+      "display_date": "Nov 09, 2026",
+      "summary": "Canadian Investment Regulatory Organization Trading Halt - FNT.U – Company Announcement Financial Times",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
       "title": "BBVA Sustainable Finance Activity Jumps 27% to €120 Billion",
       "link": "https://www.esgtoday.com/bbva-sustainable-finance-activity-jumps-27-to-e120-billion/?utm_source=rss&utm_medium=rss&utm_campaign=bbva-sustainable-finance-activity-jumps-27-to-e120-billion",
       "source": "ESG Today",
@@ -310,6 +409,17 @@
       "summary": "The jobless are the sacrificial lambs of Australia’s monetary policy. I remain shocked that the lucky country actively excludes so many from a chance at its luck The causes of finding yourself out of work are many. Being made redundant, having a contract not renewed, bullied into...",
       "topics": [
         "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Nordea Fine for Flawed Laundering Controls Dodges Worst Case - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOemo0d3c0elFEWk1jZmMzQS00cjZvc3lkcXUwc2E5YmlXakpvZVk3Z1lwMGVMbnA0UkxwbjBRWkVBcXJOXzBrWGlVTHVIallmMWpwdVpHMlhuQjJwTHlKamxSOXYwYnFQaFFrZDlLbF9FS2FaenRDdWpaTFpINEhCQ2I4Y1YzTGQ4SXNLdmxPWnNBSnRtUDFzOVNmS2JETnNoYzFiWk1EeFhsUnl6aXNV?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-11-09T13:37:21+00:00",
+      "display_date": "Nov 09, 2026",
+      "summary": "Nordea Fine for Flawed Laundering Controls Dodges Worst Case Bloomberg.com",
+      "topics": [
+        "Enforcement Actions"
       ]
     },
     {
@@ -379,17 +489,6 @@
       ]
     },
     {
-      "title": "Social media posts its opposition to being sued by users - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPblh0UjhKSXJuY3dabnNsLVd5eVdXVkhrdXVsTnBaU2ZoMGNMOTI4XzVxc3o1TktCZzc3Y0NLMVFBWnRDRTF4eGJtUXBaVjZ3T2NEUlZqQ19ZM25YTkk3OGdEc25oQU90c0NDU1J3ZXh4SnVoMWphV25jbmZwQldqcEd0dy1JdC0zYmlwTDhuLWUwX0Rnems5TEJPUnMtVlpnRnlnV0Jmc1NfN2ctelFNN2hwLXVpVnRMYkhGOTFvdVJGNWFkVEZYdDFleFM4UGxocDRScU9BcndXX2FCS2JiTGlrRlFnWThwUno0?oc=5",
-      "source": "The Australian",
-      "date": "2026-11-09T11:38:04+00:00",
-      "display_date": "Nov 09, 2026",
-      "summary": "Social media posts its opposition to being sued by users The Australian",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
       "title": "Coinbase Gets Final Regulatory Stamp For Trust-Bank Charter - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTU1jWHZhTVJlRkJ5UXRQbzliNmRCc2VMSm9sZXNCVlJIVVdiOW1qOG9Ba0pSU3Rjb0RQekZBUnVSaDAtSU9sNnZaTUhJOWhWMVRsVzgxbUE3TUw3dldTeW9XZ0pPai0xR2ZKQWJaM0k1YlNrVnFmSUhXczUtcC1jNkRKVkdsSkZPcDYzaDlfREM4bC00YjdNM1JwRXBkektvQVp6ZFpZQ181ckZwbGtR?oc=5",
       "source": "Bloomberg.com",
@@ -409,6 +508,17 @@
       "summary": "Guest post by: Chris Winchurch, General Manager, Novisto Carbon Investors, lenders and customers are paying […]",
       "topics": [
         "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "Social media posts its opposition to being sued by users - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPblh0UjhKSXJuY3dabnNsLVd5eVdXVkhrdXVsTnBaU2ZoMGNMOTI4XzVxc3o1TktCZzc3Y0NLMVFBWnRDRTF4eGJtUXBaVjZ3T2NEUlZqQ19ZM25YTkk3OGdEc25oQU90c0NDU1J3ZXh4SnVoMWphV25jbmZwQldqcEd0dy1JdC0zYmlwTDhuLWUwX0Rnems5TEJPUnMtVlpnRnlnV0Jmc1NfN2ctelFNN2hwLXVpVnRMYkhGOTFvdVJGNWFkVEZYdDFleFM4UGxocDRScU9BcndXX2FCS2JiTGlrRlFnWThwUno0?oc=5",
+      "source": "The Australian",
+      "date": "2026-11-09T08:11:00+00:00",
+      "display_date": "Nov 09, 2026",
+      "summary": "Social media posts its opposition to being sued by users The Australian",
+      "topics": [
+        "Enforcement Actions"
       ]
     },
     {
@@ -508,18 +618,6 @@
       "summary": "‘Final warning’: ASIC flags licence threat over lead generators AFR",
       "topics": [
         "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "ESG Today: Week in Review",
-      "link": "https://www.esgtoday.com/esg-today-week-in-review-282/?utm_source=rss&utm_medium=rss&utm_campaign=esg-today-week-in-review-282",
-      "source": "ESG Today",
-      "date": "2026-11-08T09:56:29+00:00",
-      "display_date": "Nov 08, 2026",
-      "summary": "This week in ESG news: UK to introduce supply chain human rights due diligence law; […]",
-      "topics": [
-        "ESG & Sustainability",
-        "Operational & Enterprise Risk"
       ]
     },
     {
@@ -633,6 +731,17 @@
       ]
     },
     {
+      "title": "Canadian Investment Regulatory Organization Trade Resumption - ELEF – Company Announcement - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQU3JTZEpNNEdHdlZVeWVDNldYbnJPRjhrMV9OZzFDcDVHc0htT0lrNXJiTHVya2RlME05Wk1hb0IyY3BTbjB6SnZMaXQ0dzdwNE4tbVVlUk80clUyQmhvVkk5Tk9vT2FEeTY4TTQ5NFpVTVlIWDVxbjFPZmhVY3E5OFZxeWdBekw1UWNDMG1OOE5hVWY1YkE?oc=5",
+      "source": "Financial Times",
+      "date": "2026-11-06T15:32:00+00:00",
+      "display_date": "Nov 06, 2026",
+      "summary": "Canadian Investment Regulatory Organization Trade Resumption - ELEF – Company Announcement Financial Times",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
       "title": "GRC Business Roundup: OneTrust, Diligent, Eventus, LogicGate, AMLYZE & More",
       "link": "https://www.corporatecomplianceinsights.com/grc-business-roundup-onetrust-diligent-eventus-logicgate-amlyze-more/",
       "source": "Corporate Compliance Insights",
@@ -663,17 +772,6 @@
       "summary": "The biotech company now expects 2026 revenue growth of 15% to 25%, up from its previous guidance of up to 10%.",
       "topics": [
         "Regulatory Change"
-      ]
-    },
-    {
-      "title": "NBIM Acquires $300 Million Stake in Aypa Power in First Direct Battery Storage Investment",
-      "link": "https://www.esgtoday.com/nbim-acquires-300-million-stake-in-aypa-power-in-first-direct-battery-storage-investment/?utm_source=rss&utm_medium=rss&utm_campaign=nbim-acquires-300-million-stake-in-aypa-power-in-first-direct-battery-storage-investment",
-      "source": "ESG Today",
-      "date": "2026-11-06T12:34:08+00:00",
-      "display_date": "Nov 06, 2026",
-      "summary": "Norges Bank Investment Management (NBIM), the investment manager for Norway’s $2 trillion oil fund, announced […]",
-      "topics": [
-        "ESG & Sustainability"
       ]
     },
     {
@@ -718,17 +816,6 @@
       "summary": "",
       "topics": [
         "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "EV Truck Platform Harbinger Raises $240 Million to Expand into Energy Storage, Defense",
-      "link": "https://www.esgtoday.com/ev-truck-platform-harbinger-raises-240-million-to-expand-into-energy-storage-defense/?utm_source=rss&utm_medium=rss&utm_campaign=ev-truck-platform-harbinger-raises-240-million-to-expand-into-energy-storage-defense",
-      "source": "ESG Today",
-      "date": "2026-11-06T10:31:51+00:00",
-      "display_date": "Nov 06, 2026",
-      "summary": "Electric truck manufacturer Harbinger announced that it has raised $240 million in a Series D […]",
-      "topics": [
-        "ESG & Sustainability"
       ]
     },
     {
@@ -866,17 +953,6 @@
       ]
     },
     {
-      "title": "US slaps sanctions on Indian, Turkish firms and people for aiding Iran - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTU5EOWpMNjZvcmh2TzIzTHo1OWRzaUdGRWZEN0xwbWpqV09pOGFoY2M5dlEya2xHTHJnS0VsQjZGM2lSTVk1U05TbHpLc3FveFhySUgtb1dPWEtXTkNXVlg4MWlwbTBSeGw1R2pPWTg3d3ZuV01nSDNvWWVQSjRTeFRSb3N2QnFMa0FMUDBGTWY5NDVIdG41Z05wdnRQT3pBRWJvSzg3Z0tEVXZSZDM5ag?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-05T15:22:35+00:00",
-      "display_date": "Nov 05, 2026",
-      "summary": "US slaps sanctions on Indian, Turkish firms and people for aiding Iran Reuters",
-      "topics": [
-        "AML & Sanctions"
-      ]
-    },
-    {
       "title": "Supply Chain Platform Achilles Acquires Contractor Management Tool Cm3",
       "link": "https://www.corporatecomplianceinsights.com/supply-chain-platform-achilles-acquires-contractor-management-tool-cm3/",
       "source": "Corporate Compliance Insights",
@@ -1000,6 +1076,18 @@
       ]
     },
     {
+      "title": "Bloomberg Wins Best AML/CTF & Sanctions Data Provider at the Regulation Asia Awards | Press | Bloomberg LP - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORHZoMDZFVUh5NVkwY0RRcnM0SWx0b3BvcV9kV0tfOVNBbERZZjhXZnhrVzdoeWJnSzVkN0FKdzFUVlUyUUUwZHJwdWVXMkg0bWdsR0RIUlg3V2hYU3d4amc3ZnhpaDBsV0lVVFU4VXNoUWhZby1rMDJ3T2ZPYjd3a0JOOGx6bTh4LVZJQlo0TWphS0xwRUVMaU1Ed1hkYXAwejAxYXJPLXFzdldUdk96TlJ6Z2Jrakg1RDNzaXdwMA?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-11-05T08:00:00+00:00",
+      "display_date": "Nov 05, 2026",
+      "summary": "Bloomberg Wins Best AML/CTF & Sanctions Data Provider at the Regulation Asia Awards | Press | Bloomberg LP Bloomberg.com",
+      "topics": [
+        "Regulatory Change",
+        "AML & Sanctions"
+      ]
+    },
+    {
       "title": "Clive Palmer loses High Court battle against ex-ASIC boss James Shipton - AFR",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZ2tkMWxTS1A3OGd1Y0ZIbjdDeGRlc0EzeGlYYy1nZENCOWN5c2JDRm4wblVVeGllVEpzbUcwZkZVU1Rwd0pGQ054RVhjQWVSbHBQWnc5TFcwQmE0XzVoWVVYa0lCb1FGLWZUREdISlFlN0dFVW84bXZ6MWVRRzVqWk5mbDZrUHUyVHVMM213WUFLQ2FYcFU4VTJrZ29STUZIbFhoQS1ObEJ6bW1CMG5tdG9hQmF6SFdrTDNLOFFPRU81eGxmeTZTMV9relRZMnc?oc=5",
       "source": "AFR",
@@ -1077,6 +1165,17 @@
       ]
     },
     {
+      "title": "What a Democratic congress means for Trump’s foreign-policy agenda - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNajQzeUxzQWxnUlh4TXB1a29uV09JMV9WaXBRY0hqTk9pSC1hdUZUSEFVbzVTemhpYVRVZUdiM1RHVXRLa0FZLVF2Rld3OTVsYjZQcDFBdEROWGx5Z3U0MnplbExiQlBqWW9PSHg3SlVmY1lreTE2UjJDYnpPZWxTR0VKbV9OdFp4N2ktck9YSDVZOHp3UE5OSTRuNzk2STFPUVdkVEZJTXo5TmtJQUE3QU9yajVMS2VxX3p4XzA5dXRlQlEyT2tYVElqbDJrMUlGUUI3dF96NXlVSlFqc2NzUQ?oc=5",
+      "source": "The Australian",
+      "date": "2026-11-04T22:16:00+00:00",
+      "display_date": "Nov 04, 2026",
+      "summary": "What a Democratic congress means for Trump’s foreign-policy agenda The Australian",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
       "title": "E.l.f. Beauty posts 51% sales increase, raises full-year guidance",
       "link": "https://www.cnbc.com/2026/11/04/elf-beauty-elf-q2-2027-earnings.html",
       "source": "CNBC",
@@ -1096,6 +1195,17 @@
       "summary": "Welcome to the \"Great Women in Compliance\" podcast, co-hosted by Lisa Fine and Hemma Lomax. The post On The Record appeared first on Corporate Compliance Insights .",
       "topics": [
         "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "US slaps sanctions on Indian, Turkish firms and people for aiding Iran - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSEhmUWlhLUFxUEhVeEJxVXdwc3FtVndOSUg4YlNfQ2RyYUt2OUFlM200M1h3M3NLZEFpU2c1MHJza2JPV2dkWGRWU05sMlp2ZmRqVUxUa3Rvd2RSeGFyQXctSDZPYTNfUmEza1lLSEY5SUN2OUdmZkhHQW5tTTcza3FfbGZ2X1ZkZk5VWmVWWHRhLW9pZmx3QmJOSVJLdWR1OHRNaUJoQVVKZw?oc=5",
+      "source": "Reuters",
+      "date": "2026-11-04T19:06:12+00:00",
+      "display_date": "Nov 04, 2026",
+      "summary": "US slaps sanctions on Indian, Turkish firms and people for aiding Iran Reuters",
+      "topics": [
+        "AML & Sanctions"
       ]
     },
     {
@@ -1205,18 +1315,6 @@
       "display_date": "Nov 03, 2026",
       "summary": "Clark, an AI company that builds autonomous agents to perform audit work for CPA firms, announced an $11 million seed round led by Touring Capital, bringing total funding to $16 million. Founded in October 2024 as uiAgent and rebranded to Clark in July 2026 as part of a positioni...",
       "topics": [
-        "Operational & Enterprise Risk"
-      ]
-    },
-    {
-      "title": "Y’all Street Plays by Familiar Rules — With a Few Twists",
-      "link": "https://www.corporatecomplianceinsights.com/yall-street-plays-by-familiar-rules/",
-      "source": "Corporate Compliance Insights",
-      "date": "2026-11-03T12:00:33+00:00",
-      "display_date": "Nov 03, 2026",
-      "summary": "TXSE’s governance framework mostly tracks the incumbents, so the question for boards is where it doesn’t The post Y’all Street Plays by Familiar Rules — With a Few Twists appeared first on Corporate Compliance Insights .",
-      "topics": [
-        "Regulatory Change",
         "Operational & Enterprise Risk"
       ]
     },
