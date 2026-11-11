@@ -1,7 +1,84 @@
 {
-  "last_updated": "November 11, 2026 00:39 UTC",
-  "total_count": 236,
+  "last_updated": "November 11, 2026 04:49 UTC",
+  "total_count": 238,
   "articles": [
+    {
+      "title": "ASX ticks higher as BHP rebounds, tech stocks rise; CBA, Macquarie Bank fall",
+      "link": "https://www.smh.com.au/business/markets/asx-set-to-fall-as-wall-street-slumps-on-inflation-anthropic-targets-2-trillion-valuation-20261111-p61d3m.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+      "source": "The Sydney Morning Herald",
+      "date": "2026-11-11T03:23:00+00:00",
+      "display_date": "Nov 11, 2026",
+      "summary": "The Australian sharemarket has ticked lower in early trade, tracking losses on Wall Street after a report showed US inflation was worse than expected last month, fuelling interest rate concerns.",
+      "topics": [
+        "Data Privacy"
+      ]
+    },
+    {
+      "title": "Nvidia Scandal Tests the Resilience of the Global AI Boom",
+      "link": "https://www.wsj.com/tech/ai/jensen-huang-nvidia-ceo-ai-bubble-93097556?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-11-11T03:00:00+00:00",
+      "display_date": "Nov 11, 2026",
+      "summary": "Jensen Huang is the biggest cheerleader of the ‘next industrial revolution.’ Could it carry on without him?",
+      "topics": [
+        "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "Ternium Says Mexico Steel Imports Need Strict Tariff Enforcement - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbzBER1BLeGJ0Q0J4SkFxOHBSbnpuQzdWajN1WmpldVd0ZC1MTUlRbWpKZ1FaS0o2Zkx4b3F2aXVDUEloRTBRNDk4bTAwdGhzSnpWcGVXYy1zVWxZNnJlWVROc0ZNTW9PUTNRMHQ2MzIyUmdBbUJKZE9SeVFCbVdhSnQtek1CeWJZczhJWmszM3FybmcwTzEtVU1GaDNiUUlQcE11dGc4YzJIWTd6Q0RUYXpGUElyUQ?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-11-11T01:43:00+00:00",
+      "display_date": "Nov 11, 2026",
+      "summary": "Ternium Says Mexico Steel Imports Need Strict Tariff Enforcement Bloomberg.com",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "Macquarie Bank to pay $14m penalty after confusing ‘welcome rate’ promotion",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/11/macquarie-bank-14m-penalty-welcome-rate-savings-account",
+      "source": "The Guardian Australia",
+      "date": "2026-11-11T01:23:39+00:00",
+      "display_date": "Nov 11, 2026",
+      "summary": "Asic says customers should not have to check every transaction to ensure they receive the correct interest Get our breaking news email , free app or daily news podcast Macquarie Bank is set to pay a $14m court-imposed penalty after it admitted to breaking the Corporations Act wit...",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "Macquarie Bank fined $14m over misleading savings rate ads - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNZ1lsaEFKRVFNV3VWSzV5ZlUySUVYNUtXZnB1QVplak1kNGY3c0drRWwwZWc1Y0xXaFZ1andtOU5qWHdMWTRrWHJ3eDVvX0VMOVZTUDFoS1BrcENuV2kxT2V4MGU0bS16QTZpUFdGYXQ3a1VJVTk0UlBLRWUzSmRLUjU0M2xySkpfakhENldZdVVDMXpDamZId1FCOEZOS05GcFF2YnlUT0pPVnhLcFY4c2Z1QW1CNkJ0UFhDS253SktNbm8xLVlhejJ6blg3WlRBeEYwSWxYeXhMT2dHVEJfeXVkc29wSkNHUDhBd3NQajlDX3JyeXU2X09VdEdPZw?oc=5",
+      "source": "The Australian",
+      "date": "2026-11-11T01:08:19+00:00",
+      "display_date": "Nov 11, 2026",
+      "summary": "Macquarie Bank fined $14m over misleading savings rate ads The Australian",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "Victorian Coalition position strengthens; Macquarie Bank fined $14m; Aussie Anthropic investors might already feel ripped off - AFR",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPeTBrQVY3WW9ZdTVtY0ZwdVk1M2hCUmZ3UEMwY29nak5JVzNqYlJlUUpQZ2NvNEZRMlBFVjNsSEZ5TEN2UVJGOEVwYXk2N3FnalFDU1BBUzJ6NG1YelZudVJxVy1zeHNvYkNMSWlpWGo4aF9NVFNhZmhXRWNLRlA5SUdEX3BSRm96NE5pY2c5eWtkNTlkbmg1SjNZQVh4WjRmY2MxWlRhZk1oWDJ6czhXUzh1UzN5cUtscHl2bVNMLWp3cXY4azd0bjVHQWN3YklVSWI1M0d5ZHVGNGZ2OVp5NmJwZ3RtSFo4MkVVYm1iMFIwSVZWTnRFNXdZa2lNV09WZkg4ZUpSenk3N25DVWc?oc=5",
+      "source": "AFR",
+      "date": "2026-11-11T01:02:00+00:00",
+      "display_date": "Nov 11, 2026",
+      "summary": "Victorian Coalition position strengthens; Macquarie Bank fined $14m; Aussie Anthropic investors might already feel ripped off AFR",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "Trump refugee joins Climate 200 board - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPUE5XVnFIMEQyUzZ1YkRid2I4Mk1FdnJWc1N3bERfMlVLNjZndk5QMTBsSWxKLUxmMlNEWUJfNzhUZUFySS1Yc1Vjbnc3eVpsNnNjNUtlaHA1Y0xsdWwySGRIeUVfOTJ1RE5GbXFwZVlkQ1FyNmRyVS1KcnhGX1lpd0JLaXZuNlg4RkJQRUVoRGdYaGNZRGY2eUlMSUdfNnZHekdaSjU5MDdHcmNLZVNmTGs4YjJxOWpLZ3lfWnc3Q25BT1J4aWYyRlpsOVlGTkdFRzN5dS1TbC1ZLXkxTUVyRUhNOGZ1ZUZ4a1R2SHF3NXh4b1htdmZNTWFWTTh1Q2YtUS11QmVxLXZmZ2JhNTVzTw?oc=5",
+      "source": "The Australian",
+      "date": "2026-11-11T00:48:06+00:00",
+      "display_date": "Nov 11, 2026",
+      "summary": "Trump refugee joins Climate 200 board The Australian",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
     {
       "title": "Macquarie admits ‘bonus’ savings rate failure, agrees to pay $14 million",
       "link": "https://www.smh.com.au/business/banking-and-finance/macquarie-admits-bonus-savings-rate-failure-agrees-to-pay-14-million-20261111-p61d6t.html?ref=rss&utm_medium=rss&utm_source=rss_business",
@@ -25,6 +102,17 @@
       ]
     },
     {
+      "title": "Russian Push to Escape Dollar for Yuan Collapses Under Sanctions - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQb0R6T0pEZWhsd1lmdGIwVXlhNVhHX1JueFpjQ2l0UDRsVnNjLTB0TlFRa3RERjhkaVJNZ1ozaVdkUW5hUl91M0djZUVxY0JyWGpORk9Ta3pWazU2MEpwV3kwdlNHd0JCWnNpSnViUHQxWXZWY0t6bmg0RU9QV25Ed2Nac2NibERaZ1F3ZV93XzlHNEhXQlQxZVB0ZzMxRmZxTXBfZW53eUV5U1N3V0ZNR3dRTTRlUGxIM1dhbDNkOE9FSnFDYVFEWUpPSjNxSkpJYXc?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-11-11T00:00:00+00:00",
+      "display_date": "Nov 11, 2026",
+      "summary": "Russian Push to Escape Dollar for Yuan Collapses Under Sanctions Bloomberg.com",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
       "title": "When financial concerns become a crisis, early action and the right advisers matter",
       "link": "https://www.complianceweek.com/best-practices/when-financial-concerns-become-a-crisis-early-action-and-the-right-advisers-matter/",
       "source": "Compliance Week",
@@ -33,17 +121,6 @@
       "summary": "Financial warning signs often surface early. Acting quickly and assembling the right team, from forensic accountants to legal counsel, can limit losses and prevent crises. The post When financial concerns become a crisis, early action and the right advisers matter appeared first ...",
       "topics": [
         "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Gold miners lead ASX lower as Wall Street slumps on inflation report",
-      "link": "https://www.smh.com.au/business/markets/asx-set-to-fall-as-wall-street-slumps-on-inflation-anthropic-targets-2-trillion-valuation-20261111-p61d3m.html?ref=rss&utm_medium=rss&utm_source=rss_business",
-      "source": "The Sydney Morning Herald",
-      "date": "2026-11-10T23:56:53+00:00",
-      "display_date": "Nov 10, 2026",
-      "summary": "The Australian sharemarket has ticked lower in early trade, tracking losses on Wall Street after a report showed US inflation was worse than expected last month, fuelling interest rate concerns.",
-      "topics": [
-        "Data Privacy"
       ]
     },
     {
@@ -301,6 +378,17 @@
       ]
     },
     {
+      "title": "FACTBOX Fires, protests, pollution: Apple's supply chain woes in India - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZWtQRWVONlM0b1NBcUVkV3hTWVJnQWRpTHlUMGxFa0M0NEhyV2hJVURMLVdvVTFFYm9FNFF6bTRTQ1g1QW04WnJLenpMWTUzdDBKcmNjSzZxblc4Rk1Bb2ZpdzVYekhnamk2UDdXSmVWbkRLMU9pZEN1WkxrVEZPSzFLY2ZEOVphRGdPZndiV0cxUHF2WU5wd3gxaGFKUmNzSnMzandnNUxnMDBfWEt2eG9ISUlzUkU?oc=5",
+      "source": "Reuters",
+      "date": "2026-11-10T14:42:16+00:00",
+      "display_date": "Nov 10, 2026",
+      "summary": "FACTBOX Fires, protests, pollution: Apple's supply chain woes in India Reuters",
+      "topics": [
+        "Operational & Enterprise Risk"
+      ]
+    },
+    {
       "title": "Canadian Investment Regulatory Organization Trade Resumption - COPR – Company Announcement - Financial Times",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZXEwc1V4bFNiZl9GN3phNWkyNmRRX0QyVTdRZy1DRzNIV0xoVWtZMm03OVJrejZSUmMzNm11bzE0UEJTYURIc0ZsNkZxUXdrTTdGWGJ4OGJjSi1US3ZNTUgxa1Vzdmp0ZExaTTRBc1BNbFN2U3E4Z3gwWW9zVkRoU2VRanZiOUJhaWhNUnFHZkhrQ0o4SUE?oc=5",
       "source": "Financial Times",
@@ -466,17 +554,6 @@
       ]
     },
     {
-      "title": "Trump refugee joins Climate 200 board - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPUE5XVnFIMEQyUzZ1YkRid2I4Mk1FdnJWc1N3bERfMlVLNjZndk5QMTBsSWxKLUxmMlNEWUJfNzhUZUFySS1Yc1Vjbnc3eVpsNnNjNUtlaHA1Y0xsdWwySGRIeUVfOTJ1RE5GbXFwZVlkQ1FyNmRyVS1KcnhGX1lpd0JLaXZuNlg4RkJQRUVoRGdYaGNZRGY2eUlMSUdfNnZHekdaSjU5MDdHcmNLZVNmTGs4YjJxOWpLZ3lfWnc3Q25BT1J4aWYyRlpsOVlGTkdFRzN5dS1TbC1ZLXkxTUVyRUhNOGZ1ZUZ4a1R2SHF3NXh4b1htdmZNTWFWTTh1Q2YtUS11QmVxLXZmZ2JhNTVzTw?oc=5",
-      "source": "The Australian",
-      "date": "2026-11-10T05:26:42+00:00",
-      "display_date": "Nov 10, 2026",
-      "summary": "Trump refugee joins Climate 200 board The Australian",
-      "topics": [
-        "ESG & Sustainability"
-      ]
-    },
-    {
       "title": "Australia to Create AI Safety Regulator, Mandatory Rules - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWGViZ2xsOWVMUVRfQnNEeWNfZ0RIQzEydE1qOHBjSkk4ZEVvTThTSnpBUmNqV0lGVEtPaW4xTmtTYUVEeGxQQW83X1hWZTM0ai1uUDA0ZWRBTGoyQTdldmNScGhncWJab1pIajY1SlhIeXpnNTdGWGdkQ2kzLURqZGQxeVN6NlQyM2d2Yy1ndm1YOW9BWmFDOVplano2ZHh5R0FOVnV5WDBmMDZZNHpOT0gtaw?oc=5",
       "source": "Bloomberg.com",
@@ -588,17 +665,6 @@
       ]
     },
     {
-      "title": "Operator of Neil the seal merchandise website fined for false claims",
-      "link": "https://www.abc.net.au/news/2026-11-10/fairtrading-fines-neil-the-seal-merch-website-owner/107362984",
-      "source": "ABC News Business (AU)",
-      "date": "2026-11-09T18:25:32+00:00",
-      "display_date": "Nov 09, 2026",
-      "summary": "The operator of a now-closed Neil the seal merchandise website has been fined for \"falsely\" claiming it was donating a portion of its profits to conservation organisations.",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
       "title": "ASIC slams private credit fund conflicts after 10-month probe - AFR",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMGtUUmNVaHlmTldtZ2o0QUtRSTBQdzFpMGNhS09oZWl4SlpYdW1ETVVaSkdvR1g0T2JjRmE5eFBqR3B4TlpSaGZpaTNYbUNZUkpVbm9jZE1lOU1pNk1pWWI3N2U1SkJ5ZXRjODBtMTQzWHpxQ1BzdWxtZHo5LUF6WTNndXVqLV94dkRCc3N5WHAyeGJUcDZDS0RJNFRRQUtocUNXTzZ4ZS1tYnVYc1dncFlKY3A5bzdXU1VvNU9UUmkxWlpk?oc=5",
       "source": "AFR",
@@ -618,17 +684,6 @@
       "summary": "Advisory firm’s founder knows the power of a female team AFR",
       "topics": [
         "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Corporate cop investigating $3b collapse of major Sydney builder",
-      "link": "https://www.smh.com.au/business/banking-and-finance/corporate-cop-investigating-collapse-of-major-sydney-builder-20261110-p61cky.html?ref=rss&utm_medium=rss&utm_source=rss_business",
-      "source": "The Sydney Morning Herald",
-      "date": "2026-11-09T18:00:00+00:00",
-      "display_date": "Nov 09, 2026",
-      "summary": "Financial advisers are channelling money into a sector that ASIC has accused of being home to some operators that use hidden fees and shift investor cash around.",
-      "topics": [
-        "Enforcement Actions"
       ]
     },
     {
@@ -662,17 +717,6 @@
       "summary": "Financial technology provider and exchange operator Intercontinental Exchange (ICE) announced its entry into climatic variable […]",
       "topics": [
         "ESG & Sustainability"
-      ]
-    },
-    {
-      "title": "Canadian Investment Regulatory Organization Trading Halt - FNT.U – Company Announcement - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNN3haSkFXNEg1TGVhNDFIN1pCWWw0YlhNdHAwN1JxQ0t5bXQxVmJzZUFPdWRKQXIxWjNxdlFic1kzODZqQVBGRGNNeDJyUVpDclp4Ymg3VnlYS2o1TnlCOTlZX3JhT0VQRVVLejV5RGJPVzJERnhITW9VeG9QRENyeW9ic3VxaDg5b19YdUtLOGRkWDUxMnc?oc=5",
-      "source": "Financial Times",
-      "date": "2026-11-09T14:31:00+00:00",
-      "display_date": "Nov 09, 2026",
-      "summary": "Canadian Investment Regulatory Organization Trading Halt - FNT.U – Company Announcement Financial Times",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
@@ -981,17 +1025,6 @@
       "summary": "Readers present opposing views on whether low-volume oil and gas wells should face strict federal oversight.",
       "topics": [
         "ESG & Sustainability"
-      ]
-    },
-    {
-      "title": "Canadian Investment Regulatory Organization Trade Resumption - ELEF – Company Announcement - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQU3JTZEpNNEdHdlZVeWVDNldYbnJPRjhrMV9OZzFDcDVHc0htT0lrNXJiTHVya2RlME05Wk1hb0IyY3BTbjB6SnZMaXQ0dzdwNE4tbVVlUk80clUyQmhvVkk5Tk9vT2FEeTY4TTQ5NFpVTVlIWDVxbjFPZmhVY3E5OFZxeWdBekw1UWNDMG1OOE5hVWY1YkE?oc=5",
-      "source": "Financial Times",
-      "date": "2026-11-06T15:32:00+00:00",
-      "display_date": "Nov 06, 2026",
-      "summary": "Canadian Investment Regulatory Organization Trade Resumption - ELEF – Company Announcement Financial Times",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
@@ -1435,17 +1468,6 @@
       "date": "2026-11-04T16:28:00+00:00",
       "display_date": "Nov 04, 2026",
       "summary": "The Securities and Exchange Commission today adopted amendments to the rules that define which registered investment companies, investment advisers, and business development companies qualify as small entities for purposes of the Regulatory Flexibility…",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Canadian Investment Regulatory Organization Trade Resumption - ANT – Company Announcement - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSXdxMHBnOWxSV2dkMnc4WHowS180ZWU1Z1Rna2NaWi1ocXVDNzBxenRtb3k2cmpPT1NEel83Y19GeFFaMjVzbk83SHVOWThFdVJWZHlnWllMTldjSjIxRnBxd25xVEY3TXg0S1JrMGJHQ2pfQ1VtaEpZd1ZscjhmWFRsQWluNWs1ekNWNDdNcGR3S3VMR3c?oc=5",
-      "source": "Financial Times",
-      "date": "2026-11-04T14:49:00+00:00",
-      "display_date": "Nov 04, 2026",
-      "summary": "Canadian Investment Regulatory Organization Trade Resumption - ANT – Company Announcement Financial Times",
       "topics": [
         "Regulatory Change"
       ]
