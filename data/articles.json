@@ -1,16 +1,71 @@
 {
-  "last_updated": "November 11, 2026 04:49 UTC",
-  "total_count": 238,
+  "last_updated": "November 11, 2026 08:47 UTC",
+  "total_count": 237,
   "articles": [
     {
-      "title": "ASX ticks higher as BHP rebounds, tech stocks rise; CBA, Macquarie Bank fall",
-      "link": "https://www.smh.com.au/business/markets/asx-set-to-fall-as-wall-street-slumps-on-inflation-anthropic-targets-2-trillion-valuation-20261111-p61d3m.html?ref=rss&utm_medium=rss&utm_source=rss_business",
-      "source": "The Sydney Morning Herald",
-      "date": "2026-11-11T03:23:00+00:00",
+      "title": "AkzoNobel-Axalta $25 Billion Merger Could Harm Competition, U.K. Regulator Warns",
+      "link": "https://www.wsj.com/tech/akzonobel-axaltas-25-billion-merger-could-harm-competition-u-k-regulator-warns-d3a59010?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-11-11T08:36:00+00:00",
       "display_date": "Nov 11, 2026",
-      "summary": "The Australian sharemarket has ticked lower in early trade, tracking losses on Wall Street after a report showed US inflation was worse than expected last month, fuelling interest rate concerns.",
+      "summary": "The Competition and Markets Authority said the merger will be referred for an in-depth, Phase 2 investigation unless the parties offer to address the competition concerns.",
       "topics": [
-        "Data Privacy"
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Austrac announces regional crackdown on drug money laundering - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOc1FLZC02ZFBLVGVUa2k3amp5bHBUZFhxUEhQSjBiVnBtS1EzNDZ4S3dqV2xxYVJhcHZhM3dISEhmUTdVbnJnbUM4TTVXSDEtQkJZZEUxUXE5OHdrQXlnM0N3cWdBckpkT2pVZkhoVjJIcnJFYndvdHp1dVdmR1NzaEtTZjZQNlN5ZHFyd2RBMXQxWWFZOURTRjBpRS0wMWhDR1ZKMHRTY3h0d0ZYN3k1ZDNibU9tUk01azZscXBvMXhaWmtHdWoyODBqRExTellzZzVFWmlNYjZXZVNEVC04ZnVLTjdmV3RkZ1Rqd2FCdEtmcWJ2OGx4UGNRM3ZENGdCRVpTdA?oc=5",
+      "source": "The Australian",
+      "date": "2026-11-11T08:03:35+00:00",
+      "display_date": "Nov 11, 2026",
+      "summary": "Austrac announces regional crackdown on drug money laundering The Australian",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "China backs Cuba in opposing sanctions, blockades; pledges 'firm support', Xinhua reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa3N1ckV1MFROQXNwREZwam1zUERleFYzWmRERXdxOXZEanNBb05KQ25HSGJoZ3FaVjZqSkw4N2RySndEdk1DajRobFlVRTJKSUdDWVpsUWVia0hUclVTc0ZIV1dvSUFNRWFEdGQzUVRHdkFqeG44ZkNzOGxUWlgwTzNzNjQwTHgzZzR6SEh6OWFzd2diV1QwVVp5aHBWR3dPYXNYc1lIZ2FaazdOdjkzWGJHUGdjRU9haXRKY3VR?oc=5",
+      "source": "Reuters",
+      "date": "2026-11-11T07:43:00+00:00",
+      "display_date": "Nov 11, 2026",
+      "summary": "China backs Cuba in opposing sanctions, blockades; pledges 'firm support', Xinhua reports Reuters",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "McCormick’s $65 Billion Unilever Foods Merger Could Harm Competition, U.K. Regulator Warns",
+      "link": "https://www.wsj.com/business/deals/mccormicks-65-billion-unilever-foods-merger-could-harm-competition-u-k-regulator-warns-ccd08701?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-11-11T07:40:00+00:00",
+      "display_date": "Nov 11, 2026",
+      "summary": "The competition regulator gave the companies one week to address its concerns.",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "E.ON Backs Guidance as Energy Infrastructure Investments Continue",
+      "link": "https://www.wsj.com/business/earnings/e-on-backs-guidance-as-energy-infrastructure-investments-continue-9ec6d44b?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-11-11T07:05:00+00:00",
+      "display_date": "Nov 11, 2026",
+      "summary": "The electric utility group said new projects for industrial and commercial customers were a key growth driver, and added earnings were supported by smart-meters and other assets.",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "ACCC flags concerns on IAG’s RAC WA deal, but market bets it still gets done - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOYkVJMEt3cVJ2RjdKSDZjNEw5Y2dTUWRMOW1ET0ZBbnNfZjFXSTFxZzZzRHg0cmNaYktUMDNDUGpjN1VJbXJ1eUQ0a1BCSmJlS2xqUHpwR3VRSzYzREJDdnFXUkxucFViVk5rek4wOGNEaHFVNHVwZWJSOHByNmxxS0pKQmFBMUt6ZWQ2M3lkaTg2S1NQOXVYeXBTVU1nX1hVNGVneGQyd21DclBTVWN2LVVaVC01NlM5U3dNazZCT0wtNjR3bHdaLXdvVEZwdjlIQk5ZMnIwdEpzMG1NQk5ra2VNZmE0dEx1WWg0cmhzX3ZQQWRPMnZDUV8waG4tUQ?oc=5",
+      "source": "The Australian",
+      "date": "2026-11-11T05:05:19+00:00",
+      "display_date": "Nov 11, 2026",
+      "summary": "ACCC flags concerns on IAG’s RAC WA deal, but market bets it still gets done The Australian",
+      "topics": [
+        "Enforcement Actions"
       ]
     },
     {
@@ -66,17 +121,6 @@
       "summary": "Victorian Coalition position strengthens; Macquarie Bank fined $14m; Aussie Anthropic investors might already feel ripped off AFR",
       "topics": [
         "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "Trump refugee joins Climate 200 board - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPUE5XVnFIMEQyUzZ1YkRid2I4Mk1FdnJWc1N3bERfMlVLNjZndk5QMTBsSWxKLUxmMlNEWUJfNzhUZUFySS1Yc1Vjbnc3eVpsNnNjNUtlaHA1Y0xsdWwySGRIeUVfOTJ1RE5GbXFwZVlkQ1FyNmRyVS1KcnhGX1lpd0JLaXZuNlg4RkJQRUVoRGdYaGNZRGY2eUlMSUdfNnZHekdaSjU5MDdHcmNLZVNmTGs4YjJxOWpLZ3lfWnc3Q25BT1J4aWYyRlpsOVlGTkdFRzN5dS1TbC1ZLXkxTUVyRUhNOGZ1ZUZ4a1R2SHF3NXh4b1htdmZNTWFWTTh1Q2YtUS11QmVxLXZmZ2JhNTVzTw?oc=5",
-      "source": "The Australian",
-      "date": "2026-11-11T00:48:06+00:00",
-      "display_date": "Nov 11, 2026",
-      "summary": "Trump refugee joins Climate 200 board The Australian",
-      "topics": [
-        "ESG & Sustainability"
       ]
     },
     {
@@ -146,17 +190,6 @@
       ]
     },
     {
-      "title": "US justice department sues Lyft over alleged refusal to serve passengers with disabilities",
-      "link": "https://www.theguardian.com/technology/2026/nov/10/doj-lyft-discrimination-disability-lawsuit",
-      "source": "The Guardian Australia",
-      "date": "2026-11-10T22:45:42+00:00",
-      "display_date": "Nov 10, 2026",
-      "summary": "Lawsuit filed in California claims drivers routinely refuse to transport individuals with service animals or mobility devices The Department of Justice sued Lyft on Monday, accusing the ride-share giant of discrimination for denying service to passengers with disabilities. The fe...",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
       "title": "Macquarie Bank to pay $14m penalty over savings account offers - AFR",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWVNCd2l0UTN5dWZJWnhxMVhVTE42QVR4WEZUU2tHeTdtWnRNSVJSc0E0Q0lLbEZjT3p3akJjWlNXYk45azd2WGkwRjY1X1hrcTJqdnBkUkF0V1NTVVF1a0x6bjRfYXY5OElLYjFMWHVwQjBIZFAyT0pzWDEtbm1Ub1BHZ2lPRWdmMU81b3hVc2lvMzk5MGdaaUNDeHBjc1c3REU1b3JTa2lfM3VQYkJhbkpMMmY2bnZI?oc=5",
       "source": "AFR",
@@ -212,17 +245,6 @@
       ]
     },
     {
-      "title": "Canadian Investment Regulatory Organization Trading Halt - PMET – Company Announcement - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdnZrNVVQTHNsQ3dyRS1Fa2tPdWQ3MkZEYXhPanN2bTJrUUI0NVVac3VIOHJ4Z1FUWUxGd3dXSzFtN21NaDg2a1dmYmZDcG9jNUc5ZUtyVzN1ZTNGdUgxNTFEbFNYckZwUEZNc3Q3Y2I4cHJCVFIzQ2VBSG1jMG96M25uZGFIU2xWS2hvSGxFanhJZ0tfZnc?oc=5",
-      "source": "Financial Times",
-      "date": "2026-11-10T21:37:00+00:00",
-      "display_date": "Nov 10, 2026",
-      "summary": "Canadian Investment Regulatory Organization Trading Halt - PMET – Company Announcement Financial Times",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "Google Agrees to Privacy in Spirit Airlines Data Sale",
       "link": "https://www.wsj.com/pro/bankruptcy/google-agrees-to-privacy-in-spirit-airlines-data-sale-474550e4?mod=pls_whats_news_us_business_f",
       "source": "Wall Street Journal",
@@ -231,17 +253,6 @@
       "summary": "Revised bankruptcy pact carves out personnel files and installs an independent monitor to address union and congressional pushback over AI training.",
       "topics": [
         "Data Privacy"
-      ]
-    },
-    {
-      "title": "Iraq bars plane carrying Iran's soccer team from landing in Basra over US sanctions, officials say - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNXZLZlE1TldPUHRna1pNTU91YTJWVHJ5NmxEZERoWGFudjU4WFI1SHlqVXl1TzFmeHBFcjNjZHhOTkNSVTIzcmFsbnktdzR3MDFaY2FYQzVlaHhBc3V5Nm52R3pvZU5vdHJhZndaV3R2LXh1cVZxUkhvcDQ0Z3lMNXA2THdaM05kZVpNOWliNGQ0cHBNOFhYYU44U3hWaVRkYldWNS11ZUtwNUs5YjBJbVdLYjhidklfMnZwYWVwRHpyMGYyMS1Z?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-10T21:11:43+00:00",
-      "display_date": "Nov 10, 2026",
-      "summary": "Iraq bars plane carrying Iran's soccer team from landing in Basra over US sanctions, officials say Reuters",
-      "topics": [
-        "AML & Sanctions"
       ]
     },
     {
@@ -264,6 +275,17 @@
       "summary": "Iran’s soccer team arrives in Iraq by bus after flight barred over US sanctions The Australian",
       "topics": [
         "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "Nigeria approves 145 new oil wells so far this year, regulator says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOd29WXy1pYzYwZXVYQ2NTYmYwNDFfZVRzWC1zNjhCQmluQ2t3NDFtTDdYMjVRNkhRb3JBVUpUN01ROGRCTU11VTdIZ3pBUG9yNG01dllYYk5QQ3dZWF9XaHN1UlpnY1pfOHVNakYwYjVobkJDQmxnSVQyNy1KcXFadURNeDNoVWw0RloyY25pdjZnaEduLU90cUVGZVNlUjMxelEtNGwxaXF6VEM5RGtUVTZqMUFRamVMbXc?oc=5",
+      "source": "Reuters",
+      "date": "2026-11-10T19:41:44+00:00",
+      "display_date": "Nov 10, 2026",
+      "summary": "Nigeria approves 145 new oil wells so far this year, regulator says Reuters",
+      "topics": [
+        "Regulatory Change"
       ]
     },
     {
@@ -378,17 +400,6 @@
       ]
     },
     {
-      "title": "FACTBOX Fires, protests, pollution: Apple's supply chain woes in India - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZWtQRWVONlM0b1NBcUVkV3hTWVJnQWRpTHlUMGxFa0M0NEhyV2hJVURMLVdvVTFFYm9FNFF6bTRTQ1g1QW04WnJLenpMWTUzdDBKcmNjSzZxblc4Rk1Bb2ZpdzVYekhnamk2UDdXSmVWbkRLMU9pZEN1WkxrVEZPSzFLY2ZEOVphRGdPZndiV0cxUHF2WU5wd3gxaGFKUmNzSnMzandnNUxnMDBfWEt2eG9ISUlzUkU?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-10T14:42:16+00:00",
-      "display_date": "Nov 10, 2026",
-      "summary": "FACTBOX Fires, protests, pollution: Apple's supply chain woes in India Reuters",
-      "topics": [
-        "Operational & Enterprise Risk"
-      ]
-    },
-    {
       "title": "Canadian Investment Regulatory Organization Trade Resumption - COPR – Company Announcement - Financial Times",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZXEwc1V4bFNiZl9GN3phNWkyNmRRX0QyVTdRZy1DRzNIV0xoVWtZMm03OVJrejZSUmMzNm11bzE0UEJTYURIc0ZsNkZxUXdrTTdGWGJ4OGJjSi1US3ZNTUgxa1Vzdmp0ZExaTTRBc1BNbFN2U3E4Z3gwWW9zVkRoU2VRanZiOUJhaWhNUnFHZkhrQ0o4SUE?oc=5",
       "source": "Financial Times",
@@ -433,14 +444,14 @@
       ]
     },
     {
-      "title": "Honda Raises Guidance After First-Half Profit Growth",
-      "link": "https://www.wsj.com/business/earnings/honda-raises-guidance-after-first-half-profit-growth-8da73339?mod=pls_whats_news_us_business_f",
-      "source": "Wall Street Journal",
-      "date": "2026-11-10T12:57:00+00:00",
+      "title": "Iraq bars plane carrying Iran's soccer team from landing in Basra over US sanctions, officials say - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNXZLZlE1TldPUHRna1pNTU91YTJWVHJ5NmxEZERoWGFudjU4WFI1SHlqVXl1TzFmeHBFcjNjZHhOTkNSVTIzcmFsbnktdzR3MDFaY2FYQzVlaHhBc3V5Nm52R3pvZU5vdHJhZndaV3R2LXh1cVZxUkhvcDQ0Z3lMNXA2THdaM05kZVpNOWliNGQ0cHBNOFhYYU44U3hWaVRkYldWNS11ZUtwNUs5YjBJbVdLYjhidklfMnZwYWVwRHpyMGYyMS1Z?oc=5",
+      "source": "Reuters",
+      "date": "2026-11-10T12:45:00+00:00",
       "display_date": "Nov 10, 2026",
-      "summary": "Honda Motor raised its annual earnings guidance after stronger sales of cars in North America and motorcycles helped boost first-half profit.",
+      "summary": "Iraq bars plane carrying Iran's soccer team from landing in Basra over US sanctions, officials say Reuters",
       "topics": [
-        "Regulatory Change"
+        "AML & Sanctions"
       ]
     },
     {
@@ -551,6 +562,17 @@
       "summary": "Australia regulator rejects warning of internet safety bill chilling free speech Reuters",
       "topics": [
         "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Trump refugee joins Climate 200 board - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPUE5XVnFIMEQyUzZ1YkRid2I4Mk1FdnJWc1N3bERfMlVLNjZndk5QMTBsSWxKLUxmMlNEWUJfNzhUZUFySS1Yc1Vjbnc3eVpsNnNjNUtlaHA1Y0xsdWwySGRIeUVfOTJ1RE5GbXFwZVlkQ1FyNmRyVS1KcnhGX1lpd0JLaXZuNlg4RkJQRUVoRGdYaGNZRGY2eUlMSUdfNnZHekdaSjU5MDdHcmNLZVNmTGs4YjJxOWpLZ3lfWnc3Q25BT1J4aWYyRlpsOVlGTkdFRzN5dS1TbC1ZLXkxTUVyRUhNOGZ1ZUZ4a1R2SHF3NXh4b1htdmZNTWFWTTh1Q2YtUS11QmVxLXZmZ2JhNTVzTw?oc=5",
+      "source": "The Australian",
+      "date": "2026-11-10T05:22:00+00:00",
+      "display_date": "Nov 10, 2026",
+      "summary": "Trump refugee joins Climate 200 board The Australian",
+      "topics": [
+        "ESG & Sustainability"
       ]
     },
     {
@@ -687,6 +709,17 @@
       ]
     },
     {
+      "title": "Recruiters’ tip for graduates: AI governance is where the money is - AFR",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQk1OaXBkNHBmdXhmb0xwRWI4ZHExNElMd2daZHYzX3h4TVZTSDFLZ29ERXNIQU5vRlRCc3ZkcmJqTUluMk5VdXlhSHdhZVhRcGdIakN2UUdnQmt5ZzFFV2ZFbUQ2ZHU5X2w4NzNwbnNUYjZCOWMtc0N2c2JBOHBoeFV0TGFaR05FRW1DUE00V09wSy1aMFpBY2JiR1c1aGt0cVlIMDlKVjBNU1NEenJlejBGTmJNRllhS3AtV1lrQW1TMFVtcWJn?oc=5",
+      "source": "AFR",
+      "date": "2026-11-09T18:00:00+00:00",
+      "display_date": "Nov 09, 2026",
+      "summary": "Recruiters’ tip for graduates: AI governance is where the money is AFR",
+      "topics": [
+        "Operational & Enterprise Risk"
+      ]
+    },
+    {
       "title": "EU States Back One-Year Delay to Methane Reporting Rules, While Parliament Pushes for Three Years",
       "link": "https://www.esgtoday.com/eu-states-back-one-year-delay-to-methane-reporting-rules-while-parliament-pushes-for-three-years/?utm_source=rss&utm_medium=rss&utm_campaign=eu-states-back-one-year-delay-to-methane-reporting-rules-while-parliament-pushes-for-three-years",
       "source": "ESG Today",
@@ -786,17 +819,6 @@
       ]
     },
     {
-      "title": "Novocure Provides Regulatory Update on U.S. FDA Premarket Approval Application for Optune Mya® for Brain Metastases from Non-Small Cell Lung Cancer – Company Announcement - FT.com - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQendOclZJeHFpMi1IMV9kanp0LTdhdmpYNWNDdnFpOHE1emp1N2NqN0NwODgyMUc1VlFIMzUxNk1UUXBVby16dklZVnFCcjhkYmNzOVlxdkxxXzhBZ1VLOXg0NlR3b0ZTeU9mbHFuUnZ5eWtjZ3ktV1NObkl2ZUtJYnFyMDVkWE44ZlJ0SDNDRGhYajF5a0FUSEhlMTdQUjBjdU1MVlBB?oc=5",
-      "source": "Financial Times",
-      "date": "2026-11-09T12:00:00+00:00",
-      "display_date": "Nov 09, 2026",
-      "summary": "Novocure Provides Regulatory Update on U.S. FDA Premarket Approval Application for Optune Mya® for Brain Metastases from Non-Small Cell Lung Cancer – Company Announcement - FT.com Financial Times",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/11/09/cisa-adds-four-known-exploited-vulnerabilities-catalog",
       "source": "CISA Cybersecurity Advisories",
@@ -827,17 +849,6 @@
       "summary": "Social media posts its opposition to being sued by users The Australian",
       "topics": [
         "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "Intesa Gets Green Light From Italian Markets Regulator for Monte Dei Paschi Bid",
-      "link": "https://www.wsj.com/business/deals/intesa-gets-green-light-from-italian-markets-regulator-for-monte-dei-paschi-bid-054726f9?mod=pls_whats_news_us_business_f",
-      "source": "Wall Street Journal",
-      "date": "2026-11-09T07:16:00+00:00",
-      "display_date": "Nov 09, 2026",
-      "summary": "The Italian bank’s $39.05 billion takeover offer is set to launch later this month.",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
@@ -1239,28 +1250,6 @@
       ]
     },
     {
-      "title": "US slaps sanctions on Indian, Turkish firms and people for aiding Iran - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTU5EOWpMNjZvcmh2TzIzTHo1OWRzaUdGRWZEN0xwbWpqV09pOGFoY2M5dlEya2xHTHJnS0VsQjZGM2lSTVk1U05TbHpLc3FveFhySUgtb1dPWEtXTkNXVlg4MWlwbTBSeGw1R2pPWTg3d3ZuV01nSDNvWWVQSjRTeFRSb3N2QnFMa0FMUDBGTWY5NDVIdG41Z05wdnRQT3pBRWJvSzg3Z0tEVXZSZDM5ag?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-05T15:22:35+00:00",
-      "display_date": "Nov 05, 2026",
-      "summary": "US slaps sanctions on Indian, Turkish firms and people for aiding Iran Reuters",
-      "topics": [
-        "AML & Sanctions"
-      ]
-    },
-    {
-      "title": "Canadian Investment Regulatory Organization Trade Resumption - TNZ – Company Announcement - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSDVxOTR6U2pDSzZ3eVpVcXVlT0tJSFBSNU1EZmlIUEdRQ0cwUXEzeV9uWkN0cXA3THVMMmx2NU9lLTNWaGQ1Zlg3RVZhTmtTVnpOaDlqRFVMTVNLUEoybXFKVDVLbWdRYWp3dzJkbnoyZzdCWWxaMjJfS0ptLWRmX1dRUm82Wlg3OFhzdGRQM0Y1U25ueEE?oc=5",
-      "source": "Financial Times",
-      "date": "2026-11-05T15:05:00+00:00",
-      "display_date": "Nov 05, 2026",
-      "summary": "Canadian Investment Regulatory Organization Trade Resumption - TNZ – Company Announcement Financial Times",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "Supply Chain Platform Achilles Acquires Contractor Management Tool Cm3",
       "link": "https://www.corporatecomplianceinsights.com/supply-chain-platform-achilles-acquires-contractor-management-tool-cm3/",
       "source": "Corporate Compliance Insights",
@@ -1451,6 +1440,17 @@
       ]
     },
     {
+      "title": "US slaps sanctions on Indian, Turkish firms and people for aiding Iran - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTU5EOWpMNjZvcmh2TzIzTHo1OWRzaUdGRWZEN0xwbWpqV09pOGFoY2M5dlEya2xHTHJnS0VsQjZGM2lSTVk1U05TbHpLc3FveFhySUgtb1dPWEtXTkNXVlg4MWlwbTBSeGw1R2pPWTg3d3ZuV01nSDNvWWVQSjRTeFRSb3N2QnFMa0FMUDBGTWY5NDVIdG41Z05wdnRQT3pBRWJvSzg3Z0tEVXZSZDM5ag?oc=5",
+      "source": "Reuters",
+      "date": "2026-11-04T18:48:00+00:00",
+      "display_date": "Nov 04, 2026",
+      "summary": "US slaps sanctions on Indian, Turkish firms and people for aiding Iran Reuters",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
       "title": "Ethics, Compliance, and the Midterms",
       "link": "https://www.radicalcompliance.com/2026/11/04/ethics-compliance-and-the-midterms/",
       "source": "Radical Compliance",
@@ -1514,17 +1514,6 @@
       "summary": "Quantum computing will bring significant opportunities to the UK financial sector, but firms need to act now to prepare for a world where a viable hostile quantum computer could break today’s widely used cryptography standards.The financial sector depends on secure information an...",
       "topics": [
         "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Top ICC official urges Europe to shield court from US sanctions - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQel9yc0s2ZE5meDNfVjFMVlpuNG4tdFNZeGM1eXM3a0ZDWHZZMmlvcVhMSDJqVkladWlYSVI5cnVoaGUwOXNhZDN1V2JYXzlSRUtsZVphN3BnQU91SHpNcHctdkNGVF9SMldUcDIzREp1R0E3R2dTU0VIelpnVVZmX2pueDg?oc=5",
-      "source": "Financial Times",
-      "date": "2026-11-04T05:00:45+00:00",
-      "display_date": "Nov 04, 2026",
-      "summary": "Top ICC official urges Europe to shield court from US sanctions Financial Times",
-      "topics": [
-        "AML & Sanctions"
       ]
     },
     {
