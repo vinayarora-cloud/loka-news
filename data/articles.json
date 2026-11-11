@@ -1,14 +1,58 @@
 {
-  "last_updated": "November 11, 2026 08:47 UTC",
-  "total_count": 237,
+  "last_updated": "November 11, 2026 12:51 UTC",
+  "total_count": 242,
   "articles": [
     {
-      "title": "AkzoNobel-Axalta $25 Billion Merger Could Harm Competition, U.K. Regulator Warns",
-      "link": "https://www.wsj.com/tech/akzonobel-axaltas-25-billion-merger-could-harm-competition-u-k-regulator-warns-d3a59010?mod=pls_whats_news_us_business_f",
-      "source": "Wall Street Journal",
-      "date": "2026-11-11T08:36:00+00:00",
+      "title": "Global Sustainable Fund Inflows Reach Highest Level Since 2024: Morningstar",
+      "link": "https://www.esgtoday.com/global-sustainable-fund-inflows-reach-highest-level-since-2024-morningstar/?utm_source=rss&utm_medium=rss&utm_campaign=global-sustainable-fund-inflows-reach-highest-level-since-2024-morningstar",
+      "source": "ESG Today",
+      "date": "2026-11-11T12:31:02+00:00",
       "display_date": "Nov 11, 2026",
-      "summary": "The Competition and Markets Authority said the merger will be referred for an in-depth, Phase 2 investigation unless the parties offer to address the competition concerns.",
+      "summary": "Global sustainable investment funds experienced their third consecutive quarter of positive net flows in the […]",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "The Spy Who Loved Me: The Nvidia Scandal’s Lessons on CEO Risk",
+      "link": "https://www.corporatecomplianceinsights.com/spy-who-loved-me-nvidia-scandal-lessons-ceo-risk/",
+      "source": "Corporate Compliance Insights",
+      "date": "2026-11-11T12:00:47+00:00",
+      "display_date": "Nov 11, 2026",
+      "summary": "No CEO is going to walk into the compliance office and disclose an affair, least of all one with a suspected foreign spy who works at a client. CCI columnist Mary Shirley uses the Nvidia scandal to walk through the CEO risks compliance can’t fully control but shouldn’t ignore. Th...",
+      "topics": [
+        "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "Turkey Fund Scandal Engulfs Banking Regulator, Senior Executives - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaDVDWHBray1XcFNMT2p0bXdUSVZLdzdzNFN5SVRtQWRYYnJveDBYNHJRdnVXTnRNZ0h3NDZFamozc3l2SExJUkxXeVp5eUZuVGpBYVplNDZ5cFNQcnlXMEo4YTRXLVUxZ3BIRHBzaTBHaEs0UnJ1U3JTS2hObG5wa2dRSVdmdFNENE9sTFAzejdsWnA3SmJEQ211ZmFUWE1VMVFnTzZIdXlfM3liVk5nak5B?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-11-11T11:26:22+00:00",
+      "display_date": "Nov 11, 2026",
+      "summary": "Turkey Fund Scandal Engulfs Banking Regulator, Senior Executives Bloomberg.com",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "One More Rate Hike Is Looking Like the Beginning, Not the End",
+      "link": "https://www.wsj.com/articles/one-more-rate-hike-is-looking-like-the-beginning-not-the-end-7c18c678?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-11-11T10:57:00+00:00",
+      "display_date": "Nov 11, 2026",
+      "summary": "Plus, a senior U.S. soldier is arrested on allegations of spying for Russia, and a $26 million cyber heist rocks a small New Jersey town.",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "McCormick’s $65 Billion Unilever Foods Tie-Up Could Harm Competition, U.K. Regulator Warns",
+      "link": "https://www.wsj.com/business/deals/mccormicks-65-billion-unilever-foods-merger-could-harm-competition-u-k-regulator-warns-ccd08701?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-11-11T10:49:00+00:00",
+      "display_date": "Nov 11, 2026",
+      "summary": "The competition regulator gave the companies one week to address its concerns.",
       "topics": [
         "Regulatory Change"
       ]
@@ -17,11 +61,55 @@
       "title": "Austrac announces regional crackdown on drug money laundering - The Australian",
       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOc1FLZC02ZFBLVGVUa2k3amp5bHBUZFhxUEhQSjBiVnBtS1EzNDZ4S3dqV2xxYVJhcHZhM3dISEhmUTdVbnJnbUM4TTVXSDEtQkJZZEUxUXE5OHdrQXlnM0N3cWdBckpkT2pVZkhoVjJIcnJFYndvdHp1dVdmR1NzaEtTZjZQNlN5ZHFyd2RBMXQxWWFZOURTRjBpRS0wMWhDR1ZKMHRTY3h0d0ZYN3k1ZDNibU9tUk01azZscXBvMXhaWmtHdWoyODBqRExTellzZzVFWmlNYjZXZVNEVC04ZnVLTjdmV3RkZ1Rqd2FCdEtmcWJ2OGx4UGNRM3ZENGdCRVpTdA?oc=5",
       "source": "The Australian",
-      "date": "2026-11-11T08:03:35+00:00",
+      "date": "2026-11-11T10:38:55+00:00",
       "display_date": "Nov 11, 2026",
       "summary": "Austrac announces regional crackdown on drug money laundering The Australian",
       "topics": [
         "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "RWE, KKR Secure Record $17 Billion Financing to Build Major UK Offshore Wind Projects",
+      "link": "https://www.esgtoday.com/rwe-kkr-secure-record-17-billion-financing-to-build-major-uk-offshore-wind-projects/?utm_source=rss&utm_medium=rss&utm_campaign=rwe-kkr-secure-record-17-billion-financing-to-build-major-uk-offshore-wind-projects",
+      "source": "ESG Today",
+      "date": "2026-11-11T10:35:41+00:00",
+      "display_date": "Nov 11, 2026",
+      "summary": "German power producer RWE and alternative asset manager KKR announced on Wednesday that they have […]",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "Hapag-Lloyd Raises Guidance Again on Strong Freight Rates",
+      "link": "https://www.wsj.com/business/logistics/hapag-lloyd-raises-guidance-again-on-strong-freight-rates-d74c8067?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-11-11T10:10:00+00:00",
+      "display_date": "Nov 11, 2026",
+      "summary": "Shares rose after the shipping company raised its full-year earnings guidance again, noting that fourth-quarter performance was developing better than expected.",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Vestas Wind Systems Shares Drop on Earnings Miss, Narrowed Guidance",
+      "link": "https://www.wsj.com/business/earnings/vestas-wind-systems-shares-drop-on-earnings-miss-narrowed-guidance-d146caf2?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-11-11T09:38:00+00:00",
+      "display_date": "Nov 11, 2026",
+      "summary": "Shares in the Danish wind-turbine maker fell after third-quarter earnings missed expectations while a narrowed guidance implied cuts to consensus expectations.",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "AkzoNobel-Axalta $25 Billion Merger Could Harm Competition, U.K. Regulator Warns",
+      "link": "https://www.wsj.com/business/deals/akzonobel-axaltas-25-billion-merger-could-harm-competition-u-k-regulator-warns-d3a59010?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-11-11T09:18:00+00:00",
+      "display_date": "Nov 11, 2026",
+      "summary": "The Competition and Markets Authority said the merger would be referred for an in-depth investigation unless the parties offered to address concerns.",
+      "topics": [
+        "Regulatory Change"
       ]
     },
     {
@@ -33,17 +121,6 @@
       "summary": "China backs Cuba in opposing sanctions, blockades; pledges 'firm support', Xinhua reports Reuters",
       "topics": [
         "AML & Sanctions"
-      ]
-    },
-    {
-      "title": "McCormick’s $65 Billion Unilever Foods Merger Could Harm Competition, U.K. Regulator Warns",
-      "link": "https://www.wsj.com/business/deals/mccormicks-65-billion-unilever-foods-merger-could-harm-competition-u-k-regulator-warns-ccd08701?mod=pls_whats_news_us_business_f",
-      "source": "Wall Street Journal",
-      "date": "2026-11-11T07:40:00+00:00",
-      "display_date": "Nov 11, 2026",
-      "summary": "The competition regulator gave the companies one week to address its concerns.",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
@@ -245,6 +322,17 @@
       ]
     },
     {
+      "title": "Canadian Investment Regulatory Organization Trading Halt - PMET – Company Announcement - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdnZrNVVQTHNsQ3dyRS1Fa2tPdWQ3MkZEYXhPanN2bTJrUUI0NVVac3VIOHJ4Z1FUWUxGd3dXSzFtN21NaDg2a1dmYmZDcG9jNUc5ZUtyVzN1ZTNGdUgxNTFEbFNYckZwUEZNc3Q3Y2I4cHJCVFIzQ2VBSG1jMG96M25uZGFIU2xWS2hvSGxFanhJZ0tfZnc?oc=5",
+      "source": "Financial Times",
+      "date": "2026-11-10T21:37:00+00:00",
+      "display_date": "Nov 10, 2026",
+      "summary": "Canadian Investment Regulatory Organization Trading Halt - PMET – Company Announcement Financial Times",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
       "title": "Google Agrees to Privacy in Spirit Airlines Data Sale",
       "link": "https://www.wsj.com/pro/bankruptcy/google-agrees-to-privacy-in-spirit-airlines-data-sale-474550e4?mod=pls_whats_news_us_business_f",
       "source": "Wall Street Journal",
@@ -400,12 +488,34 @@
       ]
     },
     {
+      "title": "FACTBOX Fires, protests, pollution: Apple's supply chain woes in India - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZWtQRWVONlM0b1NBcUVkV3hTWVJnQWRpTHlUMGxFa0M0NEhyV2hJVURMLVdvVTFFYm9FNFF6bTRTQ1g1QW04WnJLenpMWTUzdDBKcmNjSzZxblc4Rk1Bb2ZpdzVYekhnamk2UDdXSmVWbkRLMU9pZEN1WkxrVEZPSzFLY2ZEOVphRGdPZndiV0cxUHF2WU5wd3gxaGFKUmNzSnMzandnNUxnMDBfWEt2eG9ISUlzUkU?oc=5",
+      "source": "Reuters",
+      "date": "2026-11-10T14:42:16+00:00",
+      "display_date": "Nov 10, 2026",
+      "summary": "FACTBOX Fires, protests, pollution: Apple's supply chain woes in India Reuters",
+      "topics": [
+        "Operational & Enterprise Risk"
+      ]
+    },
+    {
       "title": "Canadian Investment Regulatory Organization Trade Resumption - COPR – Company Announcement - Financial Times",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZXEwc1V4bFNiZl9GN3phNWkyNmRRX0QyVTdRZy1DRzNIV0xoVWtZMm03OVJrejZSUmMzNm11bzE0UEJTYURIc0ZsNkZxUXdrTTdGWGJ4OGJjSi1US3ZNTUgxa1Vzdmp0ZExaTTRBc1BNbFN2U3E4Z3gwWW9zVkRoU2VRanZiOUJhaWhNUnFHZkhrQ0o4SUE?oc=5",
       "source": "Financial Times",
       "date": "2026-11-10T14:34:00+00:00",
       "display_date": "Nov 10, 2026",
       "summary": "Canadian Investment Regulatory Organization Trade Resumption - COPR – Company Announcement Financial Times",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Canadian Investment Regulatory Organization Trading Halt - COPR – Company Announcement - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOa3lfN21CRlBQMGpRRFlId2N3TzNtUnZVN240ZGtUQVpHOG5CRnRqRUdNVWdUWU9IWTUwZjQyS082dTRDT08wNjRsd3R6LTF4VE1tM3ZELVZKRUlSeF9vSHNOVm1ZY2hZa0tXTTVQOHo0aE92a1B1WWU2UXlOWDNFdm5MejZWQnp2SXRyLU5KNWdPWVVwdWc?oc=5",
+      "source": "Financial Times",
+      "date": "2026-11-10T14:10:00+00:00",
+      "display_date": "Nov 10, 2026",
+      "summary": "Canadian Investment Regulatory Organization Trading Halt - COPR – Company Announcement Financial Times",
       "topics": [
         "Regulatory Change"
       ]
@@ -419,17 +529,6 @@
       "summary": "The practice you’ve noticed is colloquially known as ‘review gating’, writes consumer affairs and policy professional Kat George . And no, it isn’t legal Read more Australian customer service questions I have noticed that when I get an email inviting me to review a product or ser...",
       "topics": [
         "Regulatory Change"
-      ]
-    },
-    {
-      "title": "A Spy Scandal Lays Bare Nvidia’s Governance Vacuum",
-      "link": "https://www.wsj.com/business/the-spy-scandal-that-lays-bare-nvidias-governance-vacuum-44f8c786?mod=pls_whats_news_us_business_f",
-      "source": "Wall Street Journal",
-      "date": "2026-11-10T13:57:00+00:00",
-      "display_date": "Nov 10, 2026",
-      "summary": "A false denial, a chairman-less board and no named successor highlight how Nvidia’s board does things CEO Jensen Huang’s way.",
-      "topics": [
-        "Operational & Enterprise Risk"
       ]
     },
     {
@@ -554,17 +653,6 @@
       ]
     },
     {
-      "title": "Australia regulator rejects warning of internet safety bill chilling free speech - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVTlfWmF5c0VGY282Ul9ib0VPd1B1RWpRQ2tyZkZCWlVOX2lkQ2R5VHBhWU1DeFpCazBMVy12czk4RDNCaXI2OG5wY3JqMVhOUHpkY0lEd0tqcU5WdVhSSVkzUnZOWlQ4ay1zRW52ZmI0ZWR4ak1zNTBVTlJYQTBTUkQzQ1NzbkM1bm9wTFFpVVJnS3pDNEFBcFRCUzI4WU1COFZ6WkVKOXRybmFzNzRhQ19HYnl2N3RycE1Dc1VPeG45VG1MbjRHQVZ3?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-10T06:52:00+00:00",
-      "display_date": "Nov 10, 2026",
-      "summary": "Australia regulator rejects warning of internet safety bill chilling free speech Reuters",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "Trump refugee joins Climate 200 board - The Australian",
       "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPUE5XVnFIMEQyUzZ1YkRid2I4Mk1FdnJWc1N3bERfMlVLNjZndk5QMTBsSWxKLUxmMlNEWUJfNzhUZUFySS1Yc1Vjbnc3eVpsNnNjNUtlaHA1Y0xsdWwySGRIeUVfOTJ1RE5GbXFwZVlkQ1FyNmRyVS1KcnhGX1lpd0JLaXZuNlg4RkJQRUVoRGdYaGNZRGY2eUlMSUdfNnZHekdaSjU5MDdHcmNLZVNmTGs4YjJxOWpLZ3lfWnc3Q25BT1J4aWYyRlpsOVlGTkdFRzN5dS1TbC1ZLXkxTUVyRUhNOGZ1ZUZ4a1R2SHF3NXh4b1htdmZNTWFWTTh1Q2YtUS11QmVxLXZmZ2JhNTVzTw?oc=5",
       "source": "The Australian",
@@ -643,17 +731,6 @@
       ]
     },
     {
-      "title": "Canadian Investment Regulatory Organization Trading Halt - CRR.UN – Company Announcement - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQkw4Mi10RjczTkthQzU3Z0VZQXI4NXcyTVlHNVpDNl9QQ3hQYjIxVFhVRFRwdkpkdUhfRkFNZThFV3NtR2RFdUwxS25mbmZ6ZnBYSklNajNtR1FIeVRnV0dydDNoTmJlVEFuZHdkQWk0dnQxTWJlRktYMVdsMEwtY2ZkTG1EeHR6LWdzU1dWNTc5bEt6LWc?oc=5",
-      "source": "Financial Times",
-      "date": "2026-11-09T21:28:00+00:00",
-      "display_date": "Nov 09, 2026",
-      "summary": "Canadian Investment Regulatory Organization Trading Halt - CRR.UN – Company Announcement Financial Times",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "Another False Claims Act Case on Cybersecurity",
       "link": "https://www.radicalcompliance.com/2026/11/09/another-false-claims-act-case-on-cybersecurity/",
       "source": "Radical Compliance",
@@ -671,17 +748,6 @@
       "date": "2026-11-09T20:41:55+00:00",
       "display_date": "Nov 09, 2026",
       "summary": "Australia's corporate regulator starts official probe into $2.3 billion Bathla collapse Reuters",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Canadian Investment Regulatory Organization Trading Halt - ALTU.WT – Company Announcement - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWlNqNzZmYzVYRDNFT1I2ZF8zTWY5b1dOaGJMNGJfcHNGUVlWMmZtRGpfLTRtb25SNmZwdGgyVlc1UUJCQVJlSUN0TU0zbVAzU3VjbjNhX1VjWXFqUlVpMXFzVXpVeUlJakd0S1RFc2F2SUFuOUlqSVVCYkRzMk1hUWc4VnVJLWtZbndsRUtON1loRnJuVFE?oc=5",
-      "source": "Financial Times",
-      "date": "2026-11-09T20:31:00+00:00",
-      "display_date": "Nov 09, 2026",
-      "summary": "Canadian Investment Regulatory Organization Trading Halt - ALTU.WT – Company Announcement Financial Times",
       "topics": [
         "Regulatory Change"
       ]
@@ -742,28 +808,6 @@
       ]
     },
     {
-      "title": "ICE Launches Wind Power Futures to Help Manage Risk from Intermittent Renewable Energy Supply",
-      "link": "https://www.esgtoday.com/ice-launches-wind-power-futures-to-help-manage-risk-from-intermittent-renewable-energy-supply/?utm_source=rss&utm_medium=rss&utm_campaign=ice-launches-wind-power-futures-to-help-manage-risk-from-intermittent-renewable-energy-supply",
-      "source": "ESG Today",
-      "date": "2026-11-09T14:59:25+00:00",
-      "display_date": "Nov 09, 2026",
-      "summary": "Financial technology provider and exchange operator Intercontinental Exchange (ICE) announced its entry into climatic variable […]",
-      "topics": [
-        "ESG & Sustainability"
-      ]
-    },
-    {
-      "title": "BBVA Sustainable Finance Activity Jumps 27% to €120 Billion",
-      "link": "https://www.esgtoday.com/bbva-sustainable-finance-activity-jumps-27-to-e120-billion/?utm_source=rss&utm_medium=rss&utm_campaign=bbva-sustainable-finance-activity-jumps-27-to-e120-billion",
-      "source": "ESG Today",
-      "date": "2026-11-09T14:23:47+00:00",
-      "display_date": "Nov 09, 2026",
-      "summary": "Spanish bank BBVA announced a significant increase in its sustainable finance activity in the first […]",
-      "topics": [
-        "ESG & Sustainability"
-      ]
-    },
-    {
       "title": "When I became unemployed I expected to find a job in no time. As months passed, I realised I was being shunned | John Emerson",
       "link": "https://www.theguardian.com/commentisfree/2026/nov/10/when-i-became-unemployed-i-expected-to-find-a-job-in-no-time-as-months-passed-i-realised-i-was-being-shunned",
       "source": "The Guardian Australia",
@@ -816,6 +860,17 @@
       "summary": "AI use, particularly by leaders, can heighten exposure for employers The post AI Is Prompting New Legal Risks in the Workplace appeared first on Corporate Compliance Insights .",
       "topics": [
         "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "Novocure Provides Regulatory Update on U.S. FDA Premarket Approval Application for Optune Mya® for Brain Metastases from Non-Small Cell Lung Cancer – Company Announcement - FT.com - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQendOclZJeHFpMi1IMV9kanp0LTdhdmpYNWNDdnFpOHE1emp1N2NqN0NwODgyMUc1VlFIMzUxNk1UUXBVby16dklZVnFCcjhkYmNzOVlxdkxxXzhBZ1VLOXg0NlR3b0ZTeU9mbHFuUnZ5eWtjZ3ktV1NObkl2ZUtJYnFyMDVkWE44ZlJ0SDNDRGhYajF5a0FUSEhlMTdQUjBjdU1MVlBB?oc=5",
+      "source": "Financial Times",
+      "date": "2026-11-09T12:00:00+00:00",
+      "display_date": "Nov 09, 2026",
+      "summary": "Novocure Provides Regulatory Update on U.S. FDA Premarket Approval Application for Optune Mya® for Brain Metastases from Non-Small Cell Lung Cancer – Company Announcement - FT.com Financial Times",
+      "topics": [
+        "Regulatory Change"
       ]
     },
     {
@@ -1239,12 +1294,34 @@
       ]
     },
     {
+      "title": "Webull to Pay $4.2 Million Finra Fine Over Compliance Issues - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ0sycTRHUlBnYmR3QmNjbVNkdjJFWDg0d2licUZRUHNVSFVIR0lka0w5QUVGV0QyXzA1eUpiaHhIN1BGX1dyV2JwVldJLWRUTlJxZENRb094akt6c1NFM21FUTVmd1ZqQ0hpX1dXc01mUndzQXlja0FhdFNpRjdHSmF3TzFkWW94dW9aaXp2ZXlZSEdsLTJ3bTBZQm54Rzd0NE5Hc1hjczJvTXl3OTFF?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-11-05T17:16:05+00:00",
+      "display_date": "Nov 05, 2026",
+      "summary": "Webull to Pay $4.2 Million Finra Fine Over Compliance Issues Bloomberg.com",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
       "title": "Federal Bank Regulatory Agencies Release 2025 Small Business, Small Farm, and Community Development Lending Data",
       "link": "https://www.occ.gov/news-issuances/news-releases/2026/nr-ia-2026-98.html",
       "source": "Office of the Comptroller of the Currency",
       "date": "2026-11-05T16:00:00+00:00",
       "display_date": "Nov 05, 2026",
       "summary": "Federal Bank Regulatory Agencies Release 2025 Small Business, Small Farm, and Community Development Lending Data The federal bank regulatory agencies, as members of the Federal Financial Institutions Examination Council (FFIEC), today released data on small business, small farm, ...",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Canadian Investment Regulatory Organization Trade Resumption - TNZ – Company Announcement - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSDVxOTR6U2pDSzZ3eVpVcXVlT0tJSFBSNU1EZmlIUEdRQ0cwUXEzeV9uWkN0cXA3THVMMmx2NU9lLTNWaGQ1Zlg3RVZhTmtTVnpOaDlqRFVMTVNLUEoybXFKVDVLbWdRYWp3dzJkbnoyZzdCWWxaMjJfS0ptLWRmX1dRUm82Wlg3OFhzdGRQM0Y1U25ueEE?oc=5",
+      "source": "Financial Times",
+      "date": "2026-11-05T15:05:00+00:00",
+      "display_date": "Nov 05, 2026",
+      "summary": "Canadian Investment Regulatory Organization Trade Resumption - TNZ – Company Announcement Financial Times",
       "topics": [
         "Regulatory Change"
       ]
@@ -1315,17 +1392,6 @@
       "summary": "Overview The Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), Health and Human Services (HHS), U.S. Department of Agriculture (USDA), and the Department of Transportation (DoT)—hereafter referred to as “the authoring organizations”—a...",
       "topics": [
         "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "Americold Gains as Demand for Refrigerated Storage Stabilizes",
-      "link": "https://www.wsj.com/logistics-report/americold-gains-as-demand-for-refrigerated-storage-stabilizes-354b78c5?mod=pls_whats_news_us_business_f",
-      "source": "Wall Street Journal",
-      "date": "2026-11-05T11:58:00+00:00",
-      "display_date": "Nov 05, 2026",
-      "summary": "Plus, the U.S. goods-trade deficit contracted in September, and ocean carrier Maersk raised its full-year guidance on higher rates.",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
@@ -1514,17 +1580,6 @@
       "summary": "Quantum computing will bring significant opportunities to the UK financial sector, but firms need to act now to prepare for a world where a viable hostile quantum computer could break today’s widely used cryptography standards.The financial sector depends on secure information an...",
       "topics": [
         "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Audit AI Startup Clark Raises $11M Seed Round",
-      "link": "https://www.corporatecomplianceinsights.com/audit-ai-startup-clark-raises-11m-seed-round/",
-      "source": "Corporate Compliance Insights",
-      "date": "2026-11-03T16:16:36+00:00",
-      "display_date": "Nov 03, 2026",
-      "summary": "Clark, an AI company that builds autonomous agents to perform audit work for CPA firms, announced an $11 million seed round led by Touring Capital, bringing total funding to $16 million. Founded in October 2024 as uiAgent and rebranded to Clark in July 2026 as part of a positioni...",
-      "topics": [
-        "Operational & Enterprise Risk"
       ]
     },
     {
