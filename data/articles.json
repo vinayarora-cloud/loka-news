@@ -1,7 +1,51 @@
 {
-  "last_updated": "November 12, 2026 04:48 UTC",
-  "total_count": 237,
+  "last_updated": "November 12, 2026 08:50 UTC",
+  "total_count": 233,
   "articles": [
+    {
+      "title": "BAE Systems Lifts Cash Flow Guidance Again as Defense Spending Fuels Orders",
+      "link": "https://www.wsj.com/business/earnings/bae-systems-lifts-cash-flow-guidance-again-as-defense-spending-fuels-orders-50b290e3?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-11-12T08:12:00+00:00",
+      "display_date": "Nov 12, 2026",
+      "summary": "The upgrade marks the second time the arms maker has revised its targets for the year.",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Telefonica Raises Earnings Guidance After Strong Quarterly Performance",
+      "link": "https://www.wsj.com/business/earnings/telefonica-raises-earnings-guidance-after-strong-quarterly-performance-1cd236f1?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-11-12T08:08:00+00:00",
+      "display_date": "Nov 12, 2026",
+      "summary": "The telecommunications company lifted its earnings view for this year, citing a strong third quarter, but cut its revenue target.",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Water industry bonus ban to be tightened as Ofwat warns of ‘damage to public trust’",
+      "link": "https://www.theguardian.com/business/2026/nov/12/water-industry-bonus-ban-tightened-ofwat",
+      "source": "The Guardian Australia",
+      "date": "2026-11-12T07:59:52+00:00",
+      "display_date": "Nov 12, 2026",
+      "summary": "Regulator to hasten review over concerns that firms are ‘undermining’ rules to make large payments to bosses Business live – latest updates The water company bonus ban is set to be tightened after the regulator accused the industry of a risk of “damaging public trust” with large ...",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Russian diesel exports double after Trump lifts sanctions, but US gets none - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbElaWm5TWURMa29Yd2Y0aUpHZzhnbFFITnVSdnk5a0NSR3FuaHp2UDZuWTFVN3AzU1o5RU5STzc2S25OQTFLYzAycHhPX0FqMnJ1UVlWMjJiSVh3bFRBaUhZczNfX2gwQlVtVVB3ekZ4QXh5S2poNHZXSG5zQmFBd3B3U3A?oc=5",
+      "source": "Financial Times",
+      "date": "2026-11-12T05:00:21+00:00",
+      "display_date": "Nov 12, 2026",
+      "summary": "Russian diesel exports double after Trump lifts sanctions, but US gets none Financial Times",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
     {
       "title": "The AI Agents, and Risks, Keep Coming",
       "link": "https://www.radicalcompliance.com/2026/11/11/the-ai-agents-and-risks-keep-coming/",
@@ -14,17 +58,6 @@
       ]
     },
     {
-      "title": "Commonwealth Bank sued by ASIC for overcharging business customers - AFR",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdHdRTDRuOGVDSXV3MTc1dHBBNEhlOXdVV0JsMWN2YWJwMzJ5Ulp5SW5qd1hwQ0pHRmJmWUxKM3ZJZEs4ODhpS2VSdjlvVklDN1ljeF9aNjVPQVNHcFFYT2wtLWdFZXFjY3BVNW5zVlFFYUpkT2ZGRE10ZVllUE11Y05WeTFWcGljcTl6TDJZTmtKVmpEM2VXVjV2QXFPMjA5ckc1RWM4OThELVdoMmpIb2dITWt6RndybUp2SVNzWQ?oc=5",
-      "source": "AFR",
-      "date": "2026-11-12T02:59:00+00:00",
-      "display_date": "Nov 12, 2026",
-      "summary": "Commonwealth Bank sued by ASIC for overcharging business customers AFR",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
       "title": "Compliance teams failing to check their own AI outputs, says report",
       "link": "https://www.complianceweek.com/artificial-intelligence/compliance-teams-failing-to-check-their-own-ai-outputs-says-report/",
       "source": "Compliance Week",
@@ -34,6 +67,17 @@
       "topics": [
         "Enforcement Actions",
         "Regulatory Change"
+      ]
+    },
+    {
+      "title": "CBA sued over alleged $8.5m in hidden fees - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQb3hDaXI0RTNHdW1rNlZXWmx5eUdBa1JMbUNVcUlpNkNDcURadlBLRi01V1BkOEhka0tUTWM5LTdleWRrOTFMZk91S2hTUlRUYjV0T0thRWlueXllbWh5QjVZYnhDNjR3aXNmVXJ1VjFPY0ktOGhrdEtoQ3dxaDFOVmphM0RRM2VWeWY2djlDT1Y5Y0twSHRfajZVeER2NmY4WkxfRjVQNmR6X2k4Rkc5YXgzcEgzbGs4RmdOZk5WYTdKbkFORlFBVHQwNWdCcTlIanM5M2pXZGJLbkxsV1o2UWhYSkFjc2JzUWU0RmtfOTlpT1Buamw2QjRn?oc=5",
+      "source": "The Australian",
+      "date": "2026-11-12T01:34:00+00:00",
+      "display_date": "Nov 12, 2026",
+      "summary": "CBA sued over alleged $8.5m in hidden fees The Australian",
+      "topics": [
+        "Enforcement Actions"
       ]
     },
     {
@@ -104,12 +148,12 @@
       ]
     },
     {
-      "title": "CBA sued over alleged $8.5m in hidden fees - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQb3hDaXI0RTNHdW1rNlZXWmx5eUdBa1JMbUNVcUlpNkNDcURadlBLRi01V1BkOEhka0tUTWM5LTdleWRrOTFMZk91S2hTUlRUYjV0T0thRWlueXllbWh5QjVZYnhDNjR3aXNmVXJ1VjFPY0ktOGhrdEtoQ3dxaDFOVmphM0RRM2VWeWY2djlDT1Y5Y0twSHRfajZVeER2NmY4WkxfRjVQNmR6X2k4Rkc5YXgzcEgzbGs4RmdOZk5WYTdKbkFORlFBVHQwNWdCcTlIanM5M2pXZGJLbkxsV1o2UWhYSkFjc2JzUWU0RmtfOTlpT1Buamw2QjRn?oc=5",
-      "source": "The Australian",
-      "date": "2026-11-12T00:12:57+00:00",
+      "title": "Commonwealth Bank sued by ASIC for overcharging business customers - AFR",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdHdRTDRuOGVDSXV3MTc1dHBBNEhlOXdVV0JsMWN2YWJwMzJ5Ulp5SW5qd1hwQ0pHRmJmWUxKM3ZJZEs4ODhpS2VSdjlvVklDN1ljeF9aNjVPQVNHcFFYT2wtLWdFZXFjY3BVNW5zVlFFYUpkT2ZGRE10ZVllUE11Y05WeTFWcGljcTl6TDJZTmtKVmpEM2VXVjV2QXFPMjA5ckc1RWM4OThELVdoMmpIb2dITWt6RndybUp2SVNzWQ?oc=5",
+      "source": "AFR",
+      "date": "2026-11-12T00:23:00+00:00",
       "display_date": "Nov 12, 2026",
-      "summary": "CBA sued over alleged $8.5m in hidden fees The Australian",
+      "summary": "Commonwealth Bank sued by ASIC for overcharging business customers AFR",
       "topics": [
         "Enforcement Actions"
       ]
@@ -259,23 +303,12 @@
       ]
     },
     {
-      "title": "ACCC flags concerns on IAG’s RAC WA deal, but market bets it still gets done - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOYkVJMEt3cVJ2RjdKSDZjNEw5Y2dTUWRMOW1ET0ZBbnNfZjFXSTFxZzZzRHg0cmNaYktUMDNDUGpjN1VJbXJ1eUQ0a1BCSmJlS2xqUHpwR3VRSzYzREJDdnFXUkxucFViVk5rek4wOGNEaHFVNHVwZWJSOHByNmxxS0pKQmFBMUt6ZWQ2M3lkaTg2S1NQOXVYeXBTVU1nX1hVNGVneGQyd21DclBTVWN2LVVaVC01NlM5U3dNazZCT0wtNjR3bHdaLXdvVEZwdjlIQk5ZMnIwdEpzMG1NQk5ra2VNZmE0dEx1WWg0cmhzX3ZQQWRPMnZDUV8waG4tUQ?oc=5",
-      "source": "The Australian",
-      "date": "2026-11-11T13:22:24+00:00",
-      "display_date": "Nov 11, 2026",
-      "summary": "ACCC flags concerns on IAG’s RAC WA deal, but market bets it still gets done The Australian",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "Turkey Fund Scandal Engulfs Banking Regulator, Executives - Bloomberg",
+      "title": "Turkey Fund Scandal Engulfs Banking Regulator, Executives - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaDVDWHBray1XcFNMT2p0bXdUSVZLdzdzNFN5SVRtQWRYYnJveDBYNHJRdnVXTnRNZ0h3NDZFamozc3l2SExJUkxXeVp5eUZuVGpBYVplNDZ5cFNQcnlXMEo4YTRXLVUxZ3BIRHBzaTBHaEs0UnJ1U3JTS2hObG5wa2dRSVdmdFNENE9sTFAzejdsWnA3SmJEQ211ZmFUWE1VMVFnTzZIdXlfM3liVk5nak5B?oc=5",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "date": "2026-11-11T12:43:43+00:00",
       "display_date": "Nov 11, 2026",
-      "summary": "Turkey Fund Scandal Engulfs Banking Regulator, Executives Bloomberg",
+      "summary": "Turkey Fund Scandal Engulfs Banking Regulator, Executives Bloomberg.com",
       "topics": [
         "Regulatory Change"
       ]
@@ -358,17 +391,6 @@
       ]
     },
     {
-      "title": "Vestas Wind Systems Shares Drop on Earnings Miss, Narrowed Guidance",
-      "link": "https://www.wsj.com/business/earnings/vestas-wind-systems-shares-drop-on-earnings-miss-narrowed-guidance-d146caf2?mod=pls_whats_news_us_business_f",
-      "source": "Wall Street Journal",
-      "date": "2026-11-11T09:38:00+00:00",
-      "display_date": "Nov 11, 2026",
-      "summary": "Shares in the Danish wind-turbine maker fell after third-quarter earnings missed expectations while a narrowed guidance implied cuts to consensus expectations.",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "AkzoNobel-Axalta $25 Billion Merger Could Harm Competition, U.K. Regulator Warns",
       "link": "https://www.wsj.com/business/deals/akzonobel-axaltas-25-billion-merger-could-harm-competition-u-k-regulator-warns-d3a59010?mod=pls_whats_news_us_business_f",
       "source": "Wall Street Journal",
@@ -391,6 +413,17 @@
       ]
     },
     {
+      "title": "ACCC flags concerns on IAG’s RAC WA deal, but market bets it still gets done - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOYkVJMEt3cVJ2RjdKSDZjNEw5Y2dTUWRMOW1ET0ZBbnNfZjFXSTFxZzZzRHg0cmNaYktUMDNDUGpjN1VJbXJ1eUQ0a1BCSmJlS2xqUHpwR3VRSzYzREJDdnFXUkxucFViVk5rek4wOGNEaHFVNHVwZWJSOHByNmxxS0pKQmFBMUt6ZWQ2M3lkaTg2S1NQOXVYeXBTVU1nX1hVNGVneGQyd21DclBTVWN2LVVaVC01NlM5U3dNazZCT0wtNjR3bHdaLXdvVEZwdjlIQk5ZMnIwdEpzMG1NQk5ra2VNZmE0dEx1WWg0cmhzX3ZQQWRPMnZDUV8waG4tUQ?oc=5",
+      "source": "The Australian",
+      "date": "2026-11-11T04:31:00+00:00",
+      "display_date": "Nov 11, 2026",
+      "summary": "ACCC flags concerns on IAG’s RAC WA deal, but market bets it still gets done The Australian",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
       "title": "Nvidia Scandal Tests the Resilience of the Global AI Boom",
       "link": "https://www.wsj.com/tech/ai/jensen-huang-nvidia-ceo-ai-bubble-93097556?mod=pls_whats_news_us_business_f",
       "source": "Wall Street Journal",
@@ -408,6 +441,17 @@
       "date": "2026-11-11T01:23:39+00:00",
       "display_date": "Nov 11, 2026",
       "summary": "Asic says customers should not have to check every transaction to ensure they receive the correct interest Get our breaking news email , free app or daily news podcast Macquarie Bank is set to pay a $14m court-imposed penalty after it admitted to breaking the Corporations Act wit...",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "Victorian Coalition position strengthens; Macquarie Bank fined $14m; Aussie Anthropic investors might already feel ripped off - AFR",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPeTBrQVY3WW9ZdTVtY0ZwdVk1M2hCUmZ3UEMwY29nak5JVzNqYlJlUUpQZ2NvNEZRMlBFVjNsSEZ5TEN2UVJGOEVwYXk2N3FnalFDU1BBUzJ6NG1YelZudVJxVy1zeHNvYkNMSWlpWGo4aF9NVFNhZmhXRWNLRlA5SUdEX3BSRm96NE5pY2c5eWtkNTlkbmg1SjNZQVh4WjRmY2MxWlRhZk1oWDJ6czhXUzh1UzN5cUtscHl2bVNMLWp3cXY4azd0bjVHQWN3YklVSWI1M0d5ZHVGNGZ2OVp5NmJwZ3RtSFo4MkVVYm1iMFIwSVZWTnRFNXdZa2lNV09WZkg4ZUpSenk3N25DVWc?oc=5",
+      "source": "AFR",
+      "date": "2026-11-11T01:02:00+00:00",
+      "display_date": "Nov 11, 2026",
+      "summary": "Victorian Coalition position strengthens; Macquarie Bank fined $14m; Aussie Anthropic investors might already feel ripped off AFR",
       "topics": [
         "Enforcement Actions"
       ]
@@ -531,17 +575,6 @@
       "summary": "Who says ESG issues are on the wane these days? Not OpenAI, the artificial intelligence giant gobbling up all the land, electricity, and water that it can find! The company is launching a new effort to win public support for the data centers it’s racing to build even though nobod...",
       "topics": [
         "ESG & Sustainability"
-      ]
-    },
-    {
-      "title": "Iran's soccer team arrives in Iraq by bus after flight barred over US sanctions - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1qeF9XYWY1aW4xXzJIVTA3MXRWVGp2bTdqN2poS2VpYzI0eVNQeHZuUVdnOGhEVFZjUXUtRk9iUzdaZlNxZGhoUzdndXVjZC1kTDJOVW9adnpqTVV0cnNBbTAzYlM1RDQ?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-10T20:11:28+00:00",
-      "display_date": "Nov 10, 2026",
-      "summary": "Iran's soccer team arrives in Iraq by bus after flight barred over US sanctions Reuters",
-      "topics": [
-        "AML & Sanctions"
       ]
     },
     {
@@ -844,17 +877,6 @@
       ]
     },
     {
-      "title": "Canadian Investment Regulatory Organization Trading Halt - CRR.UN – Company Announcement - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQkw4Mi10RjczTkthQzU3Z0VZQXI4NXcyTVlHNVpDNl9QQ3hQYjIxVFhVRFRwdkpkdUhfRkFNZThFV3NtR2RFdUwxS25mbmZ6ZnBYSklNajNtR1FIeVRnV0dydDNoTmJlVEFuZHdkQWk0dnQxTWJlRktYMVdsMEwtY2ZkTG1EeHR6LWdzU1dWNTc5bEt6LWc?oc=5",
-      "source": "Financial Times",
-      "date": "2026-11-09T21:28:00+00:00",
-      "display_date": "Nov 09, 2026",
-      "summary": "Canadian Investment Regulatory Organization Trading Halt - CRR.UN – Company Announcement Financial Times",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "Another False Claims Act Case on Cybersecurity",
       "link": "https://www.radicalcompliance.com/2026/11/09/another-false-claims-act-case-on-cybersecurity/",
       "source": "Radical Compliance",
@@ -929,28 +951,6 @@
       "summary": "The jobless are the sacrificial lambs of Australia’s monetary policy. I remain shocked that the lucky country actively excludes so many from a chance at its luck The causes of finding yourself out of work are many. Being made redundant, having a contract not renewed, bullied into...",
       "topics": [
         "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Nordea Fine for Flawed Laundering Controls Dodges Worst Case - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOemo0d3c0elFEWk1jZmMzQS00cjZvc3lkcXUwc2E5YmlXakpvZVk3Z1lwMGVMbnA0UkxwbjBRWkVBcXJOXzBrWGlVTHVIallmMWpwdVpHMlhuQjJwTHlKamxSOXYwYnFQaFFrZDlLbF9FS2FaenRDdWpaTFpINEhCQ2I4Y1YzTGQ4SXNLdmxPWnNBSnRtUDFzOVNmS2JETnNoYzFiWk1EeFhsUnl6aXNV?oc=5",
-      "source": "Bloomberg.com",
-      "date": "2026-11-09T13:37:21+00:00",
-      "display_date": "Nov 09, 2026",
-      "summary": "Nordea Fine for Flawed Laundering Controls Dodges Worst Case Bloomberg.com",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "Nordea receives verdict in case about anti-money laundering measures from 2012 to 2015 – Company Announcement - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYlc3MTMzZ2o4cHVRMjM0dS1wWUFkOG04VU5MdjdsWjBON2Jvbk1TcFBVNzFqeUk5ZGVRbWVpN2lKMjNXUEhIcHBBNmNTZ2pvUG1pdVp5RGVWSWlzdlZyczlKbC10a1VzS2RqbzlSTFZfNE1VcWNQZTAyVTRUOW5GdXg0VEFaLWEyQ2I4QUZLMXRDcHcyT19uag?oc=5",
-      "source": "Financial Times",
-      "date": "2026-11-09T13:33:00+00:00",
-      "display_date": "Nov 09, 2026",
-      "summary": "Nordea receives verdict in case about anti-money laundering measures from 2012 to 2015 – Company Announcement Financial Times",
-      "topics": [
-        "AML & Sanctions"
       ]
     },
     {
@@ -1307,17 +1307,6 @@
       ]
     },
     {
-      "title": "Fresh ideas, stat! Chalmers’ productivity policy SOS - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxON1VFNVJ2T05zSGhyRWNRQ05EQ0VHR2QtcmR6UXdtZnBRelFMdlhxUXhYSlM5SEphVzFiUW9WQkk1RHFjQW8yc2Fob1BiZ3gwckVTNTcwa0hkMVluQ2JjUVEzdXBialVwc0xFdE0ycFdLN1hsaU9OWFhTUkRYZkFOcDR3dGp5LVdfWDB4V3BHTWtzRDhDUWlNblNYV0R6S1JFdFdOdFpid1BYS1l4ck8zQVY3eUtuT0R0YVJKZnpGa1VLRGg3aWw5bGwwM1VyQnNWUVdLZHJUSjRXWGJia2xacFlnQ1phMFBHOUV2cTd1UmtsWXlKZzNHRmNTQnRZY3FK?oc=5",
-      "source": "The Australian",
-      "date": "2026-11-05T19:39:00+00:00",
-      "display_date": "Nov 05, 2026",
-      "summary": "Fresh ideas, stat! Chalmers’ productivity policy SOS The Australian",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "White House Reviewing SEC’s Proposed Crypto Broker Rule Changes - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRk92d1dsaHFuMnVQaUVKaDBlNXd4bW5YWUdSaEpOX2ZxZnRiOURjRkg1cFlhZlRpeEp5dUoxWjhWLVItaGR6WXV2MFE0MlAyTWVDWFNQcms1U2JIT2xNanhpdS1NQXc1c3NFU2JDRWVlR0RCZkhIbnFsNmswTUhNeGRQUWF3ZElVZU1HY1ZJUGZCR2xTSU5EakhKM1JOemtiejZKb2hsUFI4Tkg2WE1OekR5VnM?oc=5",
       "source": "Bloomberg.com",
@@ -1438,40 +1427,6 @@
       "summary": "A new initiative will bring together firms, quantum technology providers, and national research labs to explore practical applications of quantum computing. The FCA will bring together financial services firms, quantum technology providers and national research laboratories to ex...",
       "topics": [
         "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Bloomberg Wins Best AML/CTF & Sanctions Data Provider at the Regulation Asia Awards | Press | Bloomberg LP - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORHZoMDZFVUh5NVkwY0RRcnM0SWx0b3BvcV9kV0tfOVNBbERZZjhXZnhrVzdoeWJnSzVkN0FKdzFUVlUyUUUwZHJwdWVXMkg0bWdsR0RIUlg3V2hYU3d4amc3ZnhpaDBsV0lVVFU4VXNoUWhZby1rMDJ3T2ZPYjd3a0JOOGx6bTh4LVZJQlo0TWphS0xwRUVMaU1Ed1hkYXAwejAxYXJPLXFzdldUdk96TlJ6Z2Jrakg1RDNzaXdwMA?oc=5",
-      "source": "Bloomberg.com",
-      "date": "2026-11-05T08:00:00+00:00",
-      "display_date": "Nov 05, 2026",
-      "summary": "Bloomberg Wins Best AML/CTF & Sanctions Data Provider at the Regulation Asia Awards | Press | Bloomberg LP Bloomberg.com",
-      "topics": [
-        "Regulatory Change",
-        "AML & Sanctions"
-      ]
-    },
-    {
-      "title": "Clive Palmer loses High Court battle against ex-ASIC boss James Shipton - AFR",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZ2tkMWxTS1A3OGd1Y0ZIbjdDeGRlc0EzeGlYYy1nZENCOWN5c2JDRm4wblVVeGllVEpzbUcwZkZVU1Rwd0pGQ054RVhjQWVSbHBQWnc5TFcwQmE0XzVoWVVYa0lCb1FGLWZUREdISlFlN0dFVW84bXZ6MWVRRzVqWk5mbDZrUHUyVHVMM213WUFLQ2FYcFU4VTJrZ29STUZIbFhoQS1ObEJ6bW1CMG5tdG9hQmF6SFdrTDNLOFFPRU81eGxmeTZTMV9relRZMnc?oc=5",
-      "source": "AFR",
-      "date": "2026-11-05T06:32:00+00:00",
-      "display_date": "Nov 05, 2026",
-      "summary": "Clive Palmer loses High Court battle against ex-ASIC boss James Shipton AFR",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "ACCC forced to intervene after big banks, Armaguard relations unravel - AFR",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdy0tSS1rei04bUh0d0NOZHNadHhuUEh1TVZhN3Jkc3BxVklxZWs1dTdHN3JTdWtoOTRLaWZLcWt4aGY3WFc2QnpFVlRnM04yeE1EYXJvSXdsU3c5TmphbEJWODdHSE9ndXRYZTFVRGhBTnZQSmt1ZzMwN3NlSTZZYzM1YzNiUktwVW03Qmg2cDlUOTNSX1lYVzAzM2h2Q3JpRnA4WHV3LVczMVpDcHE1UzRlbDBydnluWWp6X08zS2J2ZkpGNjRzQVhHVEJxdw?oc=5",
-      "source": "AFR",
-      "date": "2026-11-05T06:02:00+00:00",
-      "display_date": "Nov 05, 2026",
-      "summary": "ACCC forced to intervene after big banks, Armaguard relations unravel AFR",
-      "topics": [
-        "Enforcement Actions"
       ]
     },
     {
