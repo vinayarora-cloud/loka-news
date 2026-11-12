@@ -1,7 +1,97 @@
 {
-  "last_updated": "November 12, 2026 00:53 UTC",
-  "total_count": 240,
+  "last_updated": "November 12, 2026 04:48 UTC",
+  "total_count": 237,
   "articles": [
+    {
+      "title": "The AI Agents, and Risks, Keep Coming",
+      "link": "https://www.radicalcompliance.com/2026/11/11/the-ai-agents-and-risks-keep-coming/",
+      "source": "Radical Compliance",
+      "date": "2026-11-12T03:44:18+00:00",
+      "display_date": "Nov 12, 2026",
+      "summary": "Another day, another major business announcing that it won’t let AI agents come knocking on the company’s door on behalf of customers. Compliance officers should take note here; the issue leads us to some mind-bending questions about regulatory risk, and is one of those rare inst...",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Commonwealth Bank sued by ASIC for overcharging business customers - AFR",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdHdRTDRuOGVDSXV3MTc1dHBBNEhlOXdVV0JsMWN2YWJwMzJ5Ulp5SW5qd1hwQ0pHRmJmWUxKM3ZJZEs4ODhpS2VSdjlvVklDN1ljeF9aNjVPQVNHcFFYT2wtLWdFZXFjY3BVNW5zVlFFYUpkT2ZGRE10ZVllUE11Y05WeTFWcGljcTl6TDJZTmtKVmpEM2VXVjV2QXFPMjA5ckc1RWM4OThELVdoMmpIb2dITWt6RndybUp2SVNzWQ?oc=5",
+      "source": "AFR",
+      "date": "2026-11-12T02:59:00+00:00",
+      "display_date": "Nov 12, 2026",
+      "summary": "Commonwealth Bank sued by ASIC for overcharging business customers AFR",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "Compliance teams failing to check their own AI outputs, says report",
+      "link": "https://www.complianceweek.com/artificial-intelligence/compliance-teams-failing-to-check-their-own-ai-outputs-says-report/",
+      "source": "Compliance Week",
+      "date": "2026-11-12T01:42:32+00:00",
+      "display_date": "Nov 12, 2026",
+      "summary": "Compliance teams that skip checks on AI-generated outputs are nearly three times as likely to report a regulatory fine against those that don’t. The post Compliance teams failing to check their own AI outputs, says report appeared first on Compliance Week .",
+      "topics": [
+        "Enforcement Actions",
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Miro clears TGA audit ahead of Crohn’s disease trial",
+      "link": "https://www.smh.com.au/business/companies/miro-clears-tga-audit-ahead-of-crohn-s-disease-trial-20261112-p61dlz.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+      "source": "The Sydney Morning Herald",
+      "date": "2026-11-12T01:24:03+00:00",
+      "display_date": "Nov 12, 2026",
+      "summary": "Miro Sciences has cleared a TGA manufacturing hurdle for its Crohn’s trial, with the regulator inspecting its partner’s facility ahead of a planned Phase 2 study for its StemSmart cell therapy.",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Nvidia ‘preparing to oust’ Huang after second affair reported; Matos warns of ‘dangerous’ spending cycle; ASIC sues CBA - AFR",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQckxzN3NvRWtuaHpEZGF0NDBTUWZXeXM3M0RvMHJXbWZQV190VHZnYWxSbzNGRGhDZXM4cnlhdE9wNDhsZjZCMF8xQWtOd0xMWXhTT3owczVZN21TSEY2Y3JSLW1WdDRxeE9pT3dLbGpqdUJsWXpsTk43NkEyMWRYTFVKeERIRGtSRFVDYURtaFg4b1NhbEpLaVl2aHNmRjU0WElfclhGQVlWQU92ZkQzUFN1N0s2YmIwakt5dzVsNWhjMWRNQ0NhLWN5WXBLdDZUMFhMNUF3QTBUZTFoc3o3N3pxTmhHVlJ4YmhiWDJWLWYydEZ2MVpvQVQ2a28wUkhGSXc?oc=5",
+      "source": "AFR",
+      "date": "2026-11-12T01:08:00+00:00",
+      "display_date": "Nov 12, 2026",
+      "summary": "Nvidia ‘preparing to oust’ Huang after second affair reported; Matos warns of ‘dangerous’ spending cycle; ASIC sues CBA AFR",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "China’s property implosion has further to go, and markets are worried",
+      "link": "https://www.smh.com.au/business/markets/china-s-property-implosion-has-further-to-go-and-markets-are-worried-20261112-p61dhl.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+      "source": "The Sydney Morning Herald",
+      "date": "2026-11-12T01:05:14+00:00",
+      "display_date": "Nov 12, 2026",
+      "summary": "The scare over a liquidity crisis in a state-owned company in Guangdong has rippled through China’s debt markets and shone a light on the financial pressure in its local governments.",
+      "topics": [
+        "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "Auditors warn CFPB’s ineffective security program puts consumer and institutional data at risk",
+      "link": "https://www.complianceweek.com/regulators/auditors-warn-cfpbs-ineffective-security-program-puts-consumer-and-institutional-data-at-risk/",
+      "source": "Compliance Week",
+      "date": "2026-11-12T00:59:26+00:00",
+      "display_date": "Nov 12, 2026",
+      "summary": "The CFPB’s information security program was graded ineffective in its annual cybersecurity audit for the second consecutive year. The post Auditors warn CFPB’s ineffective security program puts consumer and institutional data at risk appeared first on Compliance Week .",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "CBA sued for overcharging tens of thousands of businesses",
+      "link": "https://www.smh.com.au/business/banking-and-finance/cba-sued-for-overcharging-tens-of-thousands-of-businesses-20261112-p61dik.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+      "source": "The Sydney Morning Herald",
+      "date": "2026-11-12T00:56:04+00:00",
+      "display_date": "Nov 12, 2026",
+      "summary": "The corporate regulator has started legal proceedings against the nation’s biggest bank, alleging that it misled 42,000 business customers and overcharged them about $8.5 million in fees.",
+      "topics": [
+        "Enforcement Actions",
+        "Regulatory Change"
+      ]
+    },
     {
       "title": "66,000 NAB workers owed $169 million in mass underpayment",
       "link": "https://www.smh.com.au/business/workplace/66-000-nab-workers-owed-169-million-in-mass-underpayment-20261112-p61di8.html?ref=rss&utm_medium=rss&utm_source=rss_business",
@@ -11,6 +101,17 @@
       "summary": "The bank first reported problems to the regulator in 2019, but did not fully fix them for another seven years.",
       "topics": [
         "Regulatory Change"
+      ]
+    },
+    {
+      "title": "CBA sued over alleged $8.5m in hidden fees - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQb3hDaXI0RTNHdW1rNlZXWmx5eUdBa1JMbUNVcUlpNkNDcURadlBLRi01V1BkOEhka0tUTWM5LTdleWRrOTFMZk91S2hTUlRUYjV0T0thRWlueXllbWh5QjVZYnhDNjR3aXNmVXJ1VjFPY0ktOGhrdEtoQ3dxaDFOVmphM0RRM2VWeWY2djlDT1Y5Y0twSHRfajZVeER2NmY4WkxfRjVQNmR6X2k4Rkc5YXgzcEgzbGs4RmdOZk5WYTdKbkFORlFBVHQwNWdCcTlIanM5M2pXZGJLbkxsV1o2UWhYSkFjc2JzUWU0RmtfOTlpT1Buamw2QjRn?oc=5",
+      "source": "The Australian",
+      "date": "2026-11-12T00:12:57+00:00",
+      "display_date": "Nov 12, 2026",
+      "summary": "CBA sued over alleged $8.5m in hidden fees The Australian",
+      "topics": [
+        "Enforcement Actions"
       ]
     },
     {
@@ -37,18 +138,6 @@
       ]
     },
     {
-      "title": "CBA sued for overcharging tens of thousands of businesses",
-      "link": "https://www.smh.com.au/business/banking-and-finance/cba-sued-for-overcharging-tens-of-thousands-of-businesses-20261112-p61dik.html?ref=rss&utm_medium=rss&utm_source=rss_business",
-      "source": "The Sydney Morning Herald",
-      "date": "2026-11-11T22:52:01+00:00",
-      "display_date": "Nov 11, 2026",
-      "summary": "The corporate regulator has started legal proceedings against the nation’s biggest bank, alleging that it misled 42,000 business customers and overcharged them about $8.5 million in fees.",
-      "topics": [
-        "Enforcement Actions",
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "United Airlines Is Banning AI Bots From Booking Flights",
       "link": "https://www.wsj.com/tech/ai/united-airlines-is-banning-ai-bots-from-booking-flights-5b514b38?mod=pls_whats_news_us_business_f",
       "source": "Wall Street Journal",
@@ -57,17 +146,6 @@
       "summary": "The carrier says automated assistants present data-privacy risks; “I don’t want to create another middleman.”",
       "topics": [
         "Data Privacy"
-      ]
-    },
-    {
-      "title": "Commonwealth Bank sued by ASIC over business account fees - AFR",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdHdRTDRuOGVDSXV3MTc1dHBBNEhlOXdVV0JsMWN2YWJwMzJ5Ulp5SW5qd1hwQ0pHRmJmWUxKM3ZJZEs4ODhpS2VSdjlvVklDN1ljeF9aNjVPQVNHcFFYT2wtLWdFZXFjY3BVNW5zVlFFYUpkT2ZGRE10ZVllUE11Y05WeTFWcGljcTl6TDJZTmtKVmpEM2VXVjV2QXFPMjA5ckc1RWM4OThELVdoMmpIb2dITWt6RndybUp2SVNzWQ?oc=5",
-      "source": "AFR",
-      "date": "2026-11-11T22:08:00+00:00",
-      "display_date": "Nov 11, 2026",
-      "summary": "Commonwealth Bank sued by ASIC over business account fees AFR",
-      "topics": [
-        "Enforcement Actions"
       ]
     },
     {
@@ -104,12 +182,12 @@
       ]
     },
     {
-      "title": "Ternium Says Mexico Steel Imports Need Strict Tariff Enforcement - Bloomberg",
+      "title": "Ternium Says Mexico Steel Imports Need Strict Tariff Enforcement - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbzBER1BLeGJ0Q0J4SkFxOHBSbnpuQzdWajN1WmpldVd0ZC1MTUlRbWpKZ1FaS0o2Zkx4b3F2aXVDUEloRTBRNDk4bTAwdGhzSnpWcGVXYy1zVWxZNnJlWVROc0ZNTW9PUTNRMHQ2MzIyUmdBbUJKZE9SeVFCbVdhSnQtek1CeWJZczhJWmszM3FybmcwTzEtVU1GaDNiUUlQcE11dGc4YzJIWTd6Q0RUYXpGUElyUQ?oc=5",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "date": "2026-11-11T16:46:45+00:00",
       "display_date": "Nov 11, 2026",
-      "summary": "Ternium Says Mexico Steel Imports Need Strict Tariff Enforcement Bloomberg",
+      "summary": "Ternium Says Mexico Steel Imports Need Strict Tariff Enforcement Bloomberg.com",
       "topics": [
         "Enforcement Actions"
       ]
@@ -170,12 +248,12 @@
       ]
     },
     {
-      "title": "Canadian Investment Regulatory Organization Trade Resumption - PMET – Company Announcement - Financial Times",
+      "title": "Canadian Investment Regulatory Organization Trade Resumption - PMET – Company Announcement - FT Markets Data",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQ0RaRzF0N3ZSSHhnbEo3SjNuN1JFUFVJUXR0NkNNNWQzWGFRZWpycVlCTk5CS25vSlVMY2xocDgyaWRqZ2JxWnVDLVVRWmhPeUZGbVVveGRrcnNlcEVDd3FQWmlQODYtOWZZbE9zamFudHlZRnFLM1dUbEQySFdDcC1va3JsVHUxMlJQLXdGSFc3eGhHaVE?oc=5",
-      "source": "Financial Times",
+      "source": "FT Markets Data",
       "date": "2026-11-11T13:25:00+00:00",
       "display_date": "Nov 11, 2026",
-      "summary": "Canadian Investment Regulatory Organization Trade Resumption - PMET – Company Announcement Financial Times",
+      "summary": "Canadian Investment Regulatory Organization Trade Resumption - PMET – Company Announcement FT Markets Data",
       "topics": [
         "Regulatory Change"
       ]
@@ -222,17 +300,6 @@
       "summary": "No CEO is going to walk into the compliance office and disclose an affair, least of all one with a suspected foreign spy who works at a client. CCI columnist Mary Shirley uses the Nvidia scandal to walk through the CEO risks compliance can’t fully control but shouldn’t ignore. Th...",
       "topics": [
         "Operational & Enterprise Risk"
-      ]
-    },
-    {
-      "title": "Macquarie Bank fined $14m over misleading savings rate ads - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNZ1lsaEFKRVFNV3VWSzV5ZlUySUVYNUtXZnB1QVplak1kNGY3c0drRWwwZWc1Y0xXaFZ1andtOU5qWHdMWTRrWHJ3eDVvX0VMOVZTUDFoS1BrcENuV2kxT2V4MGU0bS16QTZpUFdGYXQ3a1VJVTk0UlBLRWUzSmRLUjU0M2xySkpfakhENldZdVVDMXpDamZId1FCOEZOS05GcFF2YnlUT0pPVnhLcFY4c2Z1QW1CNkJ0UFhDS253SktNbm8xLVlhejJ6blg3WlRBeEYwSWxYeXhMT2dHVEJfeXVkc29wSkNHUDhBd3NQajlDX3JyeXU2X09VdEdPZw?oc=5",
-      "source": "The Australian",
-      "date": "2026-11-11T11:57:56+00:00",
-      "display_date": "Nov 11, 2026",
-      "summary": "Macquarie Bank fined $14m over misleading savings rate ads The Australian",
-      "topics": [
-        "Enforcement Actions"
       ]
     },
     {
@@ -346,14 +413,14 @@
       ]
     },
     {
-      "title": "Macquarie admits ‘bonus’ savings rate failure, agrees to pay $14 million",
-      "link": "https://www.smh.com.au/business/banking-and-finance/macquarie-admits-bonus-savings-rate-failure-agrees-to-pay-14-million-20261111-p61d6t.html?ref=rss&utm_medium=rss&utm_source=rss_business",
-      "source": "The Sydney Morning Herald",
-      "date": "2026-11-11T00:34:31+00:00",
+      "title": "Macquarie Bank fined $14m over misleading savings rate ads - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNZ1lsaEFKRVFNV3VWSzV5ZlUySUVYNUtXZnB1QVplak1kNGY3c0drRWwwZWc1Y0xXaFZ1andtOU5qWHdMWTRrWHJ3eDVvX0VMOVZTUDFoS1BrcENuV2kxT2V4MGU0bS16QTZpUFdGYXQ3a1VJVTk0UlBLRWUzSmRLUjU0M2xySkpfakhENldZdVVDMXpDamZId1FCOEZOS05GcFF2YnlUT0pPVnhLcFY4c2Z1QW1CNkJ0UFhDS253SktNbm8xLVlhejJ6blg3WlRBeEYwSWxYeXhMT2dHVEJfeXVkc29wSkNHUDhBd3NQajlDX3JyeXU2X09VdEdPZw?oc=5",
+      "source": "The Australian",
+      "date": "2026-11-11T00:54:00+00:00",
       "display_date": "Nov 11, 2026",
-      "summary": "The corporate regulator said customers should not have to scrutinise every transaction and that Macquarie had failed to prevent confusion to customers.",
+      "summary": "Macquarie Bank fined $14m over misleading savings rate ads The Australian",
       "topics": [
-        "Regulatory Change"
+        "Enforcement Actions"
       ]
     },
     {
@@ -365,17 +432,6 @@
       "summary": "Canadian Prime Minister Mark Carney said he’s prepared to use whatever legal and policy levers available to protect the roughly 2,000 workers affected.",
       "topics": [
         "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Russian Push to Escape Dollar for Yuan Collapses Under Sanctions - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQb0R6T0pEZWhsd1lmdGIwVXlhNVhHX1JueFpjQ2l0UDRsVnNjLTB0TlFRa3RERjhkaVJNZ1ozaVdkUW5hUl91M0djZUVxY0JyWGpORk9Ta3pWazU2MEpwV3kwdlNHd0JCWnNpSnViUHQxWXZWY0t6bmg0RU9QV25Ed2Nac2NibERaZ1F3ZV93XzlHNEhXQlQxZVB0ZzMxRmZxTXBfZW53eUV5U1N3V0ZNR3dRTTRlUGxIM1dhbDNkOE9FSnFDYVFEWUpPSjNxSkpJYXc?oc=5",
-      "source": "Bloomberg.com",
-      "date": "2026-11-11T00:00:00+00:00",
-      "display_date": "Nov 11, 2026",
-      "summary": "Russian Push to Escape Dollar for Yuan Collapses Under Sanctions Bloomberg.com",
-      "topics": [
-        "AML & Sanctions"
       ]
     },
     {
@@ -423,17 +479,6 @@
       ]
     },
     {
-      "title": "Half of Australia's windfarm pipeline is in slowest-building state",
-      "link": "https://www.abc.net.au/news/2026-11-11/queensland-wind-farm-investment-booming-but-build-slow/107346720",
-      "source": "ABC News Business (AU)",
-      "date": "2026-11-10T22:30:51+00:00",
-      "display_date": "Nov 10, 2026",
-      "summary": "Queensland holds half of Australia's proposed onshore wind capacity, but policy and community challenges are making it the slowest state to build the projects.",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "FTC’s Mufarrige nominated to be commissioner",
       "link": "https://www.complianceweek.com/regulators/ftcs-mufarrige-nominated-to-be-commissioner/",
       "source": "Compliance Week",
@@ -464,17 +509,6 @@
       "summary": "Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software. This month's Patch Tuesday addresses 63 critical flaws -- including a zero-day in Microsoft Outlook -- and co...",
       "topics": [
         "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "Canadian Investment Regulatory Organization Trading Halt - PMET – Company Announcement - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdnZrNVVQTHNsQ3dyRS1Fa2tPdWQ3MkZEYXhPanN2bTJrUUI0NVVac3VIOHJ4Z1FUWUxGd3dXSzFtN21NaDg2a1dmYmZDcG9jNUc5ZUtyVzN1ZTNGdUgxNTFEbFNYckZwUEZNc3Q3Y2I4cHJCVFIzQ2VBSG1jMG96M25uZGFIU2xWS2hvSGxFanhJZ0tfZnc?oc=5",
-      "source": "Financial Times",
-      "date": "2026-11-10T21:37:00+00:00",
-      "display_date": "Nov 10, 2026",
-      "summary": "Canadian Investment Regulatory Organization Trading Halt - PMET – Company Announcement Financial Times",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
@@ -533,17 +567,6 @@
       ]
     },
     {
-      "title": "Canadian Investment Regulatory Organization Trading Halt - MCI – Company Announcement - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQUlXWmxRYTR2NG5aSFZfYjVjMWZSa1FqaHp6T2tTQkVadTRlRnRwNENlM1RkT2dPYTA4dW1fRWc1MVhkeXE0ZmVKNjBwTzlDQkxDLVZMOG5feDNKU3dsZ1VRME9BTXJ1VEM5RlV6M1F1YnVLbEh6SHVVYXFKSGVjWkVPWjd0akJ5WXZVX201aFFFazFHR2c?oc=5",
-      "source": "Financial Times",
-      "date": "2026-11-10T17:19:00+00:00",
-      "display_date": "Nov 10, 2026",
-      "summary": "Canadian Investment Regulatory Organization Trading Halt - MCI – Company Announcement Financial Times",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "Man sentenced over £154m fake takeover bid targeting UK-listed company",
       "link": "https://www.fca.org.uk/news/press-releases/man-sentenced-over-154m-fake-takeover-bid-targeting-uk-listed-company",
       "source": "FCA UK Regulatory News",
@@ -588,12 +611,12 @@
       ]
     },
     {
-      "title": "More Suicides at Spy, Cyber Agencies Scrutinized By Congress - Bloomberg",
+      "title": "More Suicides at Spy, Cyber Agencies Scrutinized By Congress - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRWFaV0lINEllLXNjWjJMSEhyRXQyejNxd2xrYkNlWElWcnF1NnNZa3l4RmRkN0VieWdPS2FsbFJnNTNwZFFRQnBwNHNZNzhrTXlhU0hIZ2pfUmZvVzZZcDVRM1hQdHJ3UmVvZ3pOV0VXUVR3azdCWTJqeEFKdndPSWJoRW0ybEhnMGZKZkZCVDd0X0NjbnFyNVFhcy1pY1l3RGFKbHJYQkVHZ0dMaVFF?oc=5",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "date": "2026-11-10T16:36:13+00:00",
       "display_date": "Nov 10, 2026",
-      "summary": "More Suicides at Spy, Cyber Agencies Scrutinized By Congress Bloomberg",
+      "summary": "More Suicides at Spy, Cyber Agencies Scrutinized By Congress Bloomberg.com",
       "topics": [
         "Cybersecurity Risk"
       ]
@@ -629,6 +652,17 @@
       "summary": "Sustainability and operational risk management software provider Sphera announced the launch of new AI-powered sustainability […]",
       "topics": [
         "ESG & Sustainability",
+        "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "FACTBOX Fires, protests, pollution: Apple's supply chain woes in India - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZWtQRWVONlM0b1NBcUVkV3hTWVJnQWRpTHlUMGxFa0M0NEhyV2hJVURMLVdvVTFFYm9FNFF6bTRTQ1g1QW04WnJLenpMWTUzdDBKcmNjSzZxblc4Rk1Bb2ZpdzVYekhnamk2UDdXSmVWbkRLMU9pZEN1WkxrVEZPSzFLY2ZEOVphRGdPZndiV0cxUHF2WU5wd3gxaGFKUmNzSnMzandnNUxnMDBfWEt2eG9ISUlzUkU?oc=5",
+      "source": "Reuters",
+      "date": "2026-11-10T14:42:16+00:00",
+      "display_date": "Nov 10, 2026",
+      "summary": "FACTBOX Fires, protests, pollution: Apple's supply chain woes in India Reuters",
+      "topics": [
         "Operational & Enterprise Risk"
       ]
     },
@@ -754,12 +788,12 @@
       ]
     },
     {
-      "title": "Australia to Create AI Safety Regulator, Mandatory Rules - Bloomberg",
+      "title": "Australia to Create AI Safety Regulator, Mandatory Rules - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWGViZ2xsOWVMUVRfQnNEeWNfZ0RIQzEydE1qOHBjSkk4ZEVvTThTSnpBUmNqV0lGVEtPaW4xTmtTYUVEeGxQQW83X1hWZTM0ai1uUDA0ZWRBTGoyQTdldmNScGhncWJab1pIajY1SlhIeXpnNTdGWGdkQ2kzLURqZGQxeVN6NlQyM2d2Yy1ndm1YOW9BWmFDOVplano2ZHh5R0FOVnV5WDBmMDZZNHpOT0gtaw?oc=5",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "date": "2026-11-10T03:51:00+00:00",
       "display_date": "Nov 10, 2026",
-      "summary": "Australia to Create AI Safety Regulator, Mandatory Rules Bloomberg",
+      "summary": "Australia to Create AI Safety Regulator, Mandatory Rules Bloomberg.com",
       "topics": [
         "Regulatory Change"
       ]
@@ -942,17 +976,6 @@
       ]
     },
     {
-      "title": "Novocure Provides Regulatory Update on U.S. FDA Premarket Approval Application for Optune Mya® for Brain Metastases from Non-Small Cell Lung Cancer – Company Announcement - FT.com - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQendOclZJeHFpMi1IMV9kanp0LTdhdmpYNWNDdnFpOHE1emp1N2NqN0NwODgyMUc1VlFIMzUxNk1UUXBVby16dklZVnFCcjhkYmNzOVlxdkxxXzhBZ1VLOXg0NlR3b0ZTeU9mbHFuUnZ5eWtjZ3ktV1NObkl2ZUtJYnFyMDVkWE44ZlJ0SDNDRGhYajF5a0FUSEhlMTdQUjBjdU1MVlBB?oc=5",
-      "source": "Financial Times",
-      "date": "2026-11-09T12:00:00+00:00",
-      "display_date": "Nov 09, 2026",
-      "summary": "Novocure Provides Regulatory Update on U.S. FDA Premarket Approval Application for Optune Mya® for Brain Metastases from Non-Small Cell Lung Cancer – Company Announcement - FT.com Financial Times",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/11/09/cisa-adds-four-known-exploited-vulnerabilities-catalog",
       "source": "CISA Cybersecurity Advisories",
@@ -1129,17 +1152,6 @@
       ]
     },
     {
-      "title": "ECI-CW TPRM 2026: The two sides of the coin in AI risk management",
-      "link": "https://www.complianceweek.com/artificial-intelligence/eci-cw-tprm-2026-the-two-sides-of-the-coin-in-ai-risk-management/",
-      "source": "Compliance Week",
-      "date": "2026-11-06T22:12:36+00:00",
-      "display_date": "Nov 06, 2026",
-      "summary": "Panelists at ECI Compliance Week’s TPRM summit warned AI’s randomness and bias can undermine due diligence, while vetting vendors’ AI governance becomes increasingly essential. The post ECI-CW TPRM 2026: The two sides of the coin in AI risk management appeared first on Compliance...",
-      "topics": [
-        "Operational & Enterprise Risk"
-      ]
-    },
-    {
       "title": "SEC May Revisit Penalties Approach",
       "link": "https://www.radicalcompliance.com/2026/11/06/sec-may-revisit-penalties-approach/",
       "source": "Radical Compliance",
@@ -1262,17 +1274,6 @@
       ]
     },
     {
-      "title": "BDO 2026 Board Survey: Keeping pace with AI is a top challenge",
-      "link": "https://www.complianceweek.com/boards-shareholders/bdo-2026-board-survey-keeping-pace-with-ai-is-a-top-challenge/",
-      "source": "Compliance Week",
-      "date": "2026-11-06T02:24:35+00:00",
-      "display_date": "Nov 06, 2026",
-      "summary": "Keeping pace with artificial intelligence and emerging technologies is the most significant challenge corporate boards expect to face, alongside many other competing board priorities, according to BDO’s 2026 Board Survey. The post BDO 2026 Board Survey: Keeping pace with AI is a ...",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "MSCI says it needs to see South Korea's regulatory changes put into practice for market upgrade - Reuters",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWEgxQ1BoU2RsY2FCQmZwUWo2aTQzUlB4V196RzRZY1lsUUY3dEdCZG5fdjFHWDY2dTlKX3NtUG41OURjbUZUNWdIbW5uSXFoZmVXdmRFNnZPQnhGa0J0enJiNjFhdlZPd1Q4UVRPaGI3a2p3RW1jcEdWcF90Sjhqek0tREVVQllJZ2dEUVdRUUhfRUsyV0k2bzhlU0RkMVZ4Yy1PQTA3NV9meDh2RmxyZTUxTjROeERKTXJ2VG1feXN4ZHE5OHpqX29QUkI3Unc?oc=5",
       "source": "Reuters",
@@ -1303,17 +1304,6 @@
       "summary": "The company now expects annual revenue to increase by a high-teens percentage, up from its prior guidance of mid-teens percentage growth, as demand picked up in the third quarter across its global markets.",
       "topics": [
         "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Webull fined $4.2 million over compliance failures, FINRA says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOGVWWUdGVTdYWW5RemU3dFEwdWgzZXdQYVZHbGNWT01lVURrWWx4aVNPb1JyazZuT3JON3lGdS1BMzdRWVRTVnNQSWpyeEhEMUVNQkhlVF9BTzA5WEZUbUxFNkJkUk5GUGMzRV9WRVVwMWYwczZWZERzcEdWa2ttX2I1cDBWZ01kOVplZG5IUXVwaWktWkxVdW1hRFA1bERxVzlad0RnSGlQR1pDTDRuaTJn?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-05T20:45:45+00:00",
-      "display_date": "Nov 05, 2026",
-      "summary": "Webull fined $4.2 million over compliance failures, FINRA says Reuters",
-      "topics": [
-        "Enforcement Actions"
       ]
     },
     {
@@ -1435,17 +1425,6 @@
       "date": "2026-11-05T10:32:00+00:00",
       "display_date": "Nov 05, 2026",
       "summary": "Markets evolve. Consumer behaviour changes. Technology creates new opportunities and risks. Rules that were appropriate when they were introduced may need to be updated, simplified or, in some cases, removed altogether.That is why the FCA regularly reviews its rules.",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Sydney’s culture needs change — and so does the AFL’s drug policy - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQdHpTWUlCQmJBVjNVMi02ZXY3RE5BdW05V1pGSHFpM0R6RmQxRmh1ci14LUVSUmpSQm5GSVhQd20xSDhlUDhMUFAySEpOOGhUbk9LOUhSWmtFVmVtTnR0aE5VOHh5cWdXdWlZRzhQMUs2UzVKWXE1SkxWbVhHeHdieC1FMGp2VHEyNFNBa2pKSURiVWZuQ21QZk5LRVVXc2pTQzg2U2RLSWVaVlpTNmJrSk9QODQzRVctdkV0S2JXam5aNjJKZzJzY2ZybWcxOTZUSFhTYnR2OWJENjVBSllVa1JtM2F3QUMwS1I4cl9ac2IyMkJ5WjM0UjhvTXlNbmg0bE9kWURLZkJfNm9hUGVHNnFmb09HTk0yQlJ1ZFhDVnVDbHhBa21jUlJZd2pUQmltY0F4Vg?oc=5",
-      "source": "The Australian",
-      "date": "2026-11-05T09:18:00+00:00",
-      "display_date": "Nov 05, 2026",
-      "summary": "Sydney’s culture needs change — and so does the AFL’s drug policy The Australian",
       "topics": [
         "Regulatory Change"
       ]
@@ -1892,17 +1871,6 @@
       "date": "2026-10-26T10:00:00+00:00",
       "display_date": "Oct 26, 2026",
       "summary": "On 17 September 2026, Chandler King (City) Limited (Chandler King) went into creditors’ voluntary liquidation. Grace Jones and Karyn Jones of Parker Andrews were appointed as joint liquidators. Chandler King, an FCA-authorised firm, was an independent financial adviser which advi...",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Compliance Jobs Report: Oct. 23",
-      "link": "https://www.radicalcompliance.com/2026/10/23/compliance-jobs-report-oct-23-2/",
-      "source": "Radical Compliance",
-      "date": "2026-10-23T14:35:38+00:00",
-      "display_date": "Oct 23, 2026",
-      "summary": "If it’s Friday, it’s another week of the Compliance Jobs Report! We have new hires this week at Ericsson, University of Florida, Arthrex, Tyson Foods, Albemarle, and elsewhere, plus a few CCO exits worth noting. Promotions at Bayada, RTX, Ecolab, and more; with job leads in aeros...",
       "topics": [
         "Regulatory Change"
       ]
