@@ -1,7 +1,106 @@
 {
-  "last_updated": "November 12, 2026 08:50 UTC",
-  "total_count": 233,
+  "last_updated": "November 12, 2026 12:52 UTC",
+  "total_count": 235,
   "articles": [
+    {
+      "title": "AI helped the UK defy expectations – but will Britain’s resilience fizzle out?",
+      "link": "https://www.theguardian.com/business/2026/nov/12/ai-uk-economy-john-healey",
+      "source": "The Guardian Australia",
+      "date": "2026-11-12T12:37:53+00:00",
+      "display_date": "Nov 12, 2026",
+      "summary": "Despite John Healey’s defiance, the economy faces threats from a tech slowdown and energy bills this winter AI helps UK economy grow at fastest pace for more than two years The forecasters were clear when John Healey became chancellor in July: Britain’s resilience to the war in t...",
+      "topics": [
+        "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "The Morning Risk Report: Nvidia is Preparing to Oust CEO Jensen Huang",
+      "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-nvidia-is-preparing-to-oust-ceo-jensen-huang-324bfbd1?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-11-12T12:29:00+00:00",
+      "display_date": "Nov 12, 2026",
+      "summary": "Plus: United Airlines is banning AI bots from booking flights, and the DOJ, Treasury in settlement talks with oil-field services firm over Mexico payments.",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "DuPont Sold Safety to the World While Its Own Plant’s Rules Stayed on Paper",
+      "link": "https://www.corporatecomplianceinsights.com/dupont-sold-safety-to-world-while-own-plant-rules-stayed-paper/",
+      "source": "Corporate Compliance Insights",
+      "date": "2026-11-12T12:00:39+00:00",
+      "display_date": "Nov 12, 2026",
+      "summary": "The 2014 incident that killed workers at a Texas plant traces to a daily task no procedure ever covered and an urgent repair that was never done The post DuPont Sold Safety to the World While Its Own Plant’s Rules Stayed on Paper appeared first on Corporate Compliance Insights .",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "Google Cloud Signs Deal for 10 Million Liters of Sustainable Aviation Fuel to Tackle Shipping Emissions",
+      "link": "https://www.esgtoday.com/google-cloud-signs-deal-for-10-million-liters-of-sustainable-aviation-fuel-to-tackle-shipping-emissions/?utm_source=rss&utm_medium=rss&utm_campaign=google-cloud-signs-deal-for-10-million-liters-of-sustainable-aviation-fuel-to-tackle-shipping-emissions",
+      "source": "ESG Today",
+      "date": "2026-11-12T11:50:09+00:00",
+      "display_date": "Nov 12, 2026",
+      "summary": "Denmark-based global transport and logistics company DSV announced today an agreement with Google Cloud to […]",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "Wall Street watchdog enforcement against public companies drops to 16-year low - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNN2RIWGtxbTBkSnBxUV9ITlhGT2JUUUZFZFQ5ZVc4YkRMVFlFVW95U0ZPTEhpaHRSajhfSXJSNTk0S1NEWUtoY3lPNjBUckRNUTF4VXV4RXlGMHh4NUdxZ3RON21XdGJ0cXBHdmx0SG1SNU41QS1zZXBUbFM5YmdPVnpPdWI?oc=5",
+      "source": "Financial Times",
+      "date": "2026-11-12T11:00:04+00:00",
+      "display_date": "Nov 12, 2026",
+      "summary": "Wall Street watchdog enforcement against public companies drops to 16-year low Financial Times",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "Just Climate Raises $540 Million for Agriculture-Focused Decarbonization Solutions Fund",
+      "link": "https://www.esgtoday.com/just-climate-raises-540-million-for-agriculture-focused-decarbonization-solutions-fund/?utm_source=rss&utm_medium=rss&utm_campaign=just-climate-raises-540-million-for-agriculture-focused-decarbonization-solutions-fund",
+      "source": "ESG Today",
+      "date": "2026-11-12T10:34:31+00:00",
+      "display_date": "Nov 12, 2026",
+      "summary": "Climate solutions-focused investment business Just Climate announced that it has raised $540 million in commitments […]",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "FCA proposes greater pension investment flexibility to support long-term value for savers",
+      "link": "https://www.fca.org.uk/news/press-releases/fca-proposes-greater-pension-investment-flexibility-support-long-term-value-savers",
+      "source": "FCA UK Regulatory News",
+      "date": "2026-11-12T10:05:00+00:00",
+      "display_date": "Nov 12, 2026",
+      "summary": "Workplace pension providers could have greater flexibility to invest for the long term under proposals from the FCA, helping them deliver better outcomes for savers while ensuring savers' interests remain protected. The FCA is consulting on excluding certain performance-linked fe...",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Course Corrected Raises €80 Million to Back European Energy and Resource Transition Startups",
+      "link": "https://www.esgtoday.com/course-corrected-raises-e80-million-to-back-european-energy-and-resource-transition-startups/?utm_source=rss&utm_medium=rss&utm_campaign=course-corrected-raises-e80-million-to-back-european-energy-and-resource-transition-startups",
+      "source": "ESG Today",
+      "date": "2026-11-12T09:34:17+00:00",
+      "display_date": "Nov 12, 2026",
+      "summary": "Venture capital investor Course Corrected announced today that it has raised €80 million (USD$89 million) […]",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "EU to approve more sanctions on Russia on Monday, France says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbGRJY0NscW1XVmJrX1VJR1JWZW1fVVhXaTdKeXN6aVFEMGJueGdSeTE1SlpGQVVpYjZIN0VOb2RpSmlqVGdmMDhsSVlHSWltYWoyOTBPZkpoVTZVV2V6SG42LUJRcTFIb1Z2TzByT19USElvV1g3eXYyU0ZQVEVfc191ZWl0ZDVLeUJ5c3VlUUhHWTViUDl2REFwQmxZNDNvZkE?oc=5",
+      "source": "Reuters",
+      "date": "2026-11-12T08:55:44+00:00",
+      "display_date": "Nov 12, 2026",
+      "summary": "EU to approve more sanctions on Russia on Monday, France says Reuters",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
     {
       "title": "BAE Systems Lifts Cash Flow Guidance Again as Defense Spending Fuels Orders",
       "link": "https://www.wsj.com/business/earnings/bae-systems-lifts-cash-flow-guidance-again-as-defense-spending-fuels-orders-50b290e3?mod=pls_whats_news_us_business_f",
@@ -20,17 +119,6 @@
       "date": "2026-11-12T08:08:00+00:00",
       "display_date": "Nov 12, 2026",
       "summary": "The telecommunications company lifted its earnings view for this year, citing a strong third quarter, but cut its revenue target.",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Water industry bonus ban to be tightened as Ofwat warns of ‘damage to public trust’",
-      "link": "https://www.theguardian.com/business/2026/nov/12/water-industry-bonus-ban-tightened-ofwat",
-      "source": "The Guardian Australia",
-      "date": "2026-11-12T07:59:52+00:00",
-      "display_date": "Nov 12, 2026",
-      "summary": "Regulator to hasten review over concerns that firms are ‘undermining’ rules to make large payments to bosses Business live – latest updates The water company bonus ban is set to be tightened after the regulator accused the industry of a risk of “damaging public trust” with large ...",
       "topics": [
         "Regulatory Change"
       ]
@@ -73,7 +161,7 @@
       "title": "CBA sued over alleged $8.5m in hidden fees - The Australian",
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQb3hDaXI0RTNHdW1rNlZXWmx5eUdBa1JMbUNVcUlpNkNDcURadlBLRi01V1BkOEhka0tUTWM5LTdleWRrOTFMZk91S2hTUlRUYjV0T0thRWlueXllbWh5QjVZYnhDNjR3aXNmVXJ1VjFPY0ktOGhrdEtoQ3dxaDFOVmphM0RRM2VWeWY2djlDT1Y5Y0twSHRfajZVeER2NmY4WkxfRjVQNmR6X2k4Rkc5YXgzcEgzbGs4RmdOZk5WYTdKbkFORlFBVHQwNWdCcTlIanM5M2pXZGJLbkxsV1o2UWhYSkFjc2JzUWU0RmtfOTlpT1Buamw2QjRn?oc=5",
       "source": "The Australian",
-      "date": "2026-11-12T01:34:00+00:00",
+      "date": "2026-11-12T01:34:02+00:00",
       "display_date": "Nov 12, 2026",
       "summary": "CBA sued over alleged $8.5m in hidden fees The Australian",
       "topics": [
@@ -336,17 +424,6 @@
       ]
     },
     {
-      "title": "One More Rate Hike Is Looking Like the Beginning, Not the End",
-      "link": "https://www.wsj.com/articles/one-more-rate-hike-is-looking-like-the-beginning-not-the-end-7c18c678?mod=pls_whats_news_us_business_f",
-      "source": "Wall Street Journal",
-      "date": "2026-11-11T10:57:00+00:00",
-      "display_date": "Nov 11, 2026",
-      "summary": "Plus, a senior U.S. soldier is arrested on allegations of spying for Russia, and a $26 million cyber heist rocks a small New Jersey town.",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
       "title": "McCormick’s $65 Billion Unilever Foods Tie-Up Could Harm Competition, U.K. Regulator Warns",
       "link": "https://www.wsj.com/business/deals/mccormicks-65-billion-unilever-foods-merger-could-harm-competition-u-k-regulator-warns-ccd08701?mod=pls_whats_news_us_business_f",
       "source": "Wall Street Journal",
@@ -421,17 +498,6 @@
       "summary": "ACCC flags concerns on IAG’s RAC WA deal, but market bets it still gets done The Australian",
       "topics": [
         "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "Nvidia Scandal Tests the Resilience of the Global AI Boom",
-      "link": "https://www.wsj.com/tech/ai/jensen-huang-nvidia-ceo-ai-bubble-93097556?mod=pls_whats_news_us_business_f",
-      "source": "Wall Street Journal",
-      "date": "2026-11-11T03:00:00+00:00",
-      "display_date": "Nov 11, 2026",
-      "summary": "Jensen Huang is the biggest cheerleader of the “next industrial revolution.” Could it carry on without him?",
-      "topics": [
-        "Operational & Enterprise Risk"
       ]
     },
     {
@@ -578,6 +644,17 @@
       ]
     },
     {
+      "title": "Iran's soccer team arrives in Iraq by bus after flight barred over US sanctions - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1qeF9XYWY1aW4xXzJIVTA3MXRWVGp2bTdqN2poS2VpYzI0eVNQeHZuUVdnOGhEVFZjUXUtRk9iUzdaZlNxZGhoUzdndXVjZC1kTDJOVW9adnpqTVV0cnNBbTAzYlM1RDQ?oc=5",
+      "source": "Reuters",
+      "date": "2026-11-10T20:11:28+00:00",
+      "display_date": "Nov 10, 2026",
+      "summary": "Iran's soccer team arrives in Iraq by bus after flight barred over US sanctions Reuters",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
       "title": "Iran’s soccer team arrives in Iraq by bus after flight barred over US sanctions - The Australian",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNNVZnc3Z2RzV2Nk1BZkpKSy1FVG5Pb0ZBMXBEWXpVbkxMbjRzSEs3SWR2RDZvMkx3ZEJIam1oM0RGVnp6cUxnSC15elFpdVhEaTJSeU9BT0JFWm1NSllXelFlb1hQQUU0ZnNqZ0RqNkVtenVQWi0wU1J2aGE3Z0loaHRucFJnRjV3OTVFd3I4emROYmM5LWVPaHd3QXdja0prb0d4eDRSVVMwR3JRNTVhUXZfc2pCYUxRS1VnTnhUUms3R1hSeGN0dDEzdFpzcEJjYzRxMHVMM1BiRldvTWVCOEpjdlZhTmNtMWFn?oc=5",
       "source": "The Australian",
@@ -595,6 +672,17 @@
       "date": "2026-11-10T19:41:44+00:00",
       "display_date": "Nov 10, 2026",
       "summary": "Nigeria approves 145 new oil wells so far this year, regulator says Reuters",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Canadian Investment Regulatory Organization Trading Halt - MCI – Company Announcement - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQUlXWmxRYTR2NG5aSFZfYjVjMWZSa1FqaHp6T2tTQkVadTRlRnRwNENlM1RkT2dPYTA4dW1fRWc1MVhkeXE0ZmVKNjBwTzlDQkxDLVZMOG5feDNKU3dsZ1VRME9BTXJ1VEM5RlV6M1F1YnVLbEh6SHVVYXFKSGVjWkVPWjd0akJ5WXZVX201aFFFazFHR2c?oc=5",
+      "source": "Financial Times",
+      "date": "2026-11-10T17:19:00+00:00",
+      "display_date": "Nov 10, 2026",
+      "summary": "Canadian Investment Regulatory Organization Trading Halt - MCI – Company Announcement Financial Times",
       "topics": [
         "Regulatory Change"
       ]
@@ -666,40 +754,6 @@
       ]
     },
     {
-      "title": "Mercedes-Benz Adjusts 2039 Carbon Neutral Goal, Sets 2049 Net Zero Target",
-      "link": "https://www.esgtoday.com/mercedes-benz-adjusts-2039-carbon-neutral-goal-sets-2049-net-zero-target/?utm_source=rss&utm_medium=rss&utm_campaign=mercedes-benz-adjusts-2039-carbon-neutral-goal-sets-2049-net-zero-target",
-      "source": "ESG Today",
-      "date": "2026-11-10T16:08:46+00:00",
-      "display_date": "Nov 10, 2026",
-      "summary": "Mercedes-Benz unveiled a series of revisions to its long-term climate goals, including changing its prior […]",
-      "topics": [
-        "ESG & Sustainability"
-      ]
-    },
-    {
-      "title": "Sphera Launches New Product Sustainability Compliance Solutions",
-      "link": "https://www.esgtoday.com/sphera-launches-solutions-to-help-companies-comply-with-new-product-sustainability-regulations/?utm_source=rss&utm_medium=rss&utm_campaign=sphera-launches-solutions-to-help-companies-comply-with-new-product-sustainability-regulations",
-      "source": "ESG Today",
-      "date": "2026-11-10T15:38:25+00:00",
-      "display_date": "Nov 10, 2026",
-      "summary": "Sustainability and operational risk management software provider Sphera announced the launch of new AI-powered sustainability […]",
-      "topics": [
-        "ESG & Sustainability",
-        "Operational & Enterprise Risk"
-      ]
-    },
-    {
-      "title": "FACTBOX Fires, protests, pollution: Apple's supply chain woes in India - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZWtQRWVONlM0b1NBcUVkV3hTWVJnQWRpTHlUMGxFa0M0NEhyV2hJVURMLVdvVTFFYm9FNFF6bTRTQ1g1QW04WnJLenpMWTUzdDBKcmNjSzZxblc4Rk1Bb2ZpdzVYekhnamk2UDdXSmVWbkRLMU9pZEN1WkxrVEZPSzFLY2ZEOVphRGdPZndiV0cxUHF2WU5wd3gxaGFKUmNzSnMzandnNUxnMDBfWEt2eG9ISUlzUkU?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-10T14:42:16+00:00",
-      "display_date": "Nov 10, 2026",
-      "summary": "FACTBOX Fires, protests, pollution: Apple's supply chain woes in India Reuters",
-      "topics": [
-        "Operational & Enterprise Risk"
-      ]
-    },
-    {
       "title": "Canadian Investment Regulatory Organization Trade Resumption - COPR – Company Announcement - Financial Times",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZXEwc1V4bFNiZl9GN3phNWkyNmRRX0QyVTdRZy1DRzNIV0xoVWtZMm03OVJrejZSUmMzNm11bzE0UEJTYURIc0ZsNkZxUXdrTTdGWGJ4OGJjSi1US3ZNTUgxa1Vzdmp0ZExaTTRBc1BNbFN2U3E4Z3gwWW9zVkRoU2VRanZiOUJhaWhNUnFHZkhrQ0o4SUE?oc=5",
       "source": "Financial Times",
@@ -719,17 +773,6 @@
       "summary": "The practice you’ve noticed is colloquially known as ‘review gating’, writes consumer affairs and policy professional Kat George . And no, it isn’t legal Read more Australian customer service questions I have noticed that when I get an email inviting me to review a product or ser...",
       "topics": [
         "Regulatory Change"
-      ]
-    },
-    {
-      "title": "The Collapse of KOKO Networks: A Warning for Global Carbon Markets",
-      "link": "https://www.esgtoday.com/the-collapse-of-koko-networks-a-warning-for-global-carbon-markets/?utm_source=rss&utm_medium=rss&utm_campaign=the-collapse-of-koko-networks-a-warning-for-global-carbon-markets",
-      "source": "ESG Today",
-      "date": "2026-11-10T13:37:38+00:00",
-      "display_date": "Nov 10, 2026",
-      "summary": "Guest post by: Eyal Harel, CEO, BlueGreen Water Technologies The collapse of KOKO Networks in […]",
-      "topics": [
-        "ESG & Sustainability"
       ]
     },
     {
@@ -872,6 +915,17 @@
       "date": "2026-11-09T23:01:29+00:00",
       "display_date": "Nov 09, 2026",
       "summary": "The SEC has approved targeted amendments to QC 1000, A Firm’s System of Quality Control. The amendments do not change the date when QC 1000 comes into effect, which remains Dec. 15. The post QC 1000 amendments approved a month before new accounting quality regulation comes into f...",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Canadian Investment Regulatory Organization Trading Halt - CRR.UN – Company Announcement - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQkw4Mi10RjczTkthQzU3Z0VZQXI4NXcyTVlHNVpDNl9QQ3hQYjIxVFhVRFRwdkpkdUhfRkFNZThFV3NtR2RFdUwxS25mbmZ6ZnBYSklNajNtR1FIeVRnV0dydDNoTmJlVEFuZHdkQWk0dnQxTWJlRktYMVdsMEwtY2ZkTG1EeHR6LWdzU1dWNTc5bEt6LWc?oc=5",
+      "source": "Financial Times",
+      "date": "2026-11-09T21:28:00+00:00",
+      "display_date": "Nov 09, 2026",
+      "summary": "Canadian Investment Regulatory Organization Trading Halt - CRR.UN – Company Announcement Financial Times",
       "topics": [
         "Regulatory Change"
       ]
@@ -1362,17 +1416,6 @@
       ]
     },
     {
-      "title": "Indonesian police say wiretapping probe a matter for law enforcement, as parliament considers inquiry into VP - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVzN4MXBrbXRuMUZfbHFGUDNPSG5kWkRfOGFfLXJ0MlJUTFRKeDhTWGc3eGhPWEI2RTZPaWpsTzBXLWYtaUQzS21YZVFUS1VNWEs4aUNHT2FPY3ltMzZ5WkNWaW1GT0tkZkdDOFNnczZRSHJhWjM3MGtSN3JGNGY5MjdiOGJhVGduNDB5VWE1TmZ1dVZiRVZhQVA2dkdqUDhDSkdXZzAwbXNfazlieUxuMUJyUllhN2l4VHZrU0hPTnJKbnZhYVl2eE41UHI?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-05T12:33:07+00:00",
-      "display_date": "Nov 05, 2026",
-      "summary": "Indonesian police say wiretapping probe a matter for law enforcement, as parliament considers inquiry into VP Reuters",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
       "title": "What’s Up, Doc? The DOJ’s New Healthcare Carrot & Its Catch",
       "link": "https://www.corporatecomplianceinsights.com/whats-up-doc-doj-new-healthcare-carrot-catch/",
       "source": "Corporate Compliance Insights",
@@ -1482,17 +1525,6 @@
       "summary": "The Securities and Exchange Commission today adopted amendments to the rules that define which registered investment companies, investment advisers, and business development companies qualify as small entities for purposes of the Regulatory Flexibility…",
       "topics": [
         "Regulatory Change"
-      ]
-    },
-    {
-      "title": "‘Remote’ & ‘Work From Anywhere’ Are Not the Same Thing",
-      "link": "https://www.corporatecomplianceinsights.com/remote-work-from-anywhere-not-same-thing/",
-      "source": "Corporate Compliance Insights",
-      "date": "2026-11-04T12:00:36+00:00",
-      "display_date": "Nov 04, 2026",
-      "summary": "When an employee relocates, the company can take on a new state or country’s employment law, payroll taxes and other duties, often unintentionally The post ‘Remote’ & ‘Work From Anywhere’ Are Not the Same Thing appeared first on Corporate Compliance Insights .",
-      "topics": [
-        "Operational & Enterprise Risk"
       ]
     },
     {
@@ -1861,17 +1893,6 @@
       "summary": "Speech by Ashley Alder, FCA Chair, at the Michael D. Gill Lecture on International Financial Regulatory Understanding and Cooperation. I wasn’t fortunate enough to work as closely with Mike as many of you in this room.But I knew him well enough during my time with the IOSCO board...",
       "topics": [
         "Regulatory Change"
-      ]
-    },
-    {
-      "title": "FCA restricts 6 firms following concerns over anti-money laundering controls",
-      "link": "https://www.fca.org.uk/news/press-releases/fca-restricts-6-firms-following-concerns-over-anti-money-laundering-controls",
-      "source": "FCA UK Regulatory News",
-      "date": "2026-10-23T09:47:00+00:00",
-      "display_date": "Oct 23, 2026",
-      "summary": "Restrictions have been placed on 6 unregulated lenders, known as Annex 1 firms, after the FCA raised concerns about their anti-money laundering policies, controls and procedures while assessing their applications. The restrictions were imposed by the FCA on each firm’s request an...",
-      "topics": [
-        "AML & Sanctions"
       ]
     },
     {
