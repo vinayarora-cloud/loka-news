@@ -1,7 +1,62 @@
 {
-  "last_updated": "November 12, 2026 16:51 UTC",
-  "total_count": 234,
+  "last_updated": "November 12, 2026 20:40 UTC",
+  "total_count": 230,
   "articles": [
+    {
+      "title": "SA gives green light for gas to help power future data centres",
+      "link": "https://www.abc.net.au/news/2026-11-13/sa-gives-green-light-for-gas-to-power-data-centres/107364606",
+      "source": "ABC News Business (AU)",
+      "date": "2026-11-12T20:06:25+00:00",
+      "display_date": "Nov 12, 2026",
+      "summary": "The South Australian government says it is \"absolutely fine\" for gas to be used to help power data centres, despite its strategy focusing on renewable energy as the source.",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "OCC’s Semiannual Risk Perspective Highlights Key Risks in Federal Banking System",
+      "link": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-99.html",
+      "source": "Office of the Comptroller of the Currency",
+      "date": "2026-11-12T20:00:00+00:00",
+      "display_date": "Nov 12, 2026",
+      "summary": "The Office of the Comptroller of the Currency (OCC) today reported the key issues facing the federal banking system in the Semiannual Risk Perspective for Fall 2026.",
+      "topics": [
+        "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "Bowen pushes pragmatic climate deal amid pressure over fossil fuels",
+      "link": "https://www.abc.net.au/news/2026-11-13/chris-bowen-seeks-pragmatic-consensus-nto-inal-cop31-talks/107380860",
+      "source": "ABC News Business (AU)",
+      "date": "2026-11-12T18:50:35+00:00",
+      "display_date": "Nov 12, 2026",
+      "summary": "Chris Bowen says Australia's coal and gas exports have not damaged its standing in climate negotiations, as countries struggle to agree on how to move away from fossil fuels.",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "Lifesaving medicines frequently in short supply and doctors are worried",
+      "link": "https://www.abc.net.au/news/2026-11-13/repeated-critical-medicine-shortages-new-analysis/107242432",
+      "source": "ABC News Business (AU)",
+      "date": "2026-11-12T18:00:00+00:00",
+      "display_date": "Nov 12, 2026",
+      "summary": "ABC analysis reveals the important medicines that are repeatedly hard to source, highlighting supply chain weaknesses that could get worse.",
+      "topics": [
+        "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "Nuveen Launches New Nature-Based Solutions Fund",
+      "link": "https://www.esgtoday.com/nuveen-launches-new-nature-based-solutions-fund/?utm_source=rss&utm_medium=rss&utm_campaign=nuveen-launches-new-nature-based-solutions-fund",
+      "source": "ESG Today",
+      "date": "2026-11-12T17:03:04+00:00",
+      "display_date": "Nov 12, 2026",
+      "summary": "Nuveen Natural Capital, the land-focused asset management platform of global asset manager Nuveen, announced the […]",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
     {
       "title": "AI Ubiquitous in Financial Decision-Making",
       "link": "https://www.corporatecomplianceinsights.com/news-roundup-november-12-2026/",
@@ -91,18 +146,6 @@
       ]
     },
     {
-      "title": "Meta fined by UK regulator over repeated inaccuracies in WhatsApp Business data - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNUM1Y0YwNEY5YS1iQzZhNG51ZDhfTWxCLU9QZjhZSTZrVWluam1QdHctRUQzWjE1Vko2R3lHUklWN2xRR0UyYl8yT1F5S0tfeEM5UDg0d3B6elc2NTAydTZNbDFORDJjUm1la3JlRGNfam00QUhMY1RMNHgxQXNNSk4wVFhBRmdhQ1hkM0R1S05SWG0xTWpuX0pEeGpmWjYzZTRhUlZZNHpYOTRDMDVPQUNPbVFENE0wSnZwcGN0YU1QTk5lV3JpV0Nrc0R1cVRu?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-12T13:01:23+00:00",
-      "display_date": "Nov 12, 2026",
-      "summary": "Meta fined by UK regulator over repeated inaccuracies in WhatsApp Business data Reuters",
-      "topics": [
-        "Enforcement Actions",
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "EU to present new Russia sanctions package, Ukraine funding measures by year-end - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNd2hxVXptWFBac1VNdFFUOE8zVi02NklWdlhCenlSNjROVGx3QVJpSERMN0lsbUEtWHpwODVGSVZFeV9CN3ZWb09xcHBCMnVfYkFaZHhiOU1YSWJFb3EtdWJwWW01UGRxTEtOVzlkVUxSTGotaVhfSVhFOVVVVFdfN0hKb3gtNjUtdUprOFFrVmxTa0lrYk5wWnNxVm9OaGFsNk1GRF93NUdrWXB4ZUItTFkzZFA2YjlpNGx5dmZZNjMwTUM5NmVNNg?oc=5",
       "source": "Reuters",
@@ -142,6 +185,50 @@
       "date": "2026-11-12T12:00:39+00:00",
       "display_date": "Nov 12, 2026",
       "summary": "The 2014 incident that killed workers at a Texas plant traces to a daily task no procedure ever covered and an urgent repair that was never done The post DuPont Sold Safety to the World While Its Own Plant’s Rules Stayed on Paper appeared first on Corporate Compliance Insights .",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "Siemens Desigo, Gridscale",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-02",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-11-12T12:00:00+00:00",
+      "display_date": "Nov 12, 2026",
+      "summary": "View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as \"Node2Shell\" (tracked as CVE-2026-111497). The vulnerability is an out-of-bounds write that...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "Siemens RUGGEDCOM APE1808",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-05",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-11-12T12:00:00+00:00",
+      "display_date": "Nov 12, 2026",
+      "summary": "View CSAF Summary Palo Alto Networks has published information on vulnerabilities in PAN-OS related to PHP2Shell vulnerabilities. This advisory lists the related Siemens Industrial products affected by these vulnerabilities. Customers are advised to consult and implement the work...",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Siemens Building Automation and Energy Products",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-01",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-11-12T12:00:00+00:00",
+      "display_date": "Nov 12, 2026",
+      "summary": "View CSAF Summary On October 21, 2026, the PHP project and security researchers disclosed two critical, unauthenticated remote code execution vulnerabilities in the core PHP language runtime known as \"php2shell\" (tracked as CVE-2026-109618 and CVE-2026-109619). This advisory cove...",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Siemens Industrial Edge Management",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-03",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-11-12T12:00:00+00:00",
+      "display_date": "Nov 12, 2026",
+      "summary": "View CSAF Summary Siemens is currently assessing the impact of Node2Shell (CVE-2026-111497) on Industrial Edge. Please check your Industrial Edge Management (IEM) setup: - No Management Applications installed: No action is required. Although the affected Brotli library is include...",
       "topics": [
         "Cybersecurity Risk"
       ]
@@ -221,17 +308,6 @@
       "summary": "EU to approve more sanctions on Russia on Monday, France says Reuters",
       "topics": [
         "AML & Sanctions"
-      ]
-    },
-    {
-      "title": "BAE Systems Lifts Cash Flow Guidance Again as Defense Spending Fuels Orders",
-      "link": "https://www.wsj.com/business/earnings/bae-systems-lifts-cash-flow-guidance-again-as-defense-spending-fuels-orders-50b290e3?mod=pls_whats_news_us_business_f",
-      "source": "Wall Street Journal",
-      "date": "2026-11-12T08:12:00+00:00",
-      "display_date": "Nov 12, 2026",
-      "summary": "The upgrade marks the second time the arms maker has revised its targets for the year.",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
@@ -502,14 +578,14 @@
       ]
     },
     {
-      "title": "Climate Asset Management Appoints Former HSBC AM Sustainability Head Erin Leonard as New CEO",
-      "link": "https://www.esgtoday.com/climate-asset-management-appoints-former-hsbc-am-sustainability-head-erin-leonard-as-new-ceo/?utm_source=rss&utm_medium=rss&utm_campaign=climate-asset-management-appoints-former-hsbc-am-sustainability-head-erin-leonard-as-new-ceo",
-      "source": "ESG Today",
-      "date": "2026-11-11T13:32:25+00:00",
+      "title": "Canadian Investment Regulatory Organization Trade Resumption - PMET – Company Announcement - FT Markets Data",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQ0RaRzF0N3ZSSHhnbEo3SjNuN1JFUFVJUXR0NkNNNWQzWGFRZWpycVlCTk5CS25vSlVMY2xocDgyaWRqZ2JxWnVDLVVRWmhPeUZGbVVveGRrcnNlcEVDd3FQWmlQODYtOWZZbE9zamFudHlZRnFLM1dUbEQySFdDcC1va3JsVHUxMlJQLXdGSFc3eGhHaVE?oc=5",
+      "source": "FT Markets Data",
+      "date": "2026-11-11T13:25:00+00:00",
       "display_date": "Nov 11, 2026",
-      "summary": "Natural capital investment firm Climate Asset Management has appointed Erin Leonard, formerly HSBC Asset Management’s […]",
+      "summary": "Canadian Investment Regulatory Organization Trade Resumption - PMET – Company Announcement FT Markets Data",
       "topics": [
-        "ESG & Sustainability"
+        "Regulatory Change"
       ]
     },
     {
@@ -788,17 +864,6 @@
       ]
     },
     {
-      "title": "First global airline emissions scheme faces 'a litmus test' as credits run short - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNM200cmtwZ0pzVEs2RHhFRERhS09qZkNQOXhXWWpPeGVZZjczTXZWLTlCSzFkYVdOYTdsbm4wUm95djRSbU9SMnRibmRIa3NmZEh4djNUNi1rMGJCR0pmcGNQSXIyOVRWMU8wcHdXSWV3WFRSWHUxRmdtYnNxRGVOTU1tQ19iSjd5a2JwMVFFem1HVUVxMkNVNjk1cm5EWWthZEFBYTZIVHNSQ2VJd0ZETm1aZFZHZ3dpalRtcDFjbGF6a0NvNlpINm1B?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-10T16:38:50+00:00",
-      "display_date": "Nov 10, 2026",
-      "summary": "First global airline emissions scheme faces 'a litmus test' as credits run short Reuters",
-      "topics": [
-        "ESG & Sustainability"
-      ]
-    },
-    {
       "title": "SEC Announces Enforcement Annual Results for Fiscal Year 2026",
       "link": "https://www.sec.gov/newsroom/press-releases/2026-113-sec-announces-enforcement-annual-results-fiscal-year-2026",
       "source": "SEC Press Releases",
@@ -898,17 +963,6 @@
       ]
     },
     {
-      "title": "IAG acknowledges ACCC’s preliminary assessment of public benefit application - AFR",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOG9BYUhoMzhYV3dJMU9rcWpzVTFMX2pWSC1hRWpqb001dVg5MDdxVEFBQm9iTDFhd3JkUFVNWGFrT2lmQ0g0bDhFUmxTNlVWUE5yazVFT3Y2dUxleWxzWjZ6YlFxVlFDZWtPcTlOSmVlckRVVjRFU1hYbEFsbkFXV2lvSGI1Rmx1eU9aU3ZLTQ?oc=5",
-      "source": "AFR",
-      "date": "2026-11-10T08:03:49+00:00",
-      "display_date": "Nov 10, 2026",
-      "summary": "IAG acknowledges ACCC’s preliminary assessment of public benefit application AFR",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
       "title": "Trump refugee joins Climate 200 board - The Australian",
       "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPUE5XVnFIMEQyUzZ1YkRid2I4Mk1FdnJWc1N3bERfMlVLNjZndk5QMTBsSWxKLUxmMlNEWUJfNzhUZUFySS1Yc1Vjbnc3eVpsNnNjNUtlaHA1Y0xsdWwySGRIeUVfOTJ1RE5GbXFwZVlkQ1FyNmRyVS1KcnhGX1lpd0JLaXZuNlg4RkJQRUVoRGdYaGNZRGY2eUlMSUdfNnZHekdaSjU5MDdHcmNLZVNmTGs4YjJxOWpLZ3lfWnc3Q25BT1J4aWYyRlpsOVlGTkdFRzN5dS1TbC1ZLXkxTUVyRUhNOGZ1ZUZ4a1R2SHF3NXh4b1htdmZNTWFWTTh1Q2YtUS11QmVxLXZmZ2JhNTVzTw?oc=5",
       "source": "The Australian",
@@ -917,17 +971,6 @@
       "summary": "Trump refugee joins Climate 200 board The Australian",
       "topics": [
         "ESG & Sustainability"
-      ]
-    },
-    {
-      "title": "Why High Beef Prices Are Here to Stay",
-      "link": "https://www.wsj.com/business/high-beef-prices-here-to-stay-004f9119?mod=pls_whats_news_us_business_f",
-      "source": "Wall Street Journal",
-      "date": "2026-11-10T02:00:00+00:00",
-      "display_date": "Nov 10, 2026",
-      "summary": "Shrinking U.S. cattle herd is putting meatpackers out of business, fracturing the supply chain.",
-      "topics": [
-        "Operational & Enterprise Risk"
       ]
     },
     {
@@ -1373,28 +1416,6 @@
       ]
     },
     {
-      "title": "White House Reviewing SEC’s Proposed Crypto Broker Rule Changes - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRk92d1dsaHFuMnVQaUVKaDBlNXd4bW5YWUdSaEpOX2ZxZnRiOURjRkg1cFlhZlRpeEp5dUoxWjhWLVItaGR6WXV2MFE0MlAyTWVDWFNQcms1U2JIT2xNanhpdS1NQXc1c3NFU2JDRWVlR0RCZkhIbnFsNmswTUhNeGRQUWF3ZElVZU1HY1ZJUGZCR2xTSU5EakhKM1JOemtiejZKb2hsUFI4Tkg2WE1OekR5VnM?oc=5",
-      "source": "Bloomberg.com",
-      "date": "2026-11-05T18:35:08+00:00",
-      "display_date": "Nov 05, 2026",
-      "summary": "White House Reviewing SEC’s Proposed Crypto Broker Rule Changes Bloomberg.com",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "US issues new Cuba sanctions, takes aim at sectors of Cuban economy - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQblVpSUg3SjBzNjdqeWlrY1hpeWNhQ2E0VzNmZW1RTVl3ekVfRW5ERnpNU2gwa3M3NUZuNWFFc3JWR3BnNGlHeS1VOENLeFcwRUxaYm00TnVxZWd1RkxtbEJ0WlJTQmFMeXZDZm9iX1Fybk5qTGJ5eVhCMlV6c2VFbUd4ZXZBS2VmeW9tM0d1SjRoN0FibW13RnAtcU11XzVENk5PVTVYV2RPMGJkM3ZlaQ?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-05T18:11:08+00:00",
-      "display_date": "Nov 05, 2026",
-      "summary": "US issues new Cuba sanctions, takes aim at sectors of Cuban economy Reuters",
-      "topics": [
-        "AML & Sanctions"
-      ]
-    },
-    {
       "title": "Federal Bank Regulatory Agencies Release 2025 Small Business, Small Farm, and Community Development Lending Data",
       "link": "https://www.occ.gov/news-issuances/news-releases/2026/nr-ia-2026-98.html",
       "source": "Office of the Comptroller of the Currency",
@@ -1709,23 +1730,23 @@
       ]
     },
     {
-      "title": "Siemens Mendix SAML Module",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-01",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-10-29T12:00:00+00:00",
-      "display_date": "Oct 29, 2026",
-      "summary": "View CSAF Summary Mendix SAML module contains an authentication bypass vulnerability that could allow an unauthenticated remote attacker to gain unauthorized access by replaying a valid SAML assertion in IdP-initiated authentication flows. Siemens has released new versions for th...",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
       "title": "Hitachi Energy CoreTec Product",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-03",
       "source": "CISA Cybersecurity Advisories",
       "date": "2026-10-29T12:00:00+00:00",
       "display_date": "Oct 29, 2026",
       "summary": "View CSAF Summary Hitachi Energy is aware of OS command injection and Dirty Frag vulnerabilities that affect CoreTec product versions listed in this document. Successful exploitation of these vulnerabilities could result in impact on confidentiality, integrity and availability of...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "Siemens Mendix SAML Module",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-01",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-10-29T12:00:00+00:00",
+      "display_date": "Oct 29, 2026",
+      "summary": "View CSAF Summary Mendix SAML module contains an authentication bypass vulnerability that could allow an unauthenticated remote attacker to gain unauthorized access by replaying a valid SAML assertion in IdP-initiated authentication flows. Siemens has released new versions for th...",
       "topics": [
         "Cybersecurity Risk"
       ]
@@ -1897,45 +1918,12 @@
       ]
     },
     {
-      "title": "Siemens Capital Embedded AR Classic",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-04",
+      "title": "Siemens SIMATIC S7-1500 TM MFP",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-16",
       "source": "CISA Cybersecurity Advisories",
       "date": "2026-10-22T12:00:00+00:00",
       "display_date": "Oct 22, 2026",
-      "summary": "View CSAF Summary The products listed below contain an out-of-bounds read vulnerability that could allow an attacker to cause abnormal product behavior, instability, or denial of service. Siemens has released a new version for Capital Embedded AR Classic R20-11 and recommends upd...",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "Siemens SENTRON 3NA COM Fuse",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-05",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-10-22T12:00:00+00:00",
-      "display_date": "Oct 22, 2026",
-      "summary": "View CSAF Summary SENTRON 3NA COM Fuse contains a Denial-of-Service vulnerability. Improper handling of a network management message could allow an attacker to trigger a denial-of-service (DoS) condition. Successful exploitation may require the affected network to be re-establish...",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "Siemens Industrial Edge Device Kit",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-09",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-10-22T12:00:00+00:00",
-      "display_date": "Oct 22, 2026",
-      "summary": "View CSAF Summary Users of Industrial Edge Devices are advised to consult the respective Security Advisories for their devices (for Siemens Industrial Edge devices see Additional Information). Industrial Edge Device Kit contains multiple path traversal vulnerabilities that could ...",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "Siemens WinCC",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-13",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-10-22T12:00:00+00:00",
-      "display_date": "Oct 22, 2026",
-      "summary": "View CSAF Summary Multiple SIMATIC WinCC versions are affected by a database privilege escalation vulnerability that could allow an authenticated user with access to the database to execute commands on the underlying host system. Siemens has released new versions for several affe...",
+      "summary": "View CSAF Summary Multiple vulnerabilities have been identified in the additional GNU/Linux subsystem of the SIMATIC S7-1500 TM MFP V1.1.1. Siemens is preparing fixes and recommends specific mitigations for products where fixes are not or not yet available. The following versions...",
       "topics": [
         "Cybersecurity Risk"
       ]
@@ -1952,56 +1940,34 @@
       ]
     },
     {
-      "title": "Siemens SIMATIC S7-1500 TM MFP",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-16",
+      "title": "Siemens SIMATIC S7 PLCs Web Server",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-14",
       "source": "CISA Cybersecurity Advisories",
       "date": "2026-10-22T12:00:00+00:00",
       "display_date": "Oct 22, 2026",
-      "summary": "View CSAF Summary Multiple vulnerabilities have been identified in the additional GNU/Linux subsystem of the SIMATIC S7-1500 TM MFP V1.1.1. Siemens is preparing fixes and recommends specific mitigations for products where fixes are not or not yet available. The following versions...",
+      "summary": "View CSAF Summary SIMATIC S7-1500 devices contain multiple vulnerabilities in the web server that could allow an attacker to execute malicious code in an authorized user’s browser session and perform PLC operations within the scope of that user’s authorization. Siemens is prepari...",
       "topics": [
         "Cybersecurity Risk"
       ]
     },
     {
-      "title": "Siemens RUGGEDCOM APE1808 Devices",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-18",
+      "title": "Siemens Industrial Edge Device Kit",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-09",
       "source": "CISA Cybersecurity Advisories",
       "date": "2026-10-22T12:00:00+00:00",
       "display_date": "Oct 22, 2026",
-      "summary": "View CSAF Summary Nozomi Networks has published information on vulnerabilities in Nozomi Guardian/CMC. This advisory lists the related Siemens Industrial products affected by these vulnerabilities. Siemens recommends to contact customer support to receive patch and update informa...",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Siemens RUGGEDCOM CROSSBOW",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-12",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-10-22T12:00:00+00:00",
-      "display_date": "Oct 22, 2026",
-      "summary": "View CSAF Summary RUGGEDCOM CROSSBOW contains multiple vulnerabilities that could allow an attacker to execute arbitrary SQL commands on the underlying database, retrieve sensitive administrative credentials, escalate privileges, and perform unauthorized operations such as modify...",
+      "summary": "View CSAF Summary Users of Industrial Edge Devices are advised to consult the respective Security Advisories for their devices (for Siemens Industrial Edge devices see Additional Information). Industrial Edge Device Kit contains multiple path traversal vulnerabilities that could ...",
       "topics": [
         "Cybersecurity Risk"
       ]
     },
     {
-      "title": "Siemens Software Center",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-03",
+      "title": "Siemens Capital Embedded AR Classic",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-04",
       "source": "CISA Cybersecurity Advisories",
       "date": "2026-10-22T12:00:00+00:00",
       "display_date": "Oct 22, 2026",
-      "summary": "View CSAF Summary The affected application loads dynamic-link libraries (DLLs) from an uncontrolled search path. This could allow an authenticated local attacker to place a specially crafted DLL in a directory that the application searches, leading to arbitrary code execution wit...",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "Siemens RUGGEDCOM CROSSBOW Station Access Controller",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-15",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-10-22T12:00:00+00:00",
-      "display_date": "Oct 22, 2026",
-      "summary": "View CSAF Summary RUGGEDCOM CROSSBOW Station Access Controller (SAC) contains multiple vulnerabilities in the integrated SQLite component that could allow an attacker to execute arbitrary code, cause a denial of service, or obtain sensitive information. Siemens has released a new...",
+      "summary": "View CSAF Summary The products listed below contain an out-of-bounds read vulnerability that could allow an attacker to cause abnormal product behavior, instability, or denial of service. Siemens has released a new version for Capital Embedded AR Classic R20-11 and recommends upd...",
       "topics": [
         "Cybersecurity Risk"
       ]
@@ -2138,18 +2104,6 @@
       "summary": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today's epic patch batch dwarfs September's record of nearly 1,000 fixes, which was already about ten times the normal monthly patch load from Redmo...",
       "topics": [
         "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "OCC Imposes $750 Million Assessment Against Bank of America for Deficient BSA/AML Compliance",
-      "link": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-89.html",
-      "source": "Office of the Comptroller of the Currency",
-      "date": "2026-10-13T20:15:00+00:00",
-      "display_date": "Oct 13, 2026",
-      "summary": "The Office of the Comptroller of the Currency (OCC) today announced a $750 million civil money penalty against Bank of America, N.A. (bank), for violations of the Bank Secrecy Act and its implementing regulations, including 12 CFR 21.21 and 12 CFR 21.11. This amount is the larges...",
-      "topics": [
-        "Enforcement Actions",
-        "AML & Sanctions"
       ]
     },
     {
