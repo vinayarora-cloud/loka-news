@@ -1,7 +1,107 @@
 {
-  "last_updated": "November 13, 2026 16:44 UTC",
-  "total_count": 232,
+  "last_updated": "November 13, 2026 20:44 UTC",
+  "total_count": 233,
   "articles": [
+    {
+      "title": "Noosa startup's solution to tackle burping cattle's methane emissions",
+      "link": "https://www.abc.net.au/news/rural/2026-11-14/provectus-algae-cattle-methane-supplement/107372936",
+      "source": "ABC News Business (AU)",
+      "date": "2026-11-13T20:42:46+00:00",
+      "display_date": "Nov 13, 2026",
+      "summary": "After eight years of research, a Noosa startup is commercialising a supplement designed to affordably reduce methane emissions in the cattle industry.",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "China’s Ping An Bank adopts board-level AI rules in a first for listed banks",
+      "link": "https://www.complianceweek.com/banking/chinas-ping-an-bank-adopts-board-level-ai-rules-in-a-first-for-listed-banks/",
+      "source": "Compliance Week",
+      "date": "2026-11-13T20:18:56+00:00",
+      "display_date": "Nov 13, 2026",
+      "summary": "Ping An Bank, a Shenzhen-listed institution, has formally adopted internal rules governing its use of AI. The bank’s board approved the measures following the principles of user accountability required by the National Financial Regulatory Administration. The post China’s Ping An ...",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Trump to rule on tariffs for Australian lamb after trade commissioners disagree",
+      "link": "https://www.abc.net.au/news/2026-11-14/us-trade-investigation-into-lamb-imports-decision-handed-down/107385510",
+      "source": "ABC News Business (AU)",
+      "date": "2026-11-13T20:07:43+00:00",
+      "display_date": "Nov 13, 2026",
+      "summary": "A US trade panel reviewing lamb imports is unable to agree on whether Australian meat imports have hurt the American industry, leaving Donald Trump to rule on tariffs.",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "UK FCA publishes report on good and bad uses of AI and urges firms to focus on consumer outcomes and resilience",
+      "link": "https://www.complianceweek.com/artificial-intelligence/uk-fca-publishes-report-on-good-and-bad-uses-of-ai-and-urges-firms-to-focus-on-consumer-outcomes-and-resilience/",
+      "source": "Compliance Week",
+      "date": "2026-11-13T19:54:38+00:00",
+      "display_date": "Nov 13, 2026",
+      "summary": "The UK’s financial regulator has published examples of good and poor AI practices in the financial sector to help financial companies focus on areas that need improvement. The post UK FCA publishes report on good and bad uses of AI and urges firms to focus on consumer outcomes an...",
+      "topics": [
+        "Regulatory Change",
+        "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "‘Either brave or mad’: A bastion of fine dining gets a sorely needed facelift",
+      "link": "https://www.smh.com.au/business/consumer-affairs/either-brave-or-mad-a-bastion-of-fine-dining-gets-a-sorely-needed-facelift-20261114-p61dlm.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+      "source": "The Sydney Morning Herald",
+      "date": "2026-11-13T18:00:00+00:00",
+      "display_date": "Nov 13, 2026",
+      "summary": "Rob and Tammy Charter had other ideas about how they wanted to spend post-work life. Like buying a heritage pub.",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "Indian fintech firm Razorpay gets regulatory nod for IPO - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTE51c3BkMXhjUkhrTHo4UV9OSEFKSlRwTllET3dLRWRXZDA5eTNCV2hfTGhuVzZ6RUVVUGN0TkhpdWxqZHhnaHA0cTEwQ3FscDhRY1FvQ052b0p1MUZsUHB4dnJTcUFCS2Y1LWpUcW9FdTBzMTR0dGNNV3p5eXp1NVZ2d01EMTBHMVNwSlIxbU1ZSXlmaUdkdXN6TUwxcUNlMkE?oc=5",
+      "source": "Reuters",
+      "date": "2026-11-13T17:47:05+00:00",
+      "display_date": "Nov 13, 2026",
+      "summary": "Indian fintech firm Razorpay gets regulatory nod for IPO Reuters",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Compliance Jobs Report: Nov. 13",
+      "link": "https://www.radicalcompliance.com/2026/11/13/compliance-jobs-report-nov-13-2/",
+      "source": "Radical Compliance",
+      "date": "2026-11-13T17:02:47+00:00",
+      "display_date": "Nov 13, 2026",
+      "summary": "The Compliance Jobs Report this week has a bundle of news in the higher ed sector, plus an update on Starbucks’ former CCO and other news at Darden Restaurants, ATS Corp., Capital One, Novo Nordisk, and elsewhere. We also have some promotions to note; job leads in software, healt...",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "SEC Proposes Executive and Director Compensation Disclosure Reforms",
+      "link": "https://www.sec.gov/newsroom/press-releases/2026-114-sec-proposes-executive-director-compensation-disclosure-reforms",
+      "source": "SEC Press Releases",
+      "date": "2026-11-13T16:57:00+00:00",
+      "display_date": "Nov 13, 2026",
+      "summary": "The Securities and Exchange Commission today proposed rule amendments to make its executive and director compensation disclosure requirements more principles-based and materiality-driven, providing investors with clearer, more concise, and less complex…",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Banks Cool on Manchester City Player Finance as Sanctions Loom - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTFNCNk9CRFFyS3JDRWNuZ01PVGF0VEppUXhaZkRKX2l2N1VMekpmS0EwdGYwWW9IcHh6RmRDMGItTGxlbDVHeDNtYmN4UzFqRmFjSUd3a2RRSWMyelVKdU80SUlWejlVSnF6NkZIQVZTN3RnZC1qLUQtbVdKaDJWLTk1VlFrZUNkMWVFajVGeGtWV3kybTBOb1dMMHBWVFNaYmVSX20yUmVOaW9lNlR6RWVubw?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-11-13T16:14:57+00:00",
+      "display_date": "Nov 13, 2026",
+      "summary": "Banks Cool on Manchester City Player Finance as Sanctions Loom Bloomberg.com",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
     {
       "title": "Canadian Investment Regulatory Organization Trading Halt - HR.UN – Company Announcement - Financial Times",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdEFJa09jOWxia1NYN3ZLY1M5aWhMV3lYT2pnLXRIN25rSEFhclVOTzVzX3pNajdZMjgyVDNmMzJxZlRkLTdWSm9HRC1TekhXc0JOVlQweTY3dGpfMkF4VThpMjl0R3N6ZVFUdDBFakNhc0lQWDJlakRYRWNSVnNRRlJ0ZHAycllzNFM3X1M5QktOMDc2Unc?oc=5",
@@ -25,36 +125,14 @@
       ]
     },
     {
-      "title": "Microsoft scrambles to fix global outage affecting Teams and Outlook",
-      "link": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
-      "source": "The Guardian Australia",
-      "date": "2026-11-13T14:56:42+00:00",
-      "display_date": "Nov 13, 2026",
-      "summary": "Tech firm says it is making progress in attempts to restore services and there is no indication problem was caused by cyber-attack Microsoft outage hits UK hospitals, GPs, schools and police Microsoft outage – live updates Tell us: have you been affected by the outage? Microsoft ...",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
       "title": "Greta Thunberg and other climate activists must address causes of energy demand - The Australian",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOM1J3RFMxRmpmS0dpc19wVktQV1d5dmdXNDFCV2cxeG1MR2xXSjZ1S0tiRWtoalRXN2VtVExobEg3UlhZcEF5NGNzclJvc3BYZTh0U2dGNVdyT1duR0t4WjhjcXp1UmlEX3RKYklneC1vS0ZTWDRSUV9UUElSejA1SWY1NzluZ2hNYkVCM013ZVhxN1Q2V3FTYjlrZmFTNFhDUXQ5VXhqNTNYQWVWY1Y4Ym94R1llWmlCMzB5VW5PYUY1MmtjWnlENmJVREpwYm5nM2lRUkp3RG1ySHp2YjhUQld4eDQ?oc=5",
       "source": "The Australian",
-      "date": "2026-11-13T14:03:34+00:00",
+      "date": "2026-11-13T13:33:37+00:00",
       "display_date": "Nov 13, 2026",
       "summary": "Greta Thunberg and other climate activists must address causes of energy demand The Australian",
       "topics": [
         "ESG & Sustainability"
-      ]
-    },
-    {
-      "title": "Indian fintech firm Razorpay gets regulatory nod for IPO - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTE51c3BkMXhjUkhrTHo4UV9OSEFKSlRwTllET3dLRWRXZDA5eTNCV2hfTGhuVzZ6RUVVUGN0TkhpdWxqZHhnaHA0cTEwQ3FscDhRY1FvQ052b0p1MUZsUHB4dnJTcUFCS2Y1LWpUcW9FdTBzMTR0dGNNV3p5eXp1NVZ2d01EMTBHMVNwSlIxbU1ZSXlmaUdkdXN6TUwxcUNlMkE?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-13T13:13:00+00:00",
-      "display_date": "Nov 13, 2026",
-      "summary": "Indian fintech firm Razorpay gets regulatory nod for IPO Reuters",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
@@ -64,6 +142,17 @@
       "date": "2026-11-13T13:00:00+00:00",
       "display_date": "Nov 13, 2026",
       "summary": "Canadian Investment Regulatory Organization Trade Resumption - PDN – Company Announcement Financial Times",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Canadian Investment Regulatory Organization Trade Resumption - TDG – Company Announcement - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTk9QeV9KWDZJMzdBSmZtWTU3N04wSVp3RkQ1aXV3UjZwOHVkR2ZoaUtPNDRaazd1VUg2WnZjckdYRWsyb0M5dzBveFRFWDYxN2JwX19US2JybUgwOHJMMEJtSmw2eDQ1aTZNNk90ODdUVDFTYUozVFNjSS14dGRubmNGbDduYXJFdXQtSWJZN1VSdExXclE?oc=5",
+      "source": "Financial Times",
+      "date": "2026-11-13T12:54:00+00:00",
+      "display_date": "Nov 13, 2026",
+      "summary": "Canadian Investment Regulatory Organization Trade Resumption - TDG – Company Announcement Financial Times",
       "topics": [
         "Regulatory Change"
       ]
@@ -99,6 +188,17 @@
       "summary": "Incoming chairs have already named their targets: crypto ventures, surveillance pricing, government equity stakes & AI’s debt-fueled buildout The post A Democratic Congress Is Drawing Up Its Corporate Subpoena List appeared first on Corporate Compliance Insights .",
       "topics": [
         "Data Privacy"
+      ]
+    },
+    {
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/11/13/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-11-13T12:00:00+00:00",
+      "display_date": "Nov 13, 2026",
+      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-114713 UnrealIRCd Improper Neutralization of Delimiters Vulnerability CVE-2026-123039 Check Point Multiple Products Incorrect Permissio...",
+      "topics": [
+        "Cybersecurity Risk"
       ]
     },
     {
@@ -172,7 +272,7 @@
       "title": "Man City to be hit with Premier League sanctions next year if appeal fails - Financial Times",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ2ZjcFNfb1JOeWtiZFloWDhmMlFwQ0xGQUpETU1TSE1wSTI5QW5uYjJoRFNZdkt6MExPX2lYSy0zVy1iOHExRXdkS21BaFM2YUFSSjMyaUF0NHFBQ1pkcWlnN3gya0ZzaXFRTkJrNVJMY3RGcTl5SHlqYXd5dWFQbWczR2Q?oc=5",
       "source": "Financial Times",
-      "date": "2026-11-13T05:02:42+00:00",
+      "date": "2026-11-13T05:00:17+00:00",
       "display_date": "Nov 13, 2026",
       "summary": "Man City to be hit with Premier League sanctions next year if appeal fails Financial Times",
       "topics": [
@@ -408,17 +508,6 @@
       "summary": "Despite John Healey’s defiance, the economy faces threats from a tech slowdown and energy bills this winter AI helps UK economy grow at fastest pace for more than two years The forecasters were clear when John Healey became chancellor in July: Britain’s resilience to the war in t...",
       "topics": [
         "Operational & Enterprise Risk"
-      ]
-    },
-    {
-      "title": "Canadian Investment Regulatory Organization Trading Halt - PDN – Company Announcement - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTFZJZE1STEdWT3ZGS3UwMFZXcnRnYlNLeXdfYVhRbU80RmVKTHhKRE5QbTM4cFZoQkJUNHRwNHowRFUtR0V0OHFhQTlnUW1IYWZhY2xVVGxJdnF3d2ZQTS1WSFVMM3Z4amQ0MHVQRzF3Y3h3QTgyS2k4cENVRzJEaUppRXB0UTJnSTZVMnlLdUlTV09mYkE?oc=5",
-      "source": "Financial Times",
-      "date": "2026-11-12T13:08:00+00:00",
-      "display_date": "Nov 12, 2026",
-      "summary": "Canadian Investment Regulatory Organization Trading Halt - PDN – Company Announcement Financial Times",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
@@ -973,17 +1062,6 @@
       ]
     },
     {
-      "title": "From AI Outputs to Compliance Decisions: A Practical Guide for Compliance Professionals",
-      "link": "https://www.complianceweek.com/artificial-intelligence/from-ai-outputs-to-compliance-decisions-a-practical-guide-for-compliance-professionals/",
-      "source": "Compliance Week",
-      "date": "2026-11-10T17:06:28+00:00",
-      "display_date": "Nov 10, 2026",
-      "summary": "AI is changing how compliance teams find information, assess risk, and support business decisions, but not every AI-enabled workflow is appropriate for every task. The post From AI Outputs to Compliance Decisions: A Practical Guide for Compliance Professionals appeared first on C...",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "First global airline emissions scheme faces 'a litmus test' as credits run short - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNM200cmtwZ0pzVEs2RHhFRERhS09qZkNQOXhXWWpPeGVZZjczTXZWLTlCSzFkYVdOYTdsbm4wUm95djRSbU9SMnRibmRIa3NmZEh4djNUNi1rMGJCR0pmcGNQSXIyOVRWMU8wcHdXSWV3WFRSWHUxRmdtYnNxRGVOTU1tQ19iSjd5a2JwMVFFem1HVUVxMkNVNjk1cm5EWWthZEFBYTZIVHNSQ2VJd0ZETm1aZFZHZ3dpalRtcDFjbGF6a0NvNlpINm1B?oc=5",
       "source": "Reuters",
@@ -1094,18 +1172,6 @@
       ]
     },
     {
-      "title": "AI governance work is harder than firms expect, compliance leaders warn",
-      "link": "https://www.complianceweek.com/artificial-intelligence/ai-governance-work-is-harder-than-firms-expect-compliance-leaders-warn/",
-      "source": "Compliance Week",
-      "date": "2026-11-09T23:17:09+00:00",
-      "display_date": "Nov 09, 2026",
-      "summary": "As financial firms increasingly use AI, FINRA leadership and financial executives discussed governance, supervisory, and risk management controls at the regulator’s 2026 Advertising Regulation Conference. The post AI governance work is harder than firms expect, compliance leaders...",
-      "topics": [
-        "Regulatory Change",
-        "Operational & Enterprise Risk"
-      ]
-    },
-    {
       "title": "Another False Claims Act Case on Cybersecurity",
       "link": "https://www.radicalcompliance.com/2026/11/09/another-false-claims-act-case-on-cybersecurity/",
       "source": "Radical Compliance",
@@ -1125,17 +1191,6 @@
       "summary": "ASIC probe finds 22 of 24 private credit funds flawed The Australian",
       "topics": [
         "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "Canadian Investment Regulatory Organization Trading Halt - ALTU.WT – Company Announcement - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWlNqNzZmYzVYRDNFT1I2ZF8zTWY5b1dOaGJMNGJfcHNGUVlWMmZtRGpfLTRtb25SNmZwdGgyVlc1UUJCQVJlSUN0TU0zbVAzU3VjbjNhX1VjWXFqUlVpMXFzVXpVeUlJakd0S1RFc2F2SUFuOUlqSVVCYkRzMk1hUWc4VnVJLWtZbndsRUtON1loRnJuVFE?oc=5",
-      "source": "Financial Times",
-      "date": "2026-11-09T20:31:00+00:00",
-      "display_date": "Nov 09, 2026",
-      "summary": "Canadian Investment Regulatory Organization Trading Halt - ALTU.WT – Company Announcement Financial Times",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
@@ -1480,6 +1535,17 @@
       ]
     },
     {
+      "title": "US Government Partners Urge Hardening Industrial Refrigeration and Cold Chain Monitoring Systems",
+      "link": "https://www.cisa.gov/resources-tools/resources/us-government-partners-urge-hardening-industrial-refrigeration-and-cold-chain-monitoring-systems",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-11-05T12:00:00+00:00",
+      "display_date": "Nov 05, 2026",
+      "summary": "Overview The Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), Health and Human Services (HHS), U.S. Department of Agriculture (USDA), and the Department of Transportation (DoT)—hereafter referred to as “the authoring organizations”—a...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
       "title": "Post-Quantum Questions to Ask Your Vendors",
       "link": "https://www.cisa.gov/resources-tools/resources/post-quantum-questions-ask-your-vendors",
       "source": "CISA Cybersecurity Advisories",
@@ -1490,17 +1556,6 @@
         "Regulatory Change",
         "Cybersecurity Risk",
         "Operational & Enterprise Risk"
-      ]
-    },
-    {
-      "title": "US Government Partners Urge Hardening Industrial Refrigeration and Cold Chain Monitoring Systems",
-      "link": "https://www.cisa.gov/resources-tools/resources/us-government-partners-urge-hardening-industrial-refrigeration-and-cold-chain-monitoring-systems",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-11-05T12:00:00+00:00",
-      "display_date": "Nov 05, 2026",
-      "summary": "Overview The Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), Health and Human Services (HHS), U.S. Department of Agriculture (USDA), and the Department of Transportation (DoT)—hereafter referred to as “the authoring organizations”—a...",
-      "topics": [
-        "Cybersecurity Risk"
       ]
     },
     {
@@ -1694,17 +1749,6 @@
       ]
     },
     {
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/10/30/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-10-30T12:00:00+00:00",
-      "display_date": "Oct 30, 2026",
-      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-111357 Ivanti Connect Secure Missing Authentication for Critical Function Vulnerability CVE-2026-118527 Ivanti Connect Secure Generatio...",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
       "title": "Brits nearly twice as likely to spot pressure tactics in horror films as investment red flags",
       "link": "https://www.fca.org.uk/news/press-releases/brits-nearly-twice-likely-spot-pressure-tactics-horror-films-investment-red-flags",
       "source": "FCA UK Regulatory News",
@@ -1861,17 +1905,6 @@
       ]
     },
     {
-      "title": "At Last, a Peek at Anthropic’s Governance!",
-      "link": "https://www.radicalcompliance.com/2026/10/26/at-last-a-peek-at-anthropics-governance/",
-      "source": "Radical Compliance",
-      "date": "2026-10-26T16:10:16+00:00",
-      "display_date": "Oct 26, 2026",
-      "summary": "Artificial intelligence giant Anthropic filed its IPO registration statement on Monday morning, and while the accounting types are losing their [expletive] over the details of the company’s financial operations, we corporate governance types can obsess over a different, equally i...",
-      "topics": [
-        "Operational & Enterprise Risk"
-      ]
-    },
-    {
       "title": "Defence SMEs need banking services that work",
       "link": "https://www.fca.org.uk/news/blogs/defence-smes-need-banking-services-work",
       "source": "FCA UK Regulatory News",
@@ -1938,17 +1971,6 @@
       ]
     },
     {
-      "title": "Siemens SIMATIC S7-1500 TM MFP",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-16",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-10-22T12:00:00+00:00",
-      "display_date": "Oct 22, 2026",
-      "summary": "View CSAF Summary Multiple vulnerabilities have been identified in the additional GNU/Linux subsystem of the SIMATIC S7-1500 TM MFP V1.1.1. Siemens is preparing fixes and recommends specific mitigations for products where fixes are not or not yet available. The following versions...",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
       "title": "Siemens SIMATIC S7-1500 CPU 1518(F)-4 PN/DP MFP",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-11",
       "source": "CISA Cybersecurity Advisories",
@@ -1960,23 +1982,23 @@
       ]
     },
     {
+      "title": "Siemens SIMATIC S7-1500 TM MFP",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-16",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-10-22T12:00:00+00:00",
+      "display_date": "Oct 22, 2026",
+      "summary": "View CSAF Summary Multiple vulnerabilities have been identified in the additional GNU/Linux subsystem of the SIMATIC S7-1500 TM MFP V1.1.1. Siemens is preparing fixes and recommends specific mitigations for products where fixes are not or not yet available. The following versions...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
       "title": "Siemens SIMATIC S7 PLCs Web Server",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-14",
       "source": "CISA Cybersecurity Advisories",
       "date": "2026-10-22T12:00:00+00:00",
       "display_date": "Oct 22, 2026",
       "summary": "View CSAF Summary SIMATIC S7-1500 devices contain multiple vulnerabilities in the web server that could allow an attacker to execute malicious code in an authorized user’s browser session and perform PLC operations within the scope of that user’s authorization. Siemens is prepari...",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "Siemens Industrial Edge Device Kit",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-09",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-10-22T12:00:00+00:00",
-      "display_date": "Oct 22, 2026",
-      "summary": "View CSAF Summary Users of Industrial Edge Devices are advised to consult the respective Security Advisories for their devices (for Siemens Industrial Edge devices see Additional Information). Industrial Edge Device Kit contains multiple path traversal vulnerabilities that could ...",
       "topics": [
         "Cybersecurity Risk"
       ]
@@ -2323,17 +2345,6 @@
       "summary": "The SEC is taking a significant step forward, within its statutory authority, to bring America’s capital markets into the digital age by facilitating onchain trading of certain tokenized stocks.",
       "topics": [
         "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "SEC Proposes Rescission of Shareholder Proposal Rule and Reforms to Proxy Solicitation Process",
-      "link": "https://www.sec.gov/newsroom/press-releases/2026-89-sec-proposes-rescission-shareholder-proposal-rule-reforms-proxy-solicitation-process",
-      "source": "SEC Press Releases",
-      "date": "2026-09-16T14:00:00+00:00",
-      "display_date": "Sep 16, 2026",
-      "summary": "The Securities and Exchange Commission today proposed to rescind Rule 14a-8 under the Securities Exchange Act of 1934, which exceeds the scope of the Commission's statutory authority and intrudes into matters of state law.The Commission outlined…",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
