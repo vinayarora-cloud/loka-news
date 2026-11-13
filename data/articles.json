@@ -1,27 +1,94 @@
 {
-  "last_updated": "November 13, 2026 08:48 UTC",
-  "total_count": 226,
+  "last_updated": "November 13, 2026 12:51 UTC",
+  "total_count": 227,
   "articles": [
     {
-      "title": "Microsoft ‘seeing positive results’ from attempts to fix global outage affecting Teams and Outlook",
+      "title": "Amazon Launches Product Carbon Footprinting Solution",
+      "link": "https://www.esgtoday.com/amazon-launches-product-carbon-footprinting-solution/?utm_source=rss&utm_medium=rss&utm_campaign=amazon-launches-product-carbon-footprinting-solution",
+      "source": "ESG Today",
+      "date": "2026-11-13T12:50:45+00:00",
+      "display_date": "Nov 13, 2026",
+      "summary": "Amazon announced the release of its product carbon footprint (PCF) tool on its Sustainability Exchange […]",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "Indian fintech firm Razorpay gets regulatory nod for IPO - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTE51c3BkMXhjUkhrTHo4UV9OSEFKSlRwTllET3dLRWRXZDA5eTNCV2hfTGhuVzZ6RUVVUGN0TkhpdWxqZHhnaHA0cTEwQ3FscDhRY1FvQ052b0p1MUZsUHB4dnJTcUFCS2Y1LWpUcW9FdTBzMTR0dGNNV3p5eXp1NVZ2d01EMTBHMVNwSlIxbU1ZSXlmaUdkdXN6TUwxcUNlMkE?oc=5",
+      "source": "Reuters",
+      "date": "2026-11-13T12:31:44+00:00",
+      "display_date": "Nov 13, 2026",
+      "summary": "Indian fintech firm Razorpay gets regulatory nod for IPO Reuters",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Microsoft scrambles to fix global outage affecting Teams and Outlook",
       "link": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
       "source": "The Guardian Australia",
-      "date": "2026-11-13T08:16:11+00:00",
+      "date": "2026-11-13T12:29:18+00:00",
       "display_date": "Nov 13, 2026",
-      "summary": "Microsoft 365 also hit but tech company says no indication problem was caused by cyber-attack Microsoft outage – live updates Microsoft has said it is “seeing positive results” from its efforts to fix an outage of some of its systems that has caused huge disruption to users, orga...",
+      "summary": "Tech firm says there has been ‘encouraging’ progress in recovery in Europe and there is no indication problem was caused by cyber-attack Microsoft outage hits UK hospitals, GPs, schools and police Microsoft outage – live updates Tell us: have you been affected by the outage? Micr...",
       "topics": [
         "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "GRC Business Roundup: Arcus Compliance, Njordium, Cloud Range, Globalli, LeapXpert & More",
+      "link": "https://www.corporatecomplianceinsights.com/grc-business-roundup-arcus-compliance-njordium-cloud-range-globalli-leapxpert-more/",
+      "source": "Corporate Compliance Insights",
+      "date": "2026-11-13T12:02:52+00:00",
+      "display_date": "Nov 13, 2026",
+      "summary": "The business of GRC is ever-expanding, GRC technology is one of the fastest-growing segments in enterprise software, and compliance professions are rapidly evolving. Here’s the latest from across the industry. New products & platforms Arcus Compliance released MAVRYX Assistant, a...",
+      "topics": [
+        "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "A Democratic Congress Is Drawing Up Its Corporate Subpoena List",
+      "link": "https://www.corporatecomplianceinsights.com/democratic-congress-drawing-up-corporate-subpoena-list/",
+      "source": "Corporate Compliance Insights",
+      "date": "2026-11-13T12:00:51+00:00",
+      "display_date": "Nov 13, 2026",
+      "summary": "Incoming chairs have already named their targets: crypto ventures, surveillance pricing, government equity stakes & AI’s debt-fueled buildout The post A Democratic Congress Is Drawing Up Its Corporate Subpoena List appeared first on Corporate Compliance Insights .",
+      "topics": [
+        "Data Privacy"
+      ]
+    },
+    {
+      "title": "EU Parliament, Council Strike Deal to Give Industry €10 Billion in Additional Free Carbon Allowances",
+      "link": "https://www.esgtoday.com/eu-parliament-council-strike-deal-to-give-industry-e10-billion-in-additional-free-carbon-allowances/?utm_source=rss&utm_medium=rss&utm_campaign=eu-parliament-council-strike-deal-to-give-industry-e10-billion-in-additional-free-carbon-allowances",
+      "source": "ESG Today",
+      "date": "2026-11-13T10:42:29+00:00",
+      "display_date": "Nov 13, 2026",
+      "summary": "Lawmakers in the European Parliament and EU Member States announced that they reached a late-night […]",
+      "topics": [
+        "ESG & Sustainability"
       ]
     },
     {
       "title": "Singapore Charges 5th Person Linked to Nvidia Chip Case, ST Says - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZVV6VXYySmNyb1B3cXRtMU54M0ptUnZEQzNqSjNtWXMyRmFiNzgxeVNnN1FoUGo4ZUNGcEs3aXZjakY4UmFWZ1FfbGJjOGdXRFlmYlI1N21ETndoM043a3J5aW1BN3FibXJaUjdHajBsX3BKZXFFSGtOREVQQTBUOGJxb3F0Uk14dEFucFpoeDZSaXB5MmlXb2V3eVFJaUhYRTg5Ym9naThBc2VwZHBQZVdFeTM?oc=5",
       "source": "Bloomberg.com",
-      "date": "2026-11-13T06:56:00+00:00",
+      "date": "2026-11-13T09:48:57+00:00",
       "display_date": "Nov 13, 2026",
       "summary": "Singapore Charges 5th Person Linked to Nvidia Chip Case, ST Says Bloomberg.com",
       "topics": [
         "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "How Can We Finance COP31’s Electrification Plan?",
+      "link": "https://www.esgtoday.com/how-can-we-finance-cop31s-electrification-plan/?utm_source=rss&utm_medium=rss&utm_campaign=how-can-we-finance-cop31s-electrification-plan",
+      "source": "ESG Today",
+      "date": "2026-11-13T09:47:16+00:00",
+      "display_date": "Nov 13, 2026",
+      "summary": "Guest post by: Tsvetelina Kuzmanova, EU Sustainable Finance Policy Lead, Cambridge Institute for Sustainability Leadership […]",
+      "topics": [
+        "Regulatory Change",
+        "ESG & Sustainability"
       ]
     },
     {
@@ -44,6 +111,17 @@
       "summary": "The NSW Supreme Court has approved a planned climate protest on Newcastle Harbour, dismissing a bid by NSW Police to stop it.",
       "topics": [
         "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "Man City to be hit with Premier League sanctions next year if appeal fails - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ2ZjcFNfb1JOeWtiZFloWDhmMlFwQ0xGQUpETU1TSE1wSTI5QW5uYjJoRFNZdkt6MExPX2lYSy0zVy1iOHExRXdkS21BaFM2YUFSSjMyaUF0NHFBQ1pkcWlnN3gya0ZzaXFRTkJrNVJMY3RGcTl5SHlqYXd5dWFQbWczR2Q?oc=5",
+      "source": "Financial Times",
+      "date": "2026-11-13T05:02:42+00:00",
+      "display_date": "Nov 13, 2026",
+      "summary": "Man City to be hit with Premier League sanctions next year if appeal fails Financial Times",
+      "topics": [
+        "AML & Sanctions"
       ]
     },
     {
@@ -102,6 +180,17 @@
       ]
     },
     {
+      "title": "Watch Charles Elson on Nvidia’s Corporate Governance Structure - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNU3I5aUcxVkVfRnRzWTE3MzNIUFp6aERmd0lCWTlab2FKNThnMUctSGJiUEo0RzlQUm8zY1JIVkk1dWthaDhlbnRGZXpXT2JzSW1LNDh5MFJiaW1POTlWT1hMZTJBWVpURllWSjQtU3dNb1RWWUNqVFpTQzhvaWRPWmNqX2ExUkw2eWpuN0JqVGN3eFFyQ1J2VDdFSWlpYkVrTkI4aExUdlQ5NWx1clRzTw?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-11-13T00:16:41+00:00",
+      "display_date": "Nov 13, 2026",
+      "summary": "Watch Charles Elson on Nvidia’s Corporate Governance Structure Bloomberg.com",
+      "topics": [
+        "Operational & Enterprise Risk"
+      ]
+    },
+    {
       "title": "Opinion | Don’t You Dare Listen to Your Employees",
       "link": "https://www.wsj.com/opinion/dont-you-dare-listen-to-your-employees-a0a3a259?mod=pls_whats_news_us_business_f",
       "source": "Wall Street Journal",
@@ -132,17 +221,6 @@
       "summary": "The Office of the Comptroller of the Currency (OCC) today reported the key issues facing the federal banking system in the Semiannual Risk Perspective for Fall 2026.",
       "topics": [
         "Operational & Enterprise Risk"
-      ]
-    },
-    {
-      "title": "Longtime Cravath employee arrested on US insider trading charges - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPalE2STRyQXhyMFZiejhMTzVrVlpOYTFzNS1KYjQ0ZnBpYUw1OFhLUGVwOUx2dV9WR2tTSXJab1VYVVp6RWVkdFhmaHNGR2FxQWZoUFVzQmh0LVZiZU1kNmYwczd5OUVIU1pZWWVZZzhDd2VrbExBVUF3MXRPLURBY3NCQ2dfangxUHBhYW01VWx5MWtXWFBSWUtQVlFia2dGeDdNdk43WGt0RWU4WUM2TlJHY2U?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-12T19:53:12+00:00",
-      "display_date": "Nov 12, 2026",
-      "summary": "Longtime Cravath employee arrested on US insider trading charges Reuters",
-      "topics": [
-        "Enforcement Actions"
       ]
     },
     {
@@ -264,6 +342,17 @@
       "summary": "Despite John Healey’s defiance, the economy faces threats from a tech slowdown and energy bills this winter AI helps UK economy grow at fastest pace for more than two years The forecasters were clear when John Healey became chancellor in July: Britain’s resilience to the war in t...",
       "topics": [
         "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "Canadian Investment Regulatory Organization Trading Halt - PDN – Company Announcement - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTFZJZE1STEdWT3ZGS3UwMFZXcnRnYlNLeXdfYVhRbU80RmVKTHhKRE5QbTM4cFZoQkJUNHRwNHowRFUtR0V0OHFhQTlnUW1IYWZhY2xVVGxJdnF3d2ZQTS1WSFVMM3Z4amQ0MHVQRzF3Y3h3QTgyS2k4cENVRzJEaUppRXB0UTJnSTZVMnlLdUlTV09mYkE?oc=5",
+      "source": "Financial Times",
+      "date": "2026-11-12T13:08:00+00:00",
+      "display_date": "Nov 12, 2026",
+      "summary": "Canadian Investment Regulatory Organization Trading Halt - PDN – Company Announcement Financial Times",
+      "topics": [
+        "Regulatory Change"
       ]
     },
     {
@@ -588,28 +677,6 @@
       ]
     },
     {
-      "title": "Rule 14a-8: Reform, Not Demolition",
-      "link": "https://www.esgtoday.com/rule-14a-8-reform-not-demolition/?utm_source=rss&utm_medium=rss&utm_campaign=rule-14a-8-reform-not-demolition",
-      "source": "ESG Today",
-      "date": "2026-11-11T15:22:49+00:00",
-      "display_date": "Nov 11, 2026",
-      "summary": "Guest post by: Matthew Illian, Director of Responsible Investing, and Noah Tabor, General Counsel, United […]",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Amazon Launches Program to Speed Adoption of Sustainable Solutions Across AWS, Devices, Brands",
-      "link": "https://www.esgtoday.com/amazon-launches-program-to-speed-adoption-of-sustainable-solutions-across-aws-devices-brands/?utm_source=rss&utm_medium=rss&utm_campaign=amazon-launches-program-to-speed-adoption-of-sustainable-solutions-across-aws-devices-brands",
-      "source": "ESG Today",
-      "date": "2026-11-11T14:59:19+00:00",
-      "display_date": "Nov 11, 2026",
-      "summary": "Amazon announced the launch of the Amazon Sustainability Deep Tech Accelerator, a new program designed […]",
-      "topics": [
-        "ESG & Sustainability"
-      ]
-    },
-    {
       "title": "EU envoys agree new Russia sanctions listings on banks, shadow fleet and misinformation - Reuters",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQUdNOXVnNXI2X2xlbEQ4UGtYck5xSTN6OXRqSVpTSHMySlI0NjhXa3VRbWFUQk4zNDhBMk43elprQ3dPcGd5SG1SeHFnanBkd3ZTNHZ0N2NlRlBDTGg5Q2FwbGN5SnR6R1V6TmtpUzBfbWlueUVsZlYwRUlYRHl4V0ZBbkZOcEQzUTZiLUlsVkI1aWZhTllBbDJSVm90UnBJTHVQdVpsb2xHMDBEUnZKWm5POFBGaktZYWJHUkx6dExGNHh0QW5acVVEVUY?oc=5",
       "source": "Reuters",
@@ -618,17 +685,6 @@
       "summary": "EU envoys agree new Russia sanctions listings on banks, shadow fleet and misinformation Reuters",
       "topics": [
         "AML & Sanctions"
-      ]
-    },
-    {
-      "title": "Levi Strauss Appoints Jeannie Renné-Malone as New Chief Sustainability Officer",
-      "link": "https://www.esgtoday.com/levi-strauss-appoints-jeannie-renne-malone-as-new-chief-sustainability-officer/?utm_source=rss&utm_medium=rss&utm_campaign=levi-strauss-appoints-jeannie-renne-malone-as-new-chief-sustainability-officer",
-      "source": "ESG Today",
-      "date": "2026-11-11T14:03:33+00:00",
-      "display_date": "Nov 11, 2026",
-      "summary": "Levi Strauss & Co. (LS&Co.) announced the appointment of Jeannie Renné-Malone as its new Chief […]",
-      "topics": [
-        "ESG & Sustainability"
       ]
     },
     {
@@ -660,17 +716,6 @@
       "date": "2026-11-11T10:49:00+00:00",
       "display_date": "Nov 11, 2026",
       "summary": "The competition regulator gave the companies one week to address its concerns.",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Hapag-Lloyd Raises Guidance Again on Strong Freight Rates",
-      "link": "https://www.wsj.com/business/logistics/hapag-lloyd-raises-guidance-again-on-strong-freight-rates-d74c8067?mod=pls_whats_news_us_business_f",
-      "source": "Wall Street Journal",
-      "date": "2026-11-11T10:10:00+00:00",
-      "display_date": "Nov 11, 2026",
-      "summary": "Shares rose after the shipping company raised its full-year earnings guidance again, noting that fourth-quarter performance was developing better than expected.",
       "topics": [
         "Regulatory Change"
       ]
@@ -871,17 +916,6 @@
       "summary": "Iran’s soccer team arrives in Iraq by bus after flight barred over US sanctions The Australian",
       "topics": [
         "AML & Sanctions"
-      ]
-    },
-    {
-      "title": "Nigeria approves 145 new oil wells so far this year, regulator says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOd29WXy1pYzYwZXVYQ2NTYmYwNDFfZVRzWC1zNjhCQmluQ2t3NDFtTDdYMjVRNkhRb3JBVUpUN01ROGRCTU11VTdIZ3pBUG9yNG01dllYYk5QQ3dZWF9XaHN1UlpnY1pfOHVNakYwYjVobkJDQmxnSVQyNy1KcXFadURNeDNoVWw0RloyY25pdjZnaEduLU90cUVGZVNlUjMxelEtNGwxaXF6VEM5RGtUVTZqMUFRamVMbXc?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-10T19:41:44+00:00",
-      "display_date": "Nov 10, 2026",
-      "summary": "Nigeria approves 145 new oil wells so far this year, regulator says Reuters",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
@@ -1381,17 +1415,6 @@
       ]
     },
     {
-      "title": "Supply Chain Platform Achilles Acquires Contractor Management Tool Cm3",
-      "link": "https://www.corporatecomplianceinsights.com/supply-chain-platform-achilles-acquires-contractor-management-tool-cm3/",
-      "source": "Corporate Compliance Insights",
-      "date": "2026-11-05T14:19:42+00:00",
-      "display_date": "Nov 05, 2026",
-      "summary": "Achilles, a supply chain risk management provider, announced that it completed an acquisition of Australian contractor management and compliance software company Cm3. Details of the acquisition were not disclosed. Achilles said in a news release that the acquisition followed appr...",
-      "topics": [
-        "Operational & Enterprise Risk"
-      ]
-    },
-    {
       "title": "FCA acts to protect consumers facing demands for disguised remuneration scheme loan repayments",
       "link": "https://www.fca.org.uk/news/statements/fca-acts-protect-consumers-demands-disguised-remuneration-scheme-loan-repayments",
       "source": "FCA UK Regulatory News",
@@ -1400,17 +1423,6 @@
       "summary": "We've intervened and Ethica Resolve Limited (Ethica), an FCA authorised firm that services and collects debt on behalf of creditors, has agreed to restrictions. These follow demands it made for people to repay loans, or purported loans, provided as part of disguised remuneration ...",
       "topics": [
         "Regulatory Change"
-      ]
-    },
-    {
-      "title": "What’s Up, Doc? The DOJ’s New Healthcare Carrot & Its Catch",
-      "link": "https://www.corporatecomplianceinsights.com/whats-up-doc-doj-new-healthcare-carrot-catch/",
-      "source": "Corporate Compliance Insights",
-      "date": "2026-11-05T12:00:40+00:00",
-      "display_date": "Nov 05, 2026",
-      "summary": "Government’s best leads still come from whistleblowers who often get there first The post What’s Up, Doc? The DOJ’s New Healthcare Carrot & Its Catch appeared first on Corporate Compliance Insights .",
-      "topics": [
-        "Operational & Enterprise Risk"
       ]
     },
     {
