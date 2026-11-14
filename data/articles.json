@@ -1,7 +1,41 @@
 {
-  "last_updated": "November 13, 2026 20:44 UTC",
-  "total_count": 233,
+  "last_updated": "November 14, 2026 00:40 UTC",
+  "total_count": 225,
   "articles": [
+    {
+      "title": "Agencies Extend Comment Period for Proposed Third-Party Risk Management Guidance",
+      "link": "https://www.occ.gov/news-issuances/news-releases/2026/nr-ia-2026-100.html",
+      "source": "Office of the Comptroller of the Currency",
+      "date": "2026-11-13T21:15:00+00:00",
+      "display_date": "Nov 13, 2026",
+      "summary": "The Federal Deposit Insurance Corporation, the Federal Reserve Board, the National Credit Union Administration, and the Office of the Comptroller of the Currency today announced that they will extend, until December 16, the comment period for proposed guidance on managing risks a...",
+      "topics": [
+        "Regulatory Change",
+        "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "Nvidia fiasco highlights compliance risks around industrial espionage, culture, and governance structures",
+      "link": "https://www.complianceweek.com/risk-management/nvidia-fiasco-highlights-compliance-risks-around-industrial-espionage-culture-and-governance-structures/",
+      "source": "Compliance Week",
+      "date": "2026-11-13T21:13:02+00:00",
+      "display_date": "Nov 13, 2026",
+      "summary": "Jensen Huang’s resignation as Nvidia CEO over affairs with a suspected Chinese spy and a direct report exposes serious governance gaps compliance officers can’t ignore. The post Nvidia fiasco highlights compliance risks around industrial espionage, culture, and governance structu...",
+      "topics": [
+        "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "Crude Futures Post Back-to-Back Weekly Losses",
+      "link": "https://www.wsj.com/business/energy-oil/oil-prices-rise-as-middle-east-supply-risks-persist-2066e758?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-11-13T21:11:00+00:00",
+      "display_date": "Nov 13, 2026",
+      "summary": "Oil futures fell for a second consecutive week, while traders assessed the IEA’s outlook for a global supply surplus, continued disruptions to Middle Eastern oil shipments, and cooling expectations for a negotiated settlement between the U.S. and Iran.",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
     {
       "title": "Noosa startup's solution to tackle burping cattle's methane emissions",
       "link": "https://www.abc.net.au/news/rural/2026-11-14/provectus-algae-cattle-methane-supplement/107372936",
@@ -92,34 +126,23 @@
       ]
     },
     {
-      "title": "Banks Cool on Manchester City Player Finance as Sanctions Loom - Bloomberg.com",
+      "title": "Banks Cool on Manchester City Player Finance as Sanctions Loom - Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTFNCNk9CRFFyS3JDRWNuZ01PVGF0VEppUXhaZkRKX2l2N1VMekpmS0EwdGYwWW9IcHh6RmRDMGItTGxlbDVHeDNtYmN4UzFqRmFjSUd3a2RRSWMyelVKdU80SUlWejlVSnF6NkZIQVZTN3RnZC1qLUQtbVdKaDJWLTk1VlFrZUNkMWVFajVGeGtWV3kybTBOb1dMMHBWVFNaYmVSX20yUmVOaW9lNlR6RWVubw?oc=5",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "date": "2026-11-13T16:14:57+00:00",
       "display_date": "Nov 13, 2026",
-      "summary": "Banks Cool on Manchester City Player Finance as Sanctions Loom Bloomberg.com",
+      "summary": "Banks Cool on Manchester City Player Finance as Sanctions Loom Bloomberg",
       "topics": [
         "AML & Sanctions"
       ]
     },
     {
-      "title": "Canadian Investment Regulatory Organization Trading Halt - HR.UN – Company Announcement - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdEFJa09jOWxia1NYN3ZLY1M5aWhMV3lYT2pnLXRIN25rSEFhclVOTzVzX3pNajdZMjgyVDNmMzJxZlRkLTdWSm9HRC1TekhXc0JOVlQweTY3dGpfMkF4VThpMjl0R3N6ZVFUdDBFakNhc0lQWDJlakRYRWNSVnNRRlJ0ZHAycllzNFM3X1M5QktOMDc2Unc?oc=5",
-      "source": "Financial Times",
-      "date": "2026-11-13T16:09:00+00:00",
-      "display_date": "Nov 13, 2026",
-      "summary": "Canadian Investment Regulatory Organization Trading Halt - HR.UN – Company Announcement Financial Times",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Wall Street Regulator Finra Moves to Give Industry Bigger Role - Bloomberg.com",
+      "title": "Wall Street Regulator Finra Moves to Give Industry Bigger Role - Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbEt0S2ZiQ2hNRF9WR2dDSTZCbGd0VFJSZ1J0VS1DX0hFenY2bV9ab2w3VmZNT1RKSEREZGhidVV4ZmY2VU1ibEJ1bkNSMVN0NC0tMlFIcTBPQ1ZWVFBWVmFELW1TN0xlb053MWpYaXBvVjdmejlyWURoODIxZVBIWVl3eFJJZlpSbDd2UURrNlZmWjlYd3JkNHZhVjRoc1ExTXFQVHUyNVRxZ2lzQzIwYnRjWQ?oc=5",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "date": "2026-11-13T15:33:25+00:00",
       "display_date": "Nov 13, 2026",
-      "summary": "Wall Street Regulator Finra Moves to Give Industry Bigger Role Bloomberg.com",
+      "summary": "Wall Street Regulator Finra Moves to Give Industry Bigger Role Bloomberg",
       "topics": [
         "Regulatory Change"
       ]
@@ -128,33 +151,11 @@
       "title": "Greta Thunberg and other climate activists must address causes of energy demand - The Australian",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOM1J3RFMxRmpmS0dpc19wVktQV1d5dmdXNDFCV2cxeG1MR2xXSjZ1S0tiRWtoalRXN2VtVExobEg3UlhZcEF5NGNzclJvc3BYZTh0U2dGNVdyT1duR0t4WjhjcXp1UmlEX3RKYklneC1vS0ZTWDRSUV9UUElSejA1SWY1NzluZ2hNYkVCM013ZVhxN1Q2V3FTYjlrZmFTNFhDUXQ5VXhqNTNYQWVWY1Y4Ym94R1llWmlCMzB5VW5PYUY1MmtjWnlENmJVREpwYm5nM2lRUkp3RG1ySHp2YjhUQld4eDQ?oc=5",
       "source": "The Australian",
-      "date": "2026-11-13T13:33:37+00:00",
+      "date": "2026-11-13T13:33:39+00:00",
       "display_date": "Nov 13, 2026",
       "summary": "Greta Thunberg and other climate activists must address causes of energy demand The Australian",
       "topics": [
         "ESG & Sustainability"
-      ]
-    },
-    {
-      "title": "Canadian Investment Regulatory Organization Trade Resumption - PDN – Company Announcement - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYVg3NGJoZ1otWVd3RU9yN0NXcFR4YmY0ZUJFemJaSGx0dlF4RlkyRFlhRHRMcU5DN3BaVVVwSUQ2UUtkM0ZHaE9FMnRUWk5fd00zOG43LVNpWmpmRjBxa192SWplLXQ3Mjl6bVhjR2lwbVh1YTc4WVBsdjJ3Y1FRbXBBbzByOU8zajVFSHpmOUFSbmF1U2c?oc=5",
-      "source": "Financial Times",
-      "date": "2026-11-13T13:00:00+00:00",
-      "display_date": "Nov 13, 2026",
-      "summary": "Canadian Investment Regulatory Organization Trade Resumption - PDN – Company Announcement Financial Times",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Canadian Investment Regulatory Organization Trade Resumption - TDG – Company Announcement - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTk9QeV9KWDZJMzdBSmZtWTU3N04wSVp3RkQ1aXV3UjZwOHVkR2ZoaUtPNDRaazd1VUg2WnZjckdYRWsyb0M5dzBveFRFWDYxN2JwX19US2JybUgwOHJMMEJtSmw2eDQ1aTZNNk90ODdUVDFTYUozVFNjSS14dGRubmNGbDduYXJFdXQtSWJZN1VSdExXclE?oc=5",
-      "source": "Financial Times",
-      "date": "2026-11-13T12:54:00+00:00",
-      "display_date": "Nov 13, 2026",
-      "summary": "Canadian Investment Regulatory Organization Trade Resumption - TDG – Company Announcement Financial Times",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
@@ -213,12 +214,12 @@
       ]
     },
     {
-      "title": "Singapore Charges 5th Person Linked to Nvidia Chip Case, ST Says - Bloomberg.com",
+      "title": "Singapore Charges 5th Person Linked to Nvidia Chip Case, ST Says - Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZVV6VXYySmNyb1B3cXRtMU54M0ptUnZEQzNqSjNtWXMyRmFiNzgxeVNnN1FoUGo4ZUNGcEs3aXZjakY4UmFWZ1FfbGJjOGdXRFlmYlI1N21ETndoM043a3J5aW1BN3FibXJaUjdHajBsX3BKZXFFSGtOREVQQTBUOGJxb3F0Uk14dEFucFpoeDZSaXB5MmlXb2V3eVFJaUhYRTg5Ym9naThBc2VwZHBQZVdFeTM?oc=5",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "date": "2026-11-13T09:48:57+00:00",
       "display_date": "Nov 13, 2026",
-      "summary": "Singapore Charges 5th Person Linked to Nvidia Chip Case, ST Says Bloomberg.com",
+      "summary": "Singapore Charges 5th Person Linked to Nvidia Chip Case, ST Says Bloomberg",
       "topics": [
         "Enforcement Actions"
       ]
@@ -247,17 +248,6 @@
       ]
     },
     {
-      "title": "‘A step too far’: Privacy fears on bid to name trust recipients - AFR",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY1B1anoxQ0pkOXhZR0ZUdDVDdXkwdEM3M3JYLWJZNDlnYTVzV2ZES3Vja2lOY2VPOVI2c2VPd3lndF9JdFNDbUNlU25Ed1V3ck9NLUtVWVRjNm1ObGN4cVpKN2o5d3pPT0Rid3U1YlpvLXQzdnlVRHJGcUxMQjNnb3FOUV9iWjNNZC0tVEY2WHJZUGg4LW15YXJOWndwR1BHVVhmVXBQemVMR0NUY1JjWXhVMWdhQkRV?oc=5",
-      "source": "AFR",
-      "date": "2026-11-13T06:20:00+00:00",
-      "display_date": "Nov 13, 2026",
-      "summary": "‘A step too far’: Privacy fears on bid to name trust recipients AFR",
-      "topics": [
-        "Data Privacy"
-      ]
-    },
-    {
       "title": "Coal protest to go ahead on harbour after court rejects police objections",
       "link": "https://www.abc.net.au/news/2026-11-13/newcastle-harbour-protest-court-decision/107376804",
       "source": "ABC News Business (AU)",
@@ -277,6 +267,17 @@
       "summary": "Man City to be hit with Premier League sanctions next year if appeal fails Financial Times",
       "topics": [
         "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "The Chinese Chemical Supply Chain Fueling the US Opioid Crisis - Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSWJ1WDhrbXd3azJqM1RjMnBnTkNlckRGTC1BcGdaLXJZeEt0Q3A5S0gxSjNrMjFLZnAxYnItM2JvTzd5eWRLQlhEWnYyQnRCc1VicWI4RXRtYXVVM1RXYkhMSlRiU0N0SjQ1VlJnRC0wRHBJV0U4Q3dRUUxhZHdqdXpuVEtEaU5GYmpacWoxU0RhbzdGOE1WTWI3WGJCWDdEbWdVc0NzX19Ob3ZLNEpWV1JuWmluc0l3ejNHWk9hQXJSeE1vTTU2ZGlR?oc=5",
+      "source": "Bloomberg",
+      "date": "2026-11-13T05:00:00+00:00",
+      "display_date": "Nov 13, 2026",
+      "summary": "The Chinese Chemical Supply Chain Fueling the US Opioid Crisis Bloomberg",
+      "topics": [
+        "Operational & Enterprise Risk"
       ]
     },
     {
@@ -335,28 +336,6 @@
       ]
     },
     {
-      "title": "Watch Allen Says US Needs Stronger Export-Control Enforcement - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbl85NFQtREwxUUxzaFVyeFF4anh2N2tJSUd3NUx1aXV6clNkVlZMQzFOOVJ1T2I4dTRoNGRPZGg5amFHM3NFUmR3NGM2Yk1lc3NJRWZ1TVhvR0RHSFlpaHhtSUYzWTdXWk8wZ3FOdTF4RkJELVA2cmJzLUd0d2VFLXFyRGhWbXBXZkVfTnRWMEw3SV9wMmMtSzlwaFB1NTJjSm4xeV9PMlkxWkFZcWw0?oc=5",
-      "source": "Bloomberg.com",
-      "date": "2026-11-12T23:55:53+00:00",
-      "display_date": "Nov 12, 2026",
-      "summary": "Watch Allen Says US Needs Stronger Export-Control Enforcement Bloomberg.com",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "Opinion | Don’t You Dare Listen to Your Employees",
-      "link": "https://www.wsj.com/opinion/dont-you-dare-listen-to-your-employees-a0a3a259?mod=pls_whats_news_us_business_f",
-      "source": "Wall Street Journal",
-      "date": "2026-11-12T22:10:00+00:00",
-      "display_date": "Nov 12, 2026",
-      "summary": "An NLRB rule bars programs to improve working conditions.",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "SA gives green light for gas to help power future data centres",
       "link": "https://www.abc.net.au/news/2026-11-13/sa-gives-green-light-for-gas-to-power-data-centres/107364606",
       "source": "ABC News Business (AU)",
@@ -387,17 +366,6 @@
       "summary": "Chris Bowen says Australia's coal and gas exports have not damaged its standing in climate negotiations, as countries struggle to agree on how to move away from fossil fuels.",
       "topics": [
         "ESG & Sustainability"
-      ]
-    },
-    {
-      "title": "Worried doctors urge action on frequent shortages of critical drugs",
-      "link": "https://www.abc.net.au/news/2026-11-13/repeated-critical-medicine-shortages-new-analysis/107242432",
-      "source": "ABC News Business (AU)",
-      "date": "2026-11-12T18:00:00+00:00",
-      "display_date": "Nov 12, 2026",
-      "summary": "ABC analysis reveals the important medicines that are repeatedly hard to source, highlighting supply chain weaknesses that could get worse.",
-      "topics": [
-        "Operational & Enterprise Risk"
       ]
     },
     {
@@ -486,17 +454,6 @@
       "summary": "The artificial-intelligence cloud company lowered its full-year revenue outlook, citing a delay in some third-party capacity.",
       "topics": [
         "Operational & Enterprise Risk"
-      ]
-    },
-    {
-      "title": "Deutsche Bank fined €8 million over botched Postbank integration - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRHUxUzZobTdTYjRtaUt4R3l6Ui1sQTZISWxJUVAwUE1IbjRvNE56cVk2Rkh0S3pBSUdKNFR1LVpZN0xWRDAwSS15SFR6dWEtNklmOExXdjdTM2UzbndtQ21aMk5TVHRyekl3WHRWWkpsaWlLYlRyY1NncEdwYk5NeTRBb3J6VVRIMDU4NE1LQ1RIbFJjbWRNNHRsUnphemxhSkpiSmFva1M4TXFHZWYzUmJsWFZPemJGc1dtYWVWWVJIX045RFE?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-12T13:09:29+00:00",
-      "display_date": "Nov 12, 2026",
-      "summary": "Deutsche Bank fined €8 million over botched Postbank integration Reuters",
-      "topics": [
-        "Enforcement Actions"
       ]
     },
     {
@@ -985,17 +942,6 @@
       ]
     },
     {
-      "title": "FTC’s Mufarrige nominated to be commissioner",
-      "link": "https://www.complianceweek.com/regulators/ftcs-mufarrige-nominated-to-be-commissioner/",
-      "source": "Compliance Week",
-      "date": "2026-11-10T22:22:41+00:00",
-      "display_date": "Nov 10, 2026",
-      "summary": "President Donald Trump has nominated Christopher Mufarrige, a director at the FTC, to be an FTC commissioner. The post FTC’s Mufarrige nominated to be commissioner appeared first on Compliance Week .",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "US SEC seeks to close Musk, Tesla settlement fund - Reuters",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSjE1cTZfQmpoV2w2Y1cxb2RBMVJyS1dUUTFQdklVWmN3VmtPUzhMX3NMTnE0M01fSjU0cmREVWI3TkxYdWRwUlpsLWNBNUdFbWQ5YlRQZ1FtXy1vNUw1VFFDdGp6N0JaQzdKd1I0aE5LdVlfWmlJaENodUdFbHBXNDBmZkVGd1l2NzFoTUQzZVFwaUxJemsybEpCSUtwSmc?oc=5",
       "source": "Reuters",
@@ -1015,17 +961,6 @@
       "summary": "Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software. This month's Patch Tuesday addresses 63 critical flaws -- including a zero-day in Microsoft Outlook -- and co...",
       "topics": [
         "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "Google Agrees to Privacy in Spirit Airlines Data Sale",
-      "link": "https://www.wsj.com/pro/bankruptcy/google-agrees-to-privacy-in-spirit-airlines-data-sale-474550e4?mod=pls_whats_news_us_business_f",
-      "source": "Wall Street Journal",
-      "date": "2026-11-10T21:22:00+00:00",
-      "display_date": "Nov 10, 2026",
-      "summary": "Revised bankruptcy pact carves out personnel files and installs an independent monitor to address union and congressional pushback over AI training.",
-      "topics": [
-        "Data Privacy"
       ]
     },
     {
@@ -1059,17 +994,6 @@
       "summary": "Christopher Woolcott has today been given a 2-year prison sentence, suspended for 2 years, after staging a £154m fake takeover bid for Touchstone Exploration Inc. He was also ordered to complete 200 hours of unpaid work and to pay costs of £4,627.73.Mr Woolcott built a sizeable s...",
       "topics": [
         "Regulatory Change"
-      ]
-    },
-    {
-      "title": "First global airline emissions scheme faces 'a litmus test' as credits run short - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNM200cmtwZ0pzVEs2RHhFRERhS09qZkNQOXhXWWpPeGVZZjczTXZWLTlCSzFkYVdOYTdsbm4wUm95djRSbU9SMnRibmRIa3NmZEh4djNUNi1rMGJCR0pmcGNQSXIyOVRWMU8wcHdXSWV3WFRSWHUxRmdtYnNxRGVOTU1tQ19iSjd5a2JwMVFFem1HVUVxMkNVNjk1cm5EWWthZEFBYTZIVHNSQ2VJd0ZETm1aZFZHZ3dpalRtcDFjbGF6a0NvNlpINm1B?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-10T16:38:50+00:00",
-      "display_date": "Nov 10, 2026",
-      "summary": "First global airline emissions scheme faces 'a litmus test' as credits run short Reuters",
-      "topics": [
-        "ESG & Sustainability"
       ]
     },
     {
@@ -1337,6 +1261,17 @@
       ]
     },
     {
+      "title": "WiseTech announces governance and company secretary changes - AFR",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONHRtejVKUjBEVWFSMzdwUzhBM3dIY1ZjTUwtcnJ2Z0xCamt2MDBCMmNDYXlZREJneUc2WkNxQ1VmYVZVY3UwdjBDUENKOWxIdTRGNjVXckR4ZXBac3pOenBEVU5kNlp6ZVJjU3VuVzZZYXJTbnlwTi0tdWlpY0NOanJsQ0loTEJsT3dmTTdXUQ?oc=5",
+      "source": "AFR",
+      "date": "2026-11-08T21:30:24+00:00",
+      "display_date": "Nov 08, 2026",
+      "summary": "WiseTech announces governance and company secretary changes AFR",
+      "topics": [
+        "Operational & Enterprise Risk"
+      ]
+    },
+    {
       "title": "ASIC targets dodgy cold callers raiding your super - The Australian",
       "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPeG83QWJ2SHRKMUZlcU5hdEpRWXBQUFZPaUtFeDFtUk9FUDJ0cHFBS2Q4VHQ0YlNqdkN3UWR6aGRZdFJpQmlHbzBQSk9TSml2YXE5SUhzNjZHZ05lcmdkS0dMaFY0VzJpbU4tYUVMVG01djNzQmZIQ1BnTi1XSk1WdUk0Ulp3TGpYS1RNYk5EbFRMbWtqRjA5emhUX0ZGTGpOQXM3ZmlWOVRLd045SlFscXQ2X29uZFhYbE5sSEQwRjV1ZXAtc0d6dFA3VUJ0UDRVLTh2dEx2a0xwZUk4NG5KeEJlZlQ0LUdjZHhYSHhPc1Vvd1VraEppeDlqRm1DT2JvelV6VEJxSWZ6QQ?oc=5",
       "source": "The Australian",
@@ -1387,17 +1322,6 @@
       "date": "2026-11-07T01:54:00+00:00",
       "display_date": "Nov 07, 2026",
       "summary": "Beijing Vows to Hit Back Against US Sanctions on China Companies Bloomberg.com",
-      "topics": [
-        "AML & Sanctions"
-      ]
-    },
-    {
-      "title": "US Treasury sanctions Canadian money services firms over Iran-related transactions - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQanB1RlNfclNuTUN5SEpJTjFWWUM1UVR2V2xLclNnTjhfNnp0VjNGZE5qeDBiekZXOFpLR2hOTnFud1ZKYlgzaFF6dGpwbkdENXF5VldQSEl0MEE1X0dHbWMyWHFvOU82WC01SjNSamFuSFQtY1M4VHJMN1VEMzlyQnN3UkotaXhiTm4taGdud2w5Wnk0cmtVQlp1MjRvNEJreERfdzZZbmtRQWo5d3NTYnVpOThYRjUwU3BJSGRFSEE?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-06T22:46:57+00:00",
-      "display_date": "Nov 06, 2026",
-      "summary": "US Treasury sanctions Canadian money services firms over Iran-related transactions Reuters",
       "topics": [
         "AML & Sanctions"
       ]
@@ -2113,17 +2037,6 @@
         "Enforcement Actions",
         "AML & Sanctions",
         "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "OCC Releases Report on Large Banks’ Debanking Activities",
-      "link": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-90.html",
-      "source": "Office of the Comptroller of the Currency",
-      "date": "2026-10-14T11:15:00+00:00",
-      "display_date": "Oct 14, 2026",
-      "summary": "The Office of the Comptroller of the Currency (OCC) today released a report of its findings from its supervisory review of debanking activities at the nine largest national banks it supervises: JPMorgan Chase Bank, Bank of America, Citibank, Wells Fargo Bank, U.S. Bank, Capital O...",
-      "topics": [
-        "Operational & Enterprise Risk"
       ]
     },
     {
