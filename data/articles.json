@@ -1,7 +1,18 @@
 {
-  "last_updated": "November 15, 2026 12:35 UTC",
-  "total_count": 217,
+  "last_updated": "November 15, 2026 16:29 UTC",
+  "total_count": 218,
   "articles": [
+    {
+      "title": "Rivian, Lucid, Scout CEOs aren’t counting on Democrats to restore EV federal support after midterm wins",
+      "link": "https://www.cnbc.com/2026/11/15/rivian-lucid-scout-arent-counting-on-dems-to-restore-ev-incentives.html",
+      "source": "CNBC",
+      "date": "2026-11-15T13:00:02+00:00",
+      "display_date": "Nov 15, 2026",
+      "summary": "EV makers have had to contend with flip-flopping regulatory support from Washington over the years.",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
     {
       "title": "ESG Today: Week in Review",
       "link": "https://www.esgtoday.com/esg-today-week-in-review-283/?utm_source=rss&utm_medium=rss&utm_campaign=esg-today-week-in-review-283",
@@ -17,7 +28,7 @@
       "title": "‘Deeply flawed’: Former ACCC boss slams opt-out AI copyright plan - The Australian",
       "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOS1JhREtVUHRrS3Yyb0lJdHR3aThZT0c5R1p0SWVvLVUzZ1ZPX2NLcDNWTEJ6UVg1ejNGYkI5b1E5ZzNxRVlmQXBHeVhaUnVsVXlWeTZTZW5zTUNtLVJ5WTJDbEk5M3pmS2FSTlktdGV6Z0M3ZkhHWTl1UHhCanFKRFZGT3JFby1VVV9YQ2FmSmg5SFNVRzI1RTI5QUlGSnRpcG9wYUxiZ3lkbWoyNDFDa3BBQ1BlY0k5RzlNWE42UVU2UXJQcnNRWUk0R0k0N1hSRUl1NUFvOWVaWWdMNUZPcW1fa09ZOUhyLUR2SWJqWVdfYTNlRncwRGVfWGpSc09JanpSbmNLZHduSFR4a3hrMFRlU2oxUDRFSjJoVUxPZmkzREp3Nm1Ua2FR?oc=5",
       "source": "The Australian",
-      "date": "2026-11-15T10:05:48+00:00",
+      "date": "2026-11-15T09:05:51+00:00",
       "display_date": "Nov 15, 2026",
       "summary": "‘Deeply flawed’: Former ACCC boss slams opt-out AI copyright plan The Australian",
       "topics": [
@@ -633,17 +644,6 @@
       ]
     },
     {
-      "title": "‘Big food price hikes on the way,’ say food distributors, amid pleas for fuel tax, regulatory relief - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPVXNPMU1XbHFCb1E1Z3Y3bWppb2dfdFBhaFJ5UldPVHlvYlh4QTNTYV9TbmV6WHNDMkxodU8zODhQM2lEejc1X2VUT3hTUFRUVVBvbGU5Sk5WNjBPUHJMckRHa0FpM0JqdXBzdWk1MnNFSE41eW84MEs2UTMxOFpCSTBRQWJGdEgtWnZ0YW1GeWZVYWZ6Z2ZtSGFSMUJ5QUNWM1dpMzdPZVpGWkE0a3NTek45TTFXNkJRNnR2VGtmSFBsa1QxaUE3VURtQ3ZRRkJHWW5uTWlSQk1tb0tRc0FXMDA4X1JCLThCSm40TE84QUdpRUdrdmhIMjhqSmtXRUNlU2VnZ2hkOXhRYmc?oc=5",
-      "source": "The Australian",
-      "date": "2026-11-12T06:20:00+00:00",
-      "display_date": "Nov 12, 2026",
-      "summary": "‘Big food price hikes on the way,’ say food distributors, amid pleas for fuel tax, regulatory relief The Australian",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "Russian diesel exports double after Trump lifts sanctions, but US gets none - Financial Times",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbElaWm5TWURMa29Yd2Y0aUpHZzhnbFFITnVSdnk5a0NSR3FuaHp2UDZuWTFVN3AzU1o5RU5STzc2S25OQTFLYzAycHhPX0FqMnJ1UVlWMjJiSVh3bFRBaUhZczNfX2gwQlVtVVB3ekZ4QXh5S2poNHZXSG5zQmFBd3B3U3A?oc=5",
       "source": "Financial Times",
@@ -1203,6 +1203,17 @@
       "summary": "Bathla lender finds itself in ASIC’s sights over disclosure failures AFR",
       "topics": [
         "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "‘Big food price hikes on the way,’ say food distributors, amid pleas for fuel tax, regulatory relief - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPVXNPMU1XbHFCb1E1Z3Y3bWppb2dfdFBhaFJ5UldPVHlvYlh4QTNTYV9TbmV6WHNDMkxodU8zODhQM2lEejc1X2VUT3hTUFRUVVBvbGU5Sk5WNjBPUHJMckRHa0FpM0JqdXBzdWk1MnNFSE41eW84MEs2UTMxOFpCSTBRQWJGdEgtWnZ0YW1GeWZVYWZ6Z2ZtSGFSMUJ5QUNWM1dpMzdPZVpGWkE0a3NTek45TTFXNkJRNnR2VGtmSFBsa1QxaUE3VURtQ3ZRRkJHWW5uTWlSQk1tb0tRc0FXMDA4X1JCLThCSm40TE84QUdpRUdrdmhIMjhqSmtXRUNlU2VnZ2hkOXhRYmc?oc=5",
+      "source": "The Australian",
+      "date": "2026-11-09T00:53:00+00:00",
+      "display_date": "Nov 09, 2026",
+      "summary": "‘Big food price hikes on the way,’ say food distributors, amid pleas for fuel tax, regulatory relief The Australian",
+      "topics": [
+        "Regulatory Change"
       ]
     },
     {
