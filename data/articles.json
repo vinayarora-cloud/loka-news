@@ -1,7 +1,29 @@
 {
-  "last_updated": "November 15, 2026 08:43 UTC",
+  "last_updated": "November 15, 2026 12:35 UTC",
   "total_count": 217,
   "articles": [
+    {
+      "title": "ESG Today: Week in Review",
+      "link": "https://www.esgtoday.com/esg-today-week-in-review-283/?utm_source=rss&utm_medium=rss&utm_campaign=esg-today-week-in-review-283",
+      "source": "ESG Today",
+      "date": "2026-11-15T10:51:21+00:00",
+      "display_date": "Nov 15, 2026",
+      "summary": "This week in ESG news: Sustainable fund inflows hit highest level since 2024; Appeals court […]",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "‘Deeply flawed’: Former ACCC boss slams opt-out AI copyright plan - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOS1JhREtVUHRrS3Yyb0lJdHR3aThZT0c5R1p0SWVvLVUzZ1ZPX2NLcDNWTEJ6UVg1ejNGYkI5b1E5ZzNxRVlmQXBHeVhaUnVsVXlWeTZTZW5zTUNtLVJ5WTJDbEk5M3pmS2FSTlktdGV6Z0M3ZkhHWTl1UHhCanFKRFZGT3JFby1VVV9YQ2FmSmg5SFNVRzI1RTI5QUlGSnRpcG9wYUxiZ3lkbWoyNDFDa3BBQ1BlY0k5RzlNWE42UVU2UXJQcnNRWUk0R0k0N1hSRUl1NUFvOWVaWWdMNUZPcW1fa09ZOUhyLUR2SWJqWVdfYTNlRncwRGVfWGpSc09JanpSbmNLZHduSFR4a3hrMFRlU2oxUDRFSjJoVUxPZmkzREp3Nm1Ua2FR?oc=5",
+      "source": "The Australian",
+      "date": "2026-11-15T10:05:48+00:00",
+      "display_date": "Nov 15, 2026",
+      "summary": "‘Deeply flawed’: Former ACCC boss slams opt-out AI copyright plan The Australian",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
     {
       "title": "Law enforcement searches Illinois plant after 'credible threat' of explosive device - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUWd2dWN5WmZWVFV3UFVQcU40U2lkY3B3Z3FRVFlHWDg1RGtodEt0T2d3QnQxSWxsXzFRWWV0anZqcW8xb2wxelg0UFZkODlQM3BTbENTaVdOSEZUM3NYblVESUdzTk14Rk9wcGlnWmJUdGxaTG5sM1Fsa0t3SHpxdkxMd3VPdEdkY1cxVDZoM1FfUW5BTGdzTVlCdG9Sc19JUzYzeUN1VFhzYm9jRDh1dVo0WjFVQk9TSTUyM2hTRE4?oc=5",
@@ -33,17 +55,6 @@
       "summary": "Democrat control of southern states will make Donald Trump’s border enforcement weaker The Australian",
       "topics": [
         "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "Troubled Sherritt Misses Payment as Liquidity Crisis Deepens - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPV3oyYk5sdThqaGQwQWhGU1ZoWkFRR0NVallBS3VaaWVKLUtYVDVfSU1YNWtnTkJMQ0dFZnVKS0hicDlqLTEtd05veG02eEZqeU5kbWpmeUg1bl93MnlzWWdPTzdoV201SGF0WmNDM3JGUEkzcXJQZjVuR2lsYWxOSXFobUNrdEtlOVk1R2xmZjhsTDltOHVsY3FYZE02SmxSM3k4aUFseHY1bTE5Y0FGYg?oc=5",
-      "source": "Bloomberg.com",
-      "date": "2026-11-13T23:39:03+00:00",
-      "display_date": "Nov 13, 2026",
-      "summary": "Troubled Sherritt Misses Payment as Liquidity Crisis Deepens Bloomberg.com",
-      "topics": [
-        "Operational & Enterprise Risk"
       ]
     },
     {
@@ -306,7 +317,7 @@
       "title": "Man City to be hit with Premier League sanctions next year if appeal fails - Financial Times",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ2ZjcFNfb1JOeWtiZFloWDhmMlFwQ0xGQUpETU1TSE1wSTI5QW5uYjJoRFNZdkt6MExPX2lYSy0zVy1iOHExRXdkS21BaFM2YUFSSjMyaUF0NHFBQ1pkcWlnN3gya0ZzaXFRTkJrNVJMY3RGcTl5SHlqYXd5dWFQbWczR2Q?oc=5",
       "source": "Financial Times",
-      "date": "2026-11-13T05:00:17+00:00",
+      "date": "2026-11-13T05:02:42+00:00",
       "display_date": "Nov 13, 2026",
       "summary": "Man City to be hit with Premier League sanctions next year if appeal fails Financial Times",
       "topics": [
@@ -468,17 +479,6 @@
       ]
     },
     {
-      "title": "Deutsche Bank fined €8 million over botched Postbank integration - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRHUxUzZobTdTYjRtaUt4R3l6Ui1sQTZISWxJUVAwUE1IbjRvNE56cVk2Rkh0S3pBSUdKNFR1LVpZN0xWRDAwSS15SFR6dWEtNklmOExXdjdTM2UzbndtQ21aMk5TVHRyekl3WHRWWkpsaWlLYlRyY1NncEdwYk5NeTRBb3J6VVRIMDU4NE1LQ1RIbFJjbWRNNHRsUnphemxhSkpiSmFva1M4TXFHZWYzUmJsWFZPemJGc1dtYWVWWVJIX045RFE?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-12T13:09:29+00:00",
-      "display_date": "Nov 12, 2026",
-      "summary": "Deutsche Bank fined €8 million over botched Postbank integration Reuters",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
       "title": "AI helped UK defy expectations – but will economy’s resilience fizzle out?",
       "link": "https://www.theguardian.com/business/2026/nov/12/ai-uk-economy-john-healey",
       "source": "The Guardian Australia",
@@ -622,17 +622,6 @@
       ]
     },
     {
-      "title": "Course Corrected Raises €80 Million to Back European Energy and Resource Transition Startups",
-      "link": "https://www.esgtoday.com/course-corrected-raises-e80-million-to-back-european-energy-and-resource-transition-startups/?utm_source=rss&utm_medium=rss&utm_campaign=course-corrected-raises-e80-million-to-back-european-energy-and-resource-transition-startups",
-      "source": "ESG Today",
-      "date": "2026-11-12T09:34:17+00:00",
-      "display_date": "Nov 12, 2026",
-      "summary": "Venture capital investor Course Corrected announced today that it has raised €80 million (USD$89 million) […]",
-      "topics": [
-        "ESG & Sustainability"
-      ]
-    },
-    {
       "title": "EU to approve more sanctions on Russia on Monday, France says - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbGRJY0NscW1XVmJrX1VJR1JWZW1fVVhXaTdKeXN6aVFEMGJueGdSeTE1SlpGQVVpYjZIN0VOb2RpSmlqVGdmMDhsSVlHSWltYWoyOTBPZkpoVTZVV2V6SG42LUJRcTFIb1Z2TzByT19USElvV1g3eXYyU0ZQVEVfc191ZWl0ZDVLeUJ5c3VlUUhHWTViUDl2REFwQmxZNDNvZkE?oc=5",
       "source": "Reuters",
@@ -755,17 +744,6 @@
       ]
     },
     {
-      "title": "United Airlines Is Banning AI Bots From Booking Flights",
-      "link": "https://www.wsj.com/tech/ai/united-airlines-is-banning-ai-bots-from-booking-flights-5b514b38?mod=pls_whats_news_us_business_f",
-      "source": "Wall Street Journal",
-      "date": "2026-11-11T22:43:00+00:00",
-      "display_date": "Nov 11, 2026",
-      "summary": "The carrier says automated assistants present data-privacy risks; “I don’t want to create another middleman.”",
-      "topics": [
-        "Data Privacy"
-      ]
-    },
-    {
       "title": "Who Runs the Ransomware Group Qilin?",
       "link": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/",
       "source": "Krebs on Security",
@@ -862,6 +840,17 @@
       "summary": "ACCC flags concerns on IAG’s RAC WA deal, but market bets it still gets done The Australian",
       "topics": [
         "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "Trump refugee joins Climate 200 board - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPUE5XVnFIMEQyUzZ1YkRid2I4Mk1FdnJWc1N3bERfMlVLNjZndk5QMTBsSWxKLUxmMlNEWUJfNzhUZUFySS1Yc1Vjbnc3eVpsNnNjNUtlaHA1Y0xsdWwySGRIeUVfOTJ1RE5GbXFwZVlkQ1FyNmRyVS1KcnhGX1lpd0JLaXZuNlg4RkJQRUVoRGdYaGNZRGY2eUlMSUdfNnZHekdaSjU5MDdHcmNLZVNmTGs4YjJxOWpLZ3lfWnc3Q25BT1J4aWYyRlpsOVlGTkdFRzN5dS1TbC1ZLXkxTUVyRUhNOGZ1ZUZ4a1R2SHF3NXh4b1htdmZNTWFWTTh1Q2YtUS11QmVxLXZmZ2JhNTVzTw?oc=5",
+      "source": "The Australian",
+      "date": "2026-11-11T02:01:00+00:00",
+      "display_date": "Nov 11, 2026",
+      "summary": "Trump refugee joins Climate 200 board The Australian",
+      "topics": [
+        "ESG & Sustainability"
       ]
     },
     {
@@ -1082,6 +1071,17 @@
       "summary": "Last week a technology company in Delaware paid $13 million to settle allegations that its poor cybersecurity practices violated the False Claims Act. If compliance and audit professionals ever wanted a case that’s emblematic of cybersecurity compliance risks these days, this one...",
       "topics": [
         "Regulatory Change"
+      ]
+    },
+    {
+      "title": "ASIC probe finds 22 of 24 private credit funds flawed - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRzR4MGtlNDRXaVB6RlIxN2F5VVlqQnJ1dDFBano2VkY0MGRvN1dJTnlCWWtoSHNIQlVnV2VYeWRCQjJTYklpVFZuS0hDTzdEV3FKS0ZIaUswR1Z6SHJjVy0ybEJ6S3kzWkhIdkpjQWdjdjdYOXBJMmFITFhHTWE3c29vdGpNSWVSZHhCMU5DMG1rdjJjVUNoVlQwNGMxOHhFV0VlVHJLQUJ5MjFsZkZ1VEFDU0hKTHlHQU9tRG5ONWZ6YnJBOGZrUWJVYmlzdUZ1MElwSHdYOXUtalU?oc=5",
+      "source": "The Australian",
+      "date": "2026-11-09T20:54:00+00:00",
+      "display_date": "Nov 09, 2026",
+      "summary": "ASIC probe finds 22 of 24 private credit funds flawed The Australian",
+      "topics": [
+        "Enforcement Actions"
       ]
     },
     {
