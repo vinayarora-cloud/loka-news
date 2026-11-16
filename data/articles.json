@@ -1,14 +1,70 @@
 {
-  "last_updated": "November 16, 2026 14:48 UTC",
+  "last_updated": "November 16, 2026 17:02 UTC",
   "total_count": 209,
   "articles": [
     {
-      "title": "US limits remote access to advanced AI chips; Jensen Huang ‘discusses comeback as Nvidia CEO’ – business live",
+      "title": "Intel Sued by Investors After 29% Stock Plunge",
+      "link": "https://www.wsj.com/tech/intel-sued-by-investors-after-29-stock-plunge-c6591bbf?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-11-16T15:52:00+00:00",
+      "display_date": "Nov 16, 2026",
+      "summary": "Intel is being sued by shareholders who claim the U.S. chip maker failed to disclose the scale of a slump in personal-computer sales.",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "The Long-Running Climate Reporting Saga That Is Giving Companies Whiplash",
+      "link": "https://www.wsj.com/pro/business-resilience/the-long-running-climate-reporting-saga-that-is-giving-companies-whiplash-43eb2b4f?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-11-16T15:52:00+00:00",
+      "display_date": "Nov 16, 2026",
+      "summary": "Plus: Iran War set to lower global CO2 emissions; environmental group accuses beef giant JBS of money laundering; what if data centers were put out to sea?",
+      "topics": [
+        "AML & Sanctions",
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "Trump says he wouldn’t mind Jensen Huang being reinstated as Nvidia CEO, as its shares fall again – as it happened",
       "link": "https://www.theguardian.com/business/live/2026/nov/16/ai-sell-off-resumes-jensen-huang-discusses-comeback-nvidia-ceo-dollar-stock-markets-latest-news-updates",
       "source": "The Guardian Australia",
-      "date": "2026-11-16T14:35:14+00:00",
+      "date": "2026-11-16T15:43:06+00:00",
       "display_date": "Nov 16, 2026",
       "summary": "Rolling coverage of the latest economic and financial news Insurance industry workers: how is climate-related risk managed in your company? Elon Musk joins 165,000 others calling for Nvidia to bring back Jensen Huang in open letter Britain’s main share index isn’t been dragged ba...",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "CIP Launches New $1 Billion Energy Transition Infrastructure Credit Fund",
+      "link": "https://www.esgtoday.com/cip-launches-new-1-billion-energy-transition-infrastructure-credit-fund/?utm_source=rss&utm_medium=rss&utm_campaign=cip-launches-new-1-billion-energy-transition-infrastructure-credit-fund",
+      "source": "ESG Today",
+      "date": "2026-11-16T15:42:22+00:00",
+      "display_date": "Nov 16, 2026",
+      "summary": "Energy infrastructure investment manager Copenhagen Infrastructure Partners (CIP) announced today the launch of the Credit […]",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "UniCredit’s Commerzbank Bid Gets EU, U.S. Approval",
+      "link": "https://www.wsj.com/business/deals/unicredits-commerzbank-bid-gets-eu-approval-44a821a6?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-11-16T15:13:00+00:00",
+      "display_date": "Nov 16, 2026",
+      "summary": "The European Union’s merger regulator approved UniCredit’s bid to take control of Germany’s Commerzbank, clearing a key regulatory hurdle for a takeover that has been two years in the making and previously faced opposition in Berlin.",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "BII, Norfund, FinDev Canada Partner to Mobilize $10 Billion in Climate Finance to Emerging Markets",
+      "link": "https://www.esgtoday.com/bii-norfund-findev-canada-partner-to-mobilize-10-billion-in-climate-finance-to-emerging-markets/?utm_source=rss&utm_medium=rss&utm_campaign=bii-norfund-findev-canada-partner-to-mobilize-10-billion-in-climate-finance-to-emerging-markets",
+      "source": "ESG Today",
+      "date": "2026-11-16T14:57:14+00:00",
+      "display_date": "Nov 16, 2026",
+      "summary": "British International Investment (BII), FinDev Canada and Norfund, the development finance institutions of the UK, […]",
       "topics": [
         "ESG & Sustainability"
       ]
@@ -58,17 +114,6 @@
       ]
     },
     {
-      "title": "Intel Sued by Investors After 29% Stock Plunge",
-      "link": "https://www.wsj.com/tech/intel-sued-by-investors-after-29-stock-plunge-c6591bbf?mod=pls_whats_news_us_business_f",
-      "source": "Wall Street Journal",
-      "date": "2026-11-16T12:04:00+00:00",
-      "display_date": "Nov 16, 2026",
-      "summary": "Intel is being sued by shareholders who claim the U.S. chip maker failed to disclose the scale of a slump in personal-computer sales.",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
       "title": "A Ship by Any Other Name: How Russia’s Shadow Fleet Outruns Sanctions",
       "link": "https://www.corporatecomplianceinsights.com/ship-by-any-other-name-how-russia-shadow-fleet-outruns-sanctions/",
       "source": "Corporate Compliance Insights",
@@ -88,17 +133,6 @@
       "summary": "General Motors (GM) announced its largest clean energy investment to date, with the automotive giant […]",
       "topics": [
         "ESG & Sustainability"
-      ]
-    },
-    {
-      "title": "UniCredit’s Commerzbank Bid Gets EU Approval",
-      "link": "https://www.wsj.com/business/deals/unicredits-commerzbank-bid-gets-eu-approval-44a821a6?mod=pls_whats_news_us_business_f",
-      "source": "Wall Street Journal",
-      "date": "2026-11-16T10:57:00+00:00",
-      "display_date": "Nov 16, 2026",
-      "summary": "The European Union’s merger regulator approved UniCredit’s bid to take control of Germany’s Commerzbank.",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
@@ -160,7 +194,7 @@
       "title": "Handball from a kick-in: Five AFL rule changes revealed for 2027 - The Australian",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeXdsS2F6bXg4N2JldUVOZ0pCdmhRWVVjMkR5LWh1X3VFSDN3Rkw1ZkdESE54VEk3VHZ2Nm5HZGxYR0kxOFI5TFByTXFQYjlCdmMwX1QzdE16NUZCUkI2bkxpZWhfNlpmaFN6UTZMTlotSkh2VUdzMU9iQ0xDdHY4SG91MGtEWlBTN202ekl1dHZZZ1IzTEdzckJIb0dIMGpadHJXT1B6THdYM3RPZFlCOVhTTG83ZVQtUXJDZFlNNkVxckl1YVQ0SGNhM0gwbDdvRm0tNw?oc=5",
       "source": "The Australian",
-      "date": "2026-11-16T01:43:21+00:00",
+      "date": "2026-11-16T02:13:22+00:00",
       "display_date": "Nov 16, 2026",
       "summary": "Handball from a kick-in: Five AFL rule changes revealed for 2027 The Australian",
       "topics": [
@@ -201,23 +235,12 @@
       ]
     },
     {
-      "title": "ECB Can’t Substitute Sound Fiscal Policy, Knot Tells Corriere - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOd2FxWTBkTFlBLUY2aVh2Q0tnVlg3cktmUTVPekhSWUtJWlU2YU1pc0dwUGh0UHNqM3NnZnlCRWFxNnpnZnFtRWw0TEZoTU1CeTNuTGhGX0RPWWlCaVJhcFpEMjRWTkVyNzE5dy1uT0R1UGxTb0tfbi1Xby1zZFdsQUxXMDlxRTVhVEZEcG1yS3FFN2paV3dFUmhQNHRKXzRmaFBCdFJaeW9NaXlDTlhpdw?oc=5",
-      "source": "Bloomberg.com",
-      "date": "2026-11-15T18:29:42+00:00",
-      "display_date": "Nov 15, 2026",
-      "summary": "ECB Can’t Substitute Sound Fiscal Policy, Knot Tells Corriere Bloomberg.com",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Senate Republicans Seek Lutnick Testimony on Nvidia Enforcement - Bloomberg.com",
+      "title": "Senate Republicans Seek Lutnick Testimony on Nvidia Enforcement - Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMlNHUGl5enZFMklCZzJNbWpab0NzSjcyc0ZXTTc0VmVnX1pIdl8tME1HVG14MlJoTWNpal9KRlBzWU5mVTUwV1hGU2FlWHBUS2dIUUFWY0tJVjFQd0I0TGUtVElzeXROc01HSFoyOFRSWS1QVFZacG9VaHRLOXYzVU5rNGlQWnBKVzRIb2sxeTVMck5Cd2JETURDeHgyZ2IxVFZURjczUVRTckx2UFBIMUlkcno?oc=5",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "date": "2026-11-15T18:12:47+00:00",
       "display_date": "Nov 15, 2026",
-      "summary": "Senate Republicans Seek Lutnick Testimony on Nvidia Enforcement Bloomberg.com",
+      "summary": "Senate Republicans Seek Lutnick Testimony on Nvidia Enforcement Bloomberg",
       "topics": [
         "Enforcement Actions"
       ]
@@ -379,12 +402,12 @@
       ]
     },
     {
-      "title": "Banks Cool on Manchester City Player Finance as Sanctions Loom - Bloomberg.com",
+      "title": "Banks Cool on Manchester City Player Finance as Sanctions Loom - Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTFNCNk9CRFFyS3JDRWNuZ01PVGF0VEppUXhaZkRKX2l2N1VMekpmS0EwdGYwWW9IcHh6RmRDMGItTGxlbDVHeDNtYmN4UzFqRmFjSUd3a2RRSWMyelVKdU80SUlWejlVSnF6NkZIQVZTN3RnZC1qLUQtbVdKaDJWLTk1VlFrZUNkMWVFajVGeGtWV3kybTBOb1dMMHBWVFNaYmVSX20yUmVOaW9lNlR6RWVubw?oc=5",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "date": "2026-11-13T16:14:57+00:00",
       "display_date": "Nov 13, 2026",
-      "summary": "Banks Cool on Manchester City Player Finance as Sanctions Loom Bloomberg.com",
+      "summary": "Banks Cool on Manchester City Player Finance as Sanctions Loom Bloomberg",
       "topics": [
         "AML & Sanctions"
       ]
@@ -490,17 +513,6 @@
       ]
     },
     {
-      "title": "Man City to be hit with Premier League sanctions next year if appeal fails - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ2ZjcFNfb1JOeWtiZFloWDhmMlFwQ0xGQUpETU1TSE1wSTI5QW5uYjJoRFNZdkt6MExPX2lYSy0zVy1iOHExRXdkS21BaFM2YUFSSjMyaUF0NHFBQ1pkcWlnN3gya0ZzaXFRTkJrNVJMY3RGcTl5SHlqYXd5dWFQbWczR2Q?oc=5",
-      "source": "Financial Times",
-      "date": "2026-11-13T05:02:42+00:00",
-      "display_date": "Nov 13, 2026",
-      "summary": "Man City to be hit with Premier League sanctions next year if appeal fails Financial Times",
-      "topics": [
-        "AML & Sanctions"
-      ]
-    },
-    {
       "title": "The Chinese Chemical Supply Chain Fueling the US Opioid Crisis - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSWJ1WDhrbXd3azJqM1RjMnBnTkNlckRGTC1BcGdaLXJZeEt0Q3A5S0gxSjNrMjFLZnAxYnItM2JvTzd5eWRLQlhEWnYyQnRCc1VicWI4RXRtYXVVM1RXYkhMSlRiU0N0SjQ1VlJnRC0wRHBJV0U4Q3dRUUxhZHdqdXpuVEtEaU5GYmpacWoxU0RhbzdGOE1WTWI3WGJCWDdEbWdVc0NzX19Ob3ZLNEpWV1JuWmluc0l3ejNHWk9hQXJSeE1vTTU2ZGlR?oc=5",
       "source": "Bloomberg.com",
@@ -578,17 +590,6 @@
       ]
     },
     {
-      "title": "Nuveen Launches New Nature-Based Solutions Fund",
-      "link": "https://www.esgtoday.com/nuveen-launches-new-nature-based-solutions-fund/?utm_source=rss&utm_medium=rss&utm_campaign=nuveen-launches-new-nature-based-solutions-fund",
-      "source": "ESG Today",
-      "date": "2026-11-12T17:03:04+00:00",
-      "display_date": "Nov 12, 2026",
-      "summary": "Nuveen Natural Capital, the land-focused asset management platform of global asset manager Nuveen, announced the […]",
-      "topics": [
-        "ESG & Sustainability"
-      ]
-    },
-    {
       "title": "AI Ubiquitous in Financial Decision-Making",
       "link": "https://www.corporatecomplianceinsights.com/news-roundup-november-12-2026/",
       "source": "Corporate Compliance Insights",
@@ -597,17 +598,6 @@
       "summary": "Plus: Spreadsheets still used for 70% of product compliance; most tax departments are feeling the crunch The post AI Ubiquitous in Financial Decision-Making appeared first on Corporate Compliance Insights .",
       "topics": [
         "Operational & Enterprise Risk"
-      ]
-    },
-    {
-      "title": "EU Commission Releases Draft Sustainability Reporting Assurance Standards",
-      "link": "https://www.esgtoday.com/eu-commission-releases-draft-sustainability-reporting-assurance-standards/?utm_source=rss&utm_medium=rss&utm_campaign=eu-commission-releases-draft-sustainability-reporting-assurance-standards",
-      "source": "ESG Today",
-      "date": "2026-11-12T15:33:42+00:00",
-      "display_date": "Nov 12, 2026",
-      "summary": "The European Commission announced today the launch of a consultation on a newly released draft […]",
-      "topics": [
-        "ESG & Sustainability"
       ]
     },
     {
@@ -1115,6 +1105,17 @@
       "summary": "Defaults Rattle Brazil’s Shadow Banks, Spark Regulatory Scrutiny Bloomberg.com",
       "topics": [
         "Regulatory Change"
+      ]
+    },
+    {
+      "title": "ATO-dodging barrister’s attack on judge backfires, leads to big fine - AFR",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQU19LTkpBUXZmRGpnWHJPbnE2WmluWF90bmk5cTB5MHg3UTJPLU9JQnFxLUFEQ2lSYWp1UTVkQmt6Q0NnNDFMX1cySEoxZjFoTmpCMVFrMUFvY3EzX0JBUmpEcGg3djlDd0xISXEzWEJfMjRadno1QWt1aGJfN29QS0FzWEZPZnFaeTJKTmVBSHIxMEJPWFFLbV9LSW4yVnZGbFBELWNPaFpkYm5LdGN1OFJxdVlzVHFoWmNobXVzNnY2NDZRWFdzZkstcUYtVnNB?oc=5",
+      "source": "AFR",
+      "date": "2026-11-10T01:24:00+00:00",
+      "display_date": "Nov 10, 2026",
+      "summary": "ATO-dodging barrister’s attack on judge backfires, leads to big fine AFR",
+      "topics": [
+        "Enforcement Actions"
       ]
     },
     {
