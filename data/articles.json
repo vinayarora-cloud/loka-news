@@ -1,7 +1,106 @@
 {
-  "last_updated": "November 16, 2026 10:10 UTC",
-  "total_count": 208,
+  "last_updated": "November 16, 2026 14:48 UTC",
+  "total_count": 209,
   "articles": [
+    {
+      "title": "US limits remote access to advanced AI chips; Jensen Huang ‘discusses comeback as Nvidia CEO’ – business live",
+      "link": "https://www.theguardian.com/business/live/2026/nov/16/ai-sell-off-resumes-jensen-huang-discusses-comeback-nvidia-ceo-dollar-stock-markets-latest-news-updates",
+      "source": "The Guardian Australia",
+      "date": "2026-11-16T14:35:14+00:00",
+      "display_date": "Nov 16, 2026",
+      "summary": "Rolling coverage of the latest economic and financial news Insurance industry workers: how is climate-related risk managed in your company? Elon Musk joins 165,000 others calling for Nvidia to bring back Jensen Huang in open letter Britain’s main share index isn’t been dragged ba...",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "Goldman Sachs Leads $345 Million Financing for Exus to Expand U.S. Clean Energy Portfolio",
+      "link": "https://www.esgtoday.com/goldman-sachs-leads-345-million-financing-for-exus-to-expand-u-s-clean-energy-portfolio/?utm_source=rss&utm_medium=rss&utm_campaign=goldman-sachs-leads-345-million-financing-for-exus-to-expand-u-s-clean-energy-portfolio",
+      "source": "ESG Today",
+      "date": "2026-11-16T14:04:33+00:00",
+      "display_date": "Nov 16, 2026",
+      "summary": "Renewable energy developer, owner and operator Exus Renewables North America announced that it has secured […]",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "Jim Ratcliffe’s Ineos Group settles with Ben Ainslie over America’s Cup dispute",
+      "link": "https://www.theguardian.com/sport/2026/nov/16/jim-ratcliffe-ineos-group-settles-ben-ainslie-americas-cup-dispute-sailing",
+      "source": "The Guardian Australia",
+      "date": "2026-11-16T13:55:19+00:00",
+      "display_date": "Nov 16, 2026",
+      "summary": "Ineos wanted £10m for alleged refusal to return yacht Out-of-court settlement ends plan for a 2028 trial Sir Jim Ratcliffe’s Ineos Group has reached an out-of-court settlement with Sir Ben Ainslie over the £180m yacht their companies built for the 2024 America’s Cup. Ratcliffe an...",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "ECB to Launch “Deep Dives” into Banks’ Management of Climate and Nature Risks",
+      "link": "https://www.esgtoday.com/ecb-to-launch-deep-dives-into-banks-management-of-climate-and-nature-risks/?utm_source=rss&utm_medium=rss&utm_campaign=ecb-to-launch-deep-dives-into-banks-management-of-climate-and-nature-risks",
+      "source": "ESG Today",
+      "date": "2026-11-16T12:58:09+00:00",
+      "display_date": "Nov 16, 2026",
+      "summary": "The European Central Bank (ECB) outlined plans to intensify its supervision of banks’ capabilities to assess […]",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "The Morning Risk Report: Ground Stop Puts Focus on Key Defense Contractor",
+      "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-ground-stop-puts-focus-on-key-defense-contractor-2cbe6ae4?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-11-16T12:56:00+00:00",
+      "display_date": "Nov 16, 2026",
+      "summary": "Plus: California climate laws are giving companies whiplash and a Texas prosecutor is placing himself at the center to battle Congress",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "Intel Sued by Investors After 29% Stock Plunge",
+      "link": "https://www.wsj.com/tech/intel-sued-by-investors-after-29-stock-plunge-c6591bbf?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-11-16T12:04:00+00:00",
+      "display_date": "Nov 16, 2026",
+      "summary": "Intel is being sued by shareholders who claim the U.S. chip maker failed to disclose the scale of a slump in personal-computer sales.",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "A Ship by Any Other Name: How Russia’s Shadow Fleet Outruns Sanctions",
+      "link": "https://www.corporatecomplianceinsights.com/ship-by-any-other-name-how-russia-shadow-fleet-outruns-sanctions/",
+      "source": "Corporate Compliance Insights",
+      "date": "2026-11-16T12:00:07+00:00",
+      "display_date": "Nov 16, 2026",
+      "summary": "Western regimes keep separate lists updated at their own pace The post A Ship by Any Other Name: How Russia’s Shadow Fleet Outruns Sanctions appeared first on Corporate Compliance Insights .",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "GM Backs $550 Million Solar Investment in Largest Clean Energy Deal to Date",
+      "link": "https://www.esgtoday.com/gm-backs-550-million-solar-energy-investment-in-largest-clean-energy-deal-to-date/?utm_source=rss&utm_medium=rss&utm_campaign=gm-backs-550-million-solar-energy-investment-in-largest-clean-energy-deal-to-date",
+      "source": "ESG Today",
+      "date": "2026-11-16T11:43:06+00:00",
+      "display_date": "Nov 16, 2026",
+      "summary": "General Motors (GM) announced its largest clean energy investment to date, with the automotive giant […]",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "UniCredit’s Commerzbank Bid Gets EU Approval",
+      "link": "https://www.wsj.com/business/deals/unicredits-commerzbank-bid-gets-eu-approval-44a821a6?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-11-16T10:57:00+00:00",
+      "display_date": "Nov 16, 2026",
+      "summary": "The European Union’s merger regulator approved UniCredit’s bid to take control of Germany’s Commerzbank.",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
     {
       "title": "AIB Doubles Sustainable Lending Goal to €60 Billion by 2030",
       "link": "https://www.esgtoday.com/aib-doubles-sustainable-lending-goal-to-e60-billion-by-2030/?utm_source=rss&utm_medium=rss&utm_campaign=aib-doubles-sustainable-lending-goal-to-e60-billion-by-2030",
@@ -47,6 +146,28 @@
       ]
     },
     {
+      "title": "Top accounting firms are using AI, shifting to advisory roles - AFR",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeHM0aW5qUTRBVkFab20zYXJRbGdKc0s4Ti1TSzJwVU9PbjhBM1R2aENKY0JqYlVyZWw5dnZKR3picFZNZlhYSzVqR01jbFJIanJsa2xMb2xiaUphaVZPMWp5M1dvUklxMS1ETjNaQUlhdG9BMm1UQzg1bDhCX09RUWxfVW9qMEE5Tmh2RjJjWHk2ZUpuZHptUlcwRDM0UXBETXBxQnpQNjNCQ3ZidHp3ZGc3dVhCUVF3UFhpN2ZDR0NvUndpejhj?oc=5",
+      "source": "AFR",
+      "date": "2026-11-16T03:00:00+00:00",
+      "display_date": "Nov 16, 2026",
+      "summary": "Top accounting firms are using AI, shifting to advisory roles AFR",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Handball from a kick-in: Five AFL rule changes revealed for 2027 - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeXdsS2F6bXg4N2JldUVOZ0pCdmhRWVVjMkR5LWh1X3VFSDN3Rkw1ZkdESE54VEk3VHZ2Nm5HZGxYR0kxOFI5TFByTXFQYjlCdmMwX1QzdE16NUZCUkI2bkxpZWhfNlpmaFN6UTZMTlotSkh2VUdzMU9iQ0xDdHY4SG91MGtEWlBTN202ekl1dHZZZ1IzTEdzckJIb0dIMGpadHJXT1B6THdYM3RPZFlCOVhTTG83ZVQtUXJDZFlNNkVxckl1YVQ0SGNhM0gwbDdvRm0tNw?oc=5",
+      "source": "The Australian",
+      "date": "2026-11-16T01:43:21+00:00",
+      "display_date": "Nov 16, 2026",
+      "summary": "Handball from a kick-in: Five AFL rule changes revealed for 2027 The Australian",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
       "title": "Opinion | How’s That Russian Diesel Deal Going?",
       "link": "https://www.wsj.com/opinion/donald-trump-diesel-deal-vladimir-putin-russia-7c282795?mod=pls_whats_news_us_business_f",
       "source": "Wall Street Journal",
@@ -77,6 +198,17 @@
       "summary": "Australia's share market has been weighed down by the big miners. Coles has been hit by a cybersecurity incident.",
       "topics": [
         "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "ECB Can’t Substitute Sound Fiscal Policy, Knot Tells Corriere - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOd2FxWTBkTFlBLUY2aVh2Q0tnVlg3cktmUTVPekhSWUtJWlU2YU1pc0dwUGh0UHNqM3NnZnlCRWFxNnpnZnFtRWw0TEZoTU1CeTNuTGhGX0RPWWlCaVJhcFpEMjRWTkVyNzE5dy1uT0R1UGxTb0tfbi1Xby1zZFdsQUxXMDlxRTVhVEZEcG1yS3FFN2paV3dFUmhQNHRKXzRmaFBCdFJaeW9NaXlDTlhpdw?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-11-15T18:29:42+00:00",
+      "display_date": "Nov 15, 2026",
+      "summary": "ECB Can’t Substitute Sound Fiscal Policy, Knot Tells Corriere Bloomberg.com",
+      "topics": [
+        "Regulatory Change"
       ]
     },
     {
@@ -116,7 +248,7 @@
       "title": "‘Deeply flawed’: Former ACCC boss slams opt-out AI copyright plan - The Australian",
       "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOS1JhREtVUHRrS3Yyb0lJdHR3aThZT0c5R1p0SWVvLVUzZ1ZPX2NLcDNWTEJ6UVg1ejNGYkI5b1E5ZzNxRVlmQXBHeVhaUnVsVXlWeTZTZW5zTUNtLVJ5WTJDbEk5M3pmS2FSTlktdGV6Z0M3ZkhHWTl1UHhCanFKRFZGT3JFby1VVV9YQ2FmSmg5SFNVRzI1RTI5QUlGSnRpcG9wYUxiZ3lkbWoyNDFDa3BBQ1BlY0k5RzlNWE42UVU2UXJQcnNRWUk0R0k0N1hSRUl1NUFvOWVaWWdMNUZPcW1fa09ZOUhyLUR2SWJqWVdfYTNlRncwRGVfWGpSc09JanpSbmNLZHduSFR4a3hrMFRlU2oxUDRFSjJoVUxPZmkzREp3Nm1Ua2FR?oc=5",
       "source": "The Australian",
-      "date": "2026-11-15T09:06:02+00:00",
+      "date": "2026-11-15T09:00:00+00:00",
       "display_date": "Nov 15, 2026",
       "summary": "‘Deeply flawed’: Former ACCC boss slams opt-out AI copyright plan The Australian",
       "topics": [
@@ -188,17 +320,6 @@
       "summary": "Jensen Huang’s resignation as Nvidia CEO over affairs with a suspected Chinese spy and a direct report exposes serious governance gaps compliance officers can’t ignore. The post Nvidia fiasco highlights compliance risks around industrial espionage, culture, and governance structu...",
       "topics": [
         "Operational & Enterprise Risk"
-      ]
-    },
-    {
-      "title": "Crude Futures Post Back-to-Back Weekly Losses",
-      "link": "https://www.wsj.com/business/energy-oil/oil-prices-rise-as-middle-east-supply-risks-persist-2066e758?mod=pls_whats_news_us_business_f",
-      "source": "Wall Street Journal",
-      "date": "2026-11-13T21:11:00+00:00",
-      "display_date": "Nov 13, 2026",
-      "summary": "Oil futures fell for a second consecutive week, while traders assessed the IEA’s outlook for a global supply surplus, continued disruptions to Middle Eastern oil shipments, and cooling expectations for a negotiated settlement between the U.S. and Iran.",
-      "topics": [
-        "Enforcement Actions"
       ]
     },
     {
@@ -335,17 +456,6 @@
       ]
     },
     {
-      "title": "Singapore Charges 5th Person Linked to Nvidia Chip Case, ST Says - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZVV6VXYySmNyb1B3cXRtMU54M0ptUnZEQzNqSjNtWXMyRmFiNzgxeVNnN1FoUGo4ZUNGcEs3aXZjakY4UmFWZ1FfbGJjOGdXRFlmYlI1N21ETndoM043a3J5aW1BN3FibXJaUjdHajBsX3BKZXFFSGtOREVQQTBUOGJxb3F0Uk14dEFucFpoeDZSaXB5MmlXb2V3eVFJaUhYRTg5Ym9naThBc2VwZHBQZVdFeTM?oc=5",
-      "source": "Bloomberg.com",
-      "date": "2026-11-13T09:48:57+00:00",
-      "display_date": "Nov 13, 2026",
-      "summary": "Singapore Charges 5th Person Linked to Nvidia Chip Case, ST Says Bloomberg.com",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
       "title": "How Can We Finance COP31’s Electrification Plan?",
       "link": "https://www.esgtoday.com/how-can-we-finance-cop31s-electrification-plan/?utm_source=rss&utm_medium=rss&utm_campaign=how-can-we-finance-cop31s-electrification-plan",
       "source": "ESG Today",
@@ -457,12 +567,12 @@
       ]
     },
     {
-      "title": "EU to Hit Russia With More Banking and Energy Sanctions - Bloomberg",
+      "title": "EU to Hit Russia With More Banking and Energy Sanctions - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWlE2aXFDZFdxNzlHU0Y5aHVNa3FuT09mRlFJZnY5ZWI3eTM2bHRkY1JVOVNVNi01X3Q4a1VMVlFQMWVKejFiMlVZWXc2TndNaDR0QjczejllWlRoNXM1NDlqTVo1MFRnb1dCRThOMExfTGV3d2VCTHB2ZXFMSWxCVm5hN3JkNFhsOHB0NjlCT0xkSC1mT1hLSE04SThmSzlWZUxnaU1SMm1LZw?oc=5",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "date": "2026-11-12T17:21:58+00:00",
       "display_date": "Nov 12, 2026",
-      "summary": "EU to Hit Russia With More Banking and Energy Sanctions Bloomberg",
+      "summary": "EU to Hit Russia With More Banking and Energy Sanctions Bloomberg.com",
       "topics": [
         "AML & Sanctions"
       ]
@@ -523,17 +633,6 @@
       ]
     },
     {
-      "title": "Nordea AM, EQ Investors Launch New Sustainability-Focused Multi-Asset Funds",
-      "link": "https://www.esgtoday.com/nordea-am-eq-investors-launch-new-sustainability-focused-multi-asset-funds/?utm_source=rss&utm_medium=rss&utm_campaign=nordea-am-eq-investors-launch-new-sustainability-focused-multi-asset-funds",
-      "source": "ESG Today",
-      "date": "2026-11-12T13:45:08+00:00",
-      "display_date": "Nov 12, 2026",
-      "summary": "UK-based investment manager EQ Investors and Nordic asset manager Nordea Asset Management announced the launch […]",
-      "topics": [
-        "ESG & Sustainability"
-      ]
-    },
-    {
       "title": "Nebius Lowers Outlook, Addresses Worries Over Financing AI Buildout",
       "link": "https://www.wsj.com/business/earnings/nebius-lowers-outlook-addresses-worries-over-financing-ai-buildout-699ca1dc?mod=pls_whats_news_us_business_f",
       "source": "Wall Street Journal",
@@ -564,17 +663,6 @@
       "summary": "EU to present new Russia sanctions package, Ukraine funding measures by year-end Reuters",
       "topics": [
         "AML & Sanctions"
-      ]
-    },
-    {
-      "title": "UK Proposes Mandatory Supply Chain Deforestation Due Diligence Rules",
-      "link": "https://www.esgtoday.com/uk-proposes-mandatory-supply-chain-deforestation-due-diligence-rules/?utm_source=rss&utm_medium=rss&utm_campaign=uk-proposes-mandatory-supply-chain-deforestation-due-diligence-rules",
-      "source": "ESG Today",
-      "date": "2026-11-12T12:51:58+00:00",
-      "display_date": "Nov 12, 2026",
-      "summary": "The UK Government announced the launch of a consultation into proposed new due diligence regulations […]",
-      "topics": [
-        "Operational & Enterprise Risk"
       ]
     },
     {
@@ -630,17 +718,6 @@
       "summary": "View CSAF Summary Siemens is currently assessing the impact of Node2Shell (CVE-2026-111497) on Industrial Edge. Please check your Industrial Edge Management (IEM) setup: - No Management Applications installed: No action is required. Although the affected Brotli library is include...",
       "topics": [
         "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "Google Cloud Signs Deal for 10 Million Liters of Sustainable Aviation Fuel to Tackle Shipping Emissions",
-      "link": "https://www.esgtoday.com/google-cloud-signs-deal-for-10-million-liters-of-sustainable-aviation-fuel-to-tackle-shipping-emissions/?utm_source=rss&utm_medium=rss&utm_campaign=google-cloud-signs-deal-for-10-million-liters-of-sustainable-aviation-fuel-to-tackle-shipping-emissions",
-      "source": "ESG Today",
-      "date": "2026-11-12T11:50:09+00:00",
-      "display_date": "Nov 12, 2026",
-      "summary": "Denmark-based global transport and logistics company DSV announced today an agreement with Google Cloud to […]",
-      "topics": [
-        "ESG & Sustainability"
       ]
     },
     {
@@ -832,28 +909,6 @@
       ]
     },
     {
-      "title": "McCormick’s $65 Billion Unilever Foods Tie-Up Could Harm Competition, U.K. Regulator Warns",
-      "link": "https://www.wsj.com/business/deals/mccormicks-65-billion-unilever-foods-merger-could-harm-competition-u-k-regulator-warns-ccd08701?mod=pls_whats_news_us_business_f",
-      "source": "Wall Street Journal",
-      "date": "2026-11-11T10:49:00+00:00",
-      "display_date": "Nov 11, 2026",
-      "summary": "The competition regulator gave the companies one week to address its concerns.",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "AkzoNobel-Axalta $25 Billion Merger Could Harm Competition, U.K. Regulator Warns",
-      "link": "https://www.wsj.com/business/deals/akzonobel-axaltas-25-billion-merger-could-harm-competition-u-k-regulator-warns-d3a59010?mod=pls_whats_news_us_business_f",
-      "source": "Wall Street Journal",
-      "date": "2026-11-11T09:18:00+00:00",
-      "display_date": "Nov 11, 2026",
-      "summary": "The Competition and Markets Authority said the merger would be referred for an in-depth investigation unless the parties offered to address concerns.",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "China backs Cuba in opposing sanctions, blockades; pledges 'firm support', Xinhua reports - Reuters",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa3N1ckV1MFROQXNwREZwam1zUERleFYzWmRERXdxOXZEanNBb05KQ25HSGJoZ3FaVjZqSkw4N2RySndEdk1DajRobFlVRTJKSUdDWVpsUWVia0hUclVTc0ZIV1dvSUFNRWFEdGQzUVRHdkFqeG44ZkNzOGxUWlgwTzNzNjQwTHgzZzR6SEh6OWFzd2diV1QwVVp5aHBWR3dPYXNYc1lIZ2FaazdOdjkzWGJHUGdjRU9haXRKY3VR?oc=5",
       "source": "Reuters",
@@ -1041,17 +1096,6 @@
       ]
     },
     {
-      "title": "Vodafone Dials Up Guidance But Says German Unit Needs Improvement",
-      "link": "https://www.wsj.com/business/telecom/vodafone-dials-up-guidance-but-says-german-unit-needs-improvement-49043777?mod=pls_whats_news_us_business_f",
-      "source": "Wall Street Journal",
-      "date": "2026-11-10T11:12:00+00:00",
-      "display_date": "Nov 10, 2026",
-      "summary": "Vodafone Group cited cost savings and strong performance in its business-focused operations, but called out weakness in its German unit.",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "Canada reimposes sanctions on 11 Iranian entities for contributing to nuclear activities - Reuters",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOUZmREVMbUtQd1F6bVdxUUNDSWx1bThmbXBERGNOSk9JVG9JMVlYNkRvRW5BdVkydEVZQmROcXBVMUptMGUwYmZYQXhtTUpkTmJYQkFUWG41bVBESldpd2ZyWlpJMFNHLTQ5bjIwZEpIWUVVcmhxRVl5Z3QxNEl5SDd2XzJGaGVPRTFIb3ZiN19Kb2hCUEtuenBNbTJMdmhSTXc2a2w2V1FFcktPX1kxR1hreWxKaGFZaUdQZQ?oc=5",
       "source": "Reuters",
@@ -1118,17 +1162,6 @@
       ]
     },
     {
-      "title": "Canada announces fresh Russia-related sanctions - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdTU3SXVhdzhXRTl5T3ZvTVlYWGlDZ0NwQk44N1MxbkdaSHN3bTZhbTZCX3Y5Q3NsaTNBX09SRDhLZkU4S1lzaDNkVjFuWElNajVLbkpucUk2ckNnbDdPbDdFNFVzY2VzY2JoUE1IV0VUVkhLS283WDBtT2pPMzBUNzBXZldVN0NkR1otcGYwbVZ3RkhRUzlmRHRmNFIxSGs?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-09T12:22:51+00:00",
-      "display_date": "Nov 09, 2026",
-      "summary": "Canada announces fresh Russia-related sanctions Reuters",
-      "topics": [
-        "AML & Sanctions"
-      ]
-    },
-    {
       "title": "AI Is Prompting New Legal Risks in the Workplace",
       "link": "https://www.corporatecomplianceinsights.com/ai-prompting-new-legal-risks-workplace/",
       "source": "Corporate Compliance Insights",
@@ -1192,28 +1225,6 @@
       "summary": "Plus: Majority of contract negotiators use AI; AI strategic miscalculation enters top five risks The post AML Compliance Spending Dips in US appeared first on Corporate Compliance Insights .",
       "topics": [
         "AML & Sanctions"
-      ]
-    },
-    {
-      "title": "Moderna raises 2026 outlook as CEO says newer vaccines are gaining traction",
-      "link": "https://www.cnbc.com/2026/11/06/moderna-mrna-earnings-q3-2026.html",
-      "source": "CNBC",
-      "date": "2026-11-06T12:43:28+00:00",
-      "display_date": "Nov 06, 2026",
-      "summary": "The biotech company now expects 2026 revenue growth of 15% to 25%, up from its previous guidance of up to 10%.",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "At Brazil’s Banco Master, the Red Flags Were Hiding in Plain Sight",
-      "link": "https://www.corporatecomplianceinsights.com/brazil-banco-master-red-flags-hiding-plain-sight/",
-      "source": "Corporate Compliance Insights",
-      "date": "2026-11-06T12:00:54+00:00",
-      "display_date": "Nov 06, 2026",
-      "summary": "Until corporate practices match the speed and sophistication of deception, ‘We did not know’ will remain a costly excuse The post At Brazil’s Banco Master, the Red Flags Were Hiding in Plain Sight appeared first on Corporate Compliance Insights .",
-      "topics": [
-        "Operational & Enterprise Risk"
       ]
     },
     {
