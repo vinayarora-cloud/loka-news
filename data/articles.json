@@ -1,7 +1,18 @@
 {
-  "last_updated": "November 16, 2026 05:23 UTC",
-  "total_count": 213,
+  "last_updated": "November 16, 2026 10:10 UTC",
+  "total_count": 208,
   "articles": [
+    {
+      "title": "AIB Doubles Sustainable Lending Goal to €60 Billion by 2030",
+      "link": "https://www.esgtoday.com/aib-doubles-sustainable-lending-goal-to-e60-billion-by-2030/?utm_source=rss&utm_medium=rss&utm_campaign=aib-doubles-sustainable-lending-goal-to-e60-billion-by-2030",
+      "source": "ESG Today",
+      "date": "2026-11-16T10:00:49+00:00",
+      "display_date": "Nov 16, 2026",
+      "summary": "Ireland-based banking group AIB announced a significant expansion of its key sustainable finance goal, expanding […]",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
     {
       "title": "When Personal AI Agents Call the Hotline",
       "link": "https://www.radicalcompliance.com/2026/11/16/when-personal-ai-agents-call-the-hotline/",
@@ -36,17 +47,6 @@
       ]
     },
     {
-      "title": "ASX dips lower as miners slide; Coles investigates cyber incident",
-      "link": "https://www.smh.com.au/business/markets/asx-set-for-flat-start-nvidia-scandal-weighs-on-wall-street-20261116-p61eck.html?ref=rss&utm_medium=rss&utm_source=rss_business",
-      "source": "The Sydney Morning Herald",
-      "date": "2026-11-15T23:43:24+00:00",
-      "display_date": "Nov 15, 2026",
-      "summary": "The Australian sharemarket has opened lower after US stocks fell on Friday to cap off a turbulent week on Wall Street.",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
       "title": "Opinion | How’s That Russian Diesel Deal Going?",
       "link": "https://www.wsj.com/opinion/donald-trump-diesel-deal-vladimir-putin-russia-7c282795?mod=pls_whats_news_us_business_f",
       "source": "Wall Street Journal",
@@ -55,6 +55,39 @@
       "summary": "Donald Trump’s sanctions relief for Vladimir Putin hasn’t resulted in lower fuel prices for Americans.",
       "topics": [
         "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "Irish EU presidency proposes slower cuts to industry's free carbon permits - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSnZZaUMtbTFKVzZVX1Y1NHZsYWVqRlh0a0NiYmFQdEdUOURsUklIZ2tXVXVlS3hfd3dtTkVfZ1pZMVpsZGN1SVpubzQ4V0NKRFJYZTVIeUQ1SU95R2p5YkY0bGROY09Bc0E0RXlfZUpWckNPQ1phWU9maFdYWVg4RDI4cndRY0x3TjBiWjlVSzJCUUVpT05DeFprazAxTUxVbTNrVV9qS2hNYmtvZHFnZ1YxaW1na01JeVN3eHNJS004UDg?oc=5",
+      "source": "Reuters",
+      "date": "2026-11-15T20:58:09+00:00",
+      "display_date": "Nov 15, 2026",
+      "summary": "Irish EU presidency proposes slower cuts to industry's free carbon permits Reuters",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "ASX falls as major mining stocks drag — as it happened",
+      "link": "https://www.abc.net.au/news/2026-11-16/asx-markets-business-live-news-nov-16/107388134",
+      "source": "ABC News Business (AU)",
+      "date": "2026-11-15T19:59:09+00:00",
+      "display_date": "Nov 15, 2026",
+      "summary": "Australia's share market has been weighed down by the big miners. Coles has been hit by a cybersecurity incident.",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "Senate Republicans Seek Lutnick Testimony on Nvidia Enforcement - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMlNHUGl5enZFMklCZzJNbWpab0NzSjcyc0ZXTTc0VmVnX1pIdl8tME1HVG14MlJoTWNpal9KRlBzWU5mVTUwV1hGU2FlWHBUS2dIUUFWY0tJVjFQd0I0TGUtVElzeXROc01HSFoyOFRSWS1QVFZacG9VaHRLOXYzVU5rNGlQWnBKVzRIb2sxeTVMck5Cd2JETURDeHgyZ2IxVFZURjczUVRTckx2UFBIMUlkcno?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-11-15T18:12:47+00:00",
+      "display_date": "Nov 15, 2026",
+      "summary": "Senate Republicans Seek Lutnick Testimony on Nvidia Enforcement Bloomberg.com",
+      "topics": [
+        "Enforcement Actions"
       ]
     },
     {
@@ -83,7 +116,7 @@
       "title": "‘Deeply flawed’: Former ACCC boss slams opt-out AI copyright plan - The Australian",
       "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOS1JhREtVUHRrS3Yyb0lJdHR3aThZT0c5R1p0SWVvLVUzZ1ZPX2NLcDNWTEJ6UVg1ejNGYkI5b1E5ZzNxRVlmQXBHeVhaUnVsVXlWeTZTZW5zTUNtLVJ5WTJDbEk5M3pmS2FSTlktdGV6Z0M3ZkhHWTl1UHhCanFKRFZGT3JFby1VVV9YQ2FmSmg5SFNVRzI1RTI5QUlGSnRpcG9wYUxiZ3lkbWoyNDFDa3BBQ1BlY0k5RzlNWE42UVU2UXJQcnNRWUk0R0k0N1hSRUl1NUFvOWVaWWdMNUZPcW1fa09ZOUhyLUR2SWJqWVdfYTNlRncwRGVfWGpSc09JanpSbmNLZHduSFR4a3hrMFRlU2oxUDRFSjJoVUxPZmkzREp3Nm1Ua2FR?oc=5",
       "source": "The Australian",
-      "date": "2026-11-15T09:35:59+00:00",
+      "date": "2026-11-15T09:06:02+00:00",
       "display_date": "Nov 15, 2026",
       "summary": "‘Deeply flawed’: Former ACCC boss slams opt-out AI copyright plan The Australian",
       "topics": [
@@ -102,12 +135,12 @@
       ]
     },
     {
-      "title": "China’s Market Regulator Warns of Global Asset Repricing Risks - Bloomberg",
+      "title": "China’s Market Regulator Warns of Global Asset Repricing Risks - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd2tHc3E1bjhCT0tyTURiTlZNakgtOVNBaGdSMTUzcTk2TGtqMFhjUHhJSEEtZzRIZ2FkN05sRHYwcjk2d0paRmJIR0RDdUlsZ0lIVzV6VTZxNzhlNVlXNUtJRThRNk9LVW13clpMYjUwc2Z3N04tYkx3Z1QzLWZPRHZrcGI1QVhlQkFBWXFlZXRiNXdhOE5CSFljWVBWQUlXRmhlTk53eDZPZVJtdTItSDA5QQ?oc=5",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "date": "2026-11-14T05:20:00+00:00",
       "display_date": "Nov 14, 2026",
-      "summary": "China’s Market Regulator Warns of Global Asset Repricing Risks Bloomberg",
+      "summary": "China’s Market Regulator Warns of Global Asset Repricing Risks Bloomberg.com",
       "topics": [
         "Regulatory Change"
       ]
@@ -169,34 +202,12 @@
       ]
     },
     {
-      "title": "Noosa startup's solution to tackle burping cattle's methane emissions",
-      "link": "https://www.abc.net.au/news/rural/2026-11-14/provectus-algae-cattle-methane-supplement/107372936",
-      "source": "ABC News Business (AU)",
-      "date": "2026-11-13T20:42:46+00:00",
-      "display_date": "Nov 13, 2026",
-      "summary": "After eight years of research, a Noosa startup is commercialising a supplement designed to affordably reduce methane emissions in the cattle industry.",
-      "topics": [
-        "ESG & Sustainability"
-      ]
-    },
-    {
       "title": "China’s Ping An Bank adopts board-level AI rules in a first for listed banks",
       "link": "https://www.complianceweek.com/banking/chinas-ping-an-bank-adopts-board-level-ai-rules-in-a-first-for-listed-banks/",
       "source": "Compliance Week",
       "date": "2026-11-13T20:18:56+00:00",
       "display_date": "Nov 13, 2026",
       "summary": "Ping An Bank, a Shenzhen-listed institution, has formally adopted internal rules governing its use of AI. The bank’s board approved the measures following the principles of user accountability required by the National Financial Regulatory Administration. The post China’s Ping An ...",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Trump to rule on tariffs for Australian lamb after trade commissioners disagree",
-      "link": "https://www.abc.net.au/news/2026-11-14/us-trade-investigation-into-lamb-imports-decision-handed-down/107385510",
-      "source": "ABC News Business (AU)",
-      "date": "2026-11-13T20:07:43+00:00",
-      "display_date": "Nov 13, 2026",
-      "summary": "A US trade panel reviewing lamb imports is unable to agree on whether Australian meat imports have hurt the American industry, leaving Donald Trump to rule on tariffs.",
       "topics": [
         "Regulatory Change"
       ]
@@ -211,17 +222,6 @@
       "topics": [
         "Regulatory Change",
         "Operational & Enterprise Risk"
-      ]
-    },
-    {
-      "title": "‘Either brave or mad’: A bastion of fine dining gets a sorely needed facelift",
-      "link": "https://www.smh.com.au/business/consumer-affairs/either-brave-or-mad-a-bastion-of-fine-dining-gets-a-sorely-needed-facelift-20261114-p61dlm.html?ref=rss&utm_medium=rss&utm_source=rss_business",
-      "source": "The Sydney Morning Herald",
-      "date": "2026-11-13T18:00:00+00:00",
-      "display_date": "Nov 13, 2026",
-      "summary": "Rob and Tammy Charter had other ideas about how they wanted to spend post-work life. Like buying a heritage pub.",
-      "topics": [
-        "Enforcement Actions"
       ]
     },
     {
@@ -335,12 +335,12 @@
       ]
     },
     {
-      "title": "Singapore Charges 5th Person Linked to Nvidia Chip Case, ST Says - Bloomberg",
+      "title": "Singapore Charges 5th Person Linked to Nvidia Chip Case, ST Says - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZVV6VXYySmNyb1B3cXRtMU54M0ptUnZEQzNqSjNtWXMyRmFiNzgxeVNnN1FoUGo4ZUNGcEs3aXZjakY4UmFWZ1FfbGJjOGdXRFlmYlI1N21ETndoM043a3J5aW1BN3FibXJaUjdHajBsX3BKZXFFSGtOREVQQTBUOGJxb3F0Uk14dEFucFpoeDZSaXB5MmlXb2V3eVFJaUhYRTg5Ym9naThBc2VwZHBQZVdFeTM?oc=5",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "date": "2026-11-13T09:48:57+00:00",
       "display_date": "Nov 13, 2026",
-      "summary": "Singapore Charges 5th Person Linked to Nvidia Chip Case, ST Says Bloomberg",
+      "summary": "Singapore Charges 5th Person Linked to Nvidia Chip Case, ST Says Bloomberg.com",
       "topics": [
         "Enforcement Actions"
       ]
@@ -666,17 +666,6 @@
       ]
     },
     {
-      "title": "Just Climate Raises $540 Million for Agriculture-Focused Decarbonization Solutions Fund",
-      "link": "https://www.esgtoday.com/just-climate-raises-540-million-for-agriculture-focused-decarbonization-solutions-fund/?utm_source=rss&utm_medium=rss&utm_campaign=just-climate-raises-540-million-for-agriculture-focused-decarbonization-solutions-fund",
-      "source": "ESG Today",
-      "date": "2026-11-12T10:34:31+00:00",
-      "display_date": "Nov 12, 2026",
-      "summary": "Climate solutions-focused investment business Just Climate announced that it has raised $540 million in commitments […]",
-      "topics": [
-        "ESG & Sustainability"
-      ]
-    },
-    {
       "title": "FCA proposes greater pension investment flexibility to support long-term value for savers",
       "link": "https://www.fca.org.uk/news/press-releases/fca-proposes-greater-pension-investment-flexibility-support-long-term-value-savers",
       "source": "FCA UK Regulatory News",
@@ -772,17 +761,6 @@
       "date": "2026-11-12T00:23:00+00:00",
       "display_date": "Nov 12, 2026",
       "summary": "Commonwealth Bank sued by ASIC for overcharging business customers AFR",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "Commonwealth Bank acknowledges proceedings commenced by ASIC - AFR",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOajVBdHM2X0N5Y1QyZDBpT2VlaFZqT3hEbUxoSEJuaUxaSldwbjVvWWNLVjljbVE3S2ttc0o5M282WE5tRUxyZTNCR21yWTljYmliQW1Ea0hpd3d3UmpiaGttNGcyZnRrVzk1cWwxOG91ZUtrTGVsUG1haEhHNzhobFBZZTFYTDZEbzR2ZTJfbw?oc=5",
-      "source": "AFR",
-      "date": "2026-11-11T23:30:47+00:00",
-      "display_date": "Nov 11, 2026",
-      "summary": "Commonwealth Bank acknowledges proceedings commenced by ASIC AFR",
       "topics": [
         "Enforcement Actions"
       ]
@@ -904,17 +882,6 @@
       "date": "2026-11-11T01:23:39+00:00",
       "display_date": "Nov 11, 2026",
       "summary": "Asic says customers should not have to check every transaction to ensure they receive the correct interest Get our breaking news email , free app or daily news podcast Macquarie Bank is set to pay a $14m court-imposed penalty after it admitted to breaking the Corporations Act wit...",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "Macquarie Bank fined $14m over misleading savings rate ads - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNZ1lsaEFKRVFNV3VWSzV5ZlUySUVYNUtXZnB1QVplak1kNGY3c0drRWwwZWc1Y0xXaFZ1andtOU5qWHdMWTRrWHJ3eDVvX0VMOVZTUDFoS1BrcENuV2kxT2V4MGU0bS16QTZpUFdGYXQ3a1VJVTk0UlBLRWUzSmRLUjU0M2xySkpfakhENldZdVVDMXpDamZId1FCOEZOS05GcFF2YnlUT0pPVnhLcFY4c2Z1QW1CNkJ0UFhDS253SktNbm8xLVlhejJ6blg3WlRBeEYwSWxYeXhMT2dHVEJfeXVkc29wSkNHUDhBd3NQajlDX3JyeXU2X09VdEdPZw?oc=5",
-      "source": "The Australian",
-      "date": "2026-11-11T00:54:00+00:00",
-      "display_date": "Nov 11, 2026",
-      "summary": "Macquarie Bank fined $14m over misleading savings rate ads The Australian",
       "topics": [
         "Enforcement Actions"
       ]
@@ -1181,28 +1148,6 @@
       "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-102895 GPUStack Improper Authentication Vulnerability CVE-2026-116779 SignalWire FreeSwitch Code Injection Vulnerability CVE-2026-1231...",
       "topics": [
         "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "Coinbase Gets Final Regulatory Stamp for Trust-Bank Charter - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTU1jWHZhTVJlRkJ5UXRQbzliNmRCc2VMSm9sZXNCVlJIVVdiOW1qOG9Ba0pSU3Rjb0RQekZBUnVSaDAtSU9sNnZaTUhJOWhWMVRsVzgxbUE3TUw3dldTeW9XZ0pPai0xR2ZKQWJaM0k1YlNrVnFmSUhXczUtcC1jNkRKVkdsSkZPcDYzaDlfREM4bC00YjdNM1JwRXBkektvQVp6ZFpZQ181ckZwbGtR?oc=5",
-      "source": "Bloomberg.com",
-      "date": "2026-11-09T10:00:00+00:00",
-      "display_date": "Nov 09, 2026",
-      "summary": "Coinbase Gets Final Regulatory Stamp for Trust-Bank Charter Bloomberg.com",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Social media posts its opposition to being sued by users - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPblh0UjhKSXJuY3dabnNsLVd5eVdXVkhrdXVsTnBaU2ZoMGNMOTI4XzVxc3o1TktCZzc3Y0NLMVFBWnRDRTF4eGJtUXBaVjZ3T2NEUlZqQ19ZM25YTkk3OGdEc25oQU90c0NDU1J3ZXh4SnVoMWphV25jbmZwQldqcEd0dy1JdC0zYmlwTDhuLWUwX0Rnems5TEJPUnMtVlpnRnlnV0Jmc1NfN2ctelFNN2hwLXVpVnRMYkhGOTFvdVJGNWFkVEZYdDFleFM4UGxocDRScU9BcndXX2FCS2JiTGlrRlFnWThwUno0?oc=5",
-      "source": "The Australian",
-      "date": "2026-11-09T08:11:00+00:00",
-      "display_date": "Nov 09, 2026",
-      "summary": "Social media posts its opposition to being sued by users The Australian",
-      "topics": [
-        "Enforcement Actions"
       ]
     },
     {
