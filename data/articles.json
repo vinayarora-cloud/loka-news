@@ -1,7 +1,40 @@
 {
-  "last_updated": "November 16, 2026 00:56 UTC",
+  "last_updated": "November 16, 2026 05:23 UTC",
   "total_count": 213,
   "articles": [
+    {
+      "title": "When Personal AI Agents Call the Hotline",
+      "link": "https://www.radicalcompliance.com/2026/11/16/when-personal-ai-agents-call-the-hotline/",
+      "source": "Radical Compliance",
+      "date": "2026-11-16T05:07:06+00:00",
+      "display_date": "Nov 16, 2026",
+      "summary": "Today I want to return to the question of companies refusing to deal with personal AI agents from outside the business, but consider the question through a lens closer to home for compliance officers. Would you accept an internal report generated and submitted by someone’s person...",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Coles investigates cyber attack but provides little detail",
+      "link": "https://www.abc.net.au/news/2026-11-16/coles-investigates-cybersecurity-breach-but-little-detail/107390824",
+      "source": "ABC News Business (AU)",
+      "date": "2026-11-16T05:00:02+00:00",
+      "display_date": "Nov 16, 2026",
+      "summary": "Coles has told customers to \"remain vigilant\" as it investigates a cyber incident, but says it has not identified customer or employee data being compromised at this stage.",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "Coles investigates cyber-attack and apologises to customers",
+      "link": "https://www.theguardian.com/business/2026/nov/16/coles-cyber-attack-incident-data",
+      "source": "The Guardian Australia",
+      "date": "2026-11-16T04:04:37+00:00",
+      "display_date": "Nov 16, 2026",
+      "summary": "Supermarket giant says no customer, team or supplier data compromised but recommends updating passwords as a precaution Get our breaking news email , free app or daily news podcast Australia’s second-largest retailer has been targeted in a cyber-attack, though it is still too ear...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
     {
       "title": "ASX dips lower as miners slide; Coles investigates cyber incident",
       "link": "https://www.smh.com.au/business/markets/asx-set-for-flat-start-nvidia-scandal-weighs-on-wall-street-20261116-p61eck.html?ref=rss&utm_medium=rss&utm_source=rss_business",
@@ -50,7 +83,7 @@
       "title": "‘Deeply flawed’: Former ACCC boss slams opt-out AI copyright plan - The Australian",
       "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOS1JhREtVUHRrS3Yyb0lJdHR3aThZT0c5R1p0SWVvLVUzZ1ZPX2NLcDNWTEJ6UVg1ejNGYkI5b1E5ZzNxRVlmQXBHeVhaUnVsVXlWeTZTZW5zTUNtLVJ5WTJDbEk5M3pmS2FSTlktdGV6Z0M3ZkhHWTl1UHhCanFKRFZGT3JFby1VVV9YQ2FmSmg5SFNVRzI1RTI5QUlGSnRpcG9wYUxiZ3lkbWoyNDFDa3BBQ1BlY0k5RzlNWE42UVU2UXJQcnNRWUk0R0k0N1hSRUl1NUFvOWVaWWdMNUZPcW1fa09ZOUhyLUR2SWJqWVdfYTNlRncwRGVfWGpSc09JanpSbmNLZHduSFR4a3hrMFRlU2oxUDRFSjJoVUxPZmkzREp3Nm1Ua2FR?oc=5",
       "source": "The Australian",
-      "date": "2026-11-15T09:05:57+00:00",
+      "date": "2026-11-15T09:35:59+00:00",
       "display_date": "Nov 15, 2026",
       "summary": "‘Deeply flawed’: Former ACCC boss slams opt-out AI copyright plan The Australian",
       "topics": [
@@ -69,12 +102,12 @@
       ]
     },
     {
-      "title": "China’s Market Regulator Warns of Global Asset Repricing Risks - Bloomberg.com",
+      "title": "China’s Market Regulator Warns of Global Asset Repricing Risks - Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd2tHc3E1bjhCT0tyTURiTlZNakgtOVNBaGdSMTUzcTk2TGtqMFhjUHhJSEEtZzRIZ2FkN05sRHYwcjk2d0paRmJIR0RDdUlsZ0lIVzV6VTZxNzhlNVlXNUtJRThRNk9LVW13clpMYjUwc2Z3N04tYkx3Z1QzLWZPRHZrcGI1QVhlQkFBWXFlZXRiNXdhOE5CSFljWVBWQUlXRmhlTk53eDZPZVJtdTItSDA5QQ?oc=5",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "date": "2026-11-14T05:20:00+00:00",
       "display_date": "Nov 14, 2026",
-      "summary": "China’s Market Regulator Warns of Global Asset Repricing Risks Bloomberg.com",
+      "summary": "China’s Market Regulator Warns of Global Asset Repricing Risks Bloomberg",
       "topics": [
         "Regulatory Change"
       ]
@@ -236,6 +269,17 @@
       ]
     },
     {
+      "title": "Greta Thunberg and other climate activists must address causes of energy demand - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOM1J3RFMxRmpmS0dpc19wVktQV1d5dmdXNDFCV2cxeG1MR2xXSjZ1S0tiRWtoalRXN2VtVExobEg3UlhZcEF5NGNzclJvc3BYZTh0U2dGNVdyT1duR0t4WjhjcXp1UmlEX3RKYklneC1vS0ZTWDRSUV9UUElSejA1SWY1NzluZ2hNYkVCM013ZVhxN1Q2V3FTYjlrZmFTNFhDUXQ5VXhqNTNYQWVWY1Y4Ym94R1llWmlCMzB5VW5PYUY1MmtjWnlENmJVREpwYm5nM2lRUkp3RG1ySHp2YjhUQld4eDQ?oc=5",
+      "source": "The Australian",
+      "date": "2026-11-13T14:30:35+00:00",
+      "display_date": "Nov 13, 2026",
+      "summary": "Greta Thunberg and other climate activists must address causes of energy demand The Australian",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
       "title": "Amazon Launches Product Carbon Footprinting Solution",
       "link": "https://www.esgtoday.com/amazon-launches-product-carbon-footprinting-solution/?utm_source=rss&utm_medium=rss&utm_campaign=amazon-launches-product-carbon-footprinting-solution",
       "source": "ESG Today",
@@ -291,12 +335,12 @@
       ]
     },
     {
-      "title": "Singapore Charges 5th Person Linked to Nvidia Chip Case, ST Says - Bloomberg.com",
+      "title": "Singapore Charges 5th Person Linked to Nvidia Chip Case, ST Says - Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZVV6VXYySmNyb1B3cXRtMU54M0ptUnZEQzNqSjNtWXMyRmFiNzgxeVNnN1FoUGo4ZUNGcEs3aXZjakY4UmFWZ1FfbGJjOGdXRFlmYlI1N21ETndoM043a3J5aW1BN3FibXJaUjdHajBsX3BKZXFFSGtOREVQQTBUOGJxb3F0Uk14dEFucFpoeDZSaXB5MmlXb2V3eVFJaUhYRTg5Ym9naThBc2VwZHBQZVdFeTM?oc=5",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "date": "2026-11-13T09:48:57+00:00",
       "display_date": "Nov 13, 2026",
-      "summary": "Singapore Charges 5th Person Linked to Nvidia Chip Case, ST Says Bloomberg.com",
+      "summary": "Singapore Charges 5th Person Linked to Nvidia Chip Case, ST Says Bloomberg",
       "topics": [
         "Enforcement Actions"
       ]
@@ -336,17 +380,6 @@
       ]
     },
     {
-      "title": "Coal protest to go ahead on harbour after court rejects police objections",
-      "link": "https://www.abc.net.au/news/2026-11-13/newcastle-harbour-protest-court-decision/107376804",
-      "source": "ABC News Business (AU)",
-      "date": "2026-11-13T05:29:20+00:00",
-      "display_date": "Nov 13, 2026",
-      "summary": "The NSW Supreme Court has approved a planned climate protest on Newcastle Harbour, dismissing a bid by NSW Police to stop it.",
-      "topics": [
-        "ESG & Sustainability"
-      ]
-    },
-    {
       "title": "Man City to be hit with Premier League sanctions next year if appeal fails - Financial Times",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ2ZjcFNfb1JOeWtiZFloWDhmMlFwQ0xGQUpETU1TSE1wSTI5QW5uYjJoRFNZdkt6MExPX2lYSy0zVy1iOHExRXdkS21BaFM2YUFSSjMyaUF0NHFBQ1pkcWlnN3gya0ZzaXFRTkJrNVJMY3RGcTl5SHlqYXd5dWFQbWczR2Q?oc=5",
       "source": "Financial Times",
@@ -355,6 +388,17 @@
       "summary": "Man City to be hit with Premier League sanctions next year if appeal fails Financial Times",
       "topics": [
         "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "The Chinese Chemical Supply Chain Fueling the US Opioid Crisis - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSWJ1WDhrbXd3azJqM1RjMnBnTkNlckRGTC1BcGdaLXJZeEt0Q3A5S0gxSjNrMjFLZnAxYnItM2JvTzd5eWRLQlhEWnYyQnRCc1VicWI4RXRtYXVVM1RXYkhMSlRiU0N0SjQ1VlJnRC0wRHBJV0U4Q3dRUUxhZHdqdXpuVEtEaU5GYmpacWoxU0RhbzdGOE1WTWI3WGJCWDdEbWdVc0NzX19Ob3ZLNEpWV1JuWmluc0l3ejNHWk9hQXJSeE1vTTU2ZGlR?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-11-13T05:00:00+00:00",
+      "display_date": "Nov 13, 2026",
+      "summary": "The Chinese Chemical Supply Chain Fueling the US Opioid Crisis Bloomberg.com",
+      "topics": [
+        "Operational & Enterprise Risk"
       ]
     },
     {
@@ -413,12 +457,12 @@
       ]
     },
     {
-      "title": "EU to Hit Russia With More Banking and Energy Sanctions - Bloomberg.com",
+      "title": "EU to Hit Russia With More Banking and Energy Sanctions - Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWlE2aXFDZFdxNzlHU0Y5aHVNa3FuT09mRlFJZnY5ZWI3eTM2bHRkY1JVOVNVNi01X3Q4a1VMVlFQMWVKejFiMlVZWXc2TndNaDR0QjczejllWlRoNXM1NDlqTVo1MFRnb1dCRThOMExfTGV3d2VCTHB2ZXFMSWxCVm5hN3JkNFhsOHB0NjlCT0xkSC1mT1hLSE04SThmSzlWZUxnaU1SMm1LZw?oc=5",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "date": "2026-11-12T17:21:58+00:00",
       "display_date": "Nov 12, 2026",
-      "summary": "EU to Hit Russia With More Banking and Energy Sanctions Bloomberg.com",
+      "summary": "EU to Hit Russia With More Banking and Energy Sanctions Bloomberg",
       "topics": [
         "AML & Sanctions"
       ]
@@ -777,12 +821,12 @@
       ]
     },
     {
-      "title": "Ternium Says Mexico Steel Imports Need Strict Tariff Enforcement - Bloomberg.com",
+      "title": "Ternium Says Mexico Steel Imports Need Strict Tariff Enforcement - Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbzBER1BLeGJ0Q0J4SkFxOHBSbnpuQzdWajN1WmpldVd0ZC1MTUlRbWpKZ1FaS0o2Zkx4b3F2aXVDUEloRTBRNDk4bTAwdGhzSnpWcGVXYy1zVWxZNnJlWVROc0ZNTW9PUTNRMHQ2MzIyUmdBbUJKZE9SeVFCbVdhSnQtek1CeWJZczhJWmszM3FybmcwTzEtVU1GaDNiUUlQcE11dGc4YzJIWTd6Q0RUYXpGUElyUQ?oc=5",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "date": "2026-11-11T16:46:45+00:00",
       "display_date": "Nov 11, 2026",
-      "summary": "Ternium Says Mexico Steel Imports Need Strict Tariff Enforcement Bloomberg.com",
+      "summary": "Ternium Says Mexico Steel Imports Need Strict Tariff Enforcement Bloomberg",
       "topics": [
         "Enforcement Actions"
       ]
@@ -1096,17 +1140,6 @@
       ]
     },
     {
-      "title": "Danish court fines Nordea $23 million over insufficient money laundering checks - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQa3RTbEpTdUx0Zm11ZGx3dmJnMF9ZRVBkUV9uSk50TU4yTkkxa3ROUloxbFBxOWRReXpGY3V0d0J3UU15ZGdIWHZySjVuUExwVGh1emFlc1ZOVFZrX0toQXNXMzlDRmgtXzd1bkI0aVpPaHdtZUhwcWRrcjdHY3NWbkh3WUFVY2UwcE1xVUFqVl8zM0xIa1FIT25GcndMVldRNTQxX2doVHVCX2lDT2dyazI5Y2dvMjlBdjU0YUtNQUttd3gwTTFWUy0zRQ?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-09T15:52:24+00:00",
-      "display_date": "Nov 09, 2026",
-      "summary": "Danish court fines Nordea $23 million over insufficient money laundering checks Reuters",
-      "topics": [
-        "AML & Sanctions"
-      ]
-    },
-    {
       "title": "When I became unemployed I expected to find a job in no time. As months passed, I realised I was being shunned | John Emerson",
       "link": "https://www.theguardian.com/commentisfree/2026/nov/10/when-i-became-unemployed-i-expected-to-find-a-job-in-no-time-as-months-passed-i-realised-i-was-being-shunned",
       "source": "The Guardian Australia",
@@ -1170,28 +1203,6 @@
       "summary": "Social media posts its opposition to being sued by users The Australian",
       "topics": [
         "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "9 November 2026 ASX Market Announcement Office Via: Online lodgement ASIC Form 484 - AFR",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdi1VdEFZLUZDd09DOXA3QVI5TlYtM0Roc2xMUS13dVktVUdGRnl5VzBVY1VweWdKXzFzNWU0RkJRSzd4WHpORnBBTjgwUTlVM0VNT2c3bFN0d0kzZmFNci1qMWdFcTZreFhNWXBOckU2YTZYSG9jbkxIazZXWXM4QzFjUTJqX1pxd0V4MUthaw?oc=5",
-      "source": "AFR",
-      "date": "2026-11-09T05:08:32+00:00",
-      "display_date": "Nov 09, 2026",
-      "summary": "9 November 2026 ASX Market Announcement Office Via: Online lodgement ASIC Form 484 AFR",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "Trump says deportation policy ‘too tough’ for voters after midterm blowout - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQR09DLVpKUEVfT19Gc1lkZDVmSkEta283VFg2VWtDcGZBVm1BUlMzR050MlF4OG1yNlRkOHl4T1F4aU9UZ3c0SEc0ZnhkcWxyNHVLeTZsRF9FZWRvQTA2OXlFOGltaXEwM0FLdXJIRDlMWXRKM05mUk9QRmVTbEN5N1czZm9JZU5LdjZXQ0t6QzRPUHBIZmtHV0gxeHdEblpjbzVnT25XMjhmdjdvY0lYaTZWaWYyMTlXczljR0Iya2trQVI0SWgtU2VLd3ZScUhNUVFEODViQ1NUU3UzaG5mVVNFcmUzNndtbnVfa1ZTZm4ySkk?oc=5",
-      "source": "The Australian",
-      "date": "2026-11-09T03:17:00+00:00",
-      "display_date": "Nov 09, 2026",
-      "summary": "Trump says deportation policy ‘too tough’ for voters after midterm blowout The Australian",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
@@ -1638,18 +1649,6 @@
       "summary": "The FCA has secured High Court undertakings to ensure that HTX (formerly Huobi), a global crypto exchange, will not knowingly promote cryptoasset services unlawfully to UK consumers. The FCA took legal action against HTX in October 2025 for breaking UK financial promotion rules. ...",
       "topics": [
         "Regulatory Change"
-      ]
-    },
-    {
-      "title": "‘Near Miss’ on Self-Disclosure Costs Company",
-      "link": "https://www.radicalcompliance.com/2026/10/28/near-miss-on-self-disclosure-costs-company/",
-      "source": "Radical Compliance",
-      "date": "2026-10-28T15:31:34+00:00",
-      "display_date": "Oct 28, 2026",
-      "summary": "A North Carolina technology company is paying $2.5 million to settle charges that its Russian subsidiary repeatedly violated U.S. sanctions law, in a case that’s a cautionary tale to compliance professionals about the challenges of managing overseas subsidiaries and meeting regul...",
-      "topics": [
-        "Enforcement Actions",
-        "AML & Sanctions"
       ]
     },
     {
