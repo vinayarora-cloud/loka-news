@@ -1,16 +1,60 @@
 {
-  "last_updated": "November 17, 2026 00:44 UTC",
-  "total_count": 213,
+  "last_updated": "November 17, 2026 04:49 UTC",
+  "total_count": 211,
   "articles": [
     {
-      "title": "China’s Top AI Firms Limit Cyber Capabilities in Latest Models - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYVg3VkVBT0FNUUgyeUVYdUNTMVVEMDJZRnJvRVFoU1BKVFh4UlB4VmxxbnA3S19ONWx1LVhuU3VHS3hjY20tVkpkQ0o1ZTZ4eExmdGwybGxkMDNTeEdWRU5xU1l1LW5lemZLOFhtemYwNHBmM0RLWGRyYlAxckZnRzJyZzB2bFNpM05iQXVQb0hwN24wRll5ZE5oeHFxeUJkcG80VUI1TG5kQWlEZmZKUVZEbw?oc=5",
-      "source": "Bloomberg.com",
-      "date": "2026-11-16T23:00:00+00:00",
-      "display_date": "Nov 16, 2026",
-      "summary": "China’s Top AI Firms Limit Cyber Capabilities in Latest Models Bloomberg.com",
+      "title": "Uber, Walmart, Delta, and others must hand over data in FTC clampdown on personalized pricing",
+      "link": "https://www.complianceweek.com/regulatory-enforcement/uber-walmart-delta-and-others-must-hand-over-data-in-ftc-clampdown-on-personalized-pricing/",
+      "source": "Compliance Week",
+      "date": "2026-11-17T02:56:31+00:00",
+      "display_date": "Nov 17, 2026",
+      "summary": "Nine major airlines, ride-hailing companies and food-delivery firms have been ordered to provide detailed information about how they use personal data to set prices part of a crackdown by the FTC. The post Uber, Walmart, Delta, and others must hand over data in FTC clampdown on p...",
       "topics": [
-        "Cybersecurity Risk"
+        "Data Privacy"
+      ]
+    },
+    {
+      "title": "UK faces 'Farage penalty' if it pulls out of Brexit reset deal - The Australian - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOaXlOYlFfdzlMNDR6Ty1STGN2RkViWnFtNjFKRUs3Z2NNYkNadTIzZDk3LTZ2ZjlqU0R6Nml2ZEViRk10cTRUTTExdnItSFc3dC0wbVhBMjlJa01NQy1WY2xFejh0clR2X0lyTnRPLTdDVDdrb3VBdmh4NHJBNHNOZ1dRRXE2azhLVVZvMzBkRVNGR2poMjJaWEU4dEJ0c05qaVdsekJMQ0Foa0ZQcURmWDlhZ2RnV1N6UDZ4dFFyVnduOWxCZTJxeVIxY3ByWkh1Nlp5SXNFZmF2ZXF3dkZHYW5LTTF3YW5E?oc=5",
+      "source": "The Australian",
+      "date": "2026-11-17T02:19:40+00:00",
+      "display_date": "Nov 17, 2026",
+      "summary": "UK faces 'Farage penalty' if it pulls out of Brexit reset deal - The Australian The Australian",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "Government backflips on backpacker policy",
+      "link": "https://www.abc.net.au/news/2026-11-17/backflip-backpacker-working-holiday-visa-regional-work/107393474",
+      "source": "ABC News Business (AU)",
+      "date": "2026-11-17T02:13:39+00:00",
+      "display_date": "Nov 17, 2026",
+      "summary": "Home Affairs Minister Tony Burke has increased the cap on third-year working holiday visas by 20,000 places after backlash from agriculture, tourism and hospitality sectors.",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Sanctioned Russian, Iranian airlines serviced by EU subsidiary in Turkey and Georgia",
+      "link": "https://www.complianceweek.com/sanctions/sanctioned-russian-iranian-airlines-serviced-by-eu-subsidiary-in-turkey-and-georgia/",
+      "source": "Compliance Week",
+      "date": "2026-11-17T01:22:35+00:00",
+      "display_date": "Nov 17, 2026",
+      "summary": "Sanctioned Russian and Iranian airlines continue to use airports run by TAV, a subsidiary of French state-controlled Groupe ADP, highlighting the limitations of Western sanctions. The post Sanctioned Russian, Iranian airlines serviced by EU subsidiary in Turkey and Georgia appear...",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "Meta faces sanctions bid over withheld evidence in teen mental health cases - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPY0pncG9WWUpfX0cyRms1cXZETmNjV2tMOGZlTUlmd2MwSkRUeDV4T2gxR2d4MlozZUduNXB5MmJmNk1IVHFOenduakhPWWMzcmR4M2ZReW5MS3Z6OVM3aFNvSjc2Mmd3eUd5RkpCblR3bmw0S0RSWHJ2anJIUG1rQ0xDQjV1dmlDXzVqRk1ORW9jdlpLaXE3MC1fNzU2OHR3NW9JdFRObm9wZUxkNXhmRWpJS0VuM19NSVhrRVVwN0hndEE?oc=5",
+      "source": "Reuters",
+      "date": "2026-11-16T23:21:00+00:00",
+      "display_date": "Nov 16, 2026",
+      "summary": "Meta faces sanctions bid over withheld evidence in teen mental health cases Reuters",
+      "topics": [
+        "AML & Sanctions"
       ]
     },
     {
@@ -36,12 +80,12 @@
       ]
     },
     {
-      "title": "Visa, Mastercard urge approval of $38 billion swipe fee settlement - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLTFGeUFSVURBbGFBUm9RQUZVSHFVcExFeVVlSXBYa0lCaWhLbWUzOGxKV19rd1IzNElEOTdNQmxWdnNBNmViUGduLThmRlJWNzJDOEFZOEdzV3NVNWJmZ1Jrb0syXzZodWNVMXNySUtfeGtoYzFCUklnUFpsN2JzbnZheFJJczg1LUNqNG1zc01qeUFkME8xZ1RwUURMVGhIaDNyRmN1Zk9HZjNqR0hfTUlyVXE?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-16T21:56:27+00:00",
+      "title": "MIT Brothers Cleared of Charges in $25 Million Crypto Case - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPckIwQjFMRmlqWlZFcmx5WDBDRVVvai1rVEZRZjd1eE1ja3NjTHZ6M20wUU1Md1Y4SUpJbFVVTkJDSVhETnFSZ1pnMEx0S18tWEpMOHQ3Y1hKN0UtcW1GalROMFAtYzlUUy1iVUdISWxUY0ptRGhqYl9KdDZNMWVCMXV4THpFSGwwQnpBLUxnMmlJUFVPeDZ1a2lsQXBaZUhfLWRMUWJ5M1lGd2JaTXpKbGxBZw?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-11-16T22:09:57+00:00",
       "display_date": "Nov 16, 2026",
-      "summary": "Visa, Mastercard urge approval of $38 billion swipe fee settlement Reuters",
+      "summary": "MIT Brothers Cleared of Charges in $25 Million Crypto Case Bloomberg.com",
       "topics": [
         "Enforcement Actions"
       ]
@@ -55,17 +99,6 @@
       "summary": "An online bookmaker has been fined over a \"sustained, employee-facilitated inducement scheme\" involving a community sporting club's social media.",
       "topics": [
         "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "EU sanctions four Haitian gangs over serious human rights violations - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTkc4T0lUU3JiUFF0dDFhaUt5R01oR01kZmZ2Rkd1S01TdlIwVC0zcG12WWRqd0hyeDZnRFJEclByMVl0UXl2YnJSOG9CY1liZEZJdF9zWmlHY2VmWlhsTnlaQTBtVnVCWnRteXBxUkhTa25ZQllNR01ZSTlYZGNmNjkxVENDNE1ITjF4WW8tOUVWRGdEUXRLbjJWUVlfSktpUXMtSG9HT0l1NHIzUHpta2NUVW05NDNiQUtR?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-16T20:37:43+00:00",
-      "display_date": "Nov 16, 2026",
-      "summary": "EU sanctions four Haitian gangs over serious human rights violations Reuters",
-      "topics": [
-        "AML & Sanctions"
       ]
     },
     {
@@ -289,28 +322,6 @@
       ]
     },
     {
-      "title": "Top accounting firms are using AI, shifting to advisory roles - AFR",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeHM0aW5qUTRBVkFab20zYXJRbGdKc0s4Ti1TSzJwVU9PbjhBM1R2aENKY0JqYlVyZWw5dnZKR3picFZNZlhYSzVqR01jbFJIanJsa2xMb2xiaUphaVZPMWp5M1dvUklxMS1ETjNaQUlhdG9BMm1UQzg1bDhCX09RUWxfVW9qMEE5Tmh2RjJjWHk2ZUpuZHptUlcwRDM0UXBETXBxQnpQNjNCQ3ZidHp3ZGc3dVhCUVF3UFhpN2ZDR0NvUndpejhj?oc=5",
-      "source": "AFR",
-      "date": "2026-11-16T03:00:00+00:00",
-      "display_date": "Nov 16, 2026",
-      "summary": "Top accounting firms are using AI, shifting to advisory roles AFR",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Handball from a kick-in: Five AFL rule changes revealed for 2027 - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeXdsS2F6bXg4N2JldUVOZ0pCdmhRWVVjMkR5LWh1X3VFSDN3Rkw1ZkdESE54VEk3VHZ2Nm5HZGxYR0kxOFI5TFByTXFQYjlCdmMwX1QzdE16NUZCUkI2bkxpZWhfNlpmaFN6UTZMTlotSkh2VUdzMU9iQ0xDdHY4SG91MGtEWlBTN202ekl1dHZZZ1IzTEdzckJIb0dIMGpadHJXT1B6THdYM3RPZFlCOVhTTG83ZVQtUXJDZFlNNkVxckl1YVQ0SGNhM0gwbDdvRm0tNw?oc=5",
-      "source": "The Australian",
-      "date": "2026-11-16T02:34:02+00:00",
-      "display_date": "Nov 16, 2026",
-      "summary": "Handball from a kick-in: Five AFL rule changes revealed for 2027 The Australian",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "Opinion | How’s That Russian Diesel Deal Going?",
       "link": "https://www.wsj.com/opinion/donald-trump-diesel-deal-vladimir-putin-russia-7c282795?mod=pls_whats_news_us_business_f",
       "source": "Wall Street Journal",
@@ -319,17 +330,6 @@
       "summary": "Donald Trump’s sanctions relief for Vladimir Putin hasn’t resulted in lower fuel prices for Americans.",
       "topics": [
         "AML & Sanctions"
-      ]
-    },
-    {
-      "title": "Irish EU presidency proposes slower cuts to industry's free carbon permits - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSnZZaUMtbTFKVzZVX1Y1NHZsYWVqRlh0a0NiYmFQdEdUOURsUklIZ2tXVXVlS3hfd3dtTkVfZ1pZMVpsZGN1SVpubzQ4V0NKRFJYZTVIeUQ1SU95R2p5YkY0bGROY09Bc0E0RXlfZUpWckNPQ1phWU9maFdYWVg4RDI4cndRY0x3TjBiWjlVSzJCUUVpT05DeFprazAxTUxVbTNrVV9qS2hNYmtvZHFnZ1YxaW1na01JeVN3eHNJS004UDg?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-15T20:57:00+00:00",
-      "display_date": "Nov 15, 2026",
-      "summary": "Irish EU presidency proposes slower cuts to industry's free carbon permits Reuters",
-      "topics": [
-        "ESG & Sustainability"
       ]
     },
     {
@@ -585,6 +585,28 @@
       "summary": "The German conglomerate raised its annual guidance for the third time this year after reporting top-line growth across its three businesses.",
       "topics": [
         "Regulatory Change"
+      ]
+    },
+    {
+      "title": "‘A step too far’: Privacy fears on bid to name trust recipients - AFR",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY1B1anoxQ0pkOXhZR0ZUdDVDdXkwdEM3M3JYLWJZNDlnYTVzV2ZES3Vja2lOY2VPOVI2c2VPd3lndF9JdFNDbUNlU25Ed1V3ck9NLUtVWVRjNm1ObGN4cVpKN2o5d3pPT0Rid3U1YlpvLXQzdnlVRHJGcUxMQjNnb3FOUV9iWjNNZC0tVEY2WHJZUGg4LW15YXJOWndwR1BHVVhmVXBQemVMR0NUY1JjWXhVMWdhQkRV?oc=5",
+      "source": "AFR",
+      "date": "2026-11-13T06:20:00+00:00",
+      "display_date": "Nov 13, 2026",
+      "summary": "‘A step too far’: Privacy fears on bid to name trust recipients AFR",
+      "topics": [
+        "Data Privacy"
+      ]
+    },
+    {
+      "title": "Man City to be hit with Premier League sanctions next year if appeal fails - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ2ZjcFNfb1JOeWtiZFloWDhmMlFwQ0xGQUpETU1TSE1wSTI5QW5uYjJoRFNZdkt6MExPX2lYSy0zVy1iOHExRXdkS21BaFM2YUFSSjMyaUF0NHFBQ1pkcWlnN3gya0ZzaXFRTkJrNVJMY3RGcTl5SHlqYXd5dWFQbWczR2Q?oc=5",
+      "source": "Financial Times",
+      "date": "2026-11-13T05:02:42+00:00",
+      "display_date": "Nov 13, 2026",
+      "summary": "Man City to be hit with Premier League sanctions next year if appeal fails Financial Times",
+      "topics": [
+        "AML & Sanctions"
       ]
     },
     {
@@ -985,36 +1007,14 @@
       ]
     },
     {
-      "title": "Macquarie Bank to pay $14m penalty after confusing ‘welcome rate’ promotion",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/11/macquarie-bank-14m-penalty-welcome-rate-savings-account",
-      "source": "The Guardian Australia",
-      "date": "2026-11-11T01:23:39+00:00",
+      "title": "Macquarie Bank fined $14m over misleading savings rate ads - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNZ1lsaEFKRVFNV3VWSzV5ZlUySUVYNUtXZnB1QVplak1kNGY3c0drRWwwZWc1Y0xXaFZ1andtOU5qWHdMWTRrWHJ3eDVvX0VMOVZTUDFoS1BrcENuV2kxT2V4MGU0bS16QTZpUFdGYXQ3a1VJVTk0UlBLRWUzSmRLUjU0M2xySkpfakhENldZdVVDMXpDamZId1FCOEZOS05GcFF2YnlUT0pPVnhLcFY4c2Z1QW1CNkJ0UFhDS253SktNbm8xLVlhejJ6blg3WlRBeEYwSWxYeXhMT2dHVEJfeXVkc29wSkNHUDhBd3NQajlDX3JyeXU2X09VdEdPZw?oc=5",
+      "source": "The Australian",
+      "date": "2026-11-11T00:54:00+00:00",
       "display_date": "Nov 11, 2026",
-      "summary": "Asic says customers should not have to check every transaction to ensure they receive the correct interest Get our breaking news email , free app or daily news podcast Macquarie Bank is set to pay a $14m court-imposed penalty after it admitted to breaking the Corporations Act wit...",
+      "summary": "Macquarie Bank fined $14m over misleading savings rate ads The Australian",
       "topics": [
         "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "When financial concerns become a crisis, early action and the right advisers matter",
-      "link": "https://www.complianceweek.com/best-practices/when-financial-concerns-become-a-crisis-early-action-and-the-right-advisers-matter/",
-      "source": "Compliance Week",
-      "date": "2026-11-10T23:59:48+00:00",
-      "display_date": "Nov 10, 2026",
-      "summary": "Financial warning signs often surface early. Acting quickly and assembling the right team, from forensic accountants to legal counsel, can limit losses and prevent crises. The post When financial concerns become a crisis, early action and the right advisers matter appeared first ...",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Brett Shumate resigns from DOJ Civil Division",
-      "link": "https://www.complianceweek.com/regulators/brett-shumate-resigns-from-doj-civil-division/",
-      "source": "Compliance Week",
-      "date": "2026-11-10T23:09:31+00:00",
-      "display_date": "Nov 10, 2026",
-      "summary": "Civil Division Assistant Attorney General Brett Shumate has resigned, joining a growing list of Department of Justice officials leaving after Republicans’ crushing midterm election defeat. The post Brett Shumate resigns from DOJ Civil Division appeared first on Compliance Week .",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
@@ -1158,28 +1158,6 @@
       "summary": "Canada reimposes sanctions on 11 Iranian entities for contributing to nuclear activities Reuters",
       "topics": [
         "AML & Sanctions"
-      ]
-    },
-    {
-      "title": "Defaults Rattle Brazil’s Shadow Banks, Spark Regulatory Scrutiny - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTlFwZzkwRTVrTlVaZXNJcTIyQ2h4TTg0Uk84OUNmcG5XT2p6UmY0dEdmVzJsQ2w3R3d0RlZJaXpURVYtSG1wQlJMNlB4QTRUZEd2VW5PTUhIS29XQlM3Ym5qanlOdUQxT1dCbm9mTU8tRmVNbWc3cW15MzNTZ0RrQ1RtVjM2c2V1dHQ3TDJqNTUyNGlid25YQWNuR1RNMk5ocTdwMXZZVUZsR1ExVVNUbjd1Vi0?oc=5",
-      "source": "Bloomberg.com",
-      "date": "2026-11-10T10:00:00+00:00",
-      "display_date": "Nov 10, 2026",
-      "summary": "Defaults Rattle Brazil’s Shadow Banks, Spark Regulatory Scrutiny Bloomberg.com",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "ATO-dodging barrister’s attack on judge backfires, leads to big fine - AFR",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQU19LTkpBUXZmRGpnWHJPbnE2WmluWF90bmk5cTB5MHg3UTJPLU9JQnFxLUFEQ2lSYWp1UTVkQmt6Q0NnNDFMX1cySEoxZjFoTmpCMVFrMUFvY3EzX0JBUmpEcGg3djlDd0xISXEzWEJfMjRadno1QWt1aGJfN29QS0FzWEZPZnFaeTJKTmVBSHIxMEJPWFFLbV9LSW4yVnZGbFBELWNPaFpkYm5LdGN1OFJxdVlzVHFoWmNobXVzNnY2NDZRWFdzZkstcUYtVnNB?oc=5",
-      "source": "AFR",
-      "date": "2026-11-10T01:24:00+00:00",
-      "display_date": "Nov 10, 2026",
-      "summary": "ATO-dodging barrister’s attack on judge backfires, leads to big fine AFR",
-      "topics": [
-        "Enforcement Actions"
       ]
     },
     {
