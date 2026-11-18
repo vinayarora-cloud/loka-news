@@ -1,14 +1,36 @@
 {
-  "last_updated": "November 18, 2026 16:54 UTC",
-  "total_count": 206,
+  "last_updated": "November 18, 2026 20:44 UTC",
+  "total_count": 214,
   "articles": [
     {
-      "title": "Target shares rise 5% as retailer posts best sales growth in five years, hikes guidance",
-      "link": "https://www.cnbc.com/2026/11/18/target-tgt-q3-2026-earnings.html",
-      "source": "CNBC",
-      "date": "2026-11-18T16:34:33+00:00",
+      "title": "Data centres could ignite a 'climate bomb' in Australia, report finds",
+      "link": "https://www.abc.net.au/news/2026-11-19/climate-council-report-data-centre-millions-tonnes-pollution-/107400036",
+      "source": "ABC News Business (AU)",
+      "date": "2026-11-18T20:02:01+00:00",
       "display_date": "Nov 18, 2026",
-      "summary": "Target beat third-quarter sales expectations and raised its guidance as it continues a turnaround effort.",
+      "summary": "The Climate Council has identified nine proposed data centres in Australia that could produce up to 40 million tonnes of pollution a year by 2035 if powered by fossil fuels.",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "‘Reasonable needs’: The $4 billion divorce battle that has gripped London",
+      "link": "https://www.smh.com.au/business/consumer-affairs/russian-billionaire-faces-one-of-the-most-expensive-divorces-in-history-20261119-p61ffy.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+      "source": "The Sydney Morning Herald",
+      "date": "2026-11-18T19:24:13+00:00",
+      "display_date": "Nov 18, 2026",
+      "summary": "The ex-wife of a sanctioned Russian oligarch is demanding Britain’s largest-ever divorce payout to correct the “grave injustice” of her initial £63 million settlement.",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "Comptroller Gould Emphasizes OCC’s Continued Momentum to Rightsize Regulation and Reform Federal Banking System",
+      "link": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-102.html",
+      "source": "Office of the Comptroller of the Currency",
+      "date": "2026-11-18T18:45:00+00:00",
+      "display_date": "Nov 18, 2026",
+      "summary": "Comptroller of the Currency Jonathan V. Gould today discussed the Office of the Comptroller of the Currency's accelerated pace of execution and continued efforts to reform bank supervision, open the federal banking system to new entrants, and embrace responsible innovation to dri...",
       "topics": [
         "Regulatory Change"
       ]
@@ -17,9 +39,31 @@
       "title": "Lowe's posts strong online sales, raises outlook despite slow housing market",
       "link": "https://www.cnbc.com/2026/11/18/lowes-low-q3-2026-earnings.html",
       "source": "CNBC",
-      "date": "2026-11-18T15:39:06+00:00",
+      "date": "2026-11-18T18:27:52+00:00",
       "display_date": "Nov 18, 2026",
       "summary": "Lowe's said it saw strength in online sales during its quarter that contributed to a guidance raise for the full year.",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Regulator raised concerns with Swinburne’s pitch for re-registration - AFR",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVnlRU0ZFYkk2dmFobEZFOFNUUU0wb1FjaGpjak9KeUg3NWJGRjFxYmVCVFpxUzlxeUJMY096a01mQ0kyR3IzZDdKM2d2UEVVdHp3UlFmOE1TbWphdWZORl9zUUpqdUpBeWZ6ckltUDktaDFobENlMUpUMG5UYmFXcFRFSjJqS1VIVGhibDRNYTFWaXFETm16WEMzMGIyb2JYa3U1dEV3WnRlWjRkeUhyaGtnZHJCZ2cwQUpEZGFmOGE2ZERMaWtQNTdwNA?oc=5",
+      "source": "AFR",
+      "date": "2026-11-18T18:00:00+00:00",
+      "display_date": "Nov 18, 2026",
+      "summary": "Regulator raised concerns with Swinburne’s pitch for re-registration AFR",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Target shares rise 7% as retailer posts best sales growth in five years, hikes guidance",
+      "link": "https://www.cnbc.com/2026/11/18/target-tgt-q3-2026-earnings.html",
+      "source": "CNBC",
+      "date": "2026-11-18T17:56:50+00:00",
+      "display_date": "Nov 18, 2026",
+      "summary": "Target beat third-quarter sales expectations and raised its guidance as it continues a turnaround effort.",
       "topics": [
         "Regulatory Change"
       ]
@@ -78,6 +122,17 @@
       "summary": "A departing compliance officer’s qualifications can be rebuilt in months; the judgment and regulator relationships that leave with them take years. CCI contributing writer Trevor Treharne reports on a knowledge drain that Asia-Pacific regulators are now naming outright, with a co...",
       "topics": [
         "Regulatory Change"
+      ]
+    },
+    {
+      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/11/18/cisa-adds-four-known-exploited-vulnerabilities-catalog",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-11-18T12:00:00+00:00",
+      "display_date": "Nov 18, 2026",
+      "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2024-10441 Synology DiskStation Manager (DSM) Improper Encoding or Escaping of Output Vulnerability CVE-2026-40217 BerriAI LiteLLM Unprotec...",
+      "topics": [
+        "Cybersecurity Risk"
       ]
     },
     {
@@ -256,6 +311,17 @@
       "summary": "The regulator’s civil probe is looking at whether the company violated investor-disclosure laws.",
       "topics": [
         "Regulatory Change"
+      ]
+    },
+    {
+      "title": "‘Godmother’ of illegal Israeli West Bank settler project Daniella Weiss among group sanctioned by Australia",
+      "link": "https://www.theguardian.com/world/2026/nov/18/australia-sanctions-construction-company-west-bank-settlement-expansion-ntwnfb",
+      "source": "The Guardian Australia",
+      "date": "2026-11-17T20:20:31+00:00",
+      "display_date": "Nov 17, 2026",
+      "summary": "Foreign affairs minister, Penny Wong, says rapid expansion of settlements and settler violence are ‘extinguishing the possibility of a two-state solution’ Get our breaking news email , free app or daily news podcast Australia has announced another tranche of sanctions on individu...",
+      "topics": [
+        "AML & Sanctions"
       ]
     },
     {
@@ -518,23 +584,23 @@
       ]
     },
     {
-      "title": "Siemens SIMATIC WinCC",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-09",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-11-17T12:00:00+00:00",
-      "display_date": "Nov 17, 2026",
-      "summary": "View CSAF Summary Graphics Designer of SIMATIC WinCC before V8.2 contains an implicit active content execution vulnerability upon opening files, which could allow an attacker to cause arbitrary code execution on the device. Siemens is preparing fixes and recommends specific mitig...",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/11/17/cisa-adds-one-known-exploited-vulnerability-catalog",
       "source": "CISA Cybersecurity Advisories",
       "date": "2026-11-17T12:00:00+00:00",
       "display_date": "Nov 17, 2026",
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-115731 Perforce Puppet Enterprise Deserialization of Untrusted Data Vulnerability This type of vulnerability is a frequent attack vector ...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "Siemens SIMATIC WinCC",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-09",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-11-17T12:00:00+00:00",
+      "display_date": "Nov 17, 2026",
+      "summary": "View CSAF Summary Graphics Designer of SIMATIC WinCC before V8.2 contains an implicit active content execution vulnerability upon opening files, which could allow an attacker to cause arbitrary code execution on the device. Siemens is preparing fixes and recommends specific mitig...",
       "topics": [
         "Cybersecurity Risk"
       ]
@@ -640,17 +706,6 @@
       ]
     },
     {
-      "title": "Government backflips on backpacker policy",
-      "link": "https://www.abc.net.au/news/2026-11-17/backflip-backpacker-working-holiday-visa-regional-work/107393474",
-      "source": "ABC News Business (AU)",
-      "date": "2026-11-17T02:13:39+00:00",
-      "display_date": "Nov 17, 2026",
-      "summary": "Home Affairs Minister Tony Burke has increased the cap on third-year working holiday visas by 20,000 places after backlash from agriculture, tourism and hospitality sectors.",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "Sanctioned Russian, Iranian airlines serviced by EU subsidiary in Turkey and Georgia",
       "link": "https://www.complianceweek.com/sanctions/sanctioned-russian-iranian-airlines-serviced-by-eu-subsidiary-in-turkey-and-georgia/",
       "source": "Compliance Week",
@@ -681,6 +736,17 @@
       "summary": "EU sanctions four Haitian gangs over serious human rights violations Reuters",
       "topics": [
         "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "Anthropic recognises the risks to humanity – but is its governance really up to the job? | Nils Pratley",
+      "link": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/nov/16/anthropic-claude-risks-to-humanity-governance-ai",
+      "source": "The Guardian Australia",
+      "date": "2026-11-16T18:18:57+00:00",
+      "display_date": "Nov 16, 2026",
+      "summary": "The Claude AI developer’s unique setup is supposedly high-minded, but still represents extraordinary power concentration Boardroom governance matters, even in the world of big tech, it turns out. The business of how companies are run, investors are discovering, can be more compli...",
+      "topics": [
+        "Operational & Enterprise Risk"
       ]
     },
     {
@@ -780,6 +846,17 @@
       "summary": "Today I want to return to the question of companies refusing to deal with personal AI agents from outside the business, but consider the question through a lens closer to home for compliance officers. Would you accept an internal report generated and submitted by someone’s person...",
       "topics": [
         "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Coles investigates cyber-attack and apologises to customers",
+      "link": "https://www.theguardian.com/business/2026/nov/16/coles-cyber-attack-incident-data",
+      "source": "The Guardian Australia",
+      "date": "2026-11-16T04:04:37+00:00",
+      "display_date": "Nov 16, 2026",
+      "summary": "Supermarket giant says no customer, team or supplier data compromised but recommends updating passwords as a precaution Get our breaking news email , free app or daily news podcast Australia’s second-largest retailer has been targeted in a cyber-attack, though it is still too ear...",
+      "topics": [
+        "Cybersecurity Risk"
       ]
     },
     {
@@ -1038,6 +1115,17 @@
       ]
     },
     {
+      "title": "EU to Hit Russia With More Banking and Energy Sanctions - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWlE2aXFDZFdxNzlHU0Y5aHVNa3FuT09mRlFJZnY5ZWI3eTM2bHRkY1JVOVNVNi01X3Q4a1VMVlFQMWVKejFiMlVZWXc2TndNaDR0QjczejllWlRoNXM1NDlqTVo1MFRnb1dCRThOMExfTGV3d2VCTHB2ZXFMSWxCVm5hN3JkNFhsOHB0NjlCT0xkSC1mT1hLSE04SThmSzlWZUxnaU1SMm1LZw?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-11-12T17:21:58+00:00",
+      "display_date": "Nov 12, 2026",
+      "summary": "EU to Hit Russia With More Banking and Energy Sanctions Bloomberg.com",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
       "title": "AI Ubiquitous in Financial Decision-Making",
       "link": "https://www.corporatecomplianceinsights.com/news-roundup-november-12-2026/",
       "source": "Corporate Compliance Insights",
@@ -1057,6 +1145,17 @@
       "summary": "UK sanctions Russia's Slavneft in latest move against oil producers Reuters",
       "topics": [
         "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "New allegations against convicted rapist Ralph Carr revealed: ‘I was blacking out while saying no’",
+      "link": "https://www.theguardian.com/australia-news/ng-interactive/2026/nov/13/ralph-carr-convicted-rapist-new-allegations-sexual-touching-ntwnfb",
+      "source": "The Guardian Australia",
+      "date": "2026-11-12T14:00:45+00:00",
+      "display_date": "Nov 12, 2026",
+      "summary": "Exclusive: Former staffers detail unwanted sexual advances by Melbourne talent manager who was this year found guilty of raping an ex-employee Get our breaking news email , free app or daily news podcast When Sophie* started working at Ralph Carr Management just after her 21st bi...",
+      "topics": [
+        "Enforcement Actions"
       ]
     },
     {
@@ -1303,6 +1402,17 @@
       ]
     },
     {
+      "title": "I have noticed a pattern with product ratings that could lead to biased reviews. Is it legal?",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/nov/11/product-ratings-biased-reviews-is-it-legal-australia-consumer-affairs",
+      "source": "The Guardian Australia",
+      "date": "2026-11-10T14:00:54+00:00",
+      "display_date": "Nov 10, 2026",
+      "summary": "The practice you’ve noticed is colloquially known as ‘review gating’, writes consumer affairs and policy professional Kat George . And no, it isn’t legal Read more Australian customer service questions I have noticed that when I get an email inviting me to review a product or ser...",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
       "title": "Stop Calling Compliance a Cost Center",
       "link": "https://www.corporatecomplianceinsights.com/stop-calling-compliance-cost-center/",
       "source": "Corporate Compliance Insights",
@@ -1336,6 +1446,17 @@
       ]
     },
     {
+      "title": "When I became unemployed I expected to find a job in no time. As months passed, I realised I was being shunned | John Emerson",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/10/when-i-became-unemployed-i-expected-to-find-a-job-in-no-time-as-months-passed-i-realised-i-was-being-shunned",
+      "source": "The Guardian Australia",
+      "date": "2026-11-09T14:00:11+00:00",
+      "display_date": "Nov 09, 2026",
+      "summary": "The jobless are the sacrificial lambs of Australia’s monetary policy. I remain shocked that the lucky country actively excludes so many from a chance at its luck The causes of finding yourself out of work are many. Being made redundant, having a contract not renewed, bullied into...",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
       "title": "AI Is Prompting New Legal Risks in the Workplace",
       "link": "https://www.corporatecomplianceinsights.com/ai-prompting-new-legal-risks-workplace/",
       "source": "Corporate Compliance Insights",
@@ -1344,17 +1465,6 @@
       "summary": "AI use, particularly by leaders, can heighten exposure for employers The post AI Is Prompting New Legal Risks in the Workplace appeared first on Corporate Compliance Insights .",
       "topics": [
         "Operational & Enterprise Risk"
-      ]
-    },
-    {
-      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/11/09/cisa-adds-four-known-exploited-vulnerabilities-catalog",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-11-09T12:00:00+00:00",
-      "display_date": "Nov 09, 2026",
-      "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-102895 GPUStack Improper Authentication Vulnerability CVE-2026-116779 SignalWire FreeSwitch Code Injection Vulnerability CVE-2026-1231...",
-      "topics": [
-        "Cybersecurity Risk"
       ]
     },
     {
@@ -1435,17 +1545,6 @@
       ]
     },
     {
-      "title": "US Government Partners Urge Hardening Industrial Refrigeration and Cold Chain Monitoring Systems",
-      "link": "https://www.cisa.gov/resources-tools/resources/us-government-partners-urge-hardening-industrial-refrigeration-and-cold-chain-monitoring-systems",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-11-05T12:00:00+00:00",
-      "display_date": "Nov 05, 2026",
-      "summary": "Overview The Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), Health and Human Services (HHS), U.S. Department of Agriculture (USDA), and the Department of Transportation (DoT)—hereafter referred to as “the authoring organizations”—a...",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
       "title": "Post-Quantum Questions to Ask Your Vendors",
       "link": "https://www.cisa.gov/resources-tools/resources/post-quantum-questions-ask-your-vendors",
       "source": "CISA Cybersecurity Advisories",
@@ -1456,6 +1555,17 @@
         "Regulatory Change",
         "Cybersecurity Risk",
         "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "US Government Partners Urge Hardening Industrial Refrigeration and Cold Chain Monitoring Systems",
+      "link": "https://www.cisa.gov/resources-tools/resources/us-government-partners-urge-hardening-industrial-refrigeration-and-cold-chain-monitoring-systems",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-11-05T12:00:00+00:00",
+      "display_date": "Nov 05, 2026",
+      "summary": "Overview The Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), Health and Human Services (HHS), U.S. Department of Agriculture (USDA), and the Department of Transportation (DoT)—hereafter referred to as “the authoring organizations”—a...",
+      "topics": [
+        "Cybersecurity Risk"
       ]
     },
     {
@@ -1672,17 +1782,6 @@
       ]
     },
     {
-      "title": "Siemens Mendix SAML Module",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-01",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-10-29T12:00:00+00:00",
-      "display_date": "Oct 29, 2026",
-      "summary": "View CSAF Summary Mendix SAML module contains an authentication bypass vulnerability that could allow an unauthenticated remote attacker to gain unauthorized access by replaying a valid SAML assertion in IdP-initiated authentication flows. Siemens has released new versions for th...",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
       "title": "FCA encourages former Verus Financial Services Limited customers to check if they can claim with FSCS",
       "link": "https://www.fca.org.uk/news/news-stories/fca-encourages-former-verus-financial-services-limited-customers-check-if-they-can-claim-fscs",
       "source": "FCA UK Regulatory News",
@@ -1768,17 +1867,6 @@
       "summary": "Expect to see quite a few websites serving \"404\" or \"Page Not Found\" errors today: Nearly 70 percent of websites need to update their core software to fix a pair of vulnerabilities that allow an attacker to seize full control over affected servers. Experts say there are working e...",
       "topics": [
         "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "OCC Advances U.S. Digital Asset Leadership with Final Rule to Implement GENIUS Act",
-      "link": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-92.html",
-      "source": "Office of the Comptroller of the Currency",
-      "date": "2026-10-21T11:00:00+00:00",
-      "display_date": "Oct 21, 2026",
-      "summary": "The Office of the Comptroller of the Currency (OCC) today announced a final rule to implement the Guiding and Establishing National Innovation for U.S. Stablecoins (GENIUS) Act.",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
