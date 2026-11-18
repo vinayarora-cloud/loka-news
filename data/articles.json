@@ -1,7 +1,40 @@
 {
-  "last_updated": "November 18, 2026 12:55 UTC",
-  "total_count": 213,
+  "last_updated": "November 18, 2026 16:54 UTC",
+  "total_count": 206,
   "articles": [
+    {
+      "title": "Target shares rise 5% as retailer posts best sales growth in five years, hikes guidance",
+      "link": "https://www.cnbc.com/2026/11/18/target-tgt-q3-2026-earnings.html",
+      "source": "CNBC",
+      "date": "2026-11-18T16:34:33+00:00",
+      "display_date": "Nov 18, 2026",
+      "summary": "Target beat third-quarter sales expectations and raised its guidance as it continues a turnaround effort.",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Lowe's posts strong online sales, raises outlook despite slow housing market",
+      "link": "https://www.cnbc.com/2026/11/18/lowes-low-q3-2026-earnings.html",
+      "source": "CNBC",
+      "date": "2026-11-18T15:39:06+00:00",
+      "display_date": "Nov 18, 2026",
+      "summary": "Lowe's said it saw strength in online sales during its quarter that contributed to a guidance raise for the full year.",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Green Bond Issuance Jumps 29% in Q3 2026: Moody’s",
+      "link": "https://www.esgtoday.com/green-bond-issuance-jumps-29-in-q3-2026-moodys/?utm_source=rss&utm_medium=rss&utm_campaign=green-bond-issuance-jumps-29-in-q3-2026-moodys",
+      "source": "ESG Today",
+      "date": "2026-11-18T15:35:32+00:00",
+      "display_date": "Nov 18, 2026",
+      "summary": "Issuance of green bonds continued to increase in the third quarter of 2026, jumping by […]",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
     {
       "title": "Tesco Asks 400 Key Suppliers to Join Emissions Data Sharing Program",
       "link": "https://www.esgtoday.com/tesco-asks-400-key-suppliers-to-join-emissions-data-sharing-program/?utm_source=rss&utm_medium=rss&utm_campaign=tesco-asks-400-key-suppliers-to-join-emissions-data-sharing-program",
@@ -11,17 +44,6 @@
       "summary": "UK-based grocery retailer Tesco announced a partnership with climate data platform OpenClimat to launch its […]",
       "topics": [
         "ESG & Sustainability"
-      ]
-    },
-    {
-      "title": "Target posts best sales growth in five years, raises guidance",
-      "link": "https://www.cnbc.com/2026/11/18/target-tgt-q3-2026-earnings.html",
-      "source": "CNBC",
-      "date": "2026-11-18T12:17:33+00:00",
-      "display_date": "Nov 18, 2026",
-      "summary": "Target beat third-quarter sales expectations and raised its guidance as it continues a turnaround effort.",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
@@ -56,28 +78,6 @@
       "summary": "A departing compliance officer’s qualifications can be rebuilt in months; the judgment and regulator relationships that leave with them take years. CCI contributing writer Trevor Treharne reports on a knowledge drain that Asia-Pacific regulators are now naming outright, with a co...",
       "topics": [
         "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Lowe's posts strong online sales, raises outlook despite slow housing market",
-      "link": "https://www.cnbc.com/2026/11/18/lowes-low-q3-2026-earnings.html",
-      "source": "CNBC",
-      "date": "2026-11-18T11:47:59+00:00",
-      "display_date": "Nov 18, 2026",
-      "summary": "Lowe's said it saw strength in online sales during its quarter that contributed to a guidance raise for the full year.",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "‘Zero’ evidence that recent cascade of tech outages are linked, says Rubio",
-      "link": "https://www.theguardian.com/us-news/2026/nov/18/zero-evidence-recent-tech-outages-linked-marco-rubio",
-      "source": "The Guardian Australia",
-      "date": "2026-11-18T11:35:36+00:00",
-      "display_date": "Nov 18, 2026",
-      "summary": "US secretary of state’s comments come as vulnerability in programming language Java highlighted There is “zero evidence” that a wave of IT outages – which have grounded flights, cut off work access, limited bank access, affected Apple and disrupted classified communications – are...",
-      "topics": [
-        "Cybersecurity Risk"
       ]
     },
     {
@@ -259,17 +259,6 @@
       ]
     },
     {
-      "title": "‘Godmother’ of illegal Israeli West Bank settler project Daniella Weiss among group sanctioned by Australia",
-      "link": "https://www.theguardian.com/world/2026/nov/18/australia-sanctions-construction-company-west-bank-settlement-expansion-ntwnfb",
-      "source": "The Guardian Australia",
-      "date": "2026-11-17T20:20:31+00:00",
-      "display_date": "Nov 17, 2026",
-      "summary": "Foreign affairs minister, Penny Wong, says rapid expansion of settlements and settler violence are ‘extinguishing the possibility of a two-state solution’ Get our breaking news email , free app or daily news podcast Australia has announced another tranche of sanctions on individu...",
-      "topics": [
-        "AML & Sanctions"
-      ]
-    },
-    {
       "title": "Trust Is Built From the Head & the Heart",
       "link": "https://www.corporatecomplianceinsights.com/trust-is-built-from-head-heart/",
       "source": "Corporate Compliance Insights",
@@ -278,6 +267,19 @@
       "summary": "A leader who admits a limit can recover from it; one whose integrity is in question often cannot The post Trust Is Built From the Head & the Heart appeared first on Corporate Compliance Insights .",
       "topics": [
         "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "UK regulator charges man with money laundering - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSFFXT1I0Y0kzZnZESWRLRzVJLWgwa3J2NDhSSDlkRDJ2QVN1YUp6WDBuVWdKb3ZRZDIzSzRBdEsybnd3S2I4RDFZN2g5NGlPcUYtdDQ2R2RrRDN6ektqcXNWOEFZNzlUVzhkTTFhanVGMFV3MjNYWmp5YXJsLVY0UVdiSVRVY0tEMGNxRzl1cGZPUXVxT2xaajdNU2lvVl9FMEkwWk15dDRQSHRkQ0Fac1IwN1hjb25Tc3c?oc=5",
+      "source": "Reuters",
+      "date": "2026-11-17T18:52:54+00:00",
+      "display_date": "Nov 17, 2026",
+      "summary": "UK regulator charges man with money laundering Reuters",
+      "topics": [
+        "Enforcement Actions",
+        "Regulatory Change",
+        "AML & Sanctions"
       ]
     },
     {
@@ -549,17 +551,6 @@
       ]
     },
     {
-      "title": "Amazon Sets New Goal to Cut Electricity Carbon Intensity by 65% by 2030",
-      "link": "https://www.esgtoday.com/amazon-sets-new-goal-to-cut-electricity-carbon-intensity-by-65-by-2030/?utm_source=rss&utm_medium=rss&utm_campaign=amazon-sets-new-goal-to-cut-electricity-carbon-intensity-by-65-by-2030",
-      "source": "ESG Today",
-      "date": "2026-11-17T11:48:47+00:00",
-      "display_date": "Nov 17, 2026",
-      "summary": "Amazon announced a new goal to cut the carbon intensity of the electricity used across […]",
-      "topics": [
-        "ESG & Sustainability"
-      ]
-    },
-    {
       "title": "UK imposes sanctions on companies building West Bank settlements - Financial Times",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVVpQUkRMUFliMzBHVm1NRnYxUnU5YjFsYlhnYWpVSy1BbnIxcTJmWEFIY1BlbmliRWZhUzkxb3FYTlIwSFVZdlZ4elVCWldnamNVa1N5TTNRaEViSVlfeGNDbV9VUWZPMjVzSk1pOEQydEk1bjk1cFlIYVhzQ2pmaFkwc3o?oc=5",
       "source": "Financial Times",
@@ -693,17 +684,6 @@
       ]
     },
     {
-      "title": "Anthropic recognises the risks to humanity – but is its governance really up to the job? | Nils Pratley",
-      "link": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/nov/16/anthropic-claude-risks-to-humanity-governance-ai",
-      "source": "The Guardian Australia",
-      "date": "2026-11-16T18:18:57+00:00",
-      "display_date": "Nov 16, 2026",
-      "summary": "The Claude AI developer’s unique setup is supposedly high-minded, but still represents extraordinary power concentration Boardroom governance matters, even in the world of big tech, it turns out. The business of how companies are run, investors are discovering, can be more compli...",
-      "topics": [
-        "Operational & Enterprise Risk"
-      ]
-    },
-    {
       "title": "Russia’s richest woman hit by EU sanctions - Financial Times",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONW4wMEE5cnhoc2pmTGRNR0JteHNSNUwtUkJrMzRtV3ZCYjR4SEpuOHJvU2lLT3E3alRVMC1JckJEZDhsTlBzb09oQktOdi1MU3dnaWlPNHQ3cEZfWnJKMzBTaE1ETmU0OHE5YndBOEw2SU9GN1pIX0liNTJQUXZKb0lDT00?oc=5",
       "source": "Financial Times",
@@ -803,23 +783,12 @@
       ]
     },
     {
-      "title": "Coles investigates cyber-attack and apologises to customers",
-      "link": "https://www.theguardian.com/business/2026/nov/16/coles-cyber-attack-incident-data",
-      "source": "The Guardian Australia",
-      "date": "2026-11-16T04:04:37+00:00",
-      "display_date": "Nov 16, 2026",
-      "summary": "Supermarket giant says no customer, team or supplier data compromised but recommends updating passwords as a precaution Get our breaking news email , free app or daily news podcast Australia’s second-largest retailer has been targeted in a cyber-attack, though it is still too ear...",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "Senate Republicans Seek Lutnick Testimony on Nvidia Enforcement - Bloomberg",
+      "title": "Senate Republicans Seek Lutnick Testimony on Nvidia Enforcement - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMlNHUGl5enZFMklCZzJNbWpab0NzSjcyc0ZXTTc0VmVnX1pIdl8tME1HVG14MlJoTWNpal9KRlBzWU5mVTUwV1hGU2FlWHBUS2dIUUFWY0tJVjFQd0I0TGUtVElzeXROc01HSFoyOFRSWS1QVFZacG9VaHRLOXYzVU5rNGlQWnBKVzRIb2sxeTVMck5Cd2JETURDeHgyZ2IxVFZURjczUVRTckx2UFBIMUlkcno?oc=5",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "date": "2026-11-15T18:12:47+00:00",
       "display_date": "Nov 15, 2026",
-      "summary": "Senate Republicans Seek Lutnick Testimony on Nvidia Enforcement Bloomberg",
+      "summary": "Senate Republicans Seek Lutnick Testimony on Nvidia Enforcement Bloomberg.com",
       "topics": [
         "Enforcement Actions"
       ]
@@ -1091,17 +1060,6 @@
       ]
     },
     {
-      "title": "New allegations against convicted rapist Ralph Carr revealed: ‘I was blacking out while saying no’",
-      "link": "https://www.theguardian.com/australia-news/ng-interactive/2026/nov/13/ralph-carr-convicted-rapist-new-allegations-sexual-touching-ntwnfb",
-      "source": "The Guardian Australia",
-      "date": "2026-11-12T14:00:45+00:00",
-      "display_date": "Nov 12, 2026",
-      "summary": "Exclusive: Former staffers detail unwanted sexual advances by Melbourne talent manager who was this year found guilty of raping an ex-employee Get our breaking news email , free app or daily news podcast When Sophie* started working at Ralph Carr Management just after her 21st bi...",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
       "title": "EU to present new Russia sanctions package, Ukraine funding measures by year-end - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNd2hxVXptWFBac1VNdFFUOE8zVi02NklWdlhCenlSNjROVGx3QVJpSERMN0lsbUEtWHpwODVGSVZFeV9CN3ZWb09xcHBCMnVfYkFaZHhiOU1YSWJFb3EtdWJwWW01UGRxTEtOVzlkVUxSTGotaVhfSVhFOVVVVFdfN0hKb3gtNjUtdUprOFFrVmxTa0lrYk5wWnNxVm9OaGFsNk1GRF93NUdrWXB4ZUItTFkzZFA2YjlpNGx5dmZZNjMwTUM5NmVNNg?oc=5",
       "source": "Reuters",
@@ -1290,17 +1248,6 @@
       ]
     },
     {
-      "title": "EU envoys agree new Russia sanctions listings on banks, shadow fleet and misinformation - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQUdNOXVnNXI2X2xlbEQ4UGtYck5xSTN6OXRqSVpTSHMySlI0NjhXa3VRbWFUQk4zNDhBMk43elprQ3dPcGd5SG1SeHFnanBkd3ZTNHZ0N2NlRlBDTGg5Q2FwbGN5SnR6R1V6TmtpUzBfbWlueUVsZlYwRUlYRHl4V0ZBbkZOcEQzUTZiLUlsVkI1aWZhTllBbDJSVm90UnBJTHVQdVpsb2xHMDBEUnZKWm5POFBGaktZYWJHUkx6dExGNHh0QW5acVVEVUY?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-11T14:29:08+00:00",
-      "display_date": "Nov 11, 2026",
-      "summary": "EU envoys agree new Russia sanctions listings on banks, shadow fleet and misinformation Reuters",
-      "topics": [
-        "AML & Sanctions"
-      ]
-    },
-    {
       "title": "The Spy Who Loved Me: The Nvidia Scandal’s Lessons on CEO Risk",
       "link": "https://www.corporatecomplianceinsights.com/spy-who-loved-me-nvidia-scandal-lessons-ceo-risk/",
       "source": "Corporate Compliance Insights",
@@ -1356,17 +1303,6 @@
       ]
     },
     {
-      "title": "I have noticed a pattern with product ratings that could lead to biased reviews. Is it legal?",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/nov/11/product-ratings-biased-reviews-is-it-legal-australia-consumer-affairs",
-      "source": "The Guardian Australia",
-      "date": "2026-11-10T14:00:54+00:00",
-      "display_date": "Nov 10, 2026",
-      "summary": "The practice you’ve noticed is colloquially known as ‘review gating’, writes consumer affairs and policy professional Kat George . And no, it isn’t legal Read more Australian customer service questions I have noticed that when I get an email inviting me to review a product or ser...",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "Stop Calling Compliance a Cost Center",
       "link": "https://www.corporatecomplianceinsights.com/stop-calling-compliance-cost-center/",
       "source": "Corporate Compliance Insights",
@@ -1395,17 +1331,6 @@
       "date": "2026-11-09T21:09:23+00:00",
       "display_date": "Nov 09, 2026",
       "summary": "Last week a technology company in Delaware paid $13 million to settle allegations that its poor cybersecurity practices violated the False Claims Act. If compliance and audit professionals ever wanted a case that’s emblematic of cybersecurity compliance risks these days, this one...",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "When I became unemployed I expected to find a job in no time. As months passed, I realised I was being shunned | John Emerson",
-      "link": "https://www.theguardian.com/commentisfree/2026/nov/10/when-i-became-unemployed-i-expected-to-find-a-job-in-no-time-as-months-passed-i-realised-i-was-being-shunned",
-      "source": "The Guardian Australia",
-      "date": "2026-11-09T14:00:11+00:00",
-      "display_date": "Nov 09, 2026",
-      "summary": "The jobless are the sacrificial lambs of Australia’s monetary policy. I remain shocked that the lucky country actively excludes so many from a chance at its luck The causes of finding yourself out of work are many. Being made redundant, having a contract not renewed, bullied into...",
       "topics": [
         "Regulatory Change"
       ]
