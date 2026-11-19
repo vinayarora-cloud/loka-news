@@ -1,7 +1,30 @@
 {
-  "last_updated": "November 19, 2026 00:53 UTC",
-  "total_count": 211,
+  "last_updated": "November 19, 2026 04:54 UTC",
+  "total_count": 209,
   "articles": [
+    {
+      "title": "‘Megaphone diplomacy’: Israel warns of retaliatory sanctions over Australia’s West Bank settlement penalties - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNSWZIYjM2Y05tRk5XY0pqVUhvNTRsM29sYjJIOG84YXNvU1dMeGJ0TGVjblFCZl96M3dqanVZbXBqTEhtSEM4ZWF0ckduRFUwb1l1OWNWRlZrWVZCUm1zdjRIdll4LXJzOWR4RXE1MmhFZElJQzMyTEhVTktpOFBULWF0Ykk4dDdUTl9kQXJvdTVZWTdPZTN1eHV6UkNrODhfZ1huby1WdTNBQnQ1RHFmaThVWGdZQjM5UkQ3Mlc5Y1I4Y1RqQUpkWmUwMDR0YVNHYWltLUtJYzJlZVJoVzJCMzN0X2FTdlNPb3BsVTNKY1RjSFRpRHBtcTJRWTJ1ekhWMWdwcjdmZw?oc=5",
+      "source": "The Australian",
+      "date": "2026-11-19T03:39:53+00:00",
+      "display_date": "Nov 19, 2026",
+      "summary": "‘Megaphone diplomacy’: Israel warns of retaliatory sanctions over Australia’s West Bank settlement penalties The Australian",
+      "topics": [
+        "Enforcement Actions",
+        "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "UK regulator warns audit firms over independence risks of hyping AI insights to clients",
+      "link": "https://www.complianceweek.com/accounting-auditing/uk-regulator-warns-audit-firms-over-independence-risks-of-hyping-ai-insights-to-clients/",
+      "source": "Compliance Week",
+      "date": "2026-11-19T02:52:52+00:00",
+      "display_date": "Nov 19, 2026",
+      "summary": "The Financial Reporting Council has warned audit firms not to overhype their use of AI and leading tech to sell additional services to clients. The post UK regulator warns audit firms over independence risks of hyping AI insights to clients appeared first on Compliance Week .",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
     {
       "title": "ECI Compliance Week TPRM 2026: Building a defensible human rights program",
       "link": "https://www.complianceweek.com/events/eci-compliance-week-tprm-2026-building-a-defensible-human-rights-program/",
@@ -36,14 +59,25 @@
       ]
     },
     {
-      "title": "Probe of Mark Walter’s Insurers Spotlights Gaps in Regulatory Patchwork - Bloomberg.com",
+      "title": "Probe of Mark Walter’s Insurers Spotlights Gaps in Regulatory Patchwork - Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcTdBN0lYdWhkcndSb1A0dlV1aG8xTE1UUW1MUElMUHNOSXRmNVltcGh6X0ZpLWpTV0N5N2dUSkw2OXRKSFVzajQtR0JXaEJXZ0tGREpDWklvdkdVakllSHVqNXR6RjVydl9TNzlhOXIxOEJDR3V5VHhZeVVENkxpYkN5VFBFVkNJd0xXRXVHTy1EejFxWE5XNTdXNmhnZXhhc3lHQkF0Nzd2Yzl5UEF5YXAtNmxLX0JMZDFMN0xfWQ?oc=5",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "date": "2026-11-18T23:10:39+00:00",
       "display_date": "Nov 18, 2026",
-      "summary": "Probe of Mark Walter’s Insurers Spotlights Gaps in Regulatory Patchwork Bloomberg.com",
+      "summary": "Probe of Mark Walter’s Insurers Spotlights Gaps in Regulatory Patchwork Bloomberg",
       "topics": [
         "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Bankrupt Dish Wireless Strikes $525 Million Settlement Deal With American Tower",
+      "link": "https://www.wsj.com/pro/bankruptcy/bankrupt-dish-wireless-strikes-525-million-settlement-deal-with-american-tower-63391fd1?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-11-18T20:39:00+00:00",
+      "display_date": "Nov 18, 2026",
+      "summary": "The EchoStar subsidiary said it is in talks to settle with other tower owners, but Crown Castle, which has the largest claim, says it hasn’t been contacted.",
+      "topics": [
+        "Enforcement Actions"
       ]
     },
     {
@@ -342,17 +376,6 @@
       "date": "2026-11-17T20:56:23+00:00",
       "display_date": "Nov 17, 2026",
       "summary": "Kalshi suspends Trump speech wagers on US regulatory order Reuters",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "SEC Is Probing Nvidia Amid Departure of CEO Jensen Huang",
-      "link": "https://www.wsj.com/business/sec-is-probing-nvidia-amid-departure-of-ceo-jensen-huang-ee7643f8?mod=pls_whats_news_us_business_f",
-      "source": "Wall Street Journal",
-      "date": "2026-11-17T20:56:00+00:00",
-      "display_date": "Nov 17, 2026",
-      "summary": "The regulator’s civil probe is looking at whether the company violated investor-disclosure laws.",
       "topics": [
         "Regulatory Change"
       ]
@@ -805,12 +828,12 @@
       ]
     },
     {
-      "title": "EU Targets Russia’s Richest Woman in Latest Round of Sanctions - Bloomberg.com",
+      "title": "EU Targets Russia’s Richest Woman in Latest Round of Sanctions - Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN0FvRUxBMDRYakZzcTQzSGFTa25VY2tfNFllTWUtcWNrNzg0STBmcXd5OE41alEtNWRpMzJjd3E4akdTci0yU0FqQVNoSGw4MmZ1bDVVTVJseUdIYW92djZJNGFYa2ZwR3hvTFRONmxXMFR4ZExKWHp1anpObGk5RUdEWmItM0JJZE5qWEIwY2pXaUg1T1hvSno1Qi1VSFRoUlFXWTJMRUdhYW5MWHlvR0s5VQ?oc=5",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "date": "2026-11-16T14:18:21+00:00",
       "display_date": "Nov 16, 2026",
-      "summary": "EU Targets Russia’s Richest Woman in Latest Round of Sanctions Bloomberg.com",
+      "summary": "EU Targets Russia’s Richest Woman in Latest Round of Sanctions Bloomberg",
       "topics": [
         "AML & Sanctions"
       ]
@@ -827,12 +850,12 @@
       ]
     },
     {
-      "title": "Revolut Ordered to Improve Money Laundering Controls in Italy - Bloomberg.com",
+      "title": "Revolut Ordered to Improve Money Laundering Controls in Italy - Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVjg5SVFSRjltcjl4d3ZXUzdLV3ppc3U4TVctWTVqOVFUbUlTWXN1b0FyLUhEZWNEYmhyQXYzUVdTb05NSTJBMlZPVXd5T085WEhQOWI4TVFKYUpoZGVDdnYzQzZXOF93a21SbVB5bS1QYkdma3huZnBsc1hMNDN6U1ZPdVluYjI5WlQzbHBRTk15ODhjZUZCZ1REbWdlbmU0OHctWDY4N2p0ZV9SOG9hWkVoNA?oc=5",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "date": "2026-11-16T12:35:00+00:00",
       "display_date": "Nov 16, 2026",
-      "summary": "Revolut Ordered to Improve Money Laundering Controls in Italy Bloomberg.com",
+      "summary": "Revolut Ordered to Improve Money Laundering Controls in Italy Bloomberg",
       "topics": [
         "AML & Sanctions"
       ]
@@ -871,12 +894,12 @@
       ]
     },
     {
-      "title": "Senate Republicans Seek Lutnick Testimony on Nvidia Enforcement - Bloomberg.com",
+      "title": "Senate Republicans Seek Lutnick Testimony on Nvidia Enforcement - Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMlNHUGl5enZFMklCZzJNbWpab0NzSjcyc0ZXTTc0VmVnX1pIdl8tME1HVG14MlJoTWNpal9KRlBzWU5mVTUwV1hGU2FlWHBUS2dIUUFWY0tJVjFQd0I0TGUtVElzeXROc01HSFoyOFRSWS1QVFZacG9VaHRLOXYzVU5rNGlQWnBKVzRIb2sxeTVMck5Cd2JETURDeHgyZ2IxVFZURjczUVRTckx2UFBIMUlkcno?oc=5",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "date": "2026-11-15T18:12:47+00:00",
       "display_date": "Nov 15, 2026",
-      "summary": "Senate Republicans Seek Lutnick Testimony on Nvidia Enforcement Bloomberg.com",
+      "summary": "Senate Republicans Seek Lutnick Testimony on Nvidia Enforcement Bloomberg",
       "topics": [
         "Enforcement Actions"
       ]
@@ -1016,12 +1039,12 @@
       ]
     },
     {
-      "title": "Banks Cool on Manchester City Player Finance as Sanctions Loom - Bloomberg.com",
+      "title": "Banks Cool on Manchester City Player Finance as Sanctions Loom - Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTFNCNk9CRFFyS3JDRWNuZ01PVGF0VEppUXhaZkRKX2l2N1VMekpmS0EwdGYwWW9IcHh6RmRDMGItTGxlbDVHeDNtYmN4UzFqRmFjSUd3a2RRSWMyelVKdU80SUlWejlVSnF6NkZIQVZTN3RnZC1qLUQtbVdKaDJWLTk1VlFrZUNkMWVFajVGeGtWV3kybTBOb1dMMHBWVFNaYmVSX20yUmVOaW9lNlR6RWVubw?oc=5",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "date": "2026-11-13T16:14:57+00:00",
       "display_date": "Nov 13, 2026",
-      "summary": "Banks Cool on Manchester City Player Finance as Sanctions Loom Bloomberg.com",
+      "summary": "Banks Cool on Manchester City Player Finance as Sanctions Loom Bloomberg",
       "topics": [
         "AML & Sanctions"
       ]
@@ -1104,17 +1127,6 @@
       ]
     },
     {
-      "title": "PCAOB unveils specialist units to further enforcement priorities and investigate misconduct",
-      "link": "https://www.complianceweek.com/accounting-auditing/pcaob-unveils-specialist-units-to-further-enforcement-priorities-and-investigate-misconduct/",
-      "source": "Compliance Week",
-      "date": "2026-11-13T00:32:55+00:00",
-      "display_date": "Nov 13, 2026",
-      "summary": "The PCAOB has created five specialist units in its Division of Enforcement and Investigations to focus on key areas and strengthen its powers to investigate misconduct. The post PCAOB unveils specialist units to further enforcement priorities and investigate misconduct appeared f...",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
       "title": "OCC’s Semiannual Risk Perspective Highlights Key Risks in Federal Banking System",
       "link": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-99.html",
       "source": "Office of the Comptroller of the Currency",
@@ -1123,17 +1135,6 @@
       "summary": "The Office of the Comptroller of the Currency (OCC) today reported the key issues facing the federal banking system in the Semiannual Risk Perspective for Fall 2026.",
       "topics": [
         "Operational & Enterprise Risk"
-      ]
-    },
-    {
-      "title": "EU to Hit Russia With More Banking and Energy Sanctions - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWlE2aXFDZFdxNzlHU0Y5aHVNa3FuT09mRlFJZnY5ZWI3eTM2bHRkY1JVOVNVNi01X3Q4a1VMVlFQMWVKejFiMlVZWXc2TndNaDR0QjczejllWlRoNXM1NDlqTVo1MFRnb1dCRThOMExfTGV3d2VCTHB2ZXFMSWxCVm5hN3JkNFhsOHB0NjlCT0xkSC1mT1hLSE04SThmSzlWZUxnaU1SMm1LZw?oc=5",
-      "source": "Bloomberg.com",
-      "date": "2026-11-12T17:21:58+00:00",
-      "display_date": "Nov 12, 2026",
-      "summary": "EU to Hit Russia With More Banking and Energy Sanctions Bloomberg.com",
-      "topics": [
-        "AML & Sanctions"
       ]
     },
     {
@@ -1236,17 +1237,6 @@
       ]
     },
     {
-      "title": "The present state of US financial enforcement - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sdVpQRGltTDJ1Ym04S2VsalowU2RmdzJpZENIUHNaR2xQSlYzTGNhS2tVMmpfNzVGU0RGWXlKSEhaR0xQY3AzX0hNY3cxZWJuVGtLX2RabzhMcDZEZlBYNmo5ZmdULTVnRlFVUWZFcFE?oc=5",
-      "source": "Financial Times",
-      "date": "2026-11-12T10:52:06+00:00",
-      "display_date": "Nov 12, 2026",
-      "summary": "The present state of US financial enforcement Financial Times",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
       "title": "FCA proposes greater pension investment flexibility to support long-term value for savers",
       "link": "https://www.fca.org.uk/news/press-releases/fca-proposes-greater-pension-investment-flexibility-support-long-term-value-savers",
       "source": "FCA UK Regulatory News",
@@ -1288,17 +1278,6 @@
       "summary": "Another day, another major business announcing that it won’t let AI agents come knocking on the company’s door on behalf of customers. This time it’s United Airlines, and compliance officers should take note; its move raises thorny questions about regulatory risk, and might be on...",
       "topics": [
         "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Nvidia ‘preparing to oust’ Huang after second affair reported; Matos warns of ‘dangerous’ spending cycle; ASIC sues CBA - AFR",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQckxzN3NvRWtuaHpEZGF0NDBTUWZXeXM3M0RvMHJXbWZQV190VHZnYWxSbzNGRGhDZXM4cnlhdE9wNDhsZjZCMF8xQWtOd0xMWXhTT3owczVZN21TSEY2Y3JSLW1WdDRxeE9pT3dLbGpqdUJsWXpsTk43NkEyMWRYTFVKeERIRGtSRFVDYURtaFg4b1NhbEpLaVl2aHNmRjU0WElfclhGQVlWQU92ZkQzUFN1N0s2YmIwakt5dzVsNWhjMWRNQ0NhLWN5WXBLdDZUMFhMNUF3QTBUZTFoc3o3N3pxTmhHVlJ4YmhiWDJWLWYydEZ2MVpvQVQ2a28wUkhGSXc?oc=5",
-      "source": "AFR",
-      "date": "2026-11-12T01:08:00+00:00",
-      "display_date": "Nov 12, 2026",
-      "summary": "Nvidia ‘preparing to oust’ Huang after second affair reported; Matos warns of ‘dangerous’ spending cycle; ASIC sues CBA AFR",
-      "topics": [
-        "Enforcement Actions"
       ]
     },
     {
