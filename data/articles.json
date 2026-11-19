@@ -1,7 +1,129 @@
 {
-  "last_updated": "November 19, 2026 16:55 UTC",
-  "total_count": 225,
+  "last_updated": "November 19, 2026 20:45 UTC",
+  "total_count": 227,
   "articles": [
+    {
+      "title": "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers",
+      "link": "https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-11-19T20:12:00+00:00",
+      "display_date": "Nov 19, 2026",
+      "summary": "The incident involved data belonging to thousands of customers, but it isn’t disrupting payment services or connected to banking issues earlier this week.",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "Call for ACCC to take up 'strong case' for burn victim hurt by Temu product",
+      "link": "https://www.abc.net.au/news/2026-11-20/burns-victim-has-strong-case-against-temu-supplier/107404316",
+      "source": "ABC News Business (AU)",
+      "date": "2026-11-19T20:11:10+00:00",
+      "display_date": "Nov 19, 2026",
+      "summary": "Two years after she was badly burnt while wearing a recalled Temu-purchased hoodie, Daniella Jacobs-Herd's family has run out of legal options. Allan Fels is among those calling on the consumer watchdog to use its powers to help.",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "Financially stretched water utility cuts hospital sewerage charge",
+      "link": "https://www.abc.net.au/news/2026-11-20/taswater-slashes-hospital-sewerage-bills-other-customers-hikes/107384246",
+      "source": "ABC News Business (AU)",
+      "date": "2026-11-19T18:44:01+00:00",
+      "display_date": "Nov 19, 2026",
+      "summary": "Tasmania's water utility has dropped public hospital fixed sewerage charges by around 70 per cent, after its new pricing structure initially saw some customers' bills soar. A union has described the changes as \"an absolute shambles\".",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "US gas exporters more comfortable signing European deals after EU delays methane regulation - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQU0ZuUlpxWkdlajd2bGh6anB2TWphTmU2TVVLR21rWnViZnNEUmNMOVRVLXItNjNxTWZ2RUlDa04xdXU3OTNwXzlyVk90cEhGX3RvM1lSYW5LU0E3NnFvZ2dSTmQxUl9tUktzcGh0NEhZOE9RdDQ2WXVvbUdma1UtN3h6eEF1REdXSGtaTHVoNVJOOTd4WFdveE0tT2tBWjlYNkZEakJJbTZRbEw0dmF0cmFmQkQ5Yy1jTE1YZ2xwS0dQWDVqTXFlRDdpeGU?oc=5",
+      "source": "Reuters",
+      "date": "2026-11-19T18:42:45+00:00",
+      "display_date": "Nov 19, 2026",
+      "summary": "US gas exporters more comfortable signing European deals after EU delays methane regulation Reuters",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "‘Conflict of interest’: KPMG on both sides of NAB’s underpayment scandal",
+      "link": "https://www.smh.com.au/business/banking-and-finance/conflict-of-interest-kpmg-on-both-sides-of-nab-s-underpayment-scandal-20261120-p61eqs.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+      "source": "The Sydney Morning Herald",
+      "date": "2026-11-19T18:30:00+00:00",
+      "display_date": "Nov 19, 2026",
+      "summary": "The bank has refused to repay staff back to when its pay issues allegedly began in 2004, despite whistleblower complaints to a hotline run by the consultancy.",
+      "topics": [
+        "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "UK faces 'Farage penalty' if it pulls out of Brexit reset deal - The Australian - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOaXlOYlFfdzlMNDR6Ty1STGN2RkViWnFtNjFKRUs3Z2NNYkNadTIzZDk3LTZ2ZjlqU0R6Nml2ZEViRk10cTRUTTExdnItSFc3dC0wbVhBMjlJa01NQy1WY2xFejh0clR2X0lyTnRPLTdDVDdrb3VBdmh4NHJBNHNOZ1dRRXE2azhLVVZvMzBkRVNGR2poMjJaWEU4dEJ0c05qaVdsekJMQ0Foa0ZQcURmWDlhZ2RnV1N6UDZ4dFFyVnduOWxCZTJxeVIxY3ByWkh1Nlp5SXNFZmF2ZXF3dkZHYW5LTTF3YW5E?oc=5",
+      "source": "The Australian",
+      "date": "2026-11-19T18:01:04+00:00",
+      "display_date": "Nov 19, 2026",
+      "summary": "UK faces 'Farage penalty' if it pulls out of Brexit reset deal - The Australian The Australian",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "US Treasury sanctions three people linked to Southeast Asia scam centers - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNM2M1YkZjRnJxTXVxYUdsSkdqaEV6X25QLWNsQ1dhQk1TeG50dlluelNFVk1Ra1VrMjNXUlV6WHJDSWdOY1ZsT3FXOFBlY2Zvb3N4UmhxNlhsdlMzaV9mN1ZneEd4NVpsN2g1ZlEyQ2txSmU1RzNOVWlKcGdaMWNhMW0xOG9XMUo1MUZ1UUZiazRGSS1qWXZSX25HMDFwd1JtYllFbTVXZU50YVBjVVE4Sg?oc=5",
+      "source": "Reuters",
+      "date": "2026-11-19T17:38:21+00:00",
+      "display_date": "Nov 19, 2026",
+      "summary": "US Treasury sanctions three people linked to Southeast Asia scam centers Reuters",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "Geordie Shore star and illegal finfluencer sentenced for promoting high-risk investments on social media",
+      "link": "https://www.fca.org.uk/news/press-releases/geordie-shore-star-illegal-finfluencer-sentenced-promoting-high-risk-investments-social-media",
+      "source": "FCA UK Regulatory News",
+      "date": "2026-11-19T17:19:00+00:00",
+      "display_date": "Nov 19, 2026",
+      "summary": "Aaron Chalmers, a reality TV star and social media content creator, and finfluencer Jason Agbodza have been sentenced for illegally promoting an unauthorised foreign exchange trading scheme on social media. Chalmers, 39 and from Newcastle, was sentenced at City of London Magistra...",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "California privacy agency proposes independent audits for data brokers",
+      "link": "https://www.complianceweek.com/data-privacy/california-privacy-agency-proposes-independent-audits-for-data-brokers/",
+      "source": "Compliance Week",
+      "date": "2026-11-19T17:00:00+00:00",
+      "display_date": "Nov 19, 2026",
+      "summary": "Data brokers would be required to hire outside auditors to assess their compliance with California’s consumer opt-out rule, under a proposal by the California Privacy Protection Agency. The post California privacy agency proposes independent audits for data brokers appeared first...",
+      "topics": [
+        "Regulatory Change",
+        "Data Privacy"
+      ]
+    },
+    {
+      "title": "Trump administration plans further cuts at US audit regulator - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVDIwOTlrUVZaczg4OHhLbVlpWDh3SUZOOWJBRWFHelY2Sjhpckw0dXc1U2s3MXI1UGFRdW5MTjlQM1JhYmVSOXdfcHR4X0NmcmpYU0VoVDNuYTdhVHRtSFp4T3hXVllVTjAwQms5MDg2SkY4cndKMzJuZkJLNmVLVVF5cC0?oc=5",
+      "source": "Financial Times",
+      "date": "2026-11-19T16:54:41+00:00",
+      "display_date": "Nov 19, 2026",
+      "summary": "Trump administration plans further cuts at US audit regulator Financial Times",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Four men guilty of sex crimes against woman drugged by husband in UK case with echoes of Pelicot - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVGVDYllRRjh6Y3htYVl1WEJoRkR0QkF1d0x1OFNyQnp0N0RjQTQ5V21pbXZGQTIyalJmR2VsZHFvMGJqMTlZRjFWbUhZb3hrN3J5M1VCN1lmVlh1c3ZFYXJrdHh5RkRrQm5TS1B6QzNtWm9rSUk4ZW1XSThzbXYwSmNsTGlib0JaUkhMZUxlWUhwVVktZmN1ckM1aHd1N0JmUVFtRGlaM0RWMUJhSmVBM0ZPUk43cURpQm13dDJR?oc=5",
+      "source": "Reuters",
+      "date": "2026-11-19T16:49:05+00:00",
+      "display_date": "Nov 19, 2026",
+      "summary": "Four men guilty of sex crimes against woman drugged by husband in UK case with echoes of Pelicot Reuters",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
     {
       "title": "Shadow AI Rivals Phishing as Cause of Major Security Incidents",
       "link": "https://www.corporatecomplianceinsights.com/news-roundup-november-19-2026/",
@@ -12,17 +134,6 @@
       "topics": [
         "Cybersecurity Risk",
         "Operational & Enterprise Risk"
-      ]
-    },
-    {
-      "title": "Four men guilty of sex crimes against woman drugged by husband in UK case with echoes of Pelicot - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVGVDYllRRjh6Y3htYVl1WEJoRkR0QkF1d0x1OFNyQnp0N0RjQTQ5V21pbXZGQTIyalJmR2VsZHFvMGJqMTlZRjFWbUhZb3hrN3J5M1VCN1lmVlh1c3ZFYXJrdHh5RkRrQm5TS1B6QzNtWm9rSUk4ZW1XSThzbXYwSmNsTGlib0JaUkhMZUxlWUhwVVktZmN1ckM1aHd1N0JmUVFtRGlaM0RWMUJhSmVBM0ZPUk43cURpQm13dDJR?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-19T16:26:06+00:00",
-      "display_date": "Nov 19, 2026",
-      "summary": "Four men guilty of sex crimes against woman drugged by husband in UK case with echoes of Pelicot Reuters",
-      "topics": [
-        "Enforcement Actions"
       ]
     },
     {
@@ -38,17 +149,6 @@
       ]
     },
     {
-      "title": "US Treasury sanctions three people linked to Southeast Asia scam centers - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNM2M1YkZjRnJxTXVxYUdsSkdqaEV6X25QLWNsQ1dhQk1TeG50dlluelNFVk1Ra1VrMjNXUlV6WHJDSWdOY1ZsT3FXOFBlY2Zvb3N4UmhxNlhsdlMzaV9mN1ZneEd4NVpsN2g1ZlEyQ2txSmU1RzNOVWlKcGdaMWNhMW0xOG9XMUo1MUZ1UUZiazRGSS1qWXZSX25HMDFwd1JtYllFbTVXZU50YVBjVVE4Sg?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-19T16:04:21+00:00",
-      "display_date": "Nov 19, 2026",
-      "summary": "US Treasury sanctions three people linked to Southeast Asia scam centers Reuters",
-      "topics": [
-        "AML & Sanctions"
-      ]
-    },
-    {
       "title": "Governance and culture failings at UK power grid operator putting network supply transparency at risk",
       "link": "https://www.complianceweek.com/energy-and-utilities/governance-and-culture-failings-at-uk-power-grid-operator-putting-network-supply-transparency-at-risk/",
       "source": "Compliance Week",
@@ -57,17 +157,6 @@
       "summary": "Serious governance and culture failings at the UK National Energy System Operator are undermining transparency and oversight of critical electricity supplies, a new report says. The post Governance and culture failings at UK power grid operator putting network supply transparency...",
       "topics": [
         "Operational & Enterprise Risk"
-      ]
-    },
-    {
-      "title": "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers",
-      "link": "https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87?mod=pls_whats_news_us_business_f",
-      "source": "Wall Street Journal",
-      "date": "2026-11-19T15:52:00+00:00",
-      "display_date": "Nov 19, 2026",
-      "summary": "The incident involved data belonging to thousands of customers, but it isn’t disrupting payment services or connected to banking issues earlier this week.",
-      "topics": [
-        "Cybersecurity Risk"
       ]
     },
     {
@@ -85,7 +174,7 @@
       "title": "Comanchero hit with US sanctions over links to Mexican drug cartels - The Australian",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNX0lQdWczLW1NX1hDTXpyOWwtQXF1el96M3NLNjUxZnFWdUw0R25JbXJ3ZkZ6b2RCTzZ1bGVlcGR6TkdWUVd3eTdZSmpDcTVWVDBpQllMM3NHaFdqeVhxdjhuSmdadm81T0JtMUV3MVUyc3VKdHBCZmVfRHltMHdTT2RqMjFnMHo2aG56X3pVTzhCQTZZMnZUUTdmM3RVUWx5bU5BSEJUTmxZNEVoNUltRTJ4Ull5WExzRVdObHI3cW4tRy1zRmsydkVOMDM4X1ZVRU5GTm5sQnZ4ZEFOUzNwaWdlXzVodw?oc=5",
       "source": "The Australian",
-      "date": "2026-11-19T15:37:03+00:00",
+      "date": "2026-11-19T15:13:43+00:00",
       "display_date": "Nov 19, 2026",
       "summary": "Comanchero hit with US sanctions over links to Mexican drug cartels The Australian",
       "topics": [
@@ -126,12 +215,12 @@
       ]
     },
     {
-      "title": "EU Lawmakers, States Agree to 2-Year Delay to Methane Reporting Rules",
+      "title": "EU Reaches Deal to Delay to Methane Monitoring and Reporting Rules",
       "link": "https://www.esgtoday.com/eu-lawmakers-states-agree-to-2-year-delay-to-methane-reporting-rules/?utm_source=rss&utm_medium=rss&utm_campaign=eu-lawmakers-states-agree-to-2-year-delay-to-methane-reporting-rules",
       "source": "ESG Today",
       "date": "2026-11-19T13:02:36+00:00",
       "display_date": "Nov 19, 2026",
-      "summary": "Lawmakers in the European Parliament and EU Member States announced that reached a provisional agreement […]",
+      "summary": "Lawmakers in the European Parliament and EU Member States announced a provisional agreement to postpone […]",
       "topics": [
         "ESG & Sustainability"
       ]
@@ -383,17 +472,6 @@
       ]
     },
     {
-      "title": "Observers concerned over alleged gaps in WA emissions monitoring",
-      "link": "https://www.abc.net.au/news/2026-11-19/critics-chevron-gorgon-plumes-expose-greenhouse-gas-monitoring/107390220",
-      "source": "ABC News Business (AU)",
-      "date": "2026-11-18T23:56:53+00:00",
-      "display_date": "Nov 18, 2026",
-      "summary": "Satellite imaging of the massive methane clouds at Chevron's Gorgon LNG project casts fresh doubt on the official emissions statistics.",
-      "topics": [
-        "ESG & Sustainability"
-      ]
-    },
-    {
       "title": "US Department of Justice charges Russian for targeting Palantir as foreign agent - Reuters",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONGdHSkFlZGJKSElDLTZOc3R5NVByOU9zYUxvV1MxZEpla3VwbmFJdVRUb2YwZjJfVmIzZWFXNkoxSVM3N24tY2g4YU5tbXR0N2xDcjJ2UFg3SFYyWW1wZWphS3FJQmlSYUFjQ284Nk5SdzZvakdzQmNwN1hibFVBUEpCSDMxMXpNOUM0ZlYwQ3BlbG9tcVlaRl94bUxEajlRUTV0SGRia0dlaFJwbUdCVjl5SG1OREtTeHBWdFdFTEt5TjZR?oc=5",
       "source": "Reuters",
@@ -460,17 +538,6 @@
       ]
     },
     {
-      "title": "Data centres could ignite a 'climate bomb' in Australia, report finds",
-      "link": "https://www.abc.net.au/news/2026-11-19/climate-council-report-data-centre-millions-tonnes-pollution-/107400036",
-      "source": "ABC News Business (AU)",
-      "date": "2026-11-18T20:02:01+00:00",
-      "display_date": "Nov 18, 2026",
-      "summary": "The Climate Council has identified nine proposed data centres in Australia that could produce up to 40 million tonnes of pollution a year by 2035 if powered by fossil fuels.",
-      "topics": [
-        "ESG & Sustainability"
-      ]
-    },
-    {
       "title": "US sanctions Hezbollah-linked charity in push against Iran's proxies, Treasury says - Reuters",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYTM2TVZTRTVjaWp6c2VodVYwVm5MeEFVMXZ0eFctVzZVaU94eGxScWNRMHlQb1ZJRzZ0YXpFekJ6SmJkR2RWcU4wVUNTWkJMU3J0NTFaSmw5clBIYWhFQklMM3NiSzZtV3dWYThROEZIRWlJWmpKWUhaM2w4cGIzMjhjVk5IREJRaHBnVjhpZVRjcWdoMF9MeUhRQXRqUi1RSWJ1LWxVcFVwNUxOVGc1WmQ1N2tKWEhrd2ZpQmxLY0dQdFFUS0p4ZGR5dEY?oc=5",
       "source": "Reuters",
@@ -479,17 +546,6 @@
       "summary": "US sanctions Hezbollah-linked charity in push against Iran's proxies, Treasury says Reuters",
       "topics": [
         "AML & Sanctions"
-      ]
-    },
-    {
-      "title": "‘Reasonable needs’: The $4 billion divorce battle that has gripped London",
-      "link": "https://www.smh.com.au/business/consumer-affairs/russian-billionaire-faces-one-of-the-most-expensive-divorces-in-history-20261119-p61ffy.html?ref=rss&utm_medium=rss&utm_source=rss_business",
-      "source": "The Sydney Morning Herald",
-      "date": "2026-11-18T19:24:13+00:00",
-      "display_date": "Nov 18, 2026",
-      "summary": "The ex-wife of a sanctioned Russian oligarch is demanding Britain’s largest-ever divorce payout to correct the “grave injustice” of her initial £63 million settlement.",
-      "topics": [
-        "Enforcement Actions"
       ]
     },
     {
@@ -545,6 +601,17 @@
       "summary": "Issuance of green bonds continued to increase in the third quarter of 2026, jumping by […]",
       "topics": [
         "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "ECI Compliance Week Monthly Membership Spotlight: Effective AI Governance",
+      "link": "https://www.complianceweek.com/webcast/eci-compliance-week-monthly-membership-spotlight-effective-ai-governance/",
+      "source": "Compliance Week",
+      "date": "2026-11-18T15:05:39+00:00",
+      "display_date": "Nov 18, 2026",
+      "summary": "AI has produced no shortage of demos, claims, and new terminology. But after the initial wave of experimentation, TPRM teams need a more useful conversation: What is actually working? The post ECI Compliance Week Monthly Membership Spotlight: Effective AI Governance appeared firs...",
+      "topics": [
+        "Operational & Enterprise Risk"
       ]
     },
     {
@@ -683,6 +750,17 @@
       ]
     },
     {
+      "title": "Reaction after Haaland's late penalty sees Denmark miss out on Nations League quarter-finals - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQY0pMczZJZGVGVFNDUWxCUjNRbk5DeG9rMU00UjctQmlwVWQ3ZzJXRzZLcUNxY2ZMcloyTDN2R25pUUJlanZqVFllU0lSVm5YRm5HbnlhTHlhX1Q0dzc5NW9iN0dBVEpLTFI3VEoxbWlMci1jVmstZ1ZTRzFEc1lkWlphYXRIM2xvOTRFelhDTUQ3RU9SbjFPNjlJQXZDX25uc05acVNtakR6LWloeVpvTUw2bXhnMHRfeW5pbVhaXy0waS1ZQ2xGbWhCdVZNNHFRYTdKbU9SS0UwT2ZWZUFLb0oyMnljMHJQcEpxX0U0LTZaVkdfNUJqN0xFREk?oc=5",
+      "source": "The Australian",
+      "date": "2026-11-18T01:21:18+00:00",
+      "display_date": "Nov 18, 2026",
+      "summary": "Reaction after Haaland's late penalty sees Denmark miss out on Nations League quarter-finals The Australian",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
       "title": "Australia sanctions Israeli settlers, organisations over West Bank expansion - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVlFrYWNBX1NLTHhNc00ycmhVV0dFNlRNX0xOcGFKcUhaYmNSU093YzlyTm9xOVlGRGlxblJhajk5ME5HMy0zeXFHc2FQUGFBd3lvUGtaNENWMTB2YVV6eHJ4NzZ1N3pHcjJqam9sQ2kxRk4wNUU4Z1NLbDA4bWQyUVpMakxVa0Q3S2UxeUE1Nm92RmhKUFVHMVl3UUVETHQxMVk4QlYwS0ZhNXRPSGVsUGRQX0F6OFJiZ1N5WGIyb1l5TkliTkhwT2NB?oc=5",
       "source": "Reuters",
@@ -802,17 +880,6 @@
       "date": "2026-11-17T15:00:00+00:00",
       "display_date": "Nov 17, 2026",
       "summary": "Comptroller of the Currency Jonathan V. Gould issued the following statement today supporting the Financial Crimes Enforcement Network's proposed amendments to customer due diligence requirements.",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "UK faces 'Farage penalty' if it pulls out of Brexit reset deal - The Australian - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOaXlOYlFfdzlMNDR6Ty1STGN2RkViWnFtNjFKRUs3Z2NNYkNadTIzZDk3LTZ2ZjlqU0R6Nml2ZEViRk10cTRUTTExdnItSFc3dC0wbVhBMjlJa01NQy1WY2xFejh0clR2X0lyTnRPLTdDVDdrb3VBdmh4NHJBNHNOZ1dRRXE2azhLVVZvMzBkRVNGR2poMjJaWEU4dEJ0c05qaVdsekJMQ0Foa0ZQcURmWDlhZ2RnV1N6UDZ4dFFyVnduOWxCZTJxeVIxY3ByWkh1Nlp5SXNFZmF2ZXF3dkZHYW5LTTF3YW5E?oc=5",
-      "source": "The Australian",
-      "date": "2026-11-17T14:19:40+00:00",
-      "display_date": "Nov 17, 2026",
-      "summary": "UK faces 'Farage penalty' if it pulls out of Brexit reset deal - The Australian The Australian",
       "topics": [
         "Enforcement Actions"
       ]
@@ -1162,12 +1229,12 @@
       ]
     },
     {
-      "title": "Revolut Ordered to Improve Money Laundering Controls in Italy - Bloomberg",
+      "title": "Revolut Ordered to Improve Money Laundering Controls in Italy - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVjg5SVFSRjltcjl4d3ZXUzdLV3ppc3U4TVctWTVqOVFUbUlTWXN1b0FyLUhEZWNEYmhyQXYzUVdTb05NSTJBMlZPVXd5T085WEhQOWI4TVFKYUpoZGVDdnYzQzZXOF93a21SbVB5bS1QYkdma3huZnBsc1hMNDN6U1ZPdVluYjI5WlQzbHBRTk15ODhjZUZCZ1REbWdlbmU0OHctWDY4N2p0ZV9SOG9hWkVoNA?oc=5",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "date": "2026-11-16T12:35:00+00:00",
       "display_date": "Nov 16, 2026",
-      "summary": "Revolut Ordered to Improve Money Laundering Controls in Italy Bloomberg",
+      "summary": "Revolut Ordered to Improve Money Laundering Controls in Italy Bloomberg.com",
       "topics": [
         "AML & Sanctions"
       ]
@@ -1280,29 +1347,6 @@
       "display_date": "Nov 13, 2026",
       "summary": "Jensen Huang’s resignation as Nvidia CEO over affairs with a suspected Chinese spy and a direct report exposes serious governance gaps compliance officers can’t ignore. The post Nvidia fiasco highlights compliance risks around industrial espionage, culture, and governance structu...",
       "topics": [
-        "Operational & Enterprise Risk"
-      ]
-    },
-    {
-      "title": "China’s Ping An Bank adopts board-level AI rules in a first for listed banks",
-      "link": "https://www.complianceweek.com/banking/chinas-ping-an-bank-adopts-board-level-ai-rules-in-a-first-for-listed-banks/",
-      "source": "Compliance Week",
-      "date": "2026-11-13T20:18:56+00:00",
-      "display_date": "Nov 13, 2026",
-      "summary": "Ping An Bank, a Shenzhen-listed institution, has formally adopted internal rules governing its use of AI. The bank’s board approved the measures following the principles of user accountability required by the National Financial Regulatory Administration. The post China’s Ping An ...",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "UK FCA publishes report on good and bad uses of AI and urges firms to focus on consumer outcomes and resilience",
-      "link": "https://www.complianceweek.com/artificial-intelligence/uk-fca-publishes-report-on-good-and-bad-uses-of-ai-and-urges-firms-to-focus-on-consumer-outcomes-and-resilience/",
-      "source": "Compliance Week",
-      "date": "2026-11-13T19:54:38+00:00",
-      "display_date": "Nov 13, 2026",
-      "summary": "The UK’s financial regulator has published examples of good and poor AI practices in the financial sector to help financial companies focus on areas that need improvement. The post UK FCA publishes report on good and bad uses of AI and urges firms to focus on consumer outcomes an...",
-      "topics": [
-        "Regulatory Change",
         "Operational & Enterprise Risk"
       ]
     },
@@ -1447,17 +1491,6 @@
       "summary": "The Office of the Comptroller of the Currency (OCC) today reported the key issues facing the federal banking system in the Semiannual Risk Perspective for Fall 2026.",
       "topics": [
         "Operational & Enterprise Risk"
-      ]
-    },
-    {
-      "title": "EU to Hit Russia With More Banking and Energy Sanctions - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWlE2aXFDZFdxNzlHU0Y5aHVNa3FuT09mRlFJZnY5ZWI3eTM2bHRkY1JVOVNVNi01X3Q4a1VMVlFQMWVKejFiMlVZWXc2TndNaDR0QjczejllWlRoNXM1NDlqTVo1MFRnb1dCRThOMExfTGV3d2VCTHB2ZXFMSWxCVm5hN3JkNFhsOHB0NjlCT0xkSC1mT1hLSE04SThmSzlWZUxnaU1SMm1LZw?oc=5",
-      "source": "Bloomberg.com",
-      "date": "2026-11-12T17:21:58+00:00",
-      "display_date": "Nov 12, 2026",
-      "summary": "EU to Hit Russia With More Banking and Energy Sanctions Bloomberg.com",
-      "topics": [
-        "AML & Sanctions"
       ]
     },
     {
@@ -1924,17 +1957,6 @@
       "summary": "The Securities and Exchange Commission took another step forward today to assist broker-dealers and other market participants on the path to central clearing of U.S. Treasury securities by issuing exemptive relief related to inter-affiliate repo…",
       "topics": [
         "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "Brits nearly twice as likely to spot pressure tactics in horror films as investment red flags",
-      "link": "https://www.fca.org.uk/news/press-releases/brits-nearly-twice-likely-spot-pressure-tactics-horror-films-investment-red-flags",
-      "source": "FCA UK Regulatory News",
-      "date": "2026-10-30T09:00:00+00:00",
-      "display_date": "Oct 30, 2026",
-      "summary": "Investors are almost twice as likely to recognise pressure tactics in a horror film as they are when those tactics are used to promote an investment opportunity, new FCA data suggests. A survey of UK 18 to 40-year-olds who own or are considering investments found 65% spotted ‘thi...",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
