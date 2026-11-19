@@ -1,16 +1,139 @@
 {
-  "last_updated": "November 19, 2026 12:58 UTC",
-  "total_count": 213,
+  "last_updated": "November 19, 2026 16:55 UTC",
+  "total_count": 225,
   "articles": [
     {
-      "title": "Walmart Sales Rise Powered by E-Commerce Gains",
-      "link": "https://www.wsj.com/business/earnings/walmart-wmt-3q-earnings-report-2026-6e658c54?mod=pls_whats_news_us_business_f",
-      "source": "Wall Street Journal",
-      "date": "2026-11-19T12:36:00+00:00",
+      "title": "Shadow AI Rivals Phishing as Cause of Major Security Incidents",
+      "link": "https://www.corporatecomplianceinsights.com/news-roundup-november-19-2026/",
+      "source": "Corporate Compliance Insights",
+      "date": "2026-11-19T16:30:50+00:00",
       "display_date": "Nov 19, 2026",
-      "summary": "The retail behemoth reported its total revenue grew 5.2% in the third quarter to $188.8 billion, and it raised its guidance for the full year.",
+      "summary": "Plus: Nearly 6 in 10 legal leaders see governance falling behind AI adoption; data breach class-action settlements total $3.2B since 2010 The post Shadow AI Rivals Phishing as Cause of Major Security Incidents appeared first on Corporate Compliance Insights .",
+      "topics": [
+        "Cybersecurity Risk",
+        "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "Four men guilty of sex crimes against woman drugged by husband in UK case with echoes of Pelicot - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVGVDYllRRjh6Y3htYVl1WEJoRkR0QkF1d0x1OFNyQnp0N0RjQTQ5V21pbXZGQTIyalJmR2VsZHFvMGJqMTlZRjFWbUhZb3hrN3J5M1VCN1lmVlh1c3ZFYXJrdHh5RkRrQm5TS1B6QzNtWm9rSUk4ZW1XSThzbXYwSmNsTGlib0JaUkhMZUxlWUhwVVktZmN1ckM1aHd1N0JmUVFtRGlaM0RWMUJhSmVBM0ZPUk43cURpQm13dDJR?oc=5",
+      "source": "Reuters",
+      "date": "2026-11-19T16:26:06+00:00",
+      "display_date": "Nov 19, 2026",
+      "summary": "Four men guilty of sex crimes against woman drugged by husband in UK case with echoes of Pelicot Reuters",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "Cyber and False Claims Act, Yet Again",
+      "link": "https://www.radicalcompliance.com/2026/11/19/cyber-and-false-claims-act-yet-again/",
+      "source": "Radical Compliance",
+      "date": "2026-11-19T16:25:57+00:00",
+      "display_date": "Nov 19, 2026",
+      "summary": "Before we all forget, last week the Justice Department settled yet another False Claims Act lawsuit with a government contractor over poor cybersecurity. That itself is not really news any longer — but when we consider who the whistleblower in the case was, and the myriad IT outa...",
+      "topics": [
+        "Cybersecurity Risk",
+        "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "US Treasury sanctions three people linked to Southeast Asia scam centers - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNM2M1YkZjRnJxTXVxYUdsSkdqaEV6X25QLWNsQ1dhQk1TeG50dlluelNFVk1Ra1VrMjNXUlV6WHJDSWdOY1ZsT3FXOFBlY2Zvb3N4UmhxNlhsdlMzaV9mN1ZneEd4NVpsN2g1ZlEyQ2txSmU1RzNOVWlKcGdaMWNhMW0xOG9XMUo1MUZ1UUZiazRGSS1qWXZSX25HMDFwd1JtYllFbTVXZU50YVBjVVE4Sg?oc=5",
+      "source": "Reuters",
+      "date": "2026-11-19T16:04:21+00:00",
+      "display_date": "Nov 19, 2026",
+      "summary": "US Treasury sanctions three people linked to Southeast Asia scam centers Reuters",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "Governance and culture failings at UK power grid operator putting network supply transparency at risk",
+      "link": "https://www.complianceweek.com/energy-and-utilities/governance-and-culture-failings-at-uk-power-grid-operator-putting-network-supply-transparency-at-risk/",
+      "source": "Compliance Week",
+      "date": "2026-11-19T16:00:00+00:00",
+      "display_date": "Nov 19, 2026",
+      "summary": "Serious governance and culture failings at the UK National Energy System Operator are undermining transparency and oversight of critical electricity supplies, a new report says. The post Governance and culture failings at UK power grid operator putting network supply transparency...",
+      "topics": [
+        "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers",
+      "link": "https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-11-19T15:52:00+00:00",
+      "display_date": "Nov 19, 2026",
+      "summary": "The incident involved data belonging to thousands of customers, but it isn’t disrupting payment services or connected to banking issues earlier this week.",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "KKR Acquires Stake in Gentari’s India Renewable Energy Platform",
+      "link": "https://www.esgtoday.com/kkr-acquires-stake-in-gentaris-india-renewable-energy-platform/?utm_source=rss&utm_medium=rss&utm_campaign=kkr-acquires-stake-in-gentaris-india-renewable-energy-platform",
+      "source": "ESG Today",
+      "date": "2026-11-19T15:43:23+00:00",
+      "display_date": "Nov 19, 2026",
+      "summary": "Alternative asset manager KKR announced on Thursday the acquisition of a minority stake in Gentari […]",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "Comanchero hit with US sanctions over links to Mexican drug cartels - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNX0lQdWczLW1NX1hDTXpyOWwtQXF1el96M3NLNjUxZnFWdUw0R25JbXJ3ZkZ6b2RCTzZ1bGVlcGR6TkdWUVd3eTdZSmpDcTVWVDBpQllMM3NHaFdqeVhxdjhuSmdadm81T0JtMUV3MVUyc3VKdHBCZmVfRHltMHdTT2RqMjFnMHo2aG56X3pVTzhCQTZZMnZUUTdmM3RVUWx5bU5BSEJUTmxZNEVoNUltRTJ4Ull5WExzRVdObHI3cW4tRy1zRmsydkVOMDM4X1ZVRU5GTm5sQnZ4ZEFOUzNwaWdlXzVodw?oc=5",
+      "source": "The Australian",
+      "date": "2026-11-19T15:37:03+00:00",
+      "display_date": "Nov 19, 2026",
+      "summary": "Comanchero hit with US sanctions over links to Mexican drug cartels The Australian",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "SEC: Eight Entities Used Fake Crypto Asset Trading Platforms to Steal More Than $37 Million From U.S. Investors",
+      "link": "https://www.sec.gov/newsroom/press-releases/2026-115-sec-eight-entities-used-fake-crypto-asset-trading-platforms-steal-more-37-million-us-investors",
+      "source": "SEC Press Releases",
+      "date": "2026-11-19T14:39:02+00:00",
+      "display_date": "Nov 19, 2026",
+      "summary": "The Securities and Exchange Commission today charged eight Colorado-based entities, likely operated by individuals located overseas, for defrauding U.S. investors out of more than $37 million. The defendants allegedly lured investors to believe they were…",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "Pulpex Raises Over $30 Million to Scale Paper-based Bottle Production",
+      "link": "https://www.esgtoday.com/pulpex-raises-over-30-million-to-scale-paper-based-bottle-technology/?utm_source=rss&utm_medium=rss&utm_campaign=pulpex-raises-over-30-million-to-scale-paper-based-bottle-technology",
+      "source": "ESG Today",
+      "date": "2026-11-19T14:37:09+00:00",
+      "display_date": "Nov 19, 2026",
+      "summary": "Sustainable packaging technology company Pulpex announced £24.6 million (USD$32.3 million) in new investments, including £19.6 […]",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "Genel Energy PLC: STATEMENT REGARDING SATISFACTION OF REGULATORY CONDITIONS AND EXPECTED SCHEME TIMETABLE – Company Announcement - FT.com - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX2ZfNms5YTdlVDhEN0xRemxmRm1nbXlRVTVMU0RUQWpSOHRoTTNRaHdNQnZfcTItNVNUWDN4TktFNTNJZVpkdzE4UFo3UXNFejFFb29kdDFWa2hCUEtXdnVYTlBCdXAtLTd6V2wyNHR4SFhfUXJIQkFzNGFFSzdaTEhSNElqMnVmNnJEU1dINHQxdS1kSnRGR00wdGY1NjNkWm1oZTZNbGMtNmM?oc=5",
+      "source": "Financial Times",
+      "date": "2026-11-19T14:16:00+00:00",
+      "display_date": "Nov 19, 2026",
+      "summary": "Genel Energy PLC: STATEMENT REGARDING SATISFACTION OF REGULATORY CONDITIONS AND EXPECTED SCHEME TIMETABLE – Company Announcement - FT.com Financial Times",
       "topics": [
         "Regulatory Change"
+      ]
+    },
+    {
+      "title": "EU Lawmakers, States Agree to 2-Year Delay to Methane Reporting Rules",
+      "link": "https://www.esgtoday.com/eu-lawmakers-states-agree-to-2-year-delay-to-methane-reporting-rules/?utm_source=rss&utm_medium=rss&utm_campaign=eu-lawmakers-states-agree-to-2-year-delay-to-methane-reporting-rules",
+      "source": "ESG Today",
+      "date": "2026-11-19T13:02:36+00:00",
+      "display_date": "Nov 19, 2026",
+      "summary": "Lawmakers in the European Parliament and EU Member States announced that reached a provisional agreement […]",
+      "topics": [
+        "ESG & Sustainability"
       ]
     },
     {
@@ -58,6 +181,41 @@
       ]
     },
     {
+      "title": "Elecbrakes EB2, VM1, ELBC2000",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-02",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-11-19T12:00:00+00:00",
+      "display_date": "Nov 19, 2026",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to gain control of the brakes of a trailer, modify the firmware, disable the brake lights, modify the brake conditions or disable other critical safety features. The following versions of E...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "libumqtt",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-03",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-11-19T12:00:00+00:00",
+      "display_date": "Nov 19, 2026",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow a remote attacker to cause a denial of service, memory corruption, or information disclosure. The following versions of libumqtt are affected: libumqtt <=1.1.1 (CVE-2026-125132) CVSS Vendor Equipment v3 8...",
+      "topics": [
+        "Cybersecurity Risk",
+        "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "Autonomy Logic OpenPLC Runtime",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-01",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-11-19T12:00:00+00:00",
+      "display_date": "Nov 19, 2026",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow several unauthenticated admin accounts to be created. The following versions of Autonomy Logic OpenPLC Runtime are affected: OpenPLC Runtime <=4.2.4 (CVE-2026-126088) CVSS Vendor Equipment v3 8.1 Autonomy...",
+      "topics": [
+        "Cybersecurity Risk",
+        "Operational & Enterprise Risk"
+      ]
+    },
+    {
       "title": "Chalmers urged to roll back climate, gender rules in productivity push - AFR",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbkFOSmRYdHZHQVJQNzRNVXJKQWp5M3NrSGpVcnE3ZUpZODFDQy1fWVRyT3FrM1gwYUdzYVVzNEttVEhsdTd2VkVqQjdIQlgyeGFWUVZVVS1qZEhnVWJXOHBDUUdwVFJQRHpXbDNsazRBZjgteXNzU2FYTl9iVkU3VFh1d0lJSjdsR1lNOVJwa2JLbnpUQk1FMm44SDdDNmRVN19WeUlNTm5OdU1OQ0ZkSDR0RlhTMlJaTHRpazRwbw?oc=5",
       "source": "AFR",
@@ -80,7 +238,7 @@
       ]
     },
     {
-      "title": "TNFD Urges ISSB to Issue Mandatory Nature-Related Reporting Standard",
+      "title": "TNFD Calls for Mandatory ISSB Nature Reporting Standard by 2030",
       "link": "https://www.esgtoday.com/tnfd-urges-issb-to-issue-mandatory-nature-related-reporting-standard/?utm_source=rss&utm_medium=rss&utm_campaign=tnfd-urges-issb-to-issue-mandatory-nature-related-reporting-standard",
       "source": "ESG Today",
       "date": "2026-11-19T10:45:51+00:00",
@@ -143,6 +301,17 @@
       "date": "2026-11-19T07:39:23+00:00",
       "display_date": "Nov 19, 2026",
       "summary": "Instead of pushing for less tax, the reported alliance of 30 business and industry organisations planning their own summit should step up. Here are three fantasy agenda items Business groups have “lost hope” in the government’s ability to make them more efficient and dynamic, and...",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Meta to Hire New India Policy Chief to Repair Frayed Ties - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTm9iZ2RRdVlMZERWVEZsZUlSLUt6LXhGM0lVcFdzeGVTOExGWTkyY0dwak03a3VPbGFCVkFNMEFudTB3b0toSWdFZklLZ25DdDNZejdjeVdpa0szNWFGaENMUVhHQTFyNE9mcTNLZXcwLVJWdEVvYWJqUGhTclR3SzJnb01mei1DY1VxZk42NkxaMjhoMmZYZEtsX1dWMjlDYUd1TW9aaDRibTdhV29kUlJlWHc?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-11-19T07:19:00+00:00",
+      "display_date": "Nov 19, 2026",
+      "summary": "Meta to Hire New India Policy Chief to Repair Frayed Ties Bloomberg.com",
       "topics": [
         "Regulatory Change"
       ]
@@ -269,6 +438,17 @@
       ]
     },
     {
+      "title": "The Cyber Outages Hearing Was, Unsurprisingly, a Waste of Time - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNS1BLcjlFdXcwRjYyY0dJMjh4RHhyYUNRbGNFZjZQdTcwRmd0dlhmYmZJRnBZOTVyald2UW5sQ0RDbUtqNUxudDlkdkpqQ1JlZkZLWXFXMmQ1UllaczBCWGlsVVlIRFhzNUhwcnRWeUdnRXdpWDcyMk80blJ0WHFFUnVsUnJBSTEySms2ZTVzWHhaVjZFel9wMWMwTkI1UWRZSDVWb2xJOFBFcnlWaUF1Z2dkQlk4NVg4VDFkUDZPRmVHUQ?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-11-18T21:19:34+00:00",
+      "display_date": "Nov 18, 2026",
+      "summary": "The Cyber Outages Hearing Was, Unsurprisingly, a Waste of Time Bloomberg.com",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
       "title": "Bankrupt Dish Wireless Strikes $525 Million Settlement Deal With American Tower",
       "link": "https://www.wsj.com/pro/bankruptcy/bankrupt-dish-wireless-strikes-525-million-settlement-deal-with-american-tower-63391fd1?mod=pls_whats_news_us_business_f",
       "source": "Wall Street Journal",
@@ -291,14 +471,14 @@
       ]
     },
     {
-      "title": "US tightens Iran blockade with curbs on oil transfers at sea, advisory shows - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNS21BSEJXWHdIUGpZcWRtZm0tT084cTd5WFpvbFZUeE9wdHkyelI4Y2pFamp5YmY3S09BRm9zMWQ3VE5NcHVnSGZNM20yZ3B5NE1mXzZ4VVg3NUZ5RTVuQ2owQzE4MkxpaTBIcEhCNng4MDE1ZnpyTUVOMUVHVFdzcm14Mkl2TlNGZmNuVFQ1NFMwdGFOT1JSTEFURDNOQ005cWVaUG5ybmtyNWQyTW1QMG82SHhGQXNmb3VMTUtB?oc=5",
+      "title": "US sanctions Hezbollah-linked charity in push against Iran's proxies, Treasury says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYTM2TVZTRTVjaWp6c2VodVYwVm5MeEFVMXZ0eFctVzZVaU94eGxScWNRMHlQb1ZJRzZ0YXpFekJ6SmJkR2RWcU4wVUNTWkJMU3J0NTFaSmw5clBIYWhFQklMM3NiSzZtV3dWYThROEZIRWlJWmpKWUhaM2w4cGIzMjhjVk5IREJRaHBnVjhpZVRjcWdoMF9MeUhRQXRqUi1RSWJ1LWxVcFVwNUxOVGc1WmQ1N2tKWEhrd2ZpQmxLY0dQdFFUS0p4ZGR5dEY?oc=5",
       "source": "Reuters",
-      "date": "2026-11-18T19:32:18+00:00",
+      "date": "2026-11-18T19:48:32+00:00",
       "display_date": "Nov 18, 2026",
-      "summary": "US tightens Iran blockade with curbs on oil transfers at sea, advisory shows Reuters",
+      "summary": "US sanctions Hezbollah-linked charity in push against Iran's proxies, Treasury says Reuters",
       "topics": [
-        "Regulatory Change"
+        "AML & Sanctions"
       ]
     },
     {
@@ -481,28 +661,6 @@
       ]
     },
     {
-      "title": "Macquarie, Revera Team Up to Build Battery Storage Portfolio in UK",
-      "link": "https://www.esgtoday.com/macquarie-launches-battery-storage-jv-with-carlyle-backed-revera-energy/?utm_source=rss&utm_medium=rss&utm_campaign=macquarie-launches-battery-storage-jv-with-carlyle-backed-revera-energy",
-      "source": "ESG Today",
-      "date": "2026-11-18T08:25:58+00:00",
-      "display_date": "Nov 18, 2026",
-      "summary": "Carlyle-backed energy infrastructure company Revera Energy announced the launch of a strategic joint venture with […]",
-      "topics": [
-        "ESG & Sustainability"
-      ]
-    },
-    {
-      "title": "EU Greenlights $10 Billion Dutch Offshore Wind Energy Scheme",
-      "link": "https://www.esgtoday.com/eu-greenlights-10-billion-dutch-offshore-wind-energy-scheme/?utm_source=rss&utm_medium=rss&utm_campaign=eu-greenlights-10-billion-dutch-offshore-wind-energy-scheme",
-      "source": "ESG Today",
-      "date": "2026-11-18T08:22:22+00:00",
-      "display_date": "Nov 18, 2026",
-      "summary": "The European Commission announced today that it has approved a €9.5 billion (USD$10.4 billion) state […]",
-      "topics": [
-        "ESG & Sustainability"
-      ]
-    },
-    {
       "title": "Xi, Putin blast Western 'protectionism' and sanctions as Trump lands in China - Reuters",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb21UOHp4X2E2V05LRUhhUjhnSzI5b1NmNDRVQWhCb2RTV3gwQng0N3lKQ2lnV3JrbjB2cTBpSkNObTdwbXowR2d0UEt5NFp5blJtallNRjdFSjNoVDdxNkNXWFI4bmpETEV5TUs2OE16WW1lLTR0NkZCbEdXZF9OVDVycUFYV2p2aklNS3dR?oc=5",
       "source": "Reuters",
@@ -547,17 +705,6 @@
       ]
     },
     {
-      "title": "Australia targets Israeli settlements with fresh sanctions - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMU44WVRMajJfMzJaNTVCaDFwdlVadkQ3Qm9CTkVmeXBjTS1TYjhpSTVkajBwSkI4ZUhpQ2twNU9zRkwydVU2ZUE2amZqY2E4cHlKVVJ1WDJoVzBJZFZVUk5kRmNybERCQ2tPS1M3Q1p5Zzd5WC1lN3hEN0Ryc2p1TVJkVXRiY2VLYmRqUTMyQ2F4UHFZUDVrOGtQUkZNNXlJaE4zTDJXV05YOTliTEZwQXU3RFVyaWpxaEhmOVc0QjRPd0VNVmdsSm0yMjR4WG1PQVdyZEtabDdZenBqS3F1Vzhjdw?oc=5",
-      "source": "The Australian",
-      "date": "2026-11-17T21:59:41+00:00",
-      "display_date": "Nov 17, 2026",
-      "summary": "Australia targets Israeli settlements with fresh sanctions The Australian",
-      "topics": [
-        "AML & Sanctions"
-      ]
-    },
-    {
       "title": "Kalshi suspends Trump speech wagers on US regulatory order - Reuters",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOUxvREJseXMtOWhTYnY1RUdXZkhROXJrTEtBRjQxaW1VTWJrQkctUm5xZWc5aFAwU1dtS2FwZmd4SmtaVEdrc1lLT0NzNXZ1VUZpaTYtTTVSLTU2UUUyZF92eGZqTGt6U1hNczBVOUpDTUhXUjdraFZFYUF0V250dE45WEVLWWh4Q1NmZkZ2QUg0bWV5ZDJpTUVsbzNQNG1rTlRuRlVCMDY3SURP?oc=5",
       "source": "Reuters",
@@ -566,6 +713,17 @@
       "summary": "Kalshi suspends Trump speech wagers on US regulatory order Reuters",
       "topics": [
         "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Australia targets Israeli settlements with fresh sanctions - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMU44WVRMajJfMzJaNTVCaDFwdlVadkQ3Qm9CTkVmeXBjTS1TYjhpSTVkajBwSkI4ZUhpQ2twNU9zRkwydVU2ZUE2amZqY2E4cHlKVVJ1WDJoVzBJZFZVUk5kRmNybERCQ2tPS1M3Q1p5Zzd5WC1lN3hEN0Ryc2p1TVJkVXRiY2VLYmRqUTMyQ2F4UHFZUDVrOGtQUkZNNXlJaE4zTDJXV05YOTliTEZwQXU3RFVyaWpxaEhmOVc0QjRPd0VNVmdsSm0yMjR4WG1PQVdyZEtabDdZenBqS3F1Vzhjdw?oc=5",
+      "source": "The Australian",
+      "date": "2026-11-17T20:40:00+00:00",
+      "display_date": "Nov 17, 2026",
+      "summary": "Australia targets Israeli settlements with fresh sanctions The Australian",
+      "topics": [
+        "AML & Sanctions"
       ]
     },
     {
@@ -613,17 +771,6 @@
       "topics": [
         "Enforcement Actions",
         "AML & Sanctions"
-      ]
-    },
-    {
-      "title": "Amazon Targets $7 Billion in New Renewable Energy Investments in India by 2030",
-      "link": "https://www.esgtoday.com/amazon-targets-7-billion-in-new-renewable-energy-investments-in-india-by-2030/?utm_source=rss&utm_medium=rss&utm_campaign=amazon-targets-7-billion-in-new-renewable-energy-investments-in-india-by-2030",
-      "source": "ESG Today",
-      "date": "2026-11-17T17:33:04+00:00",
-      "display_date": "Nov 17, 2026",
-      "summary": "Amazon announced plans to significantly grow its clean energy portfolio in India, with the company […]",
-      "topics": [
-        "ESG & Sustainability"
       ]
     },
     {
@@ -694,12 +841,12 @@
       ]
     },
     {
-      "title": "Siemens ROS#",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-06",
+      "title": "Siemens Simcenter Femap",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-10",
       "source": "CISA Cybersecurity Advisories",
       "date": "2026-11-17T12:00:00+00:00",
       "display_date": "Nov 17, 2026",
-      "summary": "View CSAF Summary ROS# before version 2.3.1 contains a code injection vulnerability that could allow an attacker that is able to pass a crafted message definition file to the user to inject arbitrary code into the generated program. Siemens has released a new version for ROS# and...",
+      "summary": "View CSAF Summary Simcenter Femap is affected by an out of bounds read vulnerability that could be triggered when the application reads files in X_T format. This could allow an attacker to crash the application or execute arbitrary code. Siemens has released a new version for Sim...",
       "topics": [
         "Cybersecurity Risk"
       ]
@@ -760,12 +907,12 @@
       ]
     },
     {
-      "title": "Siemens Simcenter Femap",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-10",
+      "title": "Siemens ROS#",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-06",
       "source": "CISA Cybersecurity Advisories",
       "date": "2026-11-17T12:00:00+00:00",
       "display_date": "Nov 17, 2026",
-      "summary": "View CSAF Summary Simcenter Femap is affected by an out of bounds read vulnerability that could be triggered when the application reads files in X_T format. This could allow an attacker to crash the application or execute arbitrary code. Siemens has released a new version for Sim...",
+      "summary": "View CSAF Summary ROS# before version 2.3.1 contains a code injection vulnerability that could allow an attacker that is able to pass a crafted message definition file to the user to inject arbitrary code into the generated program. Siemens has released a new version for ROS# and...",
       "topics": [
         "Cybersecurity Risk"
       ]
@@ -793,24 +940,23 @@
       ]
     },
     {
-      "title": "Siemens RUGGEDCOM APE1808",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-07",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-11-17T12:00:00+00:00",
-      "display_date": "Nov 17, 2026",
-      "summary": "View CSAF Summary Fortinet has published information on a Double Free vulnerability in FortiOS. This advisory lists the related Siemens Industrial products. Siemens recommends to update Fortigate NGFW to V7.6.9 or later following the secure update recommendation procedure. Contac...",
-      "topics": [
-        "Regulatory Change",
-        "Cybersecurity Risk"
-      ]
-    },
-    {
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/11/17/cisa-adds-one-known-exploited-vulnerability-catalog",
       "source": "CISA Cybersecurity Advisories",
       "date": "2026-11-17T12:00:00+00:00",
       "display_date": "Nov 17, 2026",
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-115731 Perforce Puppet Enterprise Deserialization of Untrusted Data Vulnerability This type of vulnerability is a frequent attack vector ...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "Siemens meta-iot2050",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-11",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-11-17T12:00:00+00:00",
+      "display_date": "Nov 17, 2026",
+      "summary": "View CSAF Summary meta-iot2050 (https://github.com/siemens/meta-iot2050) from V01.03.01 contains a Command Injection vulnerability in the firmware update tool that could allow an attacker which is able to manipulate a configuration file to have arbitrary commands run as root. Sie...",
       "topics": [
         "Cybersecurity Risk"
       ]
@@ -827,13 +973,14 @@
       ]
     },
     {
-      "title": "Siemens meta-iot2050",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-11",
+      "title": "Siemens RUGGEDCOM APE1808",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-07",
       "source": "CISA Cybersecurity Advisories",
       "date": "2026-11-17T12:00:00+00:00",
       "display_date": "Nov 17, 2026",
-      "summary": "View CSAF Summary meta-iot2050 (https://github.com/siemens/meta-iot2050) from V01.03.01 contains a Command Injection vulnerability in the firmware update tool that could allow an attacker which is able to manipulate a configuration file to have arbitrary commands run as root. Sie...",
+      "summary": "View CSAF Summary Fortinet has published information on a Double Free vulnerability in FortiOS. This advisory lists the related Siemens Industrial products. Siemens recommends to update Fortigate NGFW to V7.6.9 or later following the secure update recommendation procedure. Contac...",
       "topics": [
+        "Regulatory Change",
         "Cybersecurity Risk"
       ]
     },
@@ -993,6 +1140,17 @@
       ]
     },
     {
+      "title": "ALIMENTATION COUCHE-TARD ANNOUNCES RECEIPT OF ALL REGULATORY APPROVALS FOR ITS VOLUNTARY TENDER OFFER FOR ŻABKA GROUP – Company Announcement - FT.com - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcnk5NDFjcnVLOU9wVnY3Q0NWaENhTTJwRlhWMDBiQzMybkhnXzFtTWZpYUxuWDNUSmFCOUJ4S2g3dXN1bVA1TW11Z0ZldTg4aWdEM2szVmtlUllSRzdFekNPRHZyOTc0czlEWGF0cGprNFlVNUF0SE9SRi0tS0NzRXlGcEVLQmJPTFpvekFCSXlNQUl2MGc?oc=5",
+      "source": "Financial Times",
+      "date": "2026-11-16T14:00:00+00:00",
+      "display_date": "Nov 16, 2026",
+      "summary": "ALIMENTATION COUCHE-TARD ANNOUNCES RECEIPT OF ALL REGULATORY APPROVALS FOR ITS VOLUNTARY TENDER OFFER FOR ŻABKA GROUP – Company Announcement - FT.com Financial Times",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
       "title": "EU adds Russian online retailer Wildberries' CEO to Russia sanctions list - Reuters",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMDViUTRuRmxGQmI1RjhrV3pjZTdZS0NLMXZDQkFXX3RSNU1CLW03WjlwSVhRaDhvbFl1MlFPblV3YjJ4WFZoaDBRRzVKdThBYjFTWEpVMWdiaFJsTGVKa1pCeXVtZE42Mk1mWmdpd2FhaC1kVzduR01OdHByd2dnTUNmeFpRNFI5dC1MWDg5QWQwV253dTZzMFd6dUZfcGtzWlFjN2xzeTFjaG9FcUx3eg?oc=5",
       "source": "Reuters",
@@ -1023,17 +1181,6 @@
       "summary": "Western regimes keep separate lists updated at their own pace The post A Ship by Any Other Name: How Russia’s Shadow Fleet Outruns Sanctions appeared first on Corporate Compliance Insights .",
       "topics": [
         "AML & Sanctions"
-      ]
-    },
-    {
-      "title": "Cyber Startup Corma Raises $125 Million for Defensive AI Agents",
-      "link": "https://www.wsj.com/pro/cybersecurity/cyber-startup-corma-raises-125-million-for-defensive-ai-agents-f30a4387?mod=pls_whats_news_us_business_f",
-      "source": "Wall Street Journal",
-      "date": "2026-11-16T12:00:00+00:00",
-      "display_date": "Nov 16, 2026",
-      "summary": "The year-old startup’s agents are custom-trained for defensive cybersecurity.",
-      "topics": [
-        "Cybersecurity Risk"
       ]
     },
     {
@@ -1204,6 +1351,17 @@
       ]
     },
     {
+      "title": "Wall Street Regulator Finra Moves to Give Industry Bigger Role - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbEt0S2ZiQ2hNRF9WR2dDSTZCbGd0VFJSZ1J0VS1DX0hFenY2bV9ab2w3VmZNT1RKSEREZGhidVV4ZmY2VU1ibEJ1bkNSMVN0NC0tMlFIcTBPQ1ZWVFBWVmFELW1TN0xlb053MWpYaXBvVjdmejlyWURoODIxZVBIWVl3eFJJZlpSbDd2UURrNlZmWjlYd3JkNHZhVjRoc1ExTXFQVHUyNVRxZ2lzQzIwYnRjWQ?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-11-13T15:33:25+00:00",
+      "display_date": "Nov 13, 2026",
+      "summary": "Wall Street Regulator Finra Moves to Give Industry Bigger Role Bloomberg.com",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
       "title": "GRC Business Roundup: Arcus Compliance, Njordium, Cloud Range, Globalli, LeapXpert & More",
       "link": "https://www.corporatecomplianceinsights.com/grc-business-roundup-arcus-compliance-njordium-cloud-range-globalli-leapxpert-more/",
       "source": "Corporate Compliance Insights",
@@ -1237,6 +1395,17 @@
       ]
     },
     {
+      "title": "‘A step too far’: Privacy fears on bid to name trust recipients - AFR",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY1B1anoxQ0pkOXhZR0ZUdDVDdXkwdEM3M3JYLWJZNDlnYTVzV2ZES3Vja2lOY2VPOVI2c2VPd3lndF9JdFNDbUNlU25Ed1V3ck9NLUtVWVRjNm1ObGN4cVpKN2o5d3pPT0Rid3U1YlpvLXQzdnlVRHJGcUxMQjNnb3FOUV9iWjNNZC0tVEY2WHJZUGg4LW15YXJOWndwR1BHVVhmVXBQemVMR0NUY1JjWXhVMWdhQkRV?oc=5",
+      "source": "AFR",
+      "date": "2026-11-13T06:20:00+00:00",
+      "display_date": "Nov 13, 2026",
+      "summary": "‘A step too far’: Privacy fears on bid to name trust recipients AFR",
+      "topics": [
+        "Data Privacy"
+      ]
+    },
+    {
       "title": "Grant of ASX waiver of Listing Rule 10.13.5 - AFR",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSm9uMFhsSWthUmlZdm40VU1RWVNSUGhLWkJNamt4UmlqLU9jcDRlXzVaTTE0MlhoVktWY3cwVmFGMVdiUF84LWJuMUJaY3prOW1BRDM4ZVNkWTBwTHhid2hEY0M1NTFfQTNvUmZMYzR3eU1BajVYajc0Ykt2X2N6ajRTVk5jeDN3MUdUWnA1NA?oc=5",
       "source": "AFR",
@@ -1259,14 +1428,14 @@
       ]
     },
     {
-      "title": "Singapore regulator tells financial firms to tighten AI oversight",
-      "link": "https://www.complianceweek.com/artificial-intelligence/singapore-regulator-tells-financial-firms-to-tighten-ai-oversight/",
-      "source": "Compliance Week",
-      "date": "2026-11-13T01:50:50+00:00",
-      "display_date": "Nov 13, 2026",
-      "summary": "The Monetary Authority of Singapore issued new AI risk management guidelines for financial institutions, setting out supervisory expectations firms must meet by Oct. 7, 2027. The post Singapore regulator tells financial firms to tighten AI oversight appeared first on Compliance W...",
+      "title": "Watch Allen Says US Needs Stronger Export-Control Enforcement - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbl85NFQtREwxUUxzaFVyeFF4anh2N2tJSUd3NUx1aXV6clNkVlZMQzFOOVJ1T2I4dTRoNGRPZGg5amFHM3NFUmR3NGM2Yk1lc3NJRWZ1TVhvR0RHSFlpaHhtSUYzWTdXWk8wZ3FOdTF4RkJELVA2cmJzLUd0d2VFLXFyRGhWbXBXZkVfTnRWMEw3SV9wMmMtSzlwaFB1NTJjSm4xeV9PMlkxWkFZcWw0?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-11-12T23:56:06+00:00",
+      "display_date": "Nov 12, 2026",
+      "summary": "Watch Allen Says US Needs Stronger Export-Control Enforcement Bloomberg.com",
       "topics": [
-        "Regulatory Change"
+        "Enforcement Actions"
       ]
     },
     {
@@ -1278,6 +1447,17 @@
       "summary": "The Office of the Comptroller of the Currency (OCC) today reported the key issues facing the federal banking system in the Semiannual Risk Perspective for Fall 2026.",
       "topics": [
         "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "EU to Hit Russia With More Banking and Energy Sanctions - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWlE2aXFDZFdxNzlHU0Y5aHVNa3FuT09mRlFJZnY5ZWI3eTM2bHRkY1JVOVNVNi01X3Q4a1VMVlFQMWVKejFiMlVZWXc2TndNaDR0QjczejllWlRoNXM1NDlqTVo1MFRnb1dCRThOMExfTGV3d2VCTHB2ZXFMSWxCVm5hN3JkNFhsOHB0NjlCT0xkSC1mT1hLSE04SThmSzlWZUxnaU1SMm1LZw?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-11-12T17:21:58+00:00",
+      "display_date": "Nov 12, 2026",
+      "summary": "EU to Hit Russia With More Banking and Energy Sanctions Bloomberg.com",
+      "topics": [
+        "AML & Sanctions"
       ]
     },
     {
@@ -1303,17 +1483,6 @@
       ]
     },
     {
-      "title": "EU to present new Russia sanctions package, Ukraine funding measures by year-end - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNd2hxVXptWFBac1VNdFFUOE8zVi02NklWdlhCenlSNjROVGx3QVJpSERMN0lsbUEtWHpwODVGSVZFeV9CN3ZWb09xcHBCMnVfYkFaZHhiOU1YSWJFb3EtdWJwWW01UGRxTEtOVzlkVUxSTGotaVhfSVhFOVVVVFdfN0hKb3gtNjUtdUprOFFrVmxTa0lrYk5wWnNxVm9OaGFsNk1GRF93NUdrWXB4ZUItTFkzZFA2YjlpNGx5dmZZNjMwTUM5NmVNNg?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-12T12:58:12+00:00",
-      "display_date": "Nov 12, 2026",
-      "summary": "EU to present new Russia sanctions package, Ukraine funding measures by year-end Reuters",
-      "topics": [
-        "AML & Sanctions"
-      ]
-    },
-    {
       "title": "DuPont Sold Safety to the World While Its Own Plant’s Rules Stayed on Paper",
       "link": "https://www.corporatecomplianceinsights.com/dupont-sold-safety-to-world-while-own-plant-rules-stayed-paper/",
       "source": "Corporate Compliance Insights",
@@ -1322,6 +1491,17 @@
       "summary": "The 2014 incident that killed workers at a Texas plant traces to a daily task no procedure ever covered and an urgent repair that was never done The post DuPont Sold Safety to the World While Its Own Plant’s Rules Stayed on Paper appeared first on Corporate Compliance Insights .",
       "topics": [
         "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "Siemens Building Automation and Energy Products",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-01",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-11-12T12:00:00+00:00",
+      "display_date": "Nov 12, 2026",
+      "summary": "View CSAF Summary On October 21, 2026, the PHP project and security researchers disclosed two critical, unauthenticated remote code execution vulnerabilities in the core PHP language runtime known as \"php2shell\" (tracked as CVE-2026-109618 and CVE-2026-109619). This advisory cove...",
+      "topics": [
+        "Regulatory Change"
       ]
     },
     {
@@ -1344,17 +1524,6 @@
       "summary": "View CSAF Summary Siemens is currently assessing the impact of Node2Shell (CVE-2026-111497) on Industrial Edge. Please check your Industrial Edge Management (IEM) setup: - No Management Applications installed: No action is required. Although the affected Brotli library is include...",
       "topics": [
         "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "Siemens Building Automation and Energy Products",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-01",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-11-12T12:00:00+00:00",
-      "display_date": "Nov 12, 2026",
-      "summary": "View CSAF Summary On October 21, 2026, the PHP project and security researchers disclosed two critical, unauthenticated remote code execution vulnerabilities in the core PHP language runtime known as \"php2shell\" (tracked as CVE-2026-109618 and CVE-2026-109619). This advisory cove...",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
@@ -1454,17 +1623,6 @@
       "summary": "The practice you’ve noticed is colloquially known as ‘review gating’, writes consumer affairs and policy professional Kat George . And no, it isn’t legal Read more Australian customer service questions I have noticed that when I get an email inviting me to review a product or ser...",
       "topics": [
         "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Stop Calling Compliance a Cost Center",
-      "link": "https://www.corporatecomplianceinsights.com/stop-calling-compliance-cost-center/",
-      "source": "Corporate Compliance Insights",
-      "date": "2026-11-10T12:00:43+00:00",
-      "display_date": "Nov 10, 2026",
-      "summary": "As budgets shrink again, Bank of America’s $2 billion October penalties show what it costs when compliance can see a problem but lacks the authority to stop it The post Stop Calling Compliance a Cost Center appeared first on Corporate Compliance Insights .",
-      "topics": [
-        "Operational & Enterprise Risk"
       ]
     },
     {
@@ -1578,6 +1736,17 @@
       ]
     },
     {
+      "title": "US Government Partners Urge Hardening Industrial Refrigeration and Cold Chain Monitoring Systems",
+      "link": "https://www.cisa.gov/resources-tools/resources/us-government-partners-urge-hardening-industrial-refrigeration-and-cold-chain-monitoring-systems",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-11-05T12:00:00+00:00",
+      "display_date": "Nov 05, 2026",
+      "summary": "Overview The Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), Health and Human Services (HHS), U.S. Department of Agriculture (USDA), and the Department of Transportation (DoT)—hereafter referred to as “the authoring organizations”—a...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
       "title": "Post-Quantum Questions to Ask Your Vendors",
       "link": "https://www.cisa.gov/resources-tools/resources/post-quantum-questions-ask-your-vendors",
       "source": "CISA Cybersecurity Advisories",
@@ -1588,17 +1757,6 @@
         "Regulatory Change",
         "Cybersecurity Risk",
         "Operational & Enterprise Risk"
-      ]
-    },
-    {
-      "title": "US Government Partners Urge Hardening Industrial Refrigeration and Cold Chain Monitoring Systems",
-      "link": "https://www.cisa.gov/resources-tools/resources/us-government-partners-urge-hardening-industrial-refrigeration-and-cold-chain-monitoring-systems",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-11-05T12:00:00+00:00",
-      "display_date": "Nov 05, 2026",
-      "summary": "Overview The Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), Health and Human Services (HHS), U.S. Department of Agriculture (USDA), and the Department of Transportation (DoT)—hereafter referred to as “the authoring organizations”—a...",
-      "topics": [
-        "Cybersecurity Risk"
       ]
     },
     {
@@ -1722,18 +1880,6 @@
       "summary": "Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user's Internet connection out to strangers and conducts advertising fraud. Experts involv...",
       "topics": [
         "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "Extreme, Part II: The Sanctions Violations",
-      "link": "https://www.radicalcompliance.com/2026/11/02/extreme-part-ii-the-sanctions-violations/",
-      "source": "Radical Compliance",
-      "date": "2026-11-02T21:55:29+00:00",
-      "display_date": "Nov 02, 2026",
-      "summary": "Today we return to Extreme Networks, the tech company fined $2.5 million last week for sanctions violations and its “near miss” in voluntary self-disclosure that left the company with a non-prosecution agreement rather than a declination. Fascinating as that disclosure flub might...",
-      "topics": [
-        "Enforcement Actions",
-        "AML & Sanctions"
       ]
     },
     {
@@ -2123,17 +2269,6 @@
       "topics": [
         "Enforcement Actions",
         "Regulatory Change"
-      ]
-    },
-    {
-      "title": "SEC Issues “Innovation Exemption” to Facilitate the Trading of Tokenized NMS Stock and Request for Comment",
-      "link": "https://www.sec.gov/newsroom/press-releases/2026-90-sec-issues-innovation-exemption-facilitate-trading-tokenized-nms-stock-request-comment",
-      "source": "SEC Press Releases",
-      "date": "2026-09-17T12:55:00+00:00",
-      "display_date": "Sep 17, 2026",
-      "summary": "The SEC is taking a significant step forward, within its statutory authority, to bring America’s capital markets into the digital age by facilitating onchain trading of certain tokenized stocks.",
-      "topics": [
-        "Enforcement Actions"
       ]
     },
     {
