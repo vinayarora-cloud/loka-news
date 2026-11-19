@@ -1,7 +1,129 @@
 {
-  "last_updated": "November 19, 2026 08:53 UTC",
-  "total_count": 212,
+  "last_updated": "November 19, 2026 12:58 UTC",
+  "total_count": 213,
   "articles": [
+    {
+      "title": "Walmart Sales Rise Powered by E-Commerce Gains",
+      "link": "https://www.wsj.com/business/earnings/walmart-wmt-3q-earnings-report-2026-6e658c54?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-11-19T12:36:00+00:00",
+      "display_date": "Nov 19, 2026",
+      "summary": "The retail behemoth reported its total revenue grew 5.2% in the third quarter to $188.8 billion, and it raised its guidance for the full year.",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "The Morning Risk Report: The Jensen Huang Saga Has Reinvigorated Washington’s China Hawks",
+      "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-the-jensen-huang-saga-has-reinvigorated-washingtons-china-hawks-00536beb?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-11-19T12:22:00+00:00",
+      "display_date": "Nov 19, 2026",
+      "summary": "Plus: Microsoft-Bytedance cloud deal under fire from lawmakers and EU anti-money-laundering, public prosecution bodies team up.",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "Banque des Territoires Acquires Stake in ESG Ratings Provider EthiFinance",
+      "link": "https://www.esgtoday.com/banque-des-territoires-acquires-stake-in-esg-ratings-provider-ethifinance/?utm_source=rss&utm_medium=rss&utm_campaign=banque-des-territoires-acquires-stake-in-esg-ratings-provider-ethifinance",
+      "source": "ESG Today",
+      "date": "2026-11-19T12:21:36+00:00",
+      "display_date": "Nov 19, 2026",
+      "summary": "Banque des Territoires, the regional development financing arm of French public financial institution Caisse des […]",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "Pantheon Invests $600 Million in Mirova Energy Transition Portfolio",
+      "link": "https://www.esgtoday.com/pantheon-invests-600-million-in-mirova-energy-transition-portfolio/?utm_source=rss&utm_medium=rss&utm_campaign=pantheon-invests-600-million-in-mirova-energy-transition-portfolio",
+      "source": "ESG Today",
+      "date": "2026-11-19T12:00:46+00:00",
+      "display_date": "Nov 19, 2026",
+      "summary": "Mirova, the sustainable investment-focused arm of Natixis Investment Managers, and London-based private markets investor Pantheon […]",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "China’s New Anti-Corruption Law: What Multinational Compliance Teams Need to Know",
+      "link": "https://www.corporatecomplianceinsights.com/chinas-new-anti-corruption-law-what-multinational-compliance-teams-need-know/",
+      "source": "Corporate Compliance Insights",
+      "date": "2026-11-19T12:00:09+00:00",
+      "display_date": "Nov 19, 2026",
+      "summary": "For companies, treating the law as a political response to US enforcement would be a mistake The post China’s New Anti-Corruption Law: What Multinational Compliance Teams Need to Know appeared first on Corporate Compliance Insights .",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "Chalmers urged to roll back climate, gender rules in productivity push - AFR",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbkFOSmRYdHZHQVJQNzRNVXJKQWp5M3NrSGpVcnE3ZUpZODFDQy1fWVRyT3FrM1gwYUdzYVVzNEttVEhsdTd2VkVqQjdIQlgyeGFWUVZVVS1qZEhnVWJXOHBDUUdwVFJQRHpXbDNsazRBZjgteXNzU2FYTl9iVkU3VFh1d0lJSjdsR1lNOVJwa2JLbnpUQk1FMm44SDdDNmRVN19WeUlNTm5OdU1OQ0ZkSDR0RlhTMlJaTHRpazRwbw?oc=5",
+      "source": "AFR",
+      "date": "2026-11-19T11:30:00+00:00",
+      "display_date": "Nov 19, 2026",
+      "summary": "Chalmers urged to roll back climate, gender rules in productivity push AFR",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "The courage to change",
+      "link": "https://www.fca.org.uk/news/speeches/courage-change",
+      "source": "FCA UK Regulatory News",
+      "date": "2026-11-19T10:50:00+00:00",
+      "display_date": "Nov 19, 2026",
+      "summary": "Speech by Sarah Pritchard, deputy chief executive, at TheCityUK National Conference 2026. Our willingness to do things differently in this country has helped make our financial services sector one of the most innovative in the world.We didn’t get here by accident.It took ambitiou...",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "TNFD Urges ISSB to Issue Mandatory Nature-Related Reporting Standard",
+      "link": "https://www.esgtoday.com/tnfd-urges-issb-to-issue-mandatory-nature-related-reporting-standard/?utm_source=rss&utm_medium=rss&utm_campaign=tnfd-urges-issb-to-issue-mandatory-nature-related-reporting-standard",
+      "source": "ESG Today",
+      "date": "2026-11-19T10:45:51+00:00",
+      "display_date": "Nov 19, 2026",
+      "summary": "The Taskforce on Nature-related Financial Disclosures (TNFD) has called on the IFRS Foundation’s International Sustainability […]",
+      "topics": [
+        "Regulatory Change",
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "Soitec Shares Climb on Guidance, Cash Deposits as Strong AI Demand Boosts Visibility",
+      "link": "https://www.wsj.com/business/retail/soitec-shares-climb-on-guidance-cash-deposits-as-strong-ai-demand-boosts-visibility-f24ef65a?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-11-19T10:07:00+00:00",
+      "display_date": "Nov 19, 2026",
+      "summary": "The semiconductor-materials maker said strong AI demand gave it enough visibility to issue guidance for the fiscal year to the end of March 2027, beyond its usual quarterly projections.",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Insurance firms called on to improve claims handling",
+      "link": "https://www.fca.org.uk/news/news-stories/insurance-firms-called-improve-claims-handling",
+      "source": "FCA UK Regulatory News",
+      "date": "2026-11-19T09:32:00+00:00",
+      "display_date": "Nov 19, 2026",
+      "summary": "The FCA and Financial Ombudsman Service have published a report setting out what insurers need to focus on to ensure claims are dealt with promptly, clearly and fairly. We are helping firms learn from Financial Ombudsman complaints and strengthen their claims handling in line wit...",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "FCA launches world-first platform giving firms new insight into AI innovation",
+      "link": "https://www.fca.org.uk/news/press-releases/fca-launches-world-first-platform-giving-firms-new-insight-ai-innovation",
+      "source": "FCA UK Regulatory News",
+      "date": "2026-11-19T09:01:00+00:00",
+      "display_date": "Nov 19, 2026",
+      "summary": "New resource brings together real-world examples of AI adoption across financial services, helping firms identify emerging trends and opportunities. The FCA has launched a world-first AI Spotlight Observatory that provides firms, academics and innovators with a comprehensive view...",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
     {
       "title": "UK financial watchdogs clarify cyber expectations as attacks rise",
       "link": "https://www.fca.org.uk/news/press-releases/uk-financial-watchdogs-clarify-cyber-expectations-attacks-rise",
@@ -51,20 +173,9 @@
       "title": "Apollo scraps planned $2bn loan to Manchester City owner after rule breaches - Financial Times",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORGdSWlloVzAzUVVzeHFjSXlxdnpFeWh0WGtta0R1U3pWVzZGTlFWUEJfNWtGV1ptZEVNYXNPSHlJVWtjaDd0V01uazRBaDd1YzZfVFVyQzhCdXFLQThMckhPZU1CcnhTZWFobVlZb0hMc3J5VXJIUW56VUlvNzdheTQ1aEo?oc=5",
       "source": "Financial Times",
-      "date": "2026-11-19T05:01:23+00:00",
+      "date": "2026-11-19T05:00:28+00:00",
       "display_date": "Nov 19, 2026",
       "summary": "Apollo scraps planned $2bn loan to Manchester City owner after rule breaches Financial Times",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Weight-loss drugs used in nearly one in 10 homes in Great Britain, study finds",
-      "link": "https://www.theguardian.com/science/2026/nov/19/weight-loss-drugs-nearly-one-in-10-homes-great-britain-study-finds",
-      "source": "The Guardian Australia",
-      "date": "2026-11-19T05:00:19+00:00",
-      "display_date": "Nov 19, 2026",
-      "summary": "About 2.6m adults are taking the drugs, fuelled by the regulator’s approval of the pill versions and a rise in male users At least one person is taking weight-loss drugs in 8.5% of households in Great Britain, according to research, meaning there are more homes with GLP-1 users t...",
       "topics": [
         "Regulatory Change"
       ]
@@ -114,12 +225,23 @@
       ]
     },
     {
-      "title": "Ex-Google Engineer May Face New Charges Over Bets on Gemini 3.0 - Bloomberg",
+      "title": "US Department of Justice charges Russian for targeting Palantir as foreign agent - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONGdHSkFlZGJKSElDLTZOc3R5NVByOU9zYUxvV1MxZEpla3VwbmFJdVRUb2YwZjJfVmIzZWFXNkoxSVM3N24tY2g4YU5tbXR0N2xDcjJ2UFg3SFYyWW1wZWphS3FJQmlSYUFjQ284Nk5SdzZvakdzQmNwN1hibFVBUEpCSDMxMXpNOUM0ZlYwQ3BlbG9tcVlaRl94bUxEajlRUTV0SGRia0dlaFJwbUdCVjl5SG1OREtTeHBWdFdFTEt5TjZR?oc=5",
+      "source": "Reuters",
+      "date": "2026-11-18T23:56:00+00:00",
+      "display_date": "Nov 18, 2026",
+      "summary": "US Department of Justice charges Russian for targeting Palantir as foreign agent Reuters",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "Ex-Google Engineer May Face New Charges Over Bets on Gemini 3.0 - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUi1uVEdYb09LeE44VkpURTBhZDZGQlk0dmMxRTJTbjh6Z1d3NTdZTnpQLW1lVDNNTFA2eFlRbGVhNUVCYVJUWklkT0pEaGFWaGpKRjhZOG41d3o5NURPVlNEaXB3Z3VmRHJQQnFiYTJiRy0tZmJud0lieE1idkJWX2FRVmNiTUFvT3JMOWRTV1pRcTM2enlLMVZsU3hmU3Iwc1EwemFGTVhiVUg5blpwcE9jRTc?oc=5",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "date": "2026-11-18T23:44:22+00:00",
       "display_date": "Nov 18, 2026",
-      "summary": "Ex-Google Engineer May Face New Charges Over Bets on Gemini 3.0 Bloomberg",
+      "summary": "Ex-Google Engineer May Face New Charges Over Bets on Gemini 3.0 Bloomberg.com",
       "topics": [
         "Enforcement Actions"
       ]
@@ -136,12 +258,12 @@
       ]
     },
     {
-      "title": "Probe of Mark Walter’s Insurers Spotlights Gaps in Regulatory Patchwork - Bloomberg",
+      "title": "Probe of Mark Walter’s Insurers Spotlights Gaps in Regulatory Patchwork - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcTdBN0lYdWhkcndSb1A0dlV1aG8xTE1UUW1MUElMUHNOSXRmNVltcGh6X0ZpLWpTV0N5N2dUSkw2OXRKSFVzajQtR0JXaEJXZ0tGREpDWklvdkdVakllSHVqNXR6RjVydl9TNzlhOXIxOEJDR3V5VHhZeVVENkxpYkN5VFBFVkNJd0xXRXVHTy1EejFxWE5XNTdXNmhnZXhhc3lHQkF0Nzd2Yzl5UEF5YXAtNmxLX0JMZDFMN0xfWQ?oc=5",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "date": "2026-11-18T23:10:39+00:00",
       "display_date": "Nov 18, 2026",
-      "summary": "Probe of Mark Walter’s Insurers Spotlights Gaps in Regulatory Patchwork Bloomberg",
+      "summary": "Probe of Mark Walter’s Insurers Spotlights Gaps in Regulatory Patchwork Bloomberg.com",
       "topics": [
         "Regulatory Change"
       ]
@@ -166,6 +288,17 @@
       "summary": "The Climate Council has identified nine proposed data centres in Australia that could produce up to 40 million tonnes of pollution a year by 2035 if powered by fossil fuels.",
       "topics": [
         "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "US tightens Iran blockade with curbs on oil transfers at sea, advisory shows - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNS21BSEJXWHdIUGpZcWRtZm0tT084cTd5WFpvbFZUeE9wdHkyelI4Y2pFamp5YmY3S09BRm9zMWQ3VE5NcHVnSGZNM20yZ3B5NE1mXzZ4VVg3NUZ5RTVuQ2owQzE4MkxpaTBIcEhCNng4MDE1ZnpyTUVOMUVHVFdzcm14Mkl2TlNGZmNuVFQ1NFMwdGFOT1JSTEFURDNOQ005cWVaUG5ybmtyNWQyTW1QMG82SHhGQXNmb3VMTUtB?oc=5",
+      "source": "Reuters",
+      "date": "2026-11-18T19:32:18+00:00",
+      "display_date": "Nov 18, 2026",
+      "summary": "US tightens Iran blockade with curbs on oil transfers at sea, advisory shows Reuters",
+      "topics": [
+        "Regulatory Change"
       ]
     },
     {
@@ -303,6 +436,17 @@
       ]
     },
     {
+      "title": "Russia says US, despite current sanctions, will likely need more of its uranium in future - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPakxrVDZ0bVlHRUhqOGZjaU9henBPVGZfOVp2ZncyQ1NVdlNFVFczc3BSUmoyS1NxYmxxY2xNa0VMNFRYT0VvWGtqN2xWQkpMY2ViRW82UUkyQWlxVmo1dzVBR0NyT1VnM25xV3FhNGw5cVNWY1BqNnlYX3E4TDhJZnZOdVl0aWdSUTNEeXFjV0d3QUJZNTkwLTRtUjdkZUxzdS02ODFiM3p0OXF2Z29YZG9JYlI1bUU?oc=5",
+      "source": "Reuters",
+      "date": "2026-11-18T09:57:43+00:00",
+      "display_date": "Nov 18, 2026",
+      "summary": "Russia says US, despite current sanctions, will likely need more of its uranium in future Reuters",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
       "title": "New sanctions target ‘illegal Israeli settlement expansion and violence’ - The Australian",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPaUE4TEJMTEF6dTh3WEJaUWdubFd5cEtSREJMRUJ1XzN4bW9Tb25yZEE5b2U5WDQtQS1xMXlXU3AxMmwzZFZEd0pySW5lcHBMbVMwVVJQYkxEZkoyaTQwZ1pJbGVIRENZR3MtNkctT1FSd2VUTkhlY2c3Z1lmSjFBZkNIWTZtZ0VNSUFNenQ3eDRUZGdqMjNJQVNIdmVjWkxBS21uY0RwbkZmR0taM3JZWXh4V1Yxbi1Gek1POGhFUW53dFFtWUIycERZWngtOFlNbDFpS3QyYlk2QXNVXzFzaFZKeHVkci1WTEE?oc=5",
       "source": "The Australian",
@@ -356,17 +500,6 @@
       "summary": "The European Commission announced today that it has approved a €9.5 billion (USD$10.4 billion) state […]",
       "topics": [
         "ESG & Sustainability"
-      ]
-    },
-    {
-      "title": "Asian Equities Mixed as Investors Parse Nvidia’s Quarterly Results, Guidance",
-      "link": "https://www.wsj.com/finance/asian-equities-mixed-as-investors-parse-nvidias-results-guidance-7041c3ea?mod=pls_whats_news_us_business_f",
-      "source": "Wall Street Journal",
-      "date": "2026-11-18T05:33:00+00:00",
-      "display_date": "Nov 18, 2026",
-      "summary": "Investors have been monitoring how Nvidia could perform without Jensen Huang, the only CEO the company had ever had until his resignation last week.",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
@@ -516,17 +649,6 @@
       ]
     },
     {
-      "title": "Google Expands Clean Energy Portfolio with First Superhot Geothermal Power Deal",
-      "link": "https://www.esgtoday.com/google-signs-clean-power-purchase-deal-with-superhot-geothermal-energy-developer-quaise/?utm_source=rss&utm_medium=rss&utm_campaign=google-signs-clean-power-purchase-deal-with-superhot-geothermal-energy-developer-quaise",
-      "source": "ESG Today",
-      "date": "2026-11-17T15:26:08+00:00",
-      "display_date": "Nov 17, 2026",
-      "summary": "Superhot geothermal project developer Quaise announced that it has signed its first power purchase agreement, […]",
-      "topics": [
-        "ESG & Sustainability"
-      ]
-    },
-    {
       "title": "Comptroller of the Currency Issues Statement on FinCEN Customer Due Diligence",
       "link": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-101.html",
       "source": "Office of the Comptroller of the Currency",
@@ -561,18 +683,6 @@
       ]
     },
     {
-      "title": "UL Solutions to Acquire Supply Chain Sustainability Data Platform Worldly for $350 Million",
-      "link": "https://www.esgtoday.com/ul-solutions-to-acquire-supply-chain-sustainability-data-platform-worldly-for-350-million/?utm_source=rss&utm_medium=rss&utm_campaign=ul-solutions-to-acquire-supply-chain-sustainability-data-platform-worldly-for-350-million",
-      "source": "ESG Today",
-      "date": "2026-11-17T14:05:01+00:00",
-      "display_date": "Nov 17, 2026",
-      "summary": "Applied safety science company UL Solutions announced on Tuesday an agreement to acquire supply chain sustainability […]",
-      "topics": [
-        "ESG & Sustainability",
-        "Operational & Enterprise Risk"
-      ]
-    },
-    {
       "title": "Roche’s Breast Cancer Pill Wilserdly Wins US Regulatory Approval - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU3ZrTWxZeVZ3RVhRY19BZVpBdDdyWDQ2WlRsTXJtclcyTnhZNzM2T3hkWlNQYVg3Z2lLb05URlJESkdBSHR2ZGx0RDRaWm1GTml2Qm1IcFRKWDVkbGc5MC15dEl0N1FNNWwxX1YxMmY0TkRaeC1BU1I3dDF0OUdTbWtIUnJLZWJRX3h4SWZNWndQMmRfNWNGQVlybnNLNzRHTkVjRHVwU1JGZU8zTkdKS3hwUkY0dw?oc=5",
       "source": "Bloomberg.com",
@@ -581,17 +691,6 @@
       "summary": "Roche’s Breast Cancer Pill Wilserdly Wins US Regulatory Approval Bloomberg.com",
       "topics": [
         "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Audi Launches Circular Economy Business to Tap New Markets, Secure Raw Materials",
-      "link": "https://www.esgtoday.com/audi-launches-circular-economy-business-to-tap-new-markets-secure-raw-materials/?utm_source=rss&utm_medium=rss&utm_campaign=audi-launches-circular-economy-business-to-tap-new-markets-secure-raw-materials",
-      "source": "ESG Today",
-      "date": "2026-11-17T12:43:09+00:00",
-      "display_date": "Nov 17, 2026",
-      "summary": "Automotive manufacturer Audi announced the establishment of Audi Circular Solutions GmbH, a new division focused […]",
-      "topics": [
-        "ESG & Sustainability"
       ]
     },
     {
@@ -1138,17 +1237,6 @@
       ]
     },
     {
-      "title": "‘A step too far’: Privacy fears on bid to name trust recipients - AFR",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY1B1anoxQ0pkOXhZR0ZUdDVDdXkwdEM3M3JYLWJZNDlnYTVzV2ZES3Vja2lOY2VPOVI2c2VPd3lndF9JdFNDbUNlU25Ed1V3ck9NLUtVWVRjNm1ObGN4cVpKN2o5d3pPT0Rid3U1YlpvLXQzdnlVRHJGcUxMQjNnb3FOUV9iWjNNZC0tVEY2WHJZUGg4LW15YXJOWndwR1BHVVhmVXBQemVMR0NUY1JjWXhVMWdhQkRV?oc=5",
-      "source": "AFR",
-      "date": "2026-11-13T06:20:00+00:00",
-      "display_date": "Nov 13, 2026",
-      "summary": "‘A step too far’: Privacy fears on bid to name trust recipients AFR",
-      "topics": [
-        "Data Privacy"
-      ]
-    },
-    {
       "title": "Grant of ASX waiver of Listing Rule 10.13.5 - AFR",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSm9uMFhsSWthUmlZdm40VU1RWVNSUGhLWkJNamt4UmlqLU9jcDRlXzVaTTE0MlhoVktWY3cwVmFGMVdiUF84LWJuMUJaY3prOW1BRDM4ZVNkWTBwTHhid2hEY0M1NTFfQTNvUmZMYzR3eU1BajVYajc0Ykt2X2N6ajRTVk5jeDN3MUdUWnA1NA?oc=5",
       "source": "AFR",
@@ -1190,17 +1278,6 @@
       "summary": "The Office of the Comptroller of the Currency (OCC) today reported the key issues facing the federal banking system in the Semiannual Risk Perspective for Fall 2026.",
       "topics": [
         "Operational & Enterprise Risk"
-      ]
-    },
-    {
-      "title": "EU to Hit Russia With More Banking and Energy Sanctions - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWlE2aXFDZFdxNzlHU0Y5aHVNa3FuT09mRlFJZnY5ZWI3eTM2bHRkY1JVOVNVNi01X3Q4a1VMVlFQMWVKejFiMlVZWXc2TndNaDR0QjczejllWlRoNXM1NDlqTVo1MFRnb1dCRThOMExfTGV3d2VCTHB2ZXFMSWxCVm5hN3JkNFhsOHB0NjlCT0xkSC1mT1hLSE04SThmSzlWZUxnaU1SMm1LZw?oc=5",
-      "source": "Bloomberg.com",
-      "date": "2026-11-12T17:21:58+00:00",
-      "display_date": "Nov 12, 2026",
-      "summary": "EU to Hit Russia With More Banking and Energy Sanctions Bloomberg.com",
-      "topics": [
-        "AML & Sanctions"
       ]
     },
     {
@@ -1281,17 +1358,6 @@
       ]
     },
     {
-      "title": "Wall Street watchdog enforcement against public companies drops to 16-year low - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNN2RIWGtxbTBkSnBxUV9ITlhGT2JUUUZFZFQ5ZVc4YkRMVFlFVW95U0ZPTEhpaHRSajhfSXJSNTk0S1NEWUtoY3lPNjBUckRNUTF4VXV4RXlGMHh4NUdxZ3RON21XdGJ0cXBHdmx0SG1SNU41QS1zZXBUbFM5YmdPVnpPdWI?oc=5",
-      "source": "Financial Times",
-      "date": "2026-11-12T11:00:04+00:00",
-      "display_date": "Nov 12, 2026",
-      "summary": "Wall Street watchdog enforcement against public companies drops to 16-year low Financial Times",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
       "title": "FCA proposes greater pension investment flexibility to support long-term value for savers",
       "link": "https://www.fca.org.uk/news/press-releases/fca-proposes-greater-pension-investment-flexibility-support-long-term-value-savers",
       "source": "FCA UK Regulatory News",
@@ -1300,17 +1366,6 @@
       "summary": "Workplace pension providers could have greater flexibility to invest for the long term under proposals from the FCA, helping them deliver better outcomes for savers while ensuring savers' interests remain protected. The FCA is consulting on excluding certain performance-linked fe...",
       "topics": [
         "Regulatory Change"
-      ]
-    },
-    {
-      "title": "EU to approve more sanctions on Russia on Monday, France says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbGRJY0NscW1XVmJrX1VJR1JWZW1fVVhXaTdKeXN6aVFEMGJueGdSeTE1SlpGQVVpYjZIN0VOb2RpSmlqVGdmMDhsSVlHSWltYWoyOTBPZkpoVTZVV2V6SG42LUJRcTFIb1Z2TzByT19USElvV1g3eXYyU0ZQVEVfc191ZWl0ZDVLeUJ5c3VlUUhHWTViUDl2REFwQmxZNDNvZkE?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-12T08:55:44+00:00",
-      "display_date": "Nov 12, 2026",
-      "summary": "EU to approve more sanctions on Russia on Monday, France says Reuters",
-      "topics": [
-        "AML & Sanctions"
       ]
     },
     {
@@ -1443,17 +1498,6 @@
       "summary": "The jobless are the sacrificial lambs of Australia’s monetary policy. I remain shocked that the lucky country actively excludes so many from a chance at its luck The causes of finding yourself out of work are many. Being made redundant, having a contract not renewed, bullied into...",
       "topics": [
         "Regulatory Change"
-      ]
-    },
-    {
-      "title": "AI Is Prompting New Legal Risks in the Workplace",
-      "link": "https://www.corporatecomplianceinsights.com/ai-prompting-new-legal-risks-workplace/",
-      "source": "Corporate Compliance Insights",
-      "date": "2026-11-09T12:00:53+00:00",
-      "display_date": "Nov 09, 2026",
-      "summary": "AI use, particularly by leaders, can heighten exposure for employers The post AI Is Prompting New Legal Risks in the Workplace appeared first on Corporate Compliance Insights .",
-      "topics": [
-        "Operational & Enterprise Risk"
       ]
     },
     {
@@ -1768,39 +1812,6 @@
       "summary": "The Securities and Exchange Commission today charged two foreign-operated, Colorado-incorporated entities, BG Wealth Sharing Ltd and DSJ Exchange Pty Ltd, for orchestrating a fraud scheme that used false SEC filings to boost confidence in their…",
       "topics": [
         "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "FCA encourages former Verus Financial Services Limited customers to check if they can claim with FSCS",
-      "link": "https://www.fca.org.uk/news/news-stories/fca-encourages-former-verus-financial-services-limited-customers-check-if-they-can-claim-fscs",
-      "source": "FCA UK Regulatory News",
-      "date": "2026-10-29T11:58:00+00:00",
-      "display_date": "Oct 29, 2026",
-      "summary": "Compensation may be available to former Verus customers through the Financial Services Compensation Scheme (FSCS), subject to assessment. If you were a customer of Verus Financial Services Limited, you can now check to see if you can claim for compensation on the FSCS website. Th...",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "What does 'fair value' look like in practice? Three years into the Consumer Duty, here’s what we’ve learned.",
-      "link": "https://www.fca.org.uk/news/blogs/fair-value-look-practice-three-years-consumer-duty",
-      "source": "FCA UK Regulatory News",
-      "date": "2026-10-29T10:03:00+00:00",
-      "display_date": "Oct 29, 2026",
-      "summary": "Fair value is a simple yet important principle at the heart of the Consumer Duty: the price customers pay should be reasonable, relative to the benefits they get. But applying that principle in practice requires judgement.Three years into the Consumer Duty, we’re seeing clear dif...",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "FCA stops HTX's crypto promotions",
-      "link": "https://www.fca.org.uk/news/press-releases/fca-stops-htxs-crypto-promotions",
-      "source": "FCA UK Regulatory News",
-      "date": "2026-10-29T10:00:00+00:00",
-      "display_date": "Oct 29, 2026",
-      "summary": "The FCA has secured High Court undertakings to ensure that HTX (formerly Huobi), a global crypto exchange, will not knowingly promote cryptoasset services unlawfully to UK consumers. The FCA took legal action against HTX in October 2025 for breaking UK financial promotion rules. ...",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
