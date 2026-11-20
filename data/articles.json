@@ -1,7 +1,40 @@
 {
-  "last_updated": "November 20, 2026 00:45 UTC",
-  "total_count": 228,
+  "last_updated": "November 20, 2026 04:51 UTC",
+  "total_count": 206,
   "articles": [
+    {
+      "title": "Senate Passes Measure Designed to Speed Up Energy Projects, Lower Consumer Costs",
+      "link": "https://www.wsj.com/politics/policy/senate-passes-measure-designed-to-speed-up-energy-projects-lower-consumer-costs-dcacc9c6?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-11-20T04:12:00+00:00",
+      "display_date": "Nov 20, 2026",
+      "summary": "The bipartisan effort to streamline federal permitting split Democrats over environmental concerns.",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "Parents Are ‘Flying Blind’ in an Exploding Autism-Therapy Industry",
+      "link": "https://www.wsj.com/health/healthcare/autism-therapy-aba-parents-34cf1cc0?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-11-20T02:00:00+00:00",
+      "display_date": "Nov 20, 2026",
+      "summary": "Popular therapy known as ABA has become the default treatment for children, but quality varies and parents get little guidance.",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Bougainville landowners 'overwhelmed' at Rio Tinto's $370m pledge",
+      "link": "https://www.abc.net.au/news/2026-11-20/png-rio-tinto-pays-370m-to-fix-panguna-mine-legacy/107403470",
+      "source": "ABC News Business (AU)",
+      "date": "2026-11-20T01:01:17+00:00",
+      "display_date": "Nov 20, 2026",
+      "summary": "The multi-million-dollar pledge from the mining giant will address environmental and social impacts that advocates say have violated human rights.",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
     {
       "title": "Gap names new Athleta CEO, lowers full-year guidance",
       "link": "https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html",
@@ -81,14 +114,14 @@
       ]
     },
     {
-      "title": "US gas exporters more comfortable signing European deals after EU delays methane regulation - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQU0ZuUlpxWkdlajd2bGh6anB2TWphTmU2TVVLR21rWnViZnNEUmNMOVRVLXItNjNxTWZ2RUlDa04xdXU3OTNwXzlyVk90cEhGX3RvM1lSYW5LU0E3NnFvZ2dSTmQxUl9tUktzcGh0NEhZOE9RdDQ2WXVvbUdma1UtN3h6eEF1REdXSGtaTHVoNVJOOTd4WFdveE0tT2tBWjlYNkZEakJJbTZRbEw0dmF0cmFmQkQ5Yy1jTE1YZ2xwS0dQWDVqTXFlRDdpeGU?oc=5",
+      "title": "Reactions as top UN court finds Myanmar guilty of genocide against Rohingya - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQempsRGZLcGx4YTMyaUxqNFFFYllXTXNZdzdMRHk0VkE0b2dfX1MzeGktXzBzdlhVS3AzXy1yWWtsMV9oNGIxeGxoOXNVM0d6Z2FVdVpQQ09aNU1aSEhzUmpadUNpU0hyZ2hmY3g2MFlrSjRKMVR4eE5hNjVZSmFwWUdNV2k1VTZPeUpRc2c2anFZbjhiVkVnaGNIQ0ZxMXVKWjdYdEFHYk01YlducEpTU3lQSlhnMlNRWFJEMjUtSGdQdw?oc=5",
       "source": "Reuters",
-      "date": "2026-11-19T18:42:45+00:00",
+      "date": "2026-11-19T18:39:31+00:00",
       "display_date": "Nov 19, 2026",
-      "summary": "US gas exporters more comfortable signing European deals after EU delays methane regulation Reuters",
+      "summary": "Reactions as top UN court finds Myanmar guilty of genocide against Rohingya Reuters",
       "topics": [
-        "Regulatory Change"
+        "Enforcement Actions"
       ]
     },
     {
@@ -100,17 +133,6 @@
       "summary": "The bank has refused to repay staff back to when its pay issues allegedly began in 2004, despite whistleblower complaints to a hotline run by the consultancy.",
       "topics": [
         "Operational & Enterprise Risk"
-      ]
-    },
-    {
-      "title": "UK faces 'Farage penalty' if it pulls out of Brexit reset deal - The Australian - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOaXlOYlFfdzlMNDR6Ty1STGN2RkViWnFtNjFKRUs3Z2NNYkNadTIzZDk3LTZ2ZjlqU0R6Nml2ZEViRk10cTRUTTExdnItSFc3dC0wbVhBMjlJa01NQy1WY2xFejh0clR2X0lyTnRPLTdDVDdrb3VBdmh4NHJBNHNOZ1dRRXE2azhLVVZvMzBkRVNGR2poMjJaWEU4dEJ0c05qaVdsekJMQ0Foa0ZQcURmWDlhZ2RnV1N6UDZ4dFFyVnduOWxCZTJxeVIxY3ByWkh1Nlp5SXNFZmF2ZXF3dkZHYW5LTTF3YW5E?oc=5",
-      "source": "The Australian",
-      "date": "2026-11-19T18:01:04+00:00",
-      "display_date": "Nov 19, 2026",
-      "summary": "UK faces 'Farage penalty' if it pulls out of Brexit reset deal - The Australian The Australian",
-      "topics": [
-        "Enforcement Actions"
       ]
     },
     {
@@ -205,6 +227,17 @@
       ]
     },
     {
+      "title": "Canada Bank Regulator Eases Rules for Smaller Lenders to Boost Competition - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTkxvWGhqTkdWYTQxOEl0bndGTXRmdjlHLTVKeTFFUzRBT2U1LUlMYldkaEtOc1RKZDJsRlN1eERGd1hXdnphTDNBXzV2WVZTZHdrU2V3aHFIUzhkdW5GMFF2WEhXSkE4WjBBeENCTHMwV2FXdjNQMldrNmxxc0pKRGFpOXphazZ3WUZxZ3ZXNWlvdzhieUczLTgyZmpsRkcxOTc1N25ZOEZzbUhGWm54Y2cxVE9RYl9xLXkxVVBESzVYWU0?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-11-19T15:54:27+00:00",
+      "display_date": "Nov 19, 2026",
+      "summary": "Canada Bank Regulator Eases Rules for Smaller Lenders to Boost Competition Bloomberg.com",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
       "title": "KKR Acquires Stake in Gentari’s India Renewable Energy Platform",
       "link": "https://www.esgtoday.com/kkr-acquires-stake-in-gentaris-india-renewable-energy-platform/?utm_source=rss&utm_medium=rss&utm_campaign=kkr-acquires-stake-in-gentaris-india-renewable-energy-platform",
       "source": "ESG Today",
@@ -213,17 +246,6 @@
       "summary": "Alternative asset manager KKR announced on Thursday the acquisition of a minority stake in Gentari […]",
       "topics": [
         "ESG & Sustainability"
-      ]
-    },
-    {
-      "title": "Comanchero hit with US sanctions over links to Mexican drug cartels - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNX0lQdWczLW1NX1hDTXpyOWwtQXF1el96M3NLNjUxZnFWdUw0R25JbXJ3ZkZ6b2RCTzZ1bGVlcGR6TkdWUVd3eTdZSmpDcTVWVDBpQllMM3NHaFdqeVhxdjhuSmdadm81T0JtMUV3MVUyc3VKdHBCZmVfRHltMHdTT2RqMjFnMHo2aG56X3pVTzhCQTZZMnZUUTdmM3RVUWx5bU5BSEJUTmxZNEVoNUltRTJ4Ull5WExzRVdObHI3cW4tRy1zRmsydkVOMDM4X1ZVRU5GTm5sQnZ4ZEFOUzNwaWdlXzVodw?oc=5",
-      "source": "The Australian",
-      "date": "2026-11-19T15:07:04+00:00",
-      "display_date": "Nov 19, 2026",
-      "summary": "Comanchero hit with US sanctions over links to Mexican drug cartels The Australian",
-      "topics": [
-        "AML & Sanctions"
       ]
     },
     {
@@ -246,17 +268,6 @@
       "summary": "Sustainable packaging technology company Pulpex announced £24.6 million (USD$32.3 million) in new investments, including £19.6 […]",
       "topics": [
         "ESG & Sustainability"
-      ]
-    },
-    {
-      "title": "Genel Energy PLC: STATEMENT REGARDING SATISFACTION OF REGULATORY CONDITIONS AND EXPECTED SCHEME TIMETABLE – Company Announcement - FT.com - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX2ZfNms5YTdlVDhEN0xRemxmRm1nbXlRVTVMU0RUQWpSOHRoTTNRaHdNQnZfcTItNVNUWDN4TktFNTNJZVpkdzE4UFo3UXNFejFFb29kdDFWa2hCUEtXdnVYTlBCdXAtLTd6V2wyNHR4SFhfUXJIQkFzNGFFSzdaTEhSNElqMnVmNnJEU1dINHQxdS1kSnRGR00wdGY1NjNkWm1oZTZNbGMtNmM?oc=5",
-      "source": "Financial Times",
-      "date": "2026-11-19T14:16:00+00:00",
-      "display_date": "Nov 19, 2026",
-      "summary": "Genel Energy PLC: STATEMENT REGARDING SATISFACTION OF REGULATORY CONDITIONS AND EXPECTED SCHEME TIMETABLE – Company Announcement - FT.com Financial Times",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
@@ -350,17 +361,6 @@
       ]
     },
     {
-      "title": "Chalmers urged to roll back climate, gender rules in productivity push - AFR",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbkFOSmRYdHZHQVJQNzRNVXJKQWp5M3NrSGpVcnE3ZUpZODFDQy1fWVRyT3FrM1gwYUdzYVVzNEttVEhsdTd2VkVqQjdIQlgyeGFWUVZVVS1qZEhnVWJXOHBDUUdwVFJQRHpXbDNsazRBZjgteXNzU2FYTl9iVkU3VFh1d0lJSjdsR1lNOVJwa2JLbnpUQk1FMm44SDdDNmRVN19WeUlNTm5OdU1OQ0ZkSDR0RlhTMlJaTHRpazRwbw?oc=5",
-      "source": "AFR",
-      "date": "2026-11-19T11:30:00+00:00",
-      "display_date": "Nov 19, 2026",
-      "summary": "Chalmers urged to roll back climate, gender rules in productivity push AFR",
-      "topics": [
-        "ESG & Sustainability"
-      ]
-    },
-    {
       "title": "The courage to change",
       "link": "https://www.fca.org.uk/news/speeches/courage-change",
       "source": "FCA UK Regulatory News",
@@ -437,28 +437,6 @@
       "summary": "Instead of pushing for less tax, the reported alliance of 30 business and industry organisations planning their own summit should step up. Here are three fantasy agenda items Business groups have “lost hope” in the government’s ability to make them more efficient and dynamic, and...",
       "topics": [
         "Regulatory Change"
-      ]
-    },
-    {
-      "title": "The Sahm rule indicates what level of unemployment is signalling a recession - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOejdka1dSbHFuRFgwemlUYktHVGRuUWdaWUJYeHE2aGxmcktvbWl5UVJjU0xkb1hHNG1GcFZiTVFxU0FzaTFzZ19GZlhfM2hWWV9pUGw0Rk05Qmc1aktKS2tMVFk2OS16ZmlyRE9yWUNEQS1TeDl2NHpUQkpFemRjZXBZbTJKN3FYZ0YyLWs2T1NQbWJUUDNqRXhwM3VWTTF2Nklla3FlLTRIc2s2R29GZ2lIWTl5aERNb000Ny1wSXBqWUE0MXNfRjcyNnFTd1BST2hRVnQ5TUFTdjZ1cFBtMUtWUWpQYmY3X3c?oc=5",
-      "source": "The Australian",
-      "date": "2026-11-19T07:16:32+00:00",
-      "display_date": "Nov 19, 2026",
-      "summary": "The Sahm rule indicates what level of unemployment is signalling a recession The Australian",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Israel warns Wong against sanctions ‘mistake’ in political uncertainty - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNSWZIYjM2Y05tRk5XY0pqVUhvNTRsM29sYjJIOG84YXNvU1dMeGJ0TGVjblFCZl96M3dqanVZbXBqTEhtSEM4ZWF0ckduRFUwb1l1OWNWRlZrWVZCUm1zdjRIdll4LXJzOWR4RXE1MmhFZElJQzMyTEhVTktpOFBULWF0Ykk4dDdUTl9kQXJvdTVZWTdPZTN1eHV6UkNrODhfZ1huby1WdTNBQnQ1RHFmaThVWGdZQjM5UkQ3Mlc5Y1I4Y1RqQUpkWmUwMDR0YVNHYWltLUtJYzJlZVJoVzJCMzN0X2FTdlNPb3BsVTNKY1RjSFRpRHBtcTJRWTJ1ekhWMWdwcjdmZw?oc=5",
-      "source": "The Australian",
-      "date": "2026-11-19T07:13:30+00:00",
-      "display_date": "Nov 19, 2026",
-      "summary": "Israel warns Wong against sanctions ‘mistake’ in political uncertainty The Australian",
-      "topics": [
-        "AML & Sanctions"
       ]
     },
     {
@@ -561,17 +539,6 @@
       ]
     },
     {
-      "title": "Canadian Investment Regulatory Organization Trading Halt - LBS – Company Announcement - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaXFsX09xdDhfWEpQcnBOREMzSmRCeEoyM2hiMHlHMnBkN29GczF4dnppakEtNmw2OTVza3dBZ0Q4eXZLSTJhenRBRUFyajhvR0ZlT05sSnNldjgybnQ1am05dEJ1d3pFOVFlU2YtbjAzdGR6YzlyekpOMzRDdWF1WURBeENJY2RMVTJsb0N4endYWi16X3c?oc=5",
-      "source": "Financial Times",
-      "date": "2026-11-18T20:30:00+00:00",
-      "display_date": "Nov 18, 2026",
-      "summary": "Canadian Investment Regulatory Organization Trading Halt - LBS – Company Announcement Financial Times",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "US sanctions Hezbollah-linked charity in push against Iran's proxies, Treasury says - Reuters",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYTM2TVZTRTVjaWp6c2VodVYwVm5MeEFVMXZ0eFctVzZVaU94eGxScWNRMHlQb1ZJRzZ0YXpFekJ6SmJkR2RWcU4wVUNTWkJMU3J0NTFaSmw5clBIYWhFQklMM3NiSzZtV3dWYThROEZIRWlJWmpKWUhaM2w4cGIzMjhjVk5IREJRaHBnVjhpZVRjcWdoMF9MeUhRQXRqUi1RSWJ1LWxVcFVwNUxOVGc1WmQ1N2tKWEhrd2ZpQmxLY0dQdFFUS0p4ZGR5dEY?oc=5",
       "source": "Reuters",
@@ -600,17 +567,6 @@
       "date": "2026-11-18T18:27:52+00:00",
       "display_date": "Nov 18, 2026",
       "summary": "Lowe's said it saw strength in online sales during its quarter that contributed to a guidance raise for the full year.",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Regulator raised concerns with Swinburne’s pitch for re-registration - AFR",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVnlRU0ZFYkk2dmFobEZFOFNUUU0wb1FjaGpjak9KeUg3NWJGRjFxYmVCVFpxUzlxeUJMY096a01mQ0kyR3IzZDdKM2d2UEVVdHp3UlFmOE1TbWphdWZORl9zUUpqdUpBeWZ6ckltUDktaDFobENlMUpUMG5UYmFXcFRFSjJqS1VIVGhibDRNYTFWaXFETm16WEMzMGIyb2JYa3U1dEV3WnRlWjRkeUhyaGtnZHJCZ2cwQUpEZGFmOGE2ZERMaWtQNTdwNA?oc=5",
-      "source": "AFR",
-      "date": "2026-11-18T18:00:00+00:00",
-      "display_date": "Nov 18, 2026",
-      "summary": "Regulator raised concerns with Swinburne’s pitch for re-registration AFR",
       "topics": [
         "Regulatory Change"
       ]
@@ -728,29 +684,6 @@
       ]
     },
     {
-      "title": "Xi and Putin blast Western ‘protectionism’, sanctions at APEC - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVzd2LVVzS0lpZ3BjaGY1Nk1zaGxscFJyNm9Zb1Exb0t5LXlqb1lQY21EcGNDZGpMRkFUOTJoRUhQTmdQRlQzN2tLV2tZQlhDbEdVU0NxNEYtOE8zQmJIZ1owYUZDTEF3Tk9icXMydGtjeW9yUElZMWxxUHZhaEtiM1BkWTJJOUh4THBwTlJKVnRKdzZxczlXZzRnbGVNNmdJZHpkT0lzVnY5bkt4SmxMcDgySTJRbWJ3NUJ5V19FSXZQWllvNHBDOS0wNTU2N2Ni?oc=5",
-      "source": "The Australian",
-      "date": "2026-11-18T09:19:23+00:00",
-      "display_date": "Nov 18, 2026",
-      "summary": "Xi and Putin blast Western ‘protectionism’, sanctions at APEC The Australian",
-      "topics": [
-        "AML & Sanctions"
-      ]
-    },
-    {
-      "title": "New sanctions target ‘illegal Israeli settlement expansion and violence’ - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPaUE4TEJMTEF6dTh3WEJaUWdubFd5cEtSREJMRUJ1XzN4bW9Tb25yZEE5b2U5WDQtQS1xMXlXU3AxMmwzZFZEd0pySW5lcHBMbVMwVVJQYkxEZkoyaTQwZ1pJbGVIRENZR3MtNkctT1FSd2VUTkhlY2c3Z1lmSjFBZkNIWTZtZ0VNSUFNenQ3eDRUZGdqMjNJQVNIdmVjWkxBS21uY0RwbkZmR0taM3JZWXh4V1Yxbi1Gek1POGhFUW53dFFtWUIycERZWngtOFlNbDFpS3QyYlk2QXNVXzFzaFZKeHVkci1WTEE?oc=5",
-      "source": "The Australian",
-      "date": "2026-11-18T09:09:00+00:00",
-      "display_date": "Nov 18, 2026",
-      "summary": "New sanctions target ‘illegal Israeli settlement expansion and violence’ The Australian",
-      "topics": [
-        "Enforcement Actions",
-        "AML & Sanctions"
-      ]
-    },
-    {
       "title": "Deutsche Bank overrode compliance concerns to increase business with Russian oligarchs, according to leaked documents",
       "link": "https://www.complianceweek.com/banking/deutsche-bank-overrode-compliance-concerns-to-increase-business-with-russian-oligarchs-according-to-leaked-documents/",
       "source": "Compliance Week",
@@ -759,6 +692,17 @@
       "summary": "Compliance weaknesses, governance failures, suspicious transactions and systemic culture problems are being exposed by journalists investigating more than 15 million internal Deutsche Bank documents leaked by whistleblowers. The post Deutsche Bank overrode compliance concerns to ...",
       "topics": [
         "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "Australia sanctions Israeli settlers, organisations over West Bank expansion - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVlFrYWNBX1NLTHhNc00ycmhVV0dFNlRNX0xOcGFKcUhaYmNSU093YzlyTm9xOVlGRGlxblJhajk5ME5HMy0zeXFHc2FQUGFBd3lvUGtaNENWMTB2YVV6eHJ4NzZ1N3pHcjJqam9sQ2kxRk4wNUU4Z1NLbDA4bWQyUVpMakxVa0Q3S2UxeUE1Nm92RmhKUFVHMVl3UUVETHQxMVk4QlYwS0ZhNXRPSGVsUGRQX0F6OFJiZ1N5WGIyb1l5TkliTkhwT2NB?oc=5",
+      "source": "Reuters",
+      "date": "2026-11-18T08:14:10+00:00",
+      "display_date": "Nov 18, 2026",
+      "summary": "Australia sanctions Israeli settlers, organisations over West Bank expansion Reuters",
+      "topics": [
+        "AML & Sanctions"
       ]
     },
     {
@@ -784,28 +728,6 @@
       ]
     },
     {
-      "title": "Reaction after Haaland's late penalty sees Denmark miss out on Nations League quarter-finals - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQY0pMczZJZGVGVFNDUWxCUjNRbk5DeG9rMU00UjctQmlwVWQ3ZzJXRzZLcUNxY2ZMcloyTDN2R25pUUJlanZqVFllU0lSVm5YRm5HbnlhTHlhX1Q0dzc5NW9iN0dBVEpLTFI3VEoxbWlMci1jVmstZ1ZTRzFEc1lkWlphYXRIM2xvOTRFelhDTUQ3RU9SbjFPNjlJQXZDX25uc05acVNtakR6LWloeVpvTUw2bXhnMHRfeW5pbVhaXy0waS1ZQ2xGbWhCdVZNNHFRYTdKbU9SS0UwT2ZWZUFLb0oyMnljMHJQcEpxX0U0LTZaVkdfNUJqN0xFREk?oc=5",
-      "source": "The Australian",
-      "date": "2026-11-18T01:21:18+00:00",
-      "display_date": "Nov 18, 2026",
-      "summary": "Reaction after Haaland's late penalty sees Denmark miss out on Nations League quarter-finals The Australian",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "Australia sanctions Israeli settlers, organisations over West Bank expansion - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVlFrYWNBX1NLTHhNc00ycmhVV0dFNlRNX0xOcGFKcUhaYmNSU093YzlyTm9xOVlGRGlxblJhajk5ME5HMy0zeXFHc2FQUGFBd3lvUGtaNENWMTB2YVV6eHJ4NzZ1N3pHcjJqam9sQ2kxRk4wNUU4Z1NLbDA4bWQyUVpMakxVa0Q3S2UxeUE1Nm92RmhKUFVHMVl3UUVETHQxMVk4QlYwS0ZhNXRPSGVsUGRQX0F6OFJiZ1N5WGIyb1l5TkliTkhwT2NB?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-17T23:56:00+00:00",
-      "display_date": "Nov 17, 2026",
-      "summary": "Australia sanctions Israeli settlers, organisations over West Bank expansion Reuters",
-      "topics": [
-        "AML & Sanctions"
-      ]
-    },
-    {
       "title": "Opinion | Saving the Franchise Model, for Good",
       "link": "https://www.wsj.com/opinion/joint-employer-nlrb-american-franchise-act-congress-6e04225f?mod=pls_whats_news_us_business_f",
       "source": "Wall Street Journal",
@@ -825,17 +747,6 @@
       "summary": "Kalshi suspends Trump speech wagers on US regulatory order Reuters",
       "topics": [
         "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Australia targets Israeli settlements with fresh sanctions - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMU44WVRMajJfMzJaNTVCaDFwdlVadkQ3Qm9CTkVmeXBjTS1TYjhpSTVkajBwSkI4ZUhpQ2twNU9zRkwydVU2ZUE2amZqY2E4cHlKVVJ1WDJoVzBJZFZVUk5kRmNybERCQ2tPS1M3Q1p5Zzd5WC1lN3hEN0Ryc2p1TVJkVXRiY2VLYmRqUTMyQ2F4UHFZUDVrOGtQUkZNNXlJaE4zTDJXV05YOTliTEZwQXU3RFVyaWpxaEhmOVc0QjRPd0VNVmdsSm0yMjR4WG1PQVdyZEtabDdZenBqS3F1Vzhjdw?oc=5",
-      "source": "The Australian",
-      "date": "2026-11-17T20:40:00+00:00",
-      "display_date": "Nov 17, 2026",
-      "summary": "Australia targets Israeli settlements with fresh sanctions The Australian",
-      "topics": [
-        "AML & Sanctions"
       ]
     },
     {
@@ -883,17 +794,6 @@
       "topics": [
         "Enforcement Actions",
         "AML & Sanctions"
-      ]
-    },
-    {
-      "title": "Electric Tugboats Are Coming to the Port of Los Angeles. It’s Not Just About Emissions.",
-      "link": "https://www.wsj.com/logistics-report/electric-tugboats-are-coming-to-the-port-of-los-angeles-its-not-just-about-emissions-7ded65be?mod=pls_whats_news_us_business_f",
-      "source": "Wall Street Journal",
-      "date": "2026-11-17T17:00:00+00:00",
-      "display_date": "Nov 17, 2026",
-      "summary": "Curtin Maritime is building eight battery-powered tugs using technology from recreational boats as the industry tests whether electric propulsion can cut operating costs.",
-      "topics": [
-        "ESG & Sustainability"
       ]
     },
     {
@@ -1108,17 +1008,6 @@
       ]
     },
     {
-      "title": "Providers fined for NDIS breaches … only to be hired for aged care - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQT1F1NktfemEzLVNQMFU0SGNWbV9NRno5dDloUTZXNkJZT3lpQndwUE92V0N3ZHpac1l2bmEwTUpDZk4zZ3V0WGppY2lDcVE3cFNhdS1aemFSSzNUUHB3WS0tckRHb3pLQmotUHRsVHRlRHktMEhlRkJWeUt6R3FlbHJfZzJFU2ZMMWlLMU9jWXI0Y09PWVJ5RGZOUEs4WHVERVBnZTNfdE1oRkE5VTBXeS1IVzZZY0RMa0NJOXJIR2RVWm5JN2hQTUc0MS15cHlHeVBUSE1fbEFVcnhQYzBJR19Eekxkcm9wNHRUb1RCcmo1YnhFNFlz?oc=5",
-      "source": "The Australian",
-      "date": "2026-11-17T09:29:00+00:00",
-      "display_date": "Nov 17, 2026",
-      "summary": "Providers fined for NDIS breaches … only to be hired for aged care The Australian",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
       "title": "What we’re learning from firms engaging with our innovation services",
       "link": "https://www.fca.org.uk/news/blogs/what-were-learning-firms-engaging-our-innovation-services",
       "source": "FCA UK Regulatory News",
@@ -1127,29 +1016,6 @@
       "summary": "Three themes stand out: the growing use of AI, innovation crossing traditional sector boundaries, and financial inclusion.As firms develop new products, services and business models, many engage with us through our Regulatory Sandbox and Innovation Pathways to understand how regu...",
       "topics": [
         "Regulatory Change"
-      ]
-    },
-    {
-      "title": "ASIC in new private credit probe as fund liquidity dries up - AFR",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQU3BYMW9zSkFBaFd4a05yMHZjSURrY3FpWXQ2Qm51a2NFOGRpdmZOUnBMRC1JYWdNUk81b2dSVGRpVzEyVkQtNTlXXzVzT1FHNno1R1kzdGtOUzMzUGJBdVQzM1Y2SUE2NjVqTlE2d0R5QUpKckFtWlNTTFpZQlJpNVlGZHJ4Y1VwdFd0Q0FZU0poVEgzZC1udGFySnpKSzNNWFNOMVgyeGZpVEtZSVhaRnI3WUd0V2RDUlFTYm9ySHA5RFpS?oc=5",
-      "source": "AFR",
-      "date": "2026-11-17T09:00:00+00:00",
-      "display_date": "Nov 17, 2026",
-      "summary": "ASIC in new private credit probe as fund liquidity dries up AFR",
-      "topics": [
-        "Enforcement Actions",
-        "Operational & Enterprise Risk"
-      ]
-    },
-    {
-      "title": "Universities are their own worst enemies on independent governance - AFR",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWkJYQVFCZGVEeC1SRF93ekttb0lkdTVSc3hPS3BCdzlucXVVeW1RNFRGSl9RZ0FaVlJneW9jd0M0UFZzUVpHemlyS1pjNnJnblBacC1RT3pIRHJWV0FjUWhSRVo0a0VfRnBLWVdoY0FWeGU3ZXAwMTVMZDNNSTh0QUJsSDVsYTgyTEk1U2tSekpHc3ZLb2k1bkRUSDFEdEg5NmNHR3l0R2NkUndiNWVTUHZTbHh6TVVpLWVwVnhEdDBndw?oc=5",
-      "source": "AFR",
-      "date": "2026-11-17T06:18:00+00:00",
-      "display_date": "Nov 17, 2026",
-      "summary": "Universities are their own worst enemies on independent governance AFR",
-      "topics": [
-        "Operational & Enterprise Risk"
       ]
     },
     {
@@ -1241,17 +1107,6 @@
       ]
     },
     {
-      "title": "ALIMENTATION COUCHE-TARD ANNOUNCES RECEIPT OF ALL REGULATORY APPROVALS FOR ITS VOLUNTARY TENDER OFFER FOR ŻABKA GROUP – Company Announcement - FT.com - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcnk5NDFjcnVLOU9wVnY3Q0NWaENhTTJwRlhWMDBiQzMybkhnXzFtTWZpYUxuWDNUSmFCOUJ4S2g3dXN1bVA1TW11Z0ZldTg4aWdEM2szVmtlUllSRzdFekNPRHZyOTc0czlEWGF0cGprNFlVNUF0SE9SRi0tS0NzRXlGcEVLQmJPTFpvekFCSXlNQUl2MGc?oc=5",
-      "source": "Financial Times",
-      "date": "2026-11-16T14:00:00+00:00",
-      "display_date": "Nov 16, 2026",
-      "summary": "ALIMENTATION COUCHE-TARD ANNOUNCES RECEIPT OF ALL REGULATORY APPROVALS FOR ITS VOLUNTARY TENDER OFFER FOR ŻABKA GROUP – Company Announcement - FT.com Financial Times",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "EU adds Russian online retailer Wildberries' CEO to Russia sanctions list - Reuters",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMDViUTRuRmxGQmI1RjhrV3pjZTdZS0NLMXZDQkFXX3RSNU1CLW03WjlwSVhRaDhvbFl1MlFPblV3YjJ4WFZoaDBRRzVKdThBYjFTWEpVMWdiaFJsTGVKa1pCeXVtZE42Mk1mWmdpd2FhaC1kVzduR01OdHByd2dnTUNmeFpRNFI5dC1MWDg5QWQwV253dTZzMFd6dUZfcGtzWlFjN2xzeTFjaG9FcUx3eg?oc=5",
       "source": "Reuters",
@@ -1318,45 +1173,12 @@
       ]
     },
     {
-      "title": "‘Deeply flawed’: Former ACCC boss slams opt-out AI copyright plan - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOS1JhREtVUHRrS3Yyb0lJdHR3aThZT0c5R1p0SWVvLVUzZ1ZPX2NLcDNWTEJ6UVg1ejNGYkI5b1E5ZzNxRVlmQXBHeVhaUnVsVXlWeTZTZW5zTUNtLVJ5WTJDbEk5M3pmS2FSTlktdGV6Z0M3ZkhHWTl1UHhCanFKRFZGT3JFby1VVV9YQ2FmSmg5SFNVRzI1RTI5QUlGSnRpcG9wYUxiZ3lkbWoyNDFDa3BBQ1BlY0k5RzlNWE42UVU2UXJQcnNRWUk0R0k0N1hSRUl1NUFvOWVaWWdMNUZPcW1fa09ZOUhyLUR2SWJqWVdfYTNlRncwRGVfWGpSc09JanpSbmNLZHduSFR4a3hrMFRlU2oxUDRFSjJoVUxPZmkzREp3Nm1Ua2FR?oc=5",
-      "source": "The Australian",
-      "date": "2026-11-15T09:00:00+00:00",
-      "display_date": "Nov 15, 2026",
-      "summary": "‘Deeply flawed’: Former ACCC boss slams opt-out AI copyright plan The Australian",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "Sydney Uni’s international students behind 91 per cent of serious fraud cases, report reveals - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQRXZtUU5uYnFKRnRxT0xueEFrTVVsV3I4ODlvcUtyRGw4c3pTREVwVGFjVDVyRGNuSEdzbVhNYWc2ekdyUWJaeDRYTG5kRnNKb0ZsaHhtcmRjVXRxUVU3dDVwTTBJY3JrNnVWZnJLUW5xeGx3T2RBb1ZldFpoMXQ2TWJQWFkxdzA3VGZPd1A1U0VmcWhac3hBaFNmTzFTR0NwZ2lQb1dnN25YRVI3Sk9rUjFVdFh6bnZtbFVCOTRwc1RzaXpvRFdoNnlvOHNwRXJfQVk5dnB5cnZkQkdjS3cyTFZib2I2U2hFLUl6ZmN3NEE0NGdhM3RuNlZia0I5U1J3R2NDSUxwNmZ2SmlMMU9xeG1icjVPbjNqSWpkN1h1RFlyWnhwMmRtOHVVUVk?oc=5",
-      "source": "The Australian",
-      "date": "2026-11-15T06:14:00+00:00",
-      "display_date": "Nov 15, 2026",
-      "summary": "Sydney Uni’s international students behind 91 per cent of serious fraud cases, report reveals The Australian",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
       "title": "Law enforcement searches Illinois plant after 'credible threat' of explosive device - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUWd2dWN5WmZWVFV3UFVQcU40U2lkY3B3Z3FRVFlHWDg1RGtodEt0T2d3QnQxSWxsXzFRWWV0anZqcW8xb2wxelg0UFZkODlQM3BTbENTaVdOSEZUM3NYblVESUdzTk14Rk9wcGlnWmJUdGxaTG5sM1Fsa0t3SHpxdkxMd3VPdEdkY1cxVDZoM1FfUW5BTGdzTVlCdG9Sc19JUzYzeUN1VFhzYm9jRDh1dVo0WjFVQk9TSTUyM2hTRE4?oc=5",
       "source": "Reuters",
       "date": "2026-11-14T20:40:09+00:00",
       "display_date": "Nov 14, 2026",
       "summary": "Law enforcement searches Illinois plant after 'credible threat' of explosive device Reuters",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "Democrat control of southern states will make Donald Trump’s border enforcement weaker - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNeU9Da0lzMy1qZHZRbUVRNnFMQXpzUko1YndpYWFiSVVUeVptUEdaM1NrMllGdm82OHU5bE9vOVJSMUZLRmZZZnBEU0IwV3lvWWJZYVhQRnRvWHgxWG9MaURQbjYzbVd3RGJSLTlobnZDWDRNQ09hYXU2M1pxLXliSVhabEpnc2x0ZFBQWmYydVVWdy0tZzBwUjRXTjRKNlppS0haajdsRmhUMENTZWpYcW5fZHhGcGVEVTBaaW5yY2dsb2R3MHo2ZEkyX0U5UHctS1RiVUVFQjM2NlhTV3Z3Q0FyZ21JVFVJQ3Z0MVRUQXVOY1dO?oc=5",
-      "source": "The Australian",
-      "date": "2026-11-14T01:39:37+00:00",
-      "display_date": "Nov 14, 2026",
-      "summary": "Democrat control of southern states will make Donald Trump’s border enforcement weaker The Australian",
       "topics": [
         "Enforcement Actions"
       ]
@@ -1371,17 +1193,6 @@
       "topics": [
         "Regulatory Change",
         "Operational & Enterprise Risk"
-      ]
-    },
-    {
-      "title": "Indian fintech firm Razorpay gets regulatory nod for IPO - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTE51c3BkMXhjUkhrTHo4UV9OSEFKSlRwTllET3dLRWRXZDA5eTNCV2hfTGhuVzZ6RUVVUGN0TkhpdWxqZHhnaHA0cTEwQ3FscDhRY1FvQ052b0p1MUZsUHB4dnJTcUFCS2Y1LWpUcW9FdTBzMTR0dGNNV3p5eXp1NVZ2d01EMTBHMVNwSlIxbU1ZSXlmaUdkdXN6TUwxcUNlMkE?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-13T17:47:05+00:00",
-      "display_date": "Nov 13, 2026",
-      "summary": "Indian fintech firm Razorpay gets regulatory nod for IPO Reuters",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
@@ -1418,28 +1229,6 @@
       ]
     },
     {
-      "title": "Wall Street Regulator Finra Moves to Give Industry Bigger Role - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbEt0S2ZiQ2hNRF9WR2dDSTZCbGd0VFJSZ1J0VS1DX0hFenY2bV9ab2w3VmZNT1RKSEREZGhidVV4ZmY2VU1ibEJ1bkNSMVN0NC0tMlFIcTBPQ1ZWVFBWVmFELW1TN0xlb053MWpYaXBvVjdmejlyWURoODIxZVBIWVl3eFJJZlpSbDd2UURrNlZmWjlYd3JkNHZhVjRoc1ExTXFQVHUyNVRxZ2lzQzIwYnRjWQ?oc=5",
-      "source": "Bloomberg.com",
-      "date": "2026-11-13T15:33:25+00:00",
-      "display_date": "Nov 13, 2026",
-      "summary": "Wall Street Regulator Finra Moves to Give Industry Bigger Role Bloomberg.com",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Greta Thunberg and other climate activists must address causes of energy demand - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOM1J3RFMxRmpmS0dpc19wVktQV1d5dmdXNDFCV2cxeG1MR2xXSjZ1S0tiRWtoalRXN2VtVExobEg3UlhZcEF5NGNzclJvc3BYZTh0U2dGNVdyT1duR0t4WjhjcXp1UmlEX3RKYklneC1vS0ZTWDRSUV9UUElSejA1SWY1NzluZ2hNYkVCM013ZVhxN1Q2V3FTYjlrZmFTNFhDUXQ5VXhqNTNYQWVWY1Y4Ym94R1llWmlCMzB5VW5PYUY1MmtjWnlENmJVREpwYm5nM2lRUkp3RG1ySHp2YjhUQld4eDQ?oc=5",
-      "source": "The Australian",
-      "date": "2026-11-13T13:00:00+00:00",
-      "display_date": "Nov 13, 2026",
-      "summary": "Greta Thunberg and other climate activists must address causes of energy demand The Australian",
-      "topics": [
-        "ESG & Sustainability"
-      ]
-    },
-    {
       "title": "GRC Business Roundup: Arcus Compliance, Njordium, Cloud Range, Globalli, LeapXpert & More",
       "link": "https://www.corporatecomplianceinsights.com/grc-business-roundup-arcus-compliance-njordium-cloud-range-globalli-leapxpert-more/",
       "source": "Corporate Compliance Insights",
@@ -1470,28 +1259,6 @@
       "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-114713 UnrealIRCd Improper Neutralization of Delimiters Vulnerability CVE-2026-123039 Check Point Multiple Products Incorrect Permissio...",
       "topics": [
         "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "Grant of ASX waiver of Listing Rule 10.13.5 - AFR",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSm9uMFhsSWthUmlZdm40VU1RWVNSUGhLWkJNamt4UmlqLU9jcDRlXzVaTTE0MlhoVktWY3cwVmFGMVdiUF84LWJuMUJaY3prOW1BRDM4ZVNkWTBwTHhid2hEY0M1NTFfQTNvUmZMYzR3eU1BajVYajc0Ykt2X2N6ajRTVk5jeDN3MUdUWnA1NA?oc=5",
-      "source": "AFR",
-      "date": "2026-11-13T04:03:39+00:00",
-      "display_date": "Nov 13, 2026",
-      "summary": "Grant of ASX waiver of Listing Rule 10.13.5 AFR",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "ACCC to examine supermarket pricing of milk, coffee and chocolate - AFR",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNLTBZc1V0MlFTUnNlSnZDUnA2ZHAwMWZON2dzN3JUV3B4VVVUOExmekV6ZU50RTdGOVZBUEZOcWdlbndkNFVkOGVqWlJZTlJBMUl3cDYyQ1Vrd0lHd1VkcEVVMllEUHpVcWdaRDJieS1WTk05b2tLU3gzS0hJY2M5WnFKRnlmWXJxLUtxaVNWVWM5ZjNSTnp0T1VESFRhTHhpZHoyYXc1MWNpQmNkWWZTaXN5NkRWalpP?oc=5",
-      "source": "AFR",
-      "date": "2026-11-13T03:23:00+00:00",
-      "display_date": "Nov 13, 2026",
-      "summary": "ACCC to examine supermarket pricing of milk, coffee and chocolate AFR",
-      "topics": [
-        "Enforcement Actions"
       ]
     },
     {
@@ -1688,17 +1455,6 @@
       "date": "2026-11-09T21:09:23+00:00",
       "display_date": "Nov 09, 2026",
       "summary": "Last week a technology company in Delaware paid $13 million to settle allegations that its poor cybersecurity practices violated the False Claims Act. If compliance and audit professionals ever wanted a case that’s emblematic of cybersecurity compliance risks these days, this one...",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "When I became unemployed I expected to find a job in no time. As months passed, I realised I was being shunned | John Emerson",
-      "link": "https://www.theguardian.com/commentisfree/2026/nov/10/when-i-became-unemployed-i-expected-to-find-a-job-in-no-time-as-months-passed-i-realised-i-was-being-shunned",
-      "source": "The Guardian Australia",
-      "date": "2026-11-09T14:00:11+00:00",
-      "display_date": "Nov 09, 2026",
-      "summary": "The jobless are the sacrificial lambs of Australia’s monetary policy. I remain shocked that the lucky country actively excludes so many from a chance at its luck The causes of finding yourself out of work are many. Being made redundant, having a contract not renewed, bullied into...",
       "topics": [
         "Regulatory Change"
       ]
