@@ -1,16 +1,62 @@
 {
-  "last_updated": "November 20, 2026 16:51 UTC",
-  "total_count": 226,
+  "last_updated": "November 20, 2026 20:41 UTC",
+  "total_count": 220,
   "articles": [
     {
-      "title": "Top Democrat warns US law enforcement agencies to save records, including on apps - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeml6ano3N3dZMGMxMkhmYzRBZTIybDZKQUh5aU5LX2dySkRHSTRoSkdBTTRPdGk5M0lwV3RmNWVEQTRxNTBSMTVtSXZvakZJQmh6WW1VZ2Zfd3ZrNUU4V1dkZnB3ZS1pYlBYZk40bGhnOG9vRGJ3VXJSbk93ckJ2Q2lYTXRlaS1lMVZTallRUE9hcnJPV3kzV1RwT002QzdSZUJpVWNFWi10dm55SWVsbVhieW4yWThzMVFPbS1KNnFsMFp1c0E?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-20T16:21:00+00:00",
+      "title": "Investigations of Nvidia mount amid growing questions of AI chip sales and governance",
+      "link": "https://www.complianceweek.com/technology/investigations-of-nvidia-mount-amid-growing-questions-of-ai-chip-sales-and-governance/",
+      "source": "Compliance Week",
+      "date": "2026-11-20T20:39:11+00:00",
       "display_date": "Nov 20, 2026",
-      "summary": "Top Democrat warns US law enforcement agencies to save records, including on apps Reuters",
+      "summary": "Nvidia Corp. sold at least 879,000 high-powered AI chips to companies linked to the Chinese military after receiving approval from the Commerce Department, the House Foreign Affairs Committee said Thursday. The post Investigations of Nvidia mount amid growing questions of AI chip...",
       "topics": [
-        "Enforcement Actions"
+        "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "UK government promises overhaul of water regulation and companies after report exposes environmental failures",
+      "link": "https://www.complianceweek.com/energy-and-utilities/uk-government-promises-overhaul-of-water-regulation-and-companies-after-report-exposes-environmental-failures/",
+      "source": "Compliance Week",
+      "date": "2026-11-20T20:31:24+00:00",
+      "display_date": "Nov 20, 2026",
+      "summary": "The UK government has promised to overhaul water company regulation after a series of financial, infrastructure and environmental crises exposed fundamental weaknesses across the industry. The post UK government promises overhaul of water regulation and companies after report exp...",
+      "topics": [
+        "Regulatory Change",
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "UK operation wards off risk of cyber-attack on supermarket fridges and freezers",
+      "link": "https://www.theguardian.com/technology/2026/nov/20/cybersecurity-operation-thwarts-attack-on-uk-supermarket-fridges-and-freezers",
+      "source": "The Guardian Australia",
+      "date": "2026-11-20T18:06:52+00:00",
+      "display_date": "Nov 20, 2026",
+      "summary": "News of vulnerability comes after retailers in at least seven European countries hit by cyber-attacks A secret government cybersecurity operation recently warded off the risk of a cyber-attack on fridges and freezers in UK supermarkets, warehouses, restaurants, petrol stations an...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "SEC Issues Proposal to Restructure the Consolidated Audit Trail",
+      "link": "https://www.sec.gov/newsroom/press-releases/2026-117-sec-issues-proposal-restructure-consolidated-audit-trail",
+      "source": "SEC Press Releases",
+      "date": "2026-11-20T18:03:24+00:00",
+      "display_date": "Nov 20, 2026",
+      "summary": "The Securities and Exchange Commission today issued a proposal to address the inefficiencies in the current governance and funding model of the Consolidated Audit Trail (CAT). The Commission is proposing to rescind Rule 613 of Regulation NMS, which…",
+      "topics": [
+        "Regulatory Change",
+        "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "India cyber agency warns of unauthorised payment transactions - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQVBjYmYzYWxqaFJPbzVjTUhKX1RMLW16dnlpT1lLdHJVOTc5VHZMUTMyRXM1bF85bFB3Rkg2d0wxT29aUmpYUHZoOHpuamhBc2JTdXptTl9QTHN6Q1g5Y1VVcDBwc3BDYmFMdjFldV9DbU9XRFN1LWh4TU5EQjJ5VW8zVmJMNFVuWlJIUExfOExIWEpPMmltVUdZd3l6QWpMQlFZSUZvSmpLbklq?oc=5",
+      "source": "Reuters",
+      "date": "2026-11-20T17:42:59+00:00",
+      "display_date": "Nov 20, 2026",
+      "summary": "India cyber agency warns of unauthorised payment transactions Reuters",
+      "topics": [
+        "Cybersecurity Risk"
       ]
     },
     {
@@ -33,17 +79,6 @@
       "summary": "The Securities and Exchange Commission today announced that it has obtained a temporary restraining order, asset freeze, expedited discovery, and other relief against Indianapolis-based Backward Hat Capital, its co-founders Phillip Williams and Devin…",
       "topics": [
         "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "US Treasury presses Singapore and Malaysia on Iran sanctions compliance - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcWpsS2J4X3N5clFTNVhVa3BacUsxZUNmaXAwaHBjRlNVRXZ4XzhlTjBXLThJVlVPN2tMY1hPRmNRR3JWdVFOdi16QmdxYnVDX2lpSlNlZHRiYkh0T2I3VkNiVXNUek9uZWZRbmJHdlM2Skhsbm0xRVhua2N2Y2dDX1VMa1lJNUs4WmZtLWVJQWdfeXg3cVFBTHJ1cmxoQXViTDA0cG9TNmQ1TFhkMkRkc3Vwd2ZtSGtuTjc4?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-20T14:27:44+00:00",
-      "display_date": "Nov 20, 2026",
-      "summary": "US Treasury presses Singapore and Malaysia on Iran sanctions compliance Reuters",
-      "topics": [
-        "AML & Sanctions"
       ]
     },
     {
@@ -88,6 +123,17 @@
       "summary": "The business of GRC is ever-expanding, GRC technology is one of the fastest-growing segments in enterprise software, and compliance professions are rapidly evolving. Here’s the latest from across the industry. New products & platforms Casepoint, a government and legal technology ...",
       "topics": [
         "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/11/20/cisa-adds-four-known-exploited-vulnerabilities-catalog",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-11-20T12:00:00+00:00",
+      "display_date": "Nov 20, 2026",
+      "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2025-42884 SAP NetWeaver Improper Neutralization of Special Elements in Data Query Logic Vulnerability CVE-2026-76466 Cisco Expressway Seri...",
+      "topics": [
+        "Cybersecurity Risk"
       ]
     },
     {
@@ -168,17 +214,6 @@
       ]
     },
     {
-      "title": "Gap names new Athleta CEO, lowers full-year guidance",
-      "link": "https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html",
-      "source": "CNBC",
-      "date": "2026-11-19T23:54:20+00:00",
-      "display_date": "Nov 19, 2026",
-      "summary": "Gap on Thursday announced Ashley Kechter as the new CEO of Athleta. The retailer also reported mixed fiscal third-quarter earnings.",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "New York AG launches AI enforcement unit as states crack down on AI risks",
       "link": "https://www.complianceweek.com/artificial-intelligence/new-york-ag-launches-ai-enforcement-unit-as-states-crack-down-on-ai-risks/",
       "source": "Compliance Week",
@@ -246,14 +281,14 @@
       ]
     },
     {
-      "title": "Reactions as top UN court finds Myanmar guilty of genocide against Rohingya - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQempsRGZLcGx4YTMyaUxqNFFFYllXTXNZdzdMRHk0VkE0b2dfX1MzeGktXzBzdlhVS3AzXy1yWWtsMV9oNGIxeGxoOXNVM0d6Z2FVdVpQQ09aNU1aSEhzUmpadUNpU0hyZ2hmY3g2MFlrSjRKMVR4eE5hNjVZSmFwWUdNV2k1VTZPeUpRc2c2anFZbjhiVkVnaGNIQ0ZxMXVKWjdYdEFHYk01YlducEpTU3lQSlhnMlNRWFJEMjUtSGdQdw?oc=5",
+      "title": "US gas exporters more comfortable signing European deals after EU delays methane regulation - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQU0ZuUlpxWkdlajd2bGh6anB2TWphTmU2TVVLR21rWnViZnNEUmNMOVRVLXItNjNxTWZ2RUlDa04xdXU3OTNwXzlyVk90cEhGX3RvM1lSYW5LU0E3NnFvZ2dSTmQxUl9tUktzcGh0NEhZOE9RdDQ2WXVvbUdma1UtN3h6eEF1REdXSGtaTHVoNVJOOTd4WFdveE0tT2tBWjlYNkZEakJJbTZRbEw0dmF0cmFmQkQ5Yy1jTE1YZ2xwS0dQWDVqTXFlRDdpeGU?oc=5",
       "source": "Reuters",
-      "date": "2026-11-19T18:39:31+00:00",
+      "date": "2026-11-19T18:42:45+00:00",
       "display_date": "Nov 19, 2026",
-      "summary": "Reactions as top UN court finds Myanmar guilty of genocide against Rohingya Reuters",
+      "summary": "US gas exporters more comfortable signing European deals after EU delays methane regulation Reuters",
       "topics": [
-        "Enforcement Actions"
+        "Regulatory Change"
       ]
     },
     {
@@ -436,17 +471,6 @@
       ]
     },
     {
-      "title": "The Morning Risk Report: The Jensen Huang Saga Has Reinvigorated Washington’s China Hawks",
-      "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-the-jensen-huang-saga-has-reinvigorated-washingtons-china-hawks-00536beb?mod=pls_whats_news_us_business_f",
-      "source": "Wall Street Journal",
-      "date": "2026-11-19T12:22:00+00:00",
-      "display_date": "Nov 19, 2026",
-      "summary": "Plus: Microsoft-Bytedance cloud deal under fire from lawmakers and EU anti-money-laundering, public prosecution bodies team up.",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
       "title": "Banque des Territoires Acquires Stake in ESG Ratings Provider EthiFinance",
       "link": "https://www.esgtoday.com/banque-des-territoires-acquires-stake-in-esg-ratings-provider-ethifinance/?utm_source=rss&utm_medium=rss&utm_campaign=banque-des-territoires-acquires-stake-in-esg-ratings-provider-ethifinance",
       "source": "ESG Today",
@@ -613,17 +637,6 @@
       "summary": "Israel warns Wong against sanctions ‘mistake’ in political uncertainty The Australian",
       "topics": [
         "AML & Sanctions"
-      ]
-    },
-    {
-      "title": "Apollo scraps planned $2bn loan to Manchester City owner after rule breaches - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORGdSWlloVzAzUVVzeHFjSXlxdnpFeWh0WGtta0R1U3pWVzZGTlFWUEJfNWtGV1ptZEVNYXNPSHlJVWtjaDd0V01uazRBaDd1YzZfVFVyQzhCdXFLQThMckhPZU1CcnhTZWFobVlZb0hMc3J5VXJIUW56VUlvNzdheTQ1aEo?oc=5",
-      "source": "Financial Times",
-      "date": "2026-11-19T05:01:23+00:00",
-      "display_date": "Nov 19, 2026",
-      "summary": "Apollo scraps planned $2bn loan to Manchester City owner after rule breaches Financial Times",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
@@ -800,17 +813,6 @@
       "summary": "A departing compliance officer’s qualifications can be rebuilt in months; the judgment and regulator relationships that leave with them take years. CCI contributing writer Trevor Treharne reports on a knowledge drain that Asia-Pacific regulators are now naming outright, with a co...",
       "topics": [
         "Regulatory Change"
-      ]
-    },
-    {
-      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/11/18/cisa-adds-four-known-exploited-vulnerabilities-catalog",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-11-18T12:00:00+00:00",
-      "display_date": "Nov 18, 2026",
-      "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2024-10441 Synology DiskStation Manager (DSM) Improper Encoding or Escaping of Output Vulnerability CVE-2026-40217 BerriAI LiteLLM Unprotec...",
-      "topics": [
-        "Cybersecurity Risk"
       ]
     },
     {
@@ -1139,12 +1141,24 @@
       ]
     },
     {
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/11/17/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "title": "Siemens RUGGEDCOM APE1808",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-07",
       "source": "CISA Cybersecurity Advisories",
       "date": "2026-11-17T12:00:00+00:00",
       "display_date": "Nov 17, 2026",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-115731 Perforce Puppet Enterprise Deserialization of Untrusted Data Vulnerability This type of vulnerability is a frequent attack vector ...",
+      "summary": "View CSAF Summary Fortinet has published information on a Double Free vulnerability in FortiOS. This advisory lists the related Siemens Industrial products. Siemens recommends to update Fortigate NGFW to V7.6.9 or later following the secure update recommendation procedure. Contac...",
+      "topics": [
+        "Regulatory Change",
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "Siemens SIMATIC WinCC",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-09",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-11-17T12:00:00+00:00",
+      "display_date": "Nov 17, 2026",
+      "summary": "View CSAF Summary Graphics Designer of SIMATIC WinCC before V8.2 contains an implicit active content execution vulnerability upon opening files, which could allow an attacker to cause arbitrary code execution on the device. Siemens is preparing fixes and recommends specific mitig...",
       "topics": [
         "Cybersecurity Risk"
       ]
@@ -1161,25 +1175,13 @@
       ]
     },
     {
-      "title": "Siemens SIMATIC WinCC",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-09",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/11/17/cisa-adds-one-known-exploited-vulnerability-catalog",
       "source": "CISA Cybersecurity Advisories",
       "date": "2026-11-17T12:00:00+00:00",
       "display_date": "Nov 17, 2026",
-      "summary": "View CSAF Summary Graphics Designer of SIMATIC WinCC before V8.2 contains an implicit active content execution vulnerability upon opening files, which could allow an attacker to cause arbitrary code execution on the device. Siemens is preparing fixes and recommends specific mitig...",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-115731 Perforce Puppet Enterprise Deserialization of Untrusted Data Vulnerability This type of vulnerability is a frequent attack vector ...",
       "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "Siemens RUGGEDCOM APE1808",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-07",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-11-17T12:00:00+00:00",
-      "display_date": "Nov 17, 2026",
-      "summary": "View CSAF Summary Fortinet has published information on a Double Free vulnerability in FortiOS. This advisory lists the related Siemens Industrial products. Siemens recommends to update Fortigate NGFW to V7.6.9 or later following the secure update recommendation procedure. Contac...",
-      "topics": [
-        "Regulatory Change",
         "Cybersecurity Risk"
       ]
     },
@@ -1251,28 +1253,6 @@
       ]
     },
     {
-      "title": "Uber, Walmart, Delta, and others must hand over data in FTC clampdown on personalized pricing",
-      "link": "https://www.complianceweek.com/regulatory-enforcement/uber-walmart-delta-and-others-must-hand-over-data-in-ftc-clampdown-on-personalized-pricing/",
-      "source": "Compliance Week",
-      "date": "2026-11-17T02:56:31+00:00",
-      "display_date": "Nov 17, 2026",
-      "summary": "Nine major airlines, ride-hailing companies and food-delivery firms have been ordered to provide detailed information about how they use personal data to set prices part of a crackdown by the FTC. The post Uber, Walmart, Delta, and others must hand over data in FTC clampdown on p...",
-      "topics": [
-        "Data Privacy"
-      ]
-    },
-    {
-      "title": "Sanctioned Russian, Iranian airlines serviced by EU subsidiary in Turkey and Georgia",
-      "link": "https://www.complianceweek.com/sanctions/sanctioned-russian-iranian-airlines-serviced-by-eu-subsidiary-in-turkey-and-georgia/",
-      "source": "Compliance Week",
-      "date": "2026-11-17T01:22:35+00:00",
-      "display_date": "Nov 17, 2026",
-      "summary": "Sanctioned Russian and Iranian airlines continue to use airports run by TAV, a subsidiary of French state-controlled Groupe ADP, highlighting the limitations of Western sanctions. The post Sanctioned Russian, Iranian airlines serviced by EU subsidiary in Turkey and Georgia appear...",
-      "topics": [
-        "AML & Sanctions"
-      ]
-    },
-    {
       "title": "Meta faces sanctions bid over withheld evidence in teen mental health cases - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPY0pncG9WWUpfX0cyRms1cXZETmNjV2tMOGZlTUlmd2MwSkRUeDV4T2gxR2d4MlozZUduNXB5MmJmNk1IVHFOenduakhPWWMzcmR4M2ZReW5MS3Z6OVM3aFNvSjc2Mmd3eUd5RkpCblR3bmw0S0RSWHJ2anJIUG1rQ0xDQjV1dmlDXzVqRk1ORW9jdlpLaXE3MC1fNzU2OHR3NW9JdFRObm9wZUxkNXhmRWpJS0VuM19NSVhrRVVwN0hndEE?oc=5",
       "source": "Reuters",
@@ -1336,17 +1316,6 @@
       "summary": "EU Targets Russia’s Richest Woman in Latest Round of Sanctions Bloomberg.com",
       "topics": [
         "AML & Sanctions"
-      ]
-    },
-    {
-      "title": "ALIMENTATION COUCHE-TARD ANNOUNCES RECEIPT OF ALL REGULATORY APPROVALS FOR ITS VOLUNTARY TENDER OFFER FOR ŻABKA GROUP – Company Announcement - FT.com - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcnk5NDFjcnVLOU9wVnY3Q0NWaENhTTJwRlhWMDBiQzMybkhnXzFtTWZpYUxuWDNUSmFCOUJ4S2g3dXN1bVA1TW11Z0ZldTg4aWdEM2szVmtlUllSRzdFekNPRHZyOTc0czlEWGF0cGprNFlVNUF0SE9SRi0tS0NzRXlGcEVLQmJPTFpvekFCSXlNQUl2MGc?oc=5",
-      "source": "Financial Times",
-      "date": "2026-11-16T14:00:00+00:00",
-      "display_date": "Nov 16, 2026",
-      "summary": "ALIMENTATION COUCHE-TARD ANNOUNCES RECEIPT OF ALL REGULATORY APPROVALS FOR ITS VOLUNTARY TENDER OFFER FOR ŻABKA GROUP – Company Announcement - FT.com Financial Times",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
@@ -1458,17 +1427,6 @@
       "topics": [
         "Regulatory Change",
         "Operational & Enterprise Risk"
-      ]
-    },
-    {
-      "title": "Indian fintech firm Razorpay gets regulatory nod for IPO - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTE51c3BkMXhjUkhrTHo4UV9OSEFKSlRwTllET3dLRWRXZDA5eTNCV2hfTGhuVzZ6RUVVUGN0TkhpdWxqZHhnaHA0cTEwQ3FscDhRY1FvQ052b0p1MUZsUHB4dnJTcUFCS2Y1LWpUcW9FdTBzMTR0dGNNV3p5eXp1NVZ2d01EMTBHMVNwSlIxbU1ZSXlmaUdkdXN6TUwxcUNlMkE?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-13T17:47:05+00:00",
-      "display_date": "Nov 13, 2026",
-      "summary": "Indian fintech firm Razorpay gets regulatory nod for IPO Reuters",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
@@ -1870,17 +1828,6 @@
       ]
     },
     {
-      "title": "Subnet Solutions PowerSYSTEM Center",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-307-01",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-11-03T12:00:00+00:00",
-      "display_date": "Nov 03, 2026",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to execute unauthorized SQL commands and gain access to unauthorized resources. The following versions of Subnet Solutions PowerSYSTEM Center are affected: PowerSYSTEM Center 2020 <=5.29.x ...",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
       "title": "New FCA rules bring ESG rating providers into UK regulation for the first time",
       "link": "https://www.fca.org.uk/news/press-releases/new-fca-rules-bring-esg-rating-providers-uk-regulation-first-time",
       "source": "FCA UK Regulatory News",
@@ -2266,17 +2213,6 @@
       "date": "2026-09-23T18:27:00+00:00",
       "display_date": "Sep 23, 2026",
       "summary": "The Securities and Exchange Commission’s Division of Economic and Risk Analysis (DERA) published updated statistics and data visualizations covering key segments of the U.S. capital markets, including a notable increase in the number of initial public…",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "SEC Charges South Florida Resident and His Company for Alleged Investment Scheme Defrauding Law Enforcement",
-      "link": "https://www.sec.gov/newsroom/press-releases/2026-92-sec-charges-south-florida-resident-his-company-alleged-investment-scheme-defrauding-law-enforcement",
-      "source": "SEC Press Releases",
-      "date": "2026-09-23T16:00:00+00:00",
-      "display_date": "Sep 23, 2026",
-      "summary": "The Securities and Exchange Commission today charged CMI Capital LLC and its founder and manager, Michael D. Williams, for an alleged fraudulent investment scheme that raised approximately $860,000 from at least 18 investors, many of whom are current or…",
       "topics": [
         "Enforcement Actions"
       ]
