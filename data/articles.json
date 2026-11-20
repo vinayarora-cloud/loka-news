@@ -1,16 +1,61 @@
 {
-  "last_updated": "November 19, 2026 20:45 UTC",
-  "total_count": 227,
+  "last_updated": "November 20, 2026 00:45 UTC",
+  "total_count": 228,
   "articles": [
+    {
+      "title": "Gap names new Athleta CEO, lowers full-year guidance",
+      "link": "https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html",
+      "source": "CNBC",
+      "date": "2026-11-19T23:54:20+00:00",
+      "display_date": "Nov 19, 2026",
+      "summary": "Gap on Thursday announced Ashley Kechter as the new CEO of Athleta. The retailer also reported mixed fiscal third-quarter earnings.",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "New York AG launches AI enforcement unit as states crack down on AI risks",
+      "link": "https://www.complianceweek.com/artificial-intelligence/new-york-ag-launches-ai-enforcement-unit-as-states-crack-down-on-ai-risks/",
+      "source": "Compliance Week",
+      "date": "2026-11-19T22:35:54+00:00",
+      "display_date": "Nov 19, 2026",
+      "summary": "The New York attorney general established a new unit to protect New York residents’ safety and privacy from potential harms of AI. The post New York AG launches AI enforcement unit as states crack down on AI risks appeared first on Compliance Week .",
+      "topics": [
+        "Enforcement Actions",
+        "Data Privacy"
+      ]
+    },
+    {
+      "title": "Gap Cuts Outlook After Warm Fall Weather Weighs on Sales",
+      "link": "https://www.wsj.com/business/earnings/gap-cuts-outlook-after-warm-fall-weather-weighs-on-sales-ca3ee7c3?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-11-19T22:01:00+00:00",
+      "display_date": "Nov 19, 2026",
+      "summary": "The apparel company now expects total sales for the year to be roughly flat, compared with earlier guidance that revenue would increase by 1% to 1.5%.",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
     {
       "title": "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers",
       "link": "https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87?mod=pls_whats_news_us_business_f",
       "source": "Wall Street Journal",
-      "date": "2026-11-19T20:12:00+00:00",
+      "date": "2026-11-19T21:56:00+00:00",
       "display_date": "Nov 19, 2026",
       "summary": "The incident involved data belonging to thousands of customers, but it isn’t disrupting payment services or connected to banking issues earlier this week.",
       "topics": [
         "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "Fed's Barr worried regulatory changes may increase financial sector risks - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObGNlZHpfREZsS2VzTkI1dGxhQ1FLYk9ta0YzRHp6Wl9JRlF2ZVBFZTlJTmo3NjNoZXkyYUdQeFVwYVdGRW9wM25ldlozX3ZnRncyNktWTkk4RGdILXFaWGxnaVRMSUJvY0IzYUhuVGw3VmVyWGl2bmFXTVFZZ1FiblBqLXBsNThZMFRiRWxwYkg4Z2Y5Mk9YYkpWcHoyT1JhdnVXM01KeTYzaVBsUk9TUmZueTEzbU44?oc=5",
+      "source": "Reuters",
+      "date": "2026-11-19T20:56:48+00:00",
+      "display_date": "Nov 19, 2026",
+      "summary": "Fed's Barr worried regulatory changes may increase financial sector risks Reuters",
+      "topics": [
+        "Regulatory Change"
       ]
     },
     {
@@ -25,7 +70,7 @@
       ]
     },
     {
-      "title": "Financially stretched water utility cuts hospital sewerage charge",
+      "title": "TasWater creates 'unlevel playing field' as hospital sewerage bills cut 70pc",
       "link": "https://www.abc.net.au/news/2026-11-20/taswater-slashes-hospital-sewerage-bills-other-customers-hikes/107384246",
       "source": "ABC News Business (AU)",
       "date": "2026-11-19T18:44:01+00:00",
@@ -174,7 +219,7 @@
       "title": "Comanchero hit with US sanctions over links to Mexican drug cartels - The Australian",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNX0lQdWczLW1NX1hDTXpyOWwtQXF1el96M3NLNjUxZnFWdUw0R25JbXJ3ZkZ6b2RCTzZ1bGVlcGR6TkdWUVd3eTdZSmpDcTVWVDBpQllMM3NHaFdqeVhxdjhuSmdadm81T0JtMUV3MVUyc3VKdHBCZmVfRHltMHdTT2RqMjFnMHo2aG56X3pVTzhCQTZZMnZUUTdmM3RVUWx5bU5BSEJUTmxZNEVoNUltRTJ4Ull5WExzRVdObHI3cW4tRy1zRmsydkVOMDM4X1ZVRU5GTm5sQnZ4ZEFOUzNwaWdlXzVodw?oc=5",
       "source": "The Australian",
-      "date": "2026-11-19T15:13:43+00:00",
+      "date": "2026-11-19T15:07:04+00:00",
       "display_date": "Nov 19, 2026",
       "summary": "Comanchero hit with US sanctions over links to Mexican drug cartels The Australian",
       "topics": [
@@ -395,17 +440,6 @@
       ]
     },
     {
-      "title": "Meta to Hire New India Policy Chief to Repair Frayed Ties - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTm9iZ2RRdVlMZERWVEZsZUlSLUt6LXhGM0lVcFdzeGVTOExGWTkyY0dwak03a3VPbGFCVkFNMEFudTB3b0toSWdFZklLZ25DdDNZejdjeVdpa0szNWFGaENMUVhHQTFyNE9mcTNLZXcwLVJWdEVvYWJqUGhTclR3SzJnb01mei1DY1VxZk42NkxaMjhoMmZYZEtsX1dWMjlDYUd1TW9aaDRibTdhV29kUlJlWHc?oc=5",
-      "source": "Bloomberg.com",
-      "date": "2026-11-19T07:19:00+00:00",
-      "display_date": "Nov 19, 2026",
-      "summary": "Meta to Hire New India Policy Chief to Repair Frayed Ties Bloomberg.com",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "The Sahm rule indicates what level of unemployment is signalling a recession - The Australian",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOejdka1dSbHFuRFgwemlUYktHVGRuUWdaWUJYeHE2aGxmcktvbWl5UVJjU0xkb1hHNG1GcFZiTVFxU0FzaTFzZ19GZlhfM2hWWV9pUGw0Rk05Qmc1aktKS2tMVFk2OS16ZmlyRE9yWUNEQS1TeDl2NHpUQkpFemRjZXBZbTJKN3FYZ0YyLWs2T1NQbWJUUDNqRXhwM3VWTTF2Nklla3FlLTRIc2s2R29GZ2lIWTl5aERNb000Ny1wSXBqWUE0MXNfRjcyNnFTd1BST2hRVnQ5TUFTdjZ1cFBtMUtWUWpQYmY3X3c?oc=5",
       "source": "The Australian",
@@ -472,17 +506,6 @@
       ]
     },
     {
-      "title": "US Department of Justice charges Russian for targeting Palantir as foreign agent - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONGdHSkFlZGJKSElDLTZOc3R5NVByOU9zYUxvV1MxZEpla3VwbmFJdVRUb2YwZjJfVmIzZWFXNkoxSVM3N24tY2g4YU5tbXR0N2xDcjJ2UFg3SFYyWW1wZWphS3FJQmlSYUFjQ284Nk5SdzZvakdzQmNwN1hibFVBUEpCSDMxMXpNOUM0ZlYwQ3BlbG9tcVlaRl94bUxEajlRUTV0SGRia0dlaFJwbUdCVjl5SG1OREtTeHBWdFdFTEt5TjZR?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-18T23:56:00+00:00",
-      "display_date": "Nov 18, 2026",
-      "summary": "US Department of Justice charges Russian for targeting Palantir as foreign agent Reuters",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
       "title": "Ex-Google Engineer May Face New Charges Over Bets on Gemini 3.0 - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUi1uVEdYb09LeE44VkpURTBhZDZGQlk0dmMxRTJTbjh6Z1d3NTdZTnpQLW1lVDNNTFA2eFlRbGVhNUVCYVJUWklkT0pEaGFWaGpKRjhZOG41d3o5NURPVlNEaXB3Z3VmRHJQQnFiYTJiRy0tZmJud0lieE1idkJWX2FRVmNiTUFvT3JMOWRTV1pRcTM2enlLMVZsU3hmU3Iwc1EwemFGTVhiVUg5blpwcE9jRTc?oc=5",
       "source": "Bloomberg.com",
@@ -535,6 +558,17 @@
       "summary": "The EchoStar subsidiary said it is in talks to settle with other tower owners, but Crown Castle, which has the largest claim, says it hasn’t been contacted.",
       "topics": [
         "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "Canadian Investment Regulatory Organization Trading Halt - LBS – Company Announcement - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaXFsX09xdDhfWEpQcnBOREMzSmRCeEoyM2hiMHlHMnBkN29GczF4dnppakEtNmw2OTVza3dBZ0Q4eXZLSTJhenRBRUFyajhvR0ZlT05sSnNldjgybnQ1am05dEJ1d3pFOVFlU2YtbjAzdGR6YzlyekpOMzRDdWF1WURBeENJY2RMVTJsb0N4endYWi16X3c?oc=5",
+      "source": "Financial Times",
+      "date": "2026-11-18T20:30:00+00:00",
+      "display_date": "Nov 18, 2026",
+      "summary": "Canadian Investment Regulatory Organization Trading Halt - LBS – Company Announcement Financial Times",
+      "topics": [
+        "Regulatory Change"
       ]
     },
     {
@@ -694,18 +728,6 @@
       ]
     },
     {
-      "title": "New sanctions target ‘illegal Israeli settlement expansion and violence’ - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPaUE4TEJMTEF6dTh3WEJaUWdubFd5cEtSREJMRUJ1XzN4bW9Tb25yZEE5b2U5WDQtQS1xMXlXU3AxMmwzZFZEd0pySW5lcHBMbVMwVVJQYkxEZkoyaTQwZ1pJbGVIRENZR3MtNkctT1FSd2VUTkhlY2c3Z1lmSjFBZkNIWTZtZ0VNSUFNenQ3eDRUZGdqMjNJQVNIdmVjWkxBS21uY0RwbkZmR0taM3JZWXh4V1Yxbi1Gek1POGhFUW53dFFtWUIycERZWngtOFlNbDFpS3QyYlk2QXNVXzFzaFZKeHVkci1WTEE?oc=5",
-      "source": "The Australian",
-      "date": "2026-11-18T09:46:56+00:00",
-      "display_date": "Nov 18, 2026",
-      "summary": "New sanctions target ‘illegal Israeli settlement expansion and violence’ The Australian",
-      "topics": [
-        "Enforcement Actions",
-        "AML & Sanctions"
-      ]
-    },
-    {
       "title": "Xi and Putin blast Western ‘protectionism’, sanctions at APEC - The Australian",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVzd2LVVzS0lpZ3BjaGY1Nk1zaGxscFJyNm9Zb1Exb0t5LXlqb1lQY21EcGNDZGpMRkFUOTJoRUhQTmdQRlQzN2tLV2tZQlhDbEdVU0NxNEYtOE8zQmJIZ1owYUZDTEF3Tk9icXMydGtjeW9yUElZMWxxUHZhaEtiM1BkWTJJOUh4THBwTlJKVnRKdzZxczlXZzRnbGVNNmdJZHpkT0lzVnY5bkt4SmxMcDgySTJRbWJ3NUJ5V19FSXZQWllvNHBDOS0wNTU2N2Ni?oc=5",
       "source": "The Australian",
@@ -713,6 +735,18 @@
       "display_date": "Nov 18, 2026",
       "summary": "Xi and Putin blast Western ‘protectionism’, sanctions at APEC The Australian",
       "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "New sanctions target ‘illegal Israeli settlement expansion and violence’ - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPaUE4TEJMTEF6dTh3WEJaUWdubFd5cEtSREJMRUJ1XzN4bW9Tb25yZEE5b2U5WDQtQS1xMXlXU3AxMmwzZFZEd0pySW5lcHBMbVMwVVJQYkxEZkoyaTQwZ1pJbGVIRENZR3MtNkctT1FSd2VUTkhlY2c3Z1lmSjFBZkNIWTZtZ0VNSUFNenQ3eDRUZGdqMjNJQVNIdmVjWkxBS21uY0RwbkZmR0taM3JZWXh4V1Yxbi1Gek1POGhFUW53dFFtWUIycERZWngtOFlNbDFpS3QyYlk2QXNVXzFzaFZKeHVkci1WTEE?oc=5",
+      "source": "The Australian",
+      "date": "2026-11-18T09:09:00+00:00",
+      "display_date": "Nov 18, 2026",
+      "summary": "New sanctions target ‘illegal Israeli settlement expansion and violence’ The Australian",
+      "topics": [
+        "Enforcement Actions",
         "AML & Sanctions"
       ]
     },
@@ -1340,17 +1374,6 @@
       ]
     },
     {
-      "title": "Nvidia fiasco highlights compliance risks around industrial espionage, culture, and governance structures",
-      "link": "https://www.complianceweek.com/risk-management/nvidia-fiasco-highlights-compliance-risks-around-industrial-espionage-culture-and-governance-structures/",
-      "source": "Compliance Week",
-      "date": "2026-11-13T21:13:02+00:00",
-      "display_date": "Nov 13, 2026",
-      "summary": "Jensen Huang’s resignation as Nvidia CEO over affairs with a suspected Chinese spy and a direct report exposes serious governance gaps compliance officers can’t ignore. The post Nvidia fiasco highlights compliance risks around industrial espionage, culture, and governance structu...",
-      "topics": [
-        "Operational & Enterprise Risk"
-      ]
-    },
-    {
       "title": "Indian fintech firm Razorpay gets regulatory nod for IPO - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTE51c3BkMXhjUkhrTHo4UV9OSEFKSlRwTllET3dLRWRXZDA5eTNCV2hfTGhuVzZ6RUVVUGN0TkhpdWxqZHhnaHA0cTEwQ3FscDhRY1FvQ052b0p1MUZsUHB4dnJTcUFCS2Y1LWpUcW9FdTBzMTR0dGNNV3p5eXp1NVZ2d01EMTBHMVNwSlIxbU1ZSXlmaUdkdXN6TUwxcUNlMkE?oc=5",
       "source": "Reuters",
@@ -1406,6 +1429,17 @@
       ]
     },
     {
+      "title": "Greta Thunberg and other climate activists must address causes of energy demand - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOM1J3RFMxRmpmS0dpc19wVktQV1d5dmdXNDFCV2cxeG1MR2xXSjZ1S0tiRWtoalRXN2VtVExobEg3UlhZcEF5NGNzclJvc3BYZTh0U2dGNVdyT1duR0t4WjhjcXp1UmlEX3RKYklneC1vS0ZTWDRSUV9UUElSejA1SWY1NzluZ2hNYkVCM013ZVhxN1Q2V3FTYjlrZmFTNFhDUXQ5VXhqNTNYQWVWY1Y4Ym94R1llWmlCMzB5VW5PYUY1MmtjWnlENmJVREpwYm5nM2lRUkp3RG1ySHp2YjhUQld4eDQ?oc=5",
+      "source": "The Australian",
+      "date": "2026-11-13T13:00:00+00:00",
+      "display_date": "Nov 13, 2026",
+      "summary": "Greta Thunberg and other climate activists must address causes of energy demand The Australian",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
       "title": "GRC Business Roundup: Arcus Compliance, Njordium, Cloud Range, Globalli, LeapXpert & More",
       "link": "https://www.corporatecomplianceinsights.com/grc-business-roundup-arcus-compliance-njordium-cloud-range-globalli-leapxpert-more/",
       "source": "Corporate Compliance Insights",
@@ -1439,17 +1473,6 @@
       ]
     },
     {
-      "title": "‘A step too far’: Privacy fears on bid to name trust recipients - AFR",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY1B1anoxQ0pkOXhZR0ZUdDVDdXkwdEM3M3JYLWJZNDlnYTVzV2ZES3Vja2lOY2VPOVI2c2VPd3lndF9JdFNDbUNlU25Ed1V3ck9NLUtVWVRjNm1ObGN4cVpKN2o5d3pPT0Rid3U1YlpvLXQzdnlVRHJGcUxMQjNnb3FOUV9iWjNNZC0tVEY2WHJZUGg4LW15YXJOWndwR1BHVVhmVXBQemVMR0NUY1JjWXhVMWdhQkRV?oc=5",
-      "source": "AFR",
-      "date": "2026-11-13T06:20:00+00:00",
-      "display_date": "Nov 13, 2026",
-      "summary": "‘A step too far’: Privacy fears on bid to name trust recipients AFR",
-      "topics": [
-        "Data Privacy"
-      ]
-    },
-    {
       "title": "Grant of ASX waiver of Listing Rule 10.13.5 - AFR",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSm9uMFhsSWthUmlZdm40VU1RWVNSUGhLWkJNamt4UmlqLU9jcDRlXzVaTTE0MlhoVktWY3cwVmFGMVdiUF84LWJuMUJaY3prOW1BRDM4ZVNkWTBwTHhid2hEY0M1NTFfQTNvUmZMYzR3eU1BajVYajc0Ykt2X2N6ajRTVk5jeDN3MUdUWnA1NA?oc=5",
       "source": "AFR",
@@ -1467,17 +1490,6 @@
       "date": "2026-11-13T03:23:00+00:00",
       "display_date": "Nov 13, 2026",
       "summary": "ACCC to examine supermarket pricing of milk, coffee and chocolate AFR",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "Watch Allen Says US Needs Stronger Export-Control Enforcement - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbl85NFQtREwxUUxzaFVyeFF4anh2N2tJSUd3NUx1aXV6clNkVlZMQzFOOVJ1T2I4dTRoNGRPZGg5amFHM3NFUmR3NGM2Yk1lc3NJRWZ1TVhvR0RHSFlpaHhtSUYzWTdXWk8wZ3FOdTF4RkJELVA2cmJzLUd0d2VFLXFyRGhWbXBXZkVfTnRWMEw3SV9wMmMtSzlwaFB1NTJjSm4xeV9PMlkxWkFZcWw0?oc=5",
-      "source": "Bloomberg.com",
-      "date": "2026-11-12T23:56:06+00:00",
-      "display_date": "Nov 12, 2026",
-      "summary": "Watch Allen Says US Needs Stronger Export-Control Enforcement Bloomberg.com",
       "topics": [
         "Enforcement Actions"
       ]
