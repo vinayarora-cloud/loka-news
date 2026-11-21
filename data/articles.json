@@ -1,7 +1,18 @@
 {
-  "last_updated": "November 21, 2026 00:49 UTC",
-  "total_count": 223,
+  "last_updated": "November 21, 2026 04:47 UTC",
+  "total_count": 215,
   "articles": [
+    {
+      "title": "Financial firms failing to prove that AML and CTF controls can keep pace with cross-border expansion and increasing complexity",
+      "link": "https://www.complianceweek.com/aml/financial-firms-failing-to-prove-that-aml-and-ctf-controls-can-keep-pace-with-cross-border-expansion-and-increasing-complexity/",
+      "source": "Compliance Week",
+      "date": "2026-11-21T04:34:49+00:00",
+      "display_date": "Nov 21, 2026",
+      "summary": "Regulated financial firms are struggling to show their financial crime controls remain effective as they grow, become more complex, and move into new jurisdictions. The post Financial firms failing to prove that AML and CTF controls can keep pace with cross-border expansion and i...",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
     {
       "title": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
       "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
@@ -26,17 +37,6 @@
       ]
     },
     {
-      "title": "Man Is Found Guilty of Setting 2025 Pacific Palisades Fires - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMEZhQkdtNHQzcWlaRUY5MWY0Z2t2YWE1MGU5SmM1WlhIOFlMVDhQNDZTLVlZUFZrR2hieTRGN0hYLXNmU3hQYkxqSFY2UXBEaEZxbVlnWkxKSzFyOG5aeGF2TmZjcXRXak5sU0RualV5OG8yUVdFdnEzSHNyaEczWWJyZWhJMm02aU9BbjNheWZzMjlENlgxYlFDZjNETmRJcV9MRGRZd05CVVR6Rk9J?oc=5",
-      "source": "Bloomberg.com",
-      "date": "2026-11-20T23:25:00+00:00",
-      "display_date": "Nov 20, 2026",
-      "summary": "Man Is Found Guilty of Setting 2025 Pacific Palisades Fires Bloomberg.com",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
       "title": "Opinion | Why China Wants to Control a Yacht Maker",
       "link": "https://www.wsj.com/opinion/why-china-wants-to-control-a-yacht-maker-69ca60c7?mod=pls_whats_news_us_business_f",
       "source": "Wall Street Journal",
@@ -56,6 +56,17 @@
       "summary": "The mainstream parties say they’re worried about democracy, then issue fanciful climate pledges.",
       "topics": [
         "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "US Treasury sanctions Iranian 'trustees' collecting oil revenues - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV3NtX0JqMFVBeHBVcTdlV1ZTaXRRMUhnLV9YWmR3VEZqUHVwbFlnOTlFTlZtTTExbUhTNzBsWXR6YTNYQmdMdVg4VGJuTTRYR19wSHhSZUJaTlRxWWpFT0o3SGgzb2JrOXY4b2xMd3cxQ2VlbGZPUzFGU2hJNFJLLTV6YlZLdmlGbUNaY19jMDdMLXVLTGRiT2ZfR2dMY0JuNzc0UzE0akxlelRNNl9sYzhLMkFwczA?oc=5",
+      "source": "Reuters",
+      "date": "2026-11-20T21:53:07+00:00",
+      "display_date": "Nov 20, 2026",
+      "summary": "US Treasury sanctions Iranian 'trustees' collecting oil revenues Reuters",
+      "topics": [
+        "AML & Sanctions"
       ]
     },
     {
@@ -93,17 +104,6 @@
       ]
     },
     {
-      "title": "Canadian Investment Regulatory Organization Trading Halt - LABZ – Company Announcement - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbmhUUm54U09qeTZnRWhFcHJ2ZXN6NmZXVVVQQnFpd0RjVXVJSEVoVDAyRHVuWWxZbEN3aUpPeF9CaHhTSEwxWTRzTFFWWGg4SUt4aDVMdzJpN2F4bkZLUmpRZVNUX3lfYUFuQkp3cmI4bGZiemF5YVZIMzFiR2Z2X3o2Ri12N0Q2QXVtN0h2b1NDcTBlV3c?oc=5",
-      "source": "Financial Times",
-      "date": "2026-11-20T19:16:00+00:00",
-      "display_date": "Nov 20, 2026",
-      "summary": "Canadian Investment Regulatory Organization Trading Halt - LABZ – Company Announcement Financial Times",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "SEC Issues Proposal to Restructure the Consolidated Audit Trail",
       "link": "https://www.sec.gov/newsroom/press-releases/2026-117-sec-issues-proposal-restructure-consolidated-audit-trail",
       "source": "SEC Press Releases",
@@ -113,17 +113,6 @@
       "topics": [
         "Regulatory Change",
         "Operational & Enterprise Risk"
-      ]
-    },
-    {
-      "title": "Top Democrat warns US law enforcement agencies to save records, including on apps - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeml6ano3N3dZMGMxMkhmYzRBZTIybDZKQUh5aU5LX2dySkRHSTRoSkdBTTRPdGk5M0lwV3RmNWVEQTRxNTBSMTVtSXZvakZJQmh6WW1VZ2Zfd3ZrNUU4V1dkZnB3ZS1pYlBYZk40bGhnOG9vRGJ3VXJSbk93ckJ2Q2lYTXRlaS1lMVZTallRUE9hcnJPV3kzV1RwT002QzdSZUJpVWNFWi10dm55SWVsbVhieW4yWThzMVFPbS1KNnFsMFp1c0E?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-20T16:21:00+00:00",
-      "display_date": "Nov 20, 2026",
-      "summary": "Top Democrat warns US law enforcement agencies to save records, including on apps Reuters",
-      "topics": [
-        "Enforcement Actions"
       ]
     },
     {
@@ -259,17 +248,6 @@
       ]
     },
     {
-      "title": "Parents Are ‘Flying Blind’ in an Exploding Autism-Therapy Industry",
-      "link": "https://www.wsj.com/health/healthcare/autism-therapy-aba-parents-34cf1cc0?mod=pls_whats_news_us_business_f",
-      "source": "Wall Street Journal",
-      "date": "2026-11-20T02:00:00+00:00",
-      "display_date": "Nov 20, 2026",
-      "summary": "Popular therapy known as ABA has become the default treatment for children, but quality varies and parents get little guidance.",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "Bougainville landowners 'overwhelmed' at Rio Tinto's $370m pledge",
       "link": "https://www.abc.net.au/news/2026-11-20/png-rio-tinto-pays-370m-to-fix-panguna-mine-legacy/107403470",
       "source": "ABC News Business (AU)",
@@ -343,17 +321,6 @@
       "date": "2026-11-19T20:11:10+00:00",
       "display_date": "Nov 19, 2026",
       "summary": "Two years after she was badly burnt while wearing a recalled Temu-purchased hoodie, Daniella Jacobs-Herd's family has run out of legal options. Allan Fels is among those calling on the consumer watchdog to use its powers to help.",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "TasWater creates 'unlevel playing field' as hospital sewerage bills cut 70pc",
-      "link": "https://www.abc.net.au/news/2026-11-20/taswater-slashes-hospital-sewerage-bills-other-customers-hikes/107384246",
-      "source": "ABC News Business (AU)",
-      "date": "2026-11-19T18:44:01+00:00",
-      "display_date": "Nov 19, 2026",
-      "summary": "Tasmania's water utility has dropped public hospital fixed sewerage charges by around 70 per cent, after its new pricing structure initially saw some customers' bills soar. A union has described the changes as \"an absolute shambles\".",
       "topics": [
         "Enforcement Actions"
       ]
@@ -513,17 +480,6 @@
       "summary": "Sustainable packaging technology company Pulpex announced £24.6 million (USD$32.3 million) in new investments, including £19.6 […]",
       "topics": [
         "ESG & Sustainability"
-      ]
-    },
-    {
-      "title": "Genel Energy PLC: STATEMENT REGARDING SATISFACTION OF REGULATORY CONDITIONS AND EXPECTED SCHEME TIMETABLE – Company Announcement - FT.com - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX2ZfNms5YTdlVDhEN0xRemxmRm1nbXlRVTVMU0RUQWpSOHRoTTNRaHdNQnZfcTItNVNUWDN4TktFNTNJZVpkdzE4UFo3UXNFejFFb29kdDFWa2hCUEtXdnVYTlBCdXAtLTd6V2wyNHR4SFhfUXJIQkFzNGFFSzdaTEhSNElqMnVmNnJEU1dINHQxdS1kSnRGR00wdGY1NjNkWm1oZTZNbGMtNmM?oc=5",
-      "source": "Financial Times",
-      "date": "2026-11-19T14:16:00+00:00",
-      "display_date": "Nov 19, 2026",
-      "summary": "Genel Energy PLC: STATEMENT REGARDING SATISFACTION OF REGULATORY CONDITIONS AND EXPECTED SCHEME TIMETABLE – Company Announcement - FT.com Financial Times",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
@@ -929,17 +885,6 @@
       ]
     },
     {
-      "title": "Deutsche Bank overrode compliance concerns to increase business with Russian oligarchs, according to leaked documents",
-      "link": "https://www.complianceweek.com/banking/deutsche-bank-overrode-compliance-concerns-to-increase-business-with-russian-oligarchs-according-to-leaked-documents/",
-      "source": "Compliance Week",
-      "date": "2026-11-18T09:00:00+00:00",
-      "display_date": "Nov 18, 2026",
-      "summary": "Compliance weaknesses, governance failures, suspicious transactions and systemic culture problems are being exposed by journalists investigating more than 15 million internal Deutsche Bank documents leaked by whistleblowers. The post Deutsche Bank overrode compliance concerns to ...",
-      "topics": [
-        "Operational & Enterprise Risk"
-      ]
-    },
-    {
       "title": "Australia sanctions Israeli settlers, organisations over West Bank expansion - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVlFrYWNBX1NLTHhNc00ycmhVV0dFNlRNX0xOcGFKcUhaYmNSU093YzlyTm9xOVlGRGlxblJhajk5ME5HMy0zeXFHc2FQUGFBd3lvUGtaNENWMTB2YVV6eHJ4NzZ1N3pHcjJqam9sQ2kxRk4wNUU4Z1NLbDA4bWQyUVpMakxVa0Q3S2UxeUE1Nm92RmhKUFVHMVl3UUVETHQxMVk4QlYwS0ZhNXRPSGVsUGRQX0F6OFJiZ1N5WGIyb1l5TkliTkhwT2NB?oc=5",
       "source": "Reuters",
@@ -1073,17 +1018,6 @@
       "topics": [
         "Enforcement Actions",
         "AML & Sanctions"
-      ]
-    },
-    {
-      "title": "Roche’s Breast Cancer Pill Wilserdly Wins US Regulatory Approval - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU3ZrTWxZeVZ3RVhRY19BZVpBdDdyWDQ2WlRsTXJtclcyTnhZNzM2T3hkWlNQYVg3Z2lLb05URlJESkdBSHR2ZGx0RDRaWm1GTml2Qm1IcFRKWDVkbGc5MC15dEl0N1FNNWwxX1YxMmY0TkRaeC1BU1I3dDF0OUdTbWtIUnJLZWJRX3h4SWZNWndQMmRfNWNGQVlybnNLNzRHTkVjRHVwU1JGZU8zTkdKS3hwUkY0dw?oc=5",
-      "source": "Bloomberg.com",
-      "date": "2026-11-17T13:14:19+00:00",
-      "display_date": "Nov 17, 2026",
-      "summary": "Roche’s Breast Cancer Pill Wilserdly Wins US Regulatory Approval Bloomberg.com",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
@@ -1353,17 +1287,6 @@
       ]
     },
     {
-      "title": "ALIMENTATION COUCHE-TARD ANNOUNCES RECEIPT OF ALL REGULATORY APPROVALS FOR ITS VOLUNTARY TENDER OFFER FOR ŻABKA GROUP – Company Announcement - FT.com - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcnk5NDFjcnVLOU9wVnY3Q0NWaENhTTJwRlhWMDBiQzMybkhnXzFtTWZpYUxuWDNUSmFCOUJ4S2g3dXN1bVA1TW11Z0ZldTg4aWdEM2szVmtlUllSRzdFekNPRHZyOTc0czlEWGF0cGprNFlVNUF0SE9SRi0tS0NzRXlGcEVLQmJPTFpvekFCSXlNQUl2MGc?oc=5",
-      "source": "Financial Times",
-      "date": "2026-11-16T14:00:00+00:00",
-      "display_date": "Nov 16, 2026",
-      "summary": "ALIMENTATION COUCHE-TARD ANNOUNCES RECEIPT OF ALL REGULATORY APPROVALS FOR ITS VOLUNTARY TENDER OFFER FOR ŻABKA GROUP – Company Announcement - FT.com Financial Times",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "EU adds Russian online retailer Wildberries' CEO to Russia sanctions list - Reuters",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMDViUTRuRmxGQmI1RjhrV3pjZTdZS0NLMXZDQkFXX3RSNU1CLW03WjlwSVhRaDhvbFl1MlFPblV3YjJ4WFZoaDBRRzVKdThBYjFTWEpVMWdiaFJsTGVKa1pCeXVtZE42Mk1mWmdpd2FhaC1kVzduR01OdHByd2dnTUNmeFpRNFI5dC1MWDg5QWQwV253dTZzMFd6dUZfcGtzWlFjN2xzeTFjaG9FcUx3eg?oc=5",
       "source": "Reuters",
@@ -1447,17 +1370,6 @@
       "date": "2026-11-14T20:40:09+00:00",
       "display_date": "Nov 14, 2026",
       "summary": "Law enforcement searches Illinois plant after 'credible threat' of explosive device Reuters",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "Democrat control of southern states will make Donald Trump’s border enforcement weaker - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNeU9Da0lzMy1qZHZRbUVRNnFMQXpzUko1YndpYWFiSVVUeVptUEdaM1NrMllGdm82OHU5bE9vOVJSMUZLRmZZZnBEU0IwV3lvWWJZYVhQRnRvWHgxWG9MaURQbjYzbVd3RGJSLTlobnZDWDRNQ09hYXU2M1pxLXliSVhabEpnc2x0ZFBQWmYydVVWdy0tZzBwUjRXTjRKNlppS0haajdsRmhUMENTZWpYcW5fZHhGcGVEVTBaaW5yY2dsb2R3MHo2ZEkyX0U5UHctS1RiVUVFQjM2NlhTV3Z3Q0FyZ21JVFVJQ3Z0MVRUQXVOY1dO?oc=5",
-      "source": "The Australian",
-      "date": "2026-11-14T01:39:37+00:00",
-      "display_date": "Nov 14, 2026",
-      "summary": "Democrat control of southern states will make Donald Trump’s border enforcement weaker The Australian",
       "topics": [
         "Enforcement Actions"
       ]
