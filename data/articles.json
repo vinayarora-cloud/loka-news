@@ -1,7 +1,74 @@
 {
-  "last_updated": "November 20, 2026 20:41 UTC",
-  "total_count": 220,
+  "last_updated": "November 21, 2026 00:49 UTC",
+  "total_count": 223,
   "articles": [
+    {
+      "title": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
+      "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+      "source": "Krebs on Security",
+      "date": "2026-11-21T00:36:39+00:00",
+      "display_date": "Nov 21, 2026",
+      "summary": "The chief technology officer and co-founder of ransomwarehelp.com, a six year old Florida business that claimed to use \"advanced cryptographic tools\" to restore data locked by ransomware, has been charged with wire fraud after an FBI sting operation found the company was simply p...",
+      "topics": [
+        "Enforcement Actions",
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "Judge approves $7.25bn Bayer payout to settle claims that Roundup causes cancer",
+      "link": "https://www.theguardian.com/business/2026/nov/20/bayer-roundup-cancer-litigation",
+      "source": "The Guardian Australia",
+      "date": "2026-11-20T23:42:43+00:00",
+      "display_date": "Nov 20, 2026",
+      "summary": "German company faced 65,000 claims from people who said they developed cancer after using weedkiller A Missouri judge on Friday approved Bayer ’s $7.25bn settlement of lawsuits ⁠alleging that its weedkiller ​Roundup causes cancer, potentially resolving litigation that has weighed...",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "Man Is Found Guilty of Setting 2025 Pacific Palisades Fires - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMEZhQkdtNHQzcWlaRUY5MWY0Z2t2YWE1MGU5SmM1WlhIOFlMVDhQNDZTLVlZUFZrR2hieTRGN0hYLXNmU3hQYkxqSFY2UXBEaEZxbVlnWkxKSzFyOG5aeGF2TmZjcXRXak5sU0RualV5OG8yUVdFdnEzSHNyaEczWWJyZWhJMm02aU9BbjNheWZzMjlENlgxYlFDZjNETmRJcV9MRGRZd05CVVR6Rk9J?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-11-20T23:25:00+00:00",
+      "display_date": "Nov 20, 2026",
+      "summary": "Man Is Found Guilty of Setting 2025 Pacific Palisades Fires Bloomberg.com",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "Opinion | Why China Wants to Control a Yacht Maker",
+      "link": "https://www.wsj.com/opinion/why-china-wants-to-control-a-yacht-maker-69ca60c7?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-11-20T23:11:00+00:00",
+      "display_date": "Nov 20, 2026",
+      "summary": "The story of Italy’s Ferretti Group points to a vulnerability in the West’s system to control investment by foreign adversaries.",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "Opinion | Germany’s ‘Green’ Energy Policies Fuel the AfD’s Rise",
+      "link": "https://www.wsj.com/opinion/germanys-green-energy-policies-fuel-the-afds-rise-cb664794?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-11-20T22:02:00+00:00",
+      "display_date": "Nov 20, 2026",
+      "summary": "The mainstream parties say they’re worried about democracy, then issue fanciful climate pledges.",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "Wall Street Regulator Probing Nvidia’s Accounting, Report Says - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQanJ2Vy1aLVpxUExDcF84eWx2YUlCNWZnY2JZbFp5YVlLMktzM3d5THFxTnpEajNHakd6bnNtNGRrTDJnNkprX1dWYVFwRTFudF9zcHh3QWpJZ1pxNlB6eHVVbTJLanNOYndlSURJSDBEYkFnckRCOWxSV1BoQnNOX3doTmlWNWVCeGM3SlNCelZSYVVKX2IxNnRjUW84eU5JMkFMT09uTFZsVmVrY3AzS2RSdw?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-11-20T21:16:03+00:00",
+      "display_date": "Nov 20, 2026",
+      "summary": "Wall Street Regulator Probing Nvidia’s Accounting, Report Says Bloomberg.com",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
     {
       "title": "Investigations of Nvidia mount amid growing questions of AI chip sales and governance",
       "link": "https://www.complianceweek.com/technology/investigations-of-nvidia-mount-amid-growing-questions-of-ai-chip-sales-and-governance/",
@@ -26,14 +93,14 @@
       ]
     },
     {
-      "title": "UK operation wards off risk of cyber-attack on supermarket fridges and freezers",
-      "link": "https://www.theguardian.com/technology/2026/nov/20/cybersecurity-operation-thwarts-attack-on-uk-supermarket-fridges-and-freezers",
-      "source": "The Guardian Australia",
-      "date": "2026-11-20T18:06:52+00:00",
+      "title": "Canadian Investment Regulatory Organization Trading Halt - LABZ – Company Announcement - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbmhUUm54U09qeTZnRWhFcHJ2ZXN6NmZXVVVQQnFpd0RjVXVJSEVoVDAyRHVuWWxZbEN3aUpPeF9CaHhTSEwxWTRzTFFWWGg4SUt4aDVMdzJpN2F4bkZLUmpRZVNUX3lfYUFuQkp3cmI4bGZiemF5YVZIMzFiR2Z2X3o2Ri12N0Q2QXVtN0h2b1NDcTBlV3c?oc=5",
+      "source": "Financial Times",
+      "date": "2026-11-20T19:16:00+00:00",
       "display_date": "Nov 20, 2026",
-      "summary": "News of vulnerability comes after retailers in at least seven European countries hit by cyber-attacks A secret government cybersecurity operation recently warded off the risk of a cyber-attack on fridges and freezers in UK supermarkets, warehouses, restaurants, petrol stations an...",
+      "summary": "Canadian Investment Regulatory Organization Trading Halt - LABZ – Company Announcement Financial Times",
       "topics": [
-        "Cybersecurity Risk"
+        "Regulatory Change"
       ]
     },
     {
@@ -49,14 +116,14 @@
       ]
     },
     {
-      "title": "India cyber agency warns of unauthorised payment transactions - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQVBjYmYzYWxqaFJPbzVjTUhKX1RMLW16dnlpT1lLdHJVOTc5VHZMUTMyRXM1bF85bFB3Rkg2d0wxT29aUmpYUHZoOHpuamhBc2JTdXptTl9QTHN6Q1g5Y1VVcDBwc3BDYmFMdjFldV9DbU9XRFN1LWh4TU5EQjJ5VW8zVmJMNFVuWlJIUExfOExIWEpPMmltVUdZd3l6QWpMQlFZSUZvSmpLbklq?oc=5",
+      "title": "Top Democrat warns US law enforcement agencies to save records, including on apps - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeml6ano3N3dZMGMxMkhmYzRBZTIybDZKQUh5aU5LX2dySkRHSTRoSkdBTTRPdGk5M0lwV3RmNWVEQTRxNTBSMTVtSXZvakZJQmh6WW1VZ2Zfd3ZrNUU4V1dkZnB3ZS1pYlBYZk40bGhnOG9vRGJ3VXJSbk93ckJ2Q2lYTXRlaS1lMVZTallRUE9hcnJPV3kzV1RwT002QzdSZUJpVWNFWi10dm55SWVsbVhieW4yWThzMVFPbS1KNnFsMFp1c0E?oc=5",
       "source": "Reuters",
-      "date": "2026-11-20T17:42:59+00:00",
+      "date": "2026-11-20T16:21:00+00:00",
       "display_date": "Nov 20, 2026",
-      "summary": "India cyber agency warns of unauthorised payment transactions Reuters",
+      "summary": "Top Democrat warns US law enforcement agencies to save records, including on apps Reuters",
       "topics": [
-        "Cybersecurity Risk"
+        "Enforcement Actions"
       ]
     },
     {
@@ -79,6 +146,17 @@
       "summary": "The Securities and Exchange Commission today announced that it has obtained a temporary restraining order, asset freeze, expedited discovery, and other relief against Indianapolis-based Backward Hat Capital, its co-founders Phillip Williams and Devin…",
       "topics": [
         "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "US Treasury presses Singapore and Malaysia on Iran sanctions compliance - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcWpsS2J4X3N5clFTNVhVa3BacUsxZUNmaXAwaHBjRlNVRXZ4XzhlTjBXLThJVlVPN2tMY1hPRmNRR3JWdVFOdi16QmdxYnVDX2lpSlNlZHRiYkh0T2I3VkNiVXNUek9uZWZRbmJHdlM2Skhsbm0xRVhua2N2Y2dDX1VMa1lJNUs4WmZtLWVJQWdfeXg3cVFBTHJ1cmxoQXViTDA0cG9TNmQ1TFhkMkRkc3Vwd2ZtSGtuTjc4?oc=5",
+      "source": "Reuters",
+      "date": "2026-11-20T14:27:44+00:00",
+      "display_date": "Nov 20, 2026",
+      "summary": "US Treasury presses Singapore and Malaysia on Iran sanctions compliance Reuters",
+      "topics": [
+        "AML & Sanctions"
       ]
     },
     {
@@ -162,7 +240,7 @@
       "title": "How Russian money launderers and Italian mobsters put Revolut in the regulatory crosshairs - Financial Times",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVFNmNVp1RjNnNmxTNk83NG4wdm00MEpxbEhSR0Z6RmllNHRNckRreE1BYVF6OFdDZWhVTmRfR0FEeFk3dUxBLU55djlVRzNBSkJ6MmtkdmNhb0lEQndtel9ldFFFYlExeGlpZldZV1EzZnliZzM1LW9Zd0NIaWVVanJvSFc?oc=5",
       "source": "Financial Times",
-      "date": "2026-11-20T05:07:40+00:00",
+      "date": "2026-11-20T05:00:17+00:00",
       "display_date": "Nov 20, 2026",
       "summary": "How Russian money launderers and Italian mobsters put Revolut in the regulatory crosshairs Financial Times",
       "topics": [
@@ -281,17 +359,6 @@
       ]
     },
     {
-      "title": "US gas exporters more comfortable signing European deals after EU delays methane regulation - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQU0ZuUlpxWkdlajd2bGh6anB2TWphTmU2TVVLR21rWnViZnNEUmNMOVRVLXItNjNxTWZ2RUlDa04xdXU3OTNwXzlyVk90cEhGX3RvM1lSYW5LU0E3NnFvZ2dSTmQxUl9tUktzcGh0NEhZOE9RdDQ2WXVvbUdma1UtN3h6eEF1REdXSGtaTHVoNVJOOTd4WFdveE0tT2tBWjlYNkZEakJJbTZRbEw0dmF0cmFmQkQ5Yy1jTE1YZ2xwS0dQWDVqTXFlRDdpeGU?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-19T18:42:45+00:00",
-      "display_date": "Nov 19, 2026",
-      "summary": "US gas exporters more comfortable signing European deals after EU delays methane regulation Reuters",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "‘Conflict of interest’: KPMG on both sides of NAB’s underpayment scandal",
       "link": "https://www.smh.com.au/business/banking-and-finance/conflict-of-interest-kpmg-on-both-sides-of-nab-s-underpayment-scandal-20261120-p61eqs.html?ref=rss&utm_medium=rss&utm_source=rss_business",
       "source": "The Sydney Morning Herald",
@@ -300,17 +367,6 @@
       "summary": "The bank has refused to repay staff back to when its pay issues allegedly began in 2004, despite whistleblower complaints to a hotline run by the consultancy.",
       "topics": [
         "Operational & Enterprise Risk"
-      ]
-    },
-    {
-      "title": "UK faces 'Farage penalty' if it pulls out of Brexit reset deal - The Australian - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOaXlOYlFfdzlMNDR6Ty1STGN2RkViWnFtNjFKRUs3Z2NNYkNadTIzZDk3LTZ2ZjlqU0R6Nml2ZEViRk10cTRUTTExdnItSFc3dC0wbVhBMjlJa01NQy1WY2xFejh0clR2X0lyTnRPLTdDVDdrb3VBdmh4NHJBNHNOZ1dRRXE2azhLVVZvMzBkRVNGR2poMjJaWEU4dEJ0c05qaVdsekJMQ0Foa0ZQcURmWDlhZ2RnV1N6UDZ4dFFyVnduOWxCZTJxeVIxY3ByWkh1Nlp5SXNFZmF2ZXF3dkZHYW5LTTF3YW5E?oc=5",
-      "source": "The Australian",
-      "date": "2026-11-19T18:01:04+00:00",
-      "display_date": "Nov 19, 2026",
-      "summary": "UK faces 'Farage penalty' if it pulls out of Brexit reset deal - The Australian The Australian",
-      "topics": [
-        "Enforcement Actions"
       ]
     },
     {
@@ -460,6 +516,17 @@
       ]
     },
     {
+      "title": "Genel Energy PLC: STATEMENT REGARDING SATISFACTION OF REGULATORY CONDITIONS AND EXPECTED SCHEME TIMETABLE – Company Announcement - FT.com - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX2ZfNms5YTdlVDhEN0xRemxmRm1nbXlRVTVMU0RUQWpSOHRoTTNRaHdNQnZfcTItNVNUWDN4TktFNTNJZVpkdzE4UFo3UXNFejFFb29kdDFWa2hCUEtXdnVYTlBCdXAtLTd6V2wyNHR4SFhfUXJIQkFzNGFFSzdaTEhSNElqMnVmNnJEU1dINHQxdS1kSnRGR00wdGY1NjNkWm1oZTZNbGMtNmM?oc=5",
+      "source": "Financial Times",
+      "date": "2026-11-19T14:16:00+00:00",
+      "display_date": "Nov 19, 2026",
+      "summary": "Genel Energy PLC: STATEMENT REGARDING SATISFACTION OF REGULATORY CONDITIONS AND EXPECTED SCHEME TIMETABLE – Company Announcement - FT.com Financial Times",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
       "title": "EU Reaches Deal to Delay to Methane Monitoring and Reporting Rules",
       "link": "https://www.esgtoday.com/eu-lawmakers-states-agree-to-2-year-delay-to-methane-reporting-rules/?utm_source=rss&utm_medium=rss&utm_campaign=eu-lawmakers-states-agree-to-2-year-delay-to-methane-reporting-rules",
       "source": "ESG Today",
@@ -468,6 +535,17 @@
       "summary": "Lawmakers in the European Parliament and EU Member States announced a provisional agreement to postpone […]",
       "topics": [
         "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "Xi, Putin blast Western 'protectionism' and sanctions as Trump lands in China - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb21UOHp4X2E2V05LRUhhUjhnSzI5b1NmNDRVQWhCb2RTV3gwQng0N3lKQ2lnV3JrbjB2cTBpSkNObTdwbXowR2d0UEt5NFp5blJtallNRjdFSjNoVDdxNkNXWFI4bmpETEV5TUs2OE16WW1lLTR0NkZCbEdXZF9OVDVycUFYV2p2aklNS3dR?oc=5",
+      "source": "Reuters",
+      "date": "2026-11-19T12:42:22+00:00",
+      "display_date": "Nov 19, 2026",
+      "summary": "Xi, Putin blast Western 'protectionism' and sanctions as Trump lands in China Reuters",
+      "topics": [
+        "AML & Sanctions"
       ]
     },
     {
@@ -673,17 +751,6 @@
       ]
     },
     {
-      "title": "Ex-Google Engineer May Face New Charges Over Bets on Gemini 3.0 - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUi1uVEdYb09LeE44VkpURTBhZDZGQlk0dmMxRTJTbjh6Z1d3NTdZTnpQLW1lVDNNTFA2eFlRbGVhNUVCYVJUWklkT0pEaGFWaGpKRjhZOG41d3o5NURPVlNEaXB3Z3VmRHJQQnFiYTJiRy0tZmJud0lieE1idkJWX2FRVmNiTUFvT3JMOWRTV1pRcTM2enlLMVZsU3hmU3Iwc1EwemFGTVhiVUg5blpwcE9jRTc?oc=5",
-      "source": "Bloomberg.com",
-      "date": "2026-11-18T23:44:22+00:00",
-      "display_date": "Nov 18, 2026",
-      "summary": "Ex-Google Engineer May Face New Charges Over Bets on Gemini 3.0 Bloomberg.com",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
       "title": "Compliance and governance underpin C-suite confidence in firms’ ability to be agile and resilient",
       "link": "https://www.complianceweek.com/risk-management/compliance-and-governance-underpin-c-suite-confidence-in-firms-ability-to-be-agile-and-resilient/",
       "source": "Compliance Week",
@@ -884,17 +951,6 @@
       ]
     },
     {
-      "title": "Xi, Putin blast Western 'protectionism' and sanctions as Trump lands in China - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb21UOHp4X2E2V05LRUhhUjhnSzI5b1NmNDRVQWhCb2RTV3gwQng0N3lKQ2lnV3JrbjB2cTBpSkNObTdwbXowR2d0UEt5NFp5blJtallNRjdFSjNoVDdxNkNXWFI4bmpETEV5TUs2OE16WW1lLTR0NkZCbEdXZF9OVDVycUFYV2p2aklNS3dR?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-18T03:21:00+00:00",
-      "display_date": "Nov 18, 2026",
-      "summary": "Xi, Putin blast Western 'protectionism' and sanctions as Trump lands in China Reuters",
-      "topics": [
-        "AML & Sanctions"
-      ]
-    },
-    {
       "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
       "link": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
       "source": "Krebs on Security",
@@ -914,17 +970,6 @@
       "summary": "Reaction after Haaland's late penalty sees Denmark miss out on Nations League quarter-finals The Australian",
       "topics": [
         "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "Opinion | Saving the Franchise Model, for Good",
-      "link": "https://www.wsj.com/opinion/joint-employer-nlrb-american-franchise-act-congress-6e04225f?mod=pls_whats_news_us_business_f",
-      "source": "Wall Street Journal",
-      "date": "2026-11-17T22:35:00+00:00",
-      "display_date": "Nov 17, 2026",
-      "summary": "Congress can end the flip-flopping on the ‘joint employer’ rule.",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
@@ -1297,17 +1342,6 @@
       ]
     },
     {
-      "title": "EU expands Russia sanctions list by 145 names and entities - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMmRZSV9NYXE5MktUdUdiVThuR3oyZHBFR1cySnVGTkxCc0ZhSXJ3d1BxR0VHd2o1RGxkSHpTZllybmxUR29TT3FPMjBjOFNuOXJfTENZeHFfeHVuT2xRZ0RYLTdVVXVObDFKWU1tWjR5V1djUXFrMC0xc25Ib1g1MFhRMy1RUkphbURmR1VqSnkzV2hrM2tMNkszRWUtQVlCZ3dnN3ZNZlFQVEE?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-16T14:30:23+00:00",
-      "display_date": "Nov 16, 2026",
-      "summary": "EU expands Russia sanctions list by 145 names and entities Reuters",
-      "topics": [
-        "AML & Sanctions"
-      ]
-    },
-    {
       "title": "EU Targets Russia’s Richest Woman in Latest Round of Sanctions - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN0FvRUxBMDRYakZzcTQzSGFTa25VY2tfNFllTWUtcWNrNzg0STBmcXd5OE41alEtNWRpMzJjd3E4akdTci0yU0FqQVNoSGw4MmZ1bDVVTVJseUdIYW92djZJNGFYa2ZwR3hvTFRONmxXMFR4ZExKWHp1anpObGk5RUdEWmItM0JJZE5qWEIwY2pXaUg1T1hvSno1Qi1VSFRoUlFXWTJMRUdhYW5MWHlvR0s5VQ?oc=5",
       "source": "Bloomberg.com",
@@ -1316,6 +1350,17 @@
       "summary": "EU Targets Russia’s Richest Woman in Latest Round of Sanctions Bloomberg.com",
       "topics": [
         "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "ALIMENTATION COUCHE-TARD ANNOUNCES RECEIPT OF ALL REGULATORY APPROVALS FOR ITS VOLUNTARY TENDER OFFER FOR ŻABKA GROUP – Company Announcement - FT.com - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcnk5NDFjcnVLOU9wVnY3Q0NWaENhTTJwRlhWMDBiQzMybkhnXzFtTWZpYUxuWDNUSmFCOUJ4S2g3dXN1bVA1TW11Z0ZldTg4aWdEM2szVmtlUllSRzdFekNPRHZyOTc0czlEWGF0cGprNFlVNUF0SE9SRi0tS0NzRXlGcEVLQmJPTFpvekFCSXlNQUl2MGc?oc=5",
+      "source": "Financial Times",
+      "date": "2026-11-16T14:00:00+00:00",
+      "display_date": "Nov 16, 2026",
+      "summary": "ALIMENTATION COUCHE-TARD ANNOUNCES RECEIPT OF ALL REGULATORY APPROVALS FOR ITS VOLUNTARY TENDER OFFER FOR ŻABKA GROUP – Company Announcement - FT.com Financial Times",
+      "topics": [
+        "Regulatory Change"
       ]
     },
     {
@@ -2059,17 +2104,6 @@
       "date": "2026-10-13T23:24:53+00:00",
       "display_date": "Oct 13, 2026",
       "summary": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today's epic patch batch dwarfs September's record of nearly 1,000 fixes, which was already about ten times the normal monthly patch load from Redmo...",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
-      "link": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
-      "source": "Krebs on Security",
-      "date": "2026-10-10T00:17:42+00:00",
-      "display_date": "Oct 10, 2026",
-      "summary": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sou...",
       "topics": [
         "Cybersecurity Risk"
       ]
