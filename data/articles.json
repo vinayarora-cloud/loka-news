@@ -1,7 +1,40 @@
 {
-  "last_updated": "November 23, 2026 19:47 UTC",
-  "total_count": 209,
+  "last_updated": "November 24, 2026 04:34 UTC",
+  "total_count": 207,
   "articles": [
+    {
+      "title": "The Latest Chapter in Corporate America’s Rocky History With Boardroom Romance",
+      "link": "https://www.wsj.com/business/nvidia-jensen-huang-corporate-culture-23e37147?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-11-24T02:00:00+00:00",
+      "display_date": "Nov 24, 2026",
+      "summary": "Executives and board members are grappling with what precedent Jensen Huang’s return at Nvidia sets for corporate governance and leadership amid scandal.",
+      "topics": [
+        "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "Financial firms facilitated ‘breathtaking’ corrupt payments to director of Kuwait public pension fund",
+      "link": "https://www.complianceweek.com/regulatory-enforcement/financial-firms-facilitated-breathtaking-corrupt-payments-to-director-of-kuwait-public-pension-fund/",
+      "source": "Compliance Week",
+      "date": "2026-11-24T00:37:40+00:00",
+      "display_date": "Nov 24, 2026",
+      "summary": "Banks and investment companies, including Man Group, have been found guilty of facilitating $1 billion in corrupt payments to the late director of Kuwait’s public pension fund. The post Financial firms facilitated ‘breathtaking’ corrupt payments to director of Kuwait public pensi...",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "HPE Lifts Outlook as AI Demand Boosts Revenue, Profit",
+      "link": "https://www.wsj.com/business/earnings/hpe-lifts-outlook-as-ai-demand-boosts-revenue-profit-1ae221df?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-11-23T21:37:00+00:00",
+      "display_date": "Nov 23, 2026",
+      "summary": "Chief Executive Antonio Neri said the revised guidance reflects continued AI demand going into fiscal year 2027.",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
     {
       "title": "US imposes sanctions on dozens linked to Iran's shadow banking networks - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxON2NaMVlXcGRFQ3BpRFVieGtVRzR4bXFtTXRTRnpSV3JmNzY1REhheG5xNlV5MlptZ1lIM1BQWUhGcTBZNWpHckdxZG1kWUZoZUdxSnRneHJhVzBpUzg0ZGpXQ1lQblItbHg5WXpNUXBqbHpWZ0NqZzdQZEdhNTZKbDZXaHNydXhYM05hd2YtY1lvU0JkVnJBQ3diRVNDV210Z0pZdm5mRnMtUEk4TTNkOXNDMGpvbmpD?oc=5",
@@ -58,6 +91,17 @@
       ]
     },
     {
+      "title": "EU adds Rinaldo Nazzaro founder of \"The Base\" to its terrorist sanctions list - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdEVTanFPMmYxQ0FkZnRIejJnMWR1clU5azJuaUx2b09KN0k0WmYyVHNocUhUM1N1bzdaRVh6alg2b1BnMUxVdmp6VU9jMmRsZHE5UzFqOGpkbmZpWUVSWk05UG5MQjJ0SFRmaVRiLVcwdFNOaGlqcVRBTlhFdHltWmhQUTJ6bDBRYzlTbGVET1RwMi1pbHlWLW9IUzJadzM4MmxnQUpTVENkTjg?oc=5",
+      "source": "Reuters",
+      "date": "2026-11-23T14:21:46+00:00",
+      "display_date": "Nov 23, 2026",
+      "summary": "EU adds Rinaldo Nazzaro founder of \"The Base\" to its terrorist sanctions list Reuters",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
       "title": "Matching Control Names Isn’t the Same as Matching Controls",
       "link": "https://www.corporatecomplianceinsights.com/matching-control-names-isnt-the-same-as-matching-controlsmatching-control-names-same-matching-controls/",
       "source": "Corporate Compliance Insights",
@@ -69,6 +113,17 @@
       ]
     },
     {
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/11/23/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-11-23T12:00:00+00:00",
+      "display_date": "Nov 23, 2026",
+      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-133968 Project MONAI MONAI Label Path Traversal Vulnerability CVE-2026-134624 N-able Mail Assure (SpamExperts) Server-Side Request Forg...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
       "title": "Enel Acquires U.S. Solar Portfolio from energyRe",
       "link": "https://www.esgtoday.com/enel-acquires-u-s-solar-portfolio-from-energyre/?utm_source=rss&utm_medium=rss&utm_campaign=enel-acquires-u-s-solar-portfolio-from-energyre",
       "source": "ESG Today",
@@ -77,17 +132,6 @@
       "summary": "Italian energy company Enel announced an agreement with U.S. energy infrastructure developer energyRe for the […]",
       "topics": [
         "ESG & Sustainability"
-      ]
-    },
-    {
-      "title": "Macron Suggests Golden Rule for French Budget, Boosting Bonds - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMENyMmNGa0tKb2pIU1ZQZG9PS2RTeUd0TlpPelZqb2VId2lBVkVsUTBMbmNtdEVNN2ZyWDREa2R2bzlNUmtsSWNRc3NzMFVQc3hkdmJ5dDQ4c1dZX2tNS2dfeTRIZExKal9JN2VHMC1FUkVPeXYxUTV0RGl2VFNBcGNOXzFpVlktM212RVVxeHc4OVpTSk1PTTZtZnJtMzJxZVlzcnFxdUdFbDJybnZmcg?oc=5",
-      "source": "Bloomberg.com",
-      "date": "2026-11-23T10:19:28+00:00",
-      "display_date": "Nov 23, 2026",
-      "summary": "Macron Suggests Golden Rule for French Budget, Boosting Bonds Bloomberg.com",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
@@ -154,6 +198,17 @@
       "summary": "Citi's $35-billion UK error could complicate exit from US regulatory penalty box Reuters",
       "topics": [
         "Enforcement Actions",
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "India Food Regulator Finds Bisleri’s Packaged Drinking Water ‘Unsafe’ - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRThmU2JXQUNlVnlPTVJlVkVlNWdlM09LQ2p6M2hLTWQzSmdBTEIxY1ZjS3hUYWptMFAxQkhKUnBVX1ZWZWFGRV81SHVhUUVwdy1ZNHFiOVh2NXd1YjVUNGZCOGZ0cGFlRHdmZmdrdElDSVY3WmJnS2VfMGRfRHpSckphUDdoTDVCTk9aZ2ZGbDF4S0k0WmNSSlVyN0M2cl9WSHVDbTZTNVh3VndacmxyN240aEdsaDZHbF9TaTNFRXVRMUhP?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-11-23T06:00:00+00:00",
+      "display_date": "Nov 23, 2026",
+      "summary": "India Food Regulator Finds Bisleri’s Packaged Drinking Water ‘Unsafe’ Bloomberg.com",
+      "topics": [
         "Regulatory Change"
       ]
     },
@@ -268,29 +323,6 @@
       ]
     },
     {
-      "title": "Human health should factor in antibiotic decision, AMA says",
-      "link": "https://www.abc.net.au/news/2026-11-22/ama-florfenicol-apmva-decision-salmon-farming/107409898",
-      "source": "ABC News Business (AU)",
-      "date": "2026-11-21T21:34:51+00:00",
-      "display_date": "Nov 21, 2026",
-      "summary": "With the Tasmanian salmon industry seeking to again use an antibiotic to combat disease, the nation's peak doctors' group has urged the federal regulator to consider the human health and environmental risks before approving the request.",
-      "topics": [
-        "Regulatory Change",
-        "ESG & Sustainability"
-      ]
-    },
-    {
-      "title": "Drivers warn shouting for a taxi may become a catchcry of the past",
-      "link": "https://www.abc.net.au/news/2026-11-22/regional-taxis-struggling-to-stay-afloat-amid-rising-costs/107398456",
-      "source": "ABC News Business (AU)",
-      "date": "2026-11-21T21:33:53+00:00",
-      "display_date": "Nov 21, 2026",
-      "summary": "Regional taxi companies say they are under pressure, with rising fuel costs and being forced to pay up to 10 times more than rideshare drivers for their compulsory third-party insurance.",
-      "topics": [
-        "Operational & Enterprise Risk"
-      ]
-    },
-    {
       "title": "Russia's Wildberries CEO steps down days after EU sanctions, media report - Reuters",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUHlnc2RFZFltcC0zMXMtb1VfaEx6VFhrWVJfS2tpaHF2Vm4yMnRDYjVLX3FSTWNHaDJKdUYwZ3o5SUJfNVpvRERfcEladlQ2RkRCaFhxaEVZRGdwUTAwOVdSRDZDWjlSYXVucW83NS1aMVN0QzFKbFhVXzhBSEZtUmxKdHpYT3gwNXdCUWZxbU9MbVh3bEU3Ul9ZcXQxZTI5QjlyTHgtTUNDdWVINk9qbUwwNmo1eUt3aFFsaWlTNEJfQnZYNkVOMlVDRkY?oc=5",
       "source": "Reuters",
@@ -348,14 +380,14 @@
       ]
     },
     {
-      "title": "Opinion | Germany’s ‘Green’ Energy Policies Fuel the AfD’s Rise",
-      "link": "https://www.wsj.com/opinion/germanys-green-energy-policies-fuel-the-afds-rise-cb664794?mod=pls_whats_news_us_business_f",
-      "source": "Wall Street Journal",
-      "date": "2026-11-20T22:02:00+00:00",
+      "title": "Nvidia faces US regulator’s probe into its accounting - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZWJsU0wwemxtMW1PcWVVZlpsNXdhODhIZkZSZGd5NGNacmE5UWhTVnphVUR2NGVuWmhpQnJtUUsxQ1VLRnJkTUl6QVhjdDFEak96YUhwbVpmUHA4WGwtY3czNWstelpTdnhaTk1zSkE2SGhfTmtsNlROVE9BNHhMNnZwX1Y?oc=5",
+      "source": "Financial Times",
+      "date": "2026-11-20T21:58:08+00:00",
       "display_date": "Nov 20, 2026",
-      "summary": "The mainstream parties say they’re worried about democracy, then issue fanciful climate pledges.",
+      "summary": "Nvidia faces US regulator’s probe into its accounting Financial Times",
       "topics": [
-        "ESG & Sustainability"
+        "Regulatory Change"
       ]
     },
     {
@@ -523,17 +555,6 @@
       "summary": "How Russian money launderers and Italian mobsters put Revolut in the regulatory crosshairs Financial Times",
       "topics": [
         "Regulatory Change"
-      ]
-    },
-    {
-      "title": "US sanctions Australian Comanchero motorcycle gang over drug trafficking links - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQXBGcGpNWmJIWXMxTkNBUm0zanFzWWxJQ1dMNlRxVmJmaDNUOUYyTzNFb3p5bWNtU3laejFUcDFWWFN5QzdmdTItcG11cmFKSHcyYWlHajlma0haRVpETE1fUHhLYzVNN2ZUUUdUdzNIQmswd2xqWklGUkp5V3E3OEhaNWdya0tmMGtmVDNqd3A4cVVVQjZLYnlMSXVOdkxzeFBQZDBRQzIwZUNZMF94VEF4T2JhQ0F2R1Frc1hRSlY2MnVTZlEtMWVpSQ?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-20T00:45:00+00:00",
-      "display_date": "Nov 20, 2026",
-      "summary": "US sanctions Australian Comanchero motorcycle gang over drug trafficking links Reuters",
-      "topics": [
-        "AML & Sanctions"
       ]
     },
     {
@@ -830,6 +851,17 @@
       ]
     },
     {
+      "title": "Apollo scraps planned $2bn loan to Manchester City owner after rule breaches - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORGdSWlloVzAzUVVzeHFjSXlxdnpFeWh0WGtta0R1U3pWVzZGTlFWUEJfNWtGV1ptZEVNYXNPSHlJVWtjaDd0V01uazRBaDd1YzZfVFVyQzhCdXFLQThMckhPZU1CcnhTZWFobVlZb0hMc3J5VXJIUW56VUlvNzdheTQ1aEo?oc=5",
+      "source": "Financial Times",
+      "date": "2026-11-19T05:02:08+00:00",
+      "display_date": "Nov 19, 2026",
+      "summary": "Apollo scraps planned $2bn loan to Manchester City owner after rule breaches Financial Times",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
       "title": "UK regulator warns audit firms over independence risks of hyping AI insights to clients",
       "link": "https://www.complianceweek.com/accounting-auditing/uk-regulator-warns-audit-firms-over-independence-risks-of-hyping-ai-insights-to-clients/",
       "source": "Compliance Week",
@@ -860,17 +892,6 @@
       "summary": "The Sahm rule indicates what level of unemployment is signalling a recession The Australian",
       "topics": [
         "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Compliance and governance underpin C-suite confidence in firms’ ability to be agile and resilient",
-      "link": "https://www.complianceweek.com/risk-management/compliance-and-governance-underpin-c-suite-confidence-in-firms-ability-to-be-agile-and-resilient/",
-      "source": "Compliance Week",
-      "date": "2026-11-18T23:43:18+00:00",
-      "display_date": "Nov 18, 2026",
-      "summary": "Compliance is central to driving enterprise value, Protiviti and NC State University research found. Five of executives’ top 10 near-term risks need compliance support. The post Compliance and governance underpin C-suite confidence in firms’ ability to be agile and resilient appe...",
-      "topics": [
-        "Operational & Enterprise Risk"
       ]
     },
     {
@@ -1030,6 +1051,17 @@
       ]
     },
     {
+      "title": "Updated Share Trading and Conflicts Policy - AFR",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZmtySGs5MmlDbkpFLTBSYldkQklUY0hUX3A4YkR6MUw1OTVNb1hodUZ2NkJ2Qjd3NjA5cXRMaXJDd21lOWpfdmdjZERBYWJfbmtQcHVSUzdtRzBnWV82UnRRMlpvVjlQeG5iY19vMUJBME9EQm5yYk9JX2V4M3dTc09PTzdBYmJXdm1LUGt3aw?oc=5",
+      "source": "AFR",
+      "date": "2026-11-17T23:14:53+00:00",
+      "display_date": "Nov 17, 2026",
+      "summary": "Updated Share Trading and Conflicts Policy AFR",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
       "title": "Kalshi suspends Trump speech wagers on US regulatory order - Reuters",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOUxvREJseXMtOWhTYnY1RUdXZkhROXJrTEtBRjQxaW1VTWJrQkctUm5xZWc5aFAwU1dtS2FwZmd4SmtaVEdrc1lLT0NzNXZ1VUZpaTYtTTVSLTU2UUUyZF92eGZqTGt6U1hNczBVOUpDTUhXUjdraFZFYUF0V250dE45WEVLWWh4Q1NmZkZ2QUg0bWV5ZDJpTUVsbzNQNG1rTlRuRlVCMDY3SURP?oc=5",
       "source": "Reuters",
@@ -1049,19 +1081,6 @@
       "summary": "A leader who admits a limit can recover from it; one whose integrity is in question often cannot The post Trust Is Built From the Head & the Heart appeared first on Corporate Compliance Insights .",
       "topics": [
         "Operational & Enterprise Risk"
-      ]
-    },
-    {
-      "title": "UK regulator charges man with money laundering - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSFFXT1I0Y0kzZnZESWRLRzVJLWgwa3J2NDhSSDlkRDJ2QVN1YUp6WDBuVWdKb3ZRZDIzSzRBdEsybnd3S2I4RDFZN2g5NGlPcUYtdDQ2R2RrRDN6ektqcXNWOEFZNzlUVzhkTTFhanVGMFV3MjNYWmp5YXJsLVY0UVdiSVRVY0tEMGNxRzl1cGZPUXVxT2xaajdNU2lvVl9FMEkwWk15dDRQSHRkQ0Fac1IwN1hjb25Tc3c?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-17T18:52:54+00:00",
-      "display_date": "Nov 17, 2026",
-      "summary": "UK regulator charges man with money laundering Reuters",
-      "topics": [
-        "Enforcement Actions",
-        "Regulatory Change",
-        "AML & Sanctions"
       ]
     },
     {
@@ -1111,12 +1130,12 @@
       ]
     },
     {
-      "title": "Siemens Simcenter Femap",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-10",
+      "title": "Siemens ROS#",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-06",
       "source": "CISA Cybersecurity Advisories",
       "date": "2026-11-17T12:00:00+00:00",
       "display_date": "Nov 17, 2026",
-      "summary": "View CSAF Summary Simcenter Femap is affected by an out of bounds read vulnerability that could be triggered when the application reads files in X_T format. This could allow an attacker to crash the application or execute arbitrary code. Siemens has released a new version for Sim...",
+      "summary": "View CSAF Summary ROS# before version 2.3.1 contains a code injection vulnerability that could allow an attacker that is able to pass a crafted message definition file to the user to inject arbitrary code into the generated program. Siemens has released a new version for ROS# and...",
       "topics": [
         "Cybersecurity Risk"
       ]
@@ -1177,12 +1196,12 @@
       ]
     },
     {
-      "title": "Siemens ROS#",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-06",
+      "title": "Siemens Simcenter Femap",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-10",
       "source": "CISA Cybersecurity Advisories",
       "date": "2026-11-17T12:00:00+00:00",
       "display_date": "Nov 17, 2026",
-      "summary": "View CSAF Summary ROS# before version 2.3.1 contains a code injection vulnerability that could allow an attacker that is able to pass a crafted message definition file to the user to inject arbitrary code into the generated program. Siemens has released a new version for ROS# and...",
+      "summary": "View CSAF Summary Simcenter Femap is affected by an out of bounds read vulnerability that could be triggered when the application reads files in X_T format. This could allow an attacker to crash the application or execute arbitrary code. Siemens has released a new version for Sim...",
       "topics": [
         "Cybersecurity Risk"
       ]
@@ -1255,17 +1274,6 @@
       ]
     },
     {
-      "title": "UK imposes sanctions on companies building West Bank settlements - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVVpQUkRMUFliMzBHVm1NRnYxUnU5YjFsYlhnYWpVSy1BbnIxcTJmWEFIY1BlbmliRWZhUzkxb3FYTlIwSFVZdlZ4elVCWldnamNVa1N5TTNRaEViSVlfeGNDbV9VUWZPMjVzSk1pOEQydEk1bjk1cFlIYVhzQ2pmaFkwc3o?oc=5",
-      "source": "Financial Times",
-      "date": "2026-11-17T11:28:37+00:00",
-      "display_date": "Nov 17, 2026",
-      "summary": "UK imposes sanctions on companies building West Bank settlements Financial Times",
-      "topics": [
-        "AML & Sanctions"
-      ]
-    },
-    {
       "title": "Getting the full picture of trading in UK shares",
       "link": "https://www.fca.org.uk/news/blogs/getting-full-picture-trading-uk-shares",
       "source": "FCA UK Regulatory News",
@@ -1319,28 +1327,6 @@
       "summary": "Universities are their own worst enemies on independent governance AFR",
       "topics": [
         "Operational & Enterprise Risk"
-      ]
-    },
-    {
-      "title": "Meta faces sanctions bid over withheld evidence in teen mental health cases - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPY0pncG9WWUpfX0cyRms1cXZETmNjV2tMOGZlTUlmd2MwSkRUeDV4T2gxR2d4MlozZUduNXB5MmJmNk1IVHFOenduakhPWWMzcmR4M2ZReW5MS3Z6OVM3aFNvSjc2Mmd3eUd5RkpCblR3bmw0S0RSWHJ2anJIUG1rQ0xDQjV1dmlDXzVqRk1ORW9jdlpLaXE3MC1fNzU2OHR3NW9JdFRObm9wZUxkNXhmRWpJS0VuM19NSVhrRVVwN0hndEE?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-16T23:21:00+00:00",
-      "display_date": "Nov 16, 2026",
-      "summary": "Meta faces sanctions bid over withheld evidence in teen mental health cases Reuters",
-      "topics": [
-        "AML & Sanctions"
-      ]
-    },
-    {
-      "title": "EU sanctions four Haitian gangs over serious human rights violations - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTkc4T0lUU3JiUFF0dDFhaUt5R01oR01kZmZ2Rkd1S01TdlIwVC0zcG12WWRqd0hyeDZnRFJEclByMVl0UXl2YnJSOG9CY1liZEZJdF9zWmlHY2VmWlhsTnlaQTBtVnVCWnRteXBxUkhTa25ZQllNR01ZSTlYZGNmNjkxVENDNE1ITjF4WW8tOUVWRGdEUXRLbjJWUVlfSktpUXMtSG9HT0l1NHIzUHpta2NUVW05NDNiQUtR?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-16T20:37:43+00:00",
-      "display_date": "Nov 16, 2026",
-      "summary": "EU sanctions four Haitian gangs over serious human rights violations Reuters",
-      "topics": [
-        "AML & Sanctions"
       ]
     },
     {
@@ -1430,17 +1416,6 @@
       "summary": "Incoming chairs have already named their targets: crypto ventures, surveillance pricing, government equity stakes & AI’s debt-fueled buildout The post A Democratic Congress Is Drawing Up Its Corporate Subpoena List appeared first on Corporate Compliance Insights .",
       "topics": [
         "Data Privacy"
-      ]
-    },
-    {
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/11/13/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-11-13T12:00:00+00:00",
-      "display_date": "Nov 13, 2026",
-      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-114713 UnrealIRCd Improper Neutralization of Delimiters Vulnerability CVE-2026-123039 Check Point Multiple Products Incorrect Permissio...",
-      "topics": [
-        "Cybersecurity Risk"
       ]
     },
     {
@@ -1653,17 +1628,6 @@
       ]
     },
     {
-      "title": "US Government Partners Urge Hardening Industrial Refrigeration and Cold Chain Monitoring Systems",
-      "link": "https://www.cisa.gov/resources-tools/resources/us-government-partners-urge-hardening-industrial-refrigeration-and-cold-chain-monitoring-systems",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-11-05T12:00:00+00:00",
-      "display_date": "Nov 05, 2026",
-      "summary": "Overview The Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), Health and Human Services (HHS), U.S. Department of Agriculture (USDA), and the Department of Transportation (DoT)—hereafter referred to as “the authoring organizations”—a...",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
       "title": "Post-Quantum Questions to Ask Your Vendors",
       "link": "https://www.cisa.gov/resources-tools/resources/post-quantum-questions-ask-your-vendors",
       "source": "CISA Cybersecurity Advisories",
@@ -1674,6 +1638,17 @@
         "Regulatory Change",
         "Cybersecurity Risk",
         "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "US Government Partners Urge Hardening Industrial Refrigeration and Cold Chain Monitoring Systems",
+      "link": "https://www.cisa.gov/resources-tools/resources/us-government-partners-urge-hardening-industrial-refrigeration-and-cold-chain-monitoring-systems",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-11-05T12:00:00+00:00",
+      "display_date": "Nov 05, 2026",
+      "summary": "Overview The Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), Health and Human Services (HHS), U.S. Department of Agriculture (USDA), and the Department of Transportation (DoT)—hereafter referred to as “the authoring organizations”—a...",
+      "topics": [
+        "Cybersecurity Risk"
       ]
     },
     {
