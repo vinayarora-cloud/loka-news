@@ -1,9 +1,318 @@
 {
-  "last_updated": "November 24, 2026 04:34 UTC",
-  "total_count": 207,
+  "last_updated": "November 24, 2026 19:18 UTC",
+  "total_count": 212,
   "articles": [
     {
-      "title": "The Latest Chapter in Corporate America’s Rocky History With Boardroom Romance",
+      "title": "Venezuela moves toward possible debt restructuring with release of economic framework - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOakxRRS1xODNKVEMzdlowcjUzd2g4amNoV0JSSzdQc0JEUXg1WWxSbGxOaGhYWDZWSlQzeldBelpvUnpXb3g3bHdMUWd4NWhiZFJRZnEtSWU4TDBXS0Q1Q21CWE9QUkxkT2YxYVI5MzlJNkVJS3FRZ3NuMG90Y0JBMFNKRGEtOEhlOUktTVJwU2hoSHVVVW56NXI0ZlZIOHo3TGt0UTc3VnA4VlV5MGZoTmlfS05qQlpQcWpiUWNtSjI?oc=5",
+      "source": "Reuters",
+      "date": "2026-11-24T18:46:35+00:00",
+      "display_date": "Nov 24, 2026",
+      "summary": "Venezuela moves toward possible debt restructuring with release of economic framework Reuters",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "ASIC following up on more allegations of misconduct by consulting giants",
+      "link": "https://www.smh.com.au/business/companies/asic-following-up-on-more-allegations-of-misconduct-by-consulting-giants-20261125-p61gt5.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+      "source": "The Sydney Morning Herald",
+      "date": "2026-11-24T18:05:00+00:00",
+      "display_date": "Nov 24, 2026",
+      "summary": "The corporate watchdog is investigating dozens of complaints against the Big Four consulting firms, including new allegations of confidential client data misuse.",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "El Niño and climate change double act prompts early coral bleaching warning",
+      "link": "https://www.abc.net.au/news/2026-11-25/scientists-issue-great-barrier-reef-coral-bleaching-warning/107412866",
+      "source": "ABC News Business (AU)",
+      "date": "2026-11-24T18:00:00+00:00",
+      "display_date": "Nov 24, 2026",
+      "summary": "Record-high global ocean temperatures have sparked concerns reef environments along Australia's east coast could endure extreme conditions over summer.",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "Rise of the celebrity CEO raises questions about corporate governance",
+      "link": "https://www.abc.net.au/news/2026-11-25/the-rise-of-the-celebrity-ceo/107420760",
+      "source": "ABC News Business (AU)",
+      "date": "2026-11-24T18:00:00+00:00",
+      "display_date": "Nov 24, 2026",
+      "summary": "Jensen Huang received a hero's welcome back at Nvidia. But what happens when one of the world's most valuable companies becomes too reliant on one person?",
+      "topics": [
+        "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "Everyone is talking rubbish on the key to our standard of living",
+      "link": "https://www.smh.com.au/business/the-economy/everyone-is-talking-rubbish-on-the-key-to-our-standard-of-living-20261125-p61gsp.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+      "source": "The Sydney Morning Herald",
+      "date": "2026-11-24T18:00:00+00:00",
+      "display_date": "Nov 24, 2026",
+      "summary": "Many ordinary people think improving productivity means producing more goods and services by working harder. It doesn’t.",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "OCC Issues First and Second Quarter 2027 CRA Evaluation Schedule",
+      "link": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-103.html",
+      "source": "Office of the Comptroller of the Currency",
+      "date": "2026-11-24T18:00:00+00:00",
+      "display_date": "Nov 24, 2026",
+      "summary": "The Office of the Comptroller of the Currency (OCC) today released its schedule of Community Reinvestment Act (CRA) evaluations to be conducted in the first and second quarters of 2027.",
+      "topics": [
+        "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "Amalgamated Bank Appoints Morgan Stanley Head of Climate Transition Sean Wright as Chief Sustainability Officer",
+      "link": "https://www.esgtoday.com/amalgamated-bank-appoints-morgan-stanley-head-of-climate-transition-sean-wright-as-chief-sustainability-officer/?utm_source=rss&utm_medium=rss&utm_campaign=amalgamated-bank-appoints-morgan-stanley-head-of-climate-transition-sean-wright-as-chief-sustainability-officer",
+      "source": "ESG Today",
+      "date": "2026-11-24T17:12:09+00:00",
+      "display_date": "Nov 24, 2026",
+      "summary": "New York City-based social responsibility-focused Amalgamated Bank announced the appointment of Sean Wright as its […]",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "U.S. DOL Proposal Estimated to Shift $15 Billion of Retirement Assets Out of ESG Funds",
+      "link": "https://www.esgtoday.com/u-s-dol-proposes-retirement-plan-rules-expected-to-shift-15-billion-out-of-esg-funds/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-dol-proposes-retirement-plan-rules-expected-to-shift-15-billion-out-of-esg-funds",
+      "source": "ESG Today",
+      "date": "2026-11-24T16:22:51+00:00",
+      "display_date": "Nov 24, 2026",
+      "summary": "The U.S. Department of Labor announced the release of a series of proposed amendments to […]",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "Dick’s Sporting Goods Raises Profit Outlook on Core Business Strength",
+      "link": "https://www.wsj.com/business/retail/dicks-sporting-goods-raises-profit-outlook-on-core-business-strength-067edf91?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-11-24T15:09:00+00:00",
+      "display_date": "Nov 24, 2026",
+      "summary": "Dick’s Sporting Goods raised its earnings guidance for the year on strength in its core business and improving trends at Foot Locker.",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Best Buy reports comparable sales growth of 6.1%, highest in five years",
+      "link": "https://www.cnbc.com/2026/11/24/best-buy-bby-q3-2027-earnings.html",
+      "source": "CNBC",
+      "date": "2026-11-24T14:51:58+00:00",
+      "display_date": "Nov 24, 2026",
+      "summary": "Best Buy beat quarterly expectations for its fiscal third-quarter earnings results on Tuesday and raised its full-year guidance.",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Smarter regulation means understanding the trade-offs",
+      "link": "https://www.fca.org.uk/news/blogs/smarter-regulation-means-understanding-trade-offs",
+      "source": "FCA UK Regulatory News",
+      "date": "2026-11-24T14:04:00+00:00",
+      "display_date": "Nov 24, 2026",
+      "summary": "Regulation inevitably involves choices.Protecting consumers and maintaining confidence in our markets are fundamental to what we do. But rules also have costs. They can affect businesses’ decisions to invest, innovate and compete. Good regulation means recognising those trade-off...",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "CIP Raises $1.9 Billion Through New Instrument Providing Investors Access to Energy Transition Infrastructure Funds",
+      "link": "https://www.esgtoday.com/cip-raises-1-9-billion-through-new-instrument-providing-investors-access-to-energy-transition-infrastructure-funds/?utm_source=rss&utm_medium=rss&utm_campaign=cip-raises-1-9-billion-through-new-instrument-providing-investors-access-to-energy-transition-infrastructure-funds",
+      "source": "ESG Today",
+      "date": "2026-11-24T12:52:42+00:00",
+      "display_date": "Nov 24, 2026",
+      "summary": "Energy infrastructure investment manager Copenhagen Infrastructure Partners (CIP) announced the close of its first rated, […]",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "Meta Reconsiders Net Zero Goal as AI Buildout Drives 45% Spike in Emissions",
+      "link": "https://www.esgtoday.com/meta-reconsiders-net-zero-goal-as-ai-buildout-drives-45-spike-in-emissions/?utm_source=rss&utm_medium=rss&utm_campaign=meta-reconsiders-net-zero-goal-as-ai-buildout-drives-45-spike-in-emissions",
+      "source": "ESG Today",
+      "date": "2026-11-24T12:20:37+00:00",
+      "display_date": "Nov 24, 2026",
+      "summary": "Meta, the owner of Facebook, Instagram, and WhatsApp, revealed in its newly released 2026 Sustainability […]",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "The Midterms Changed Congress, but State AG Offices Matter, Too",
+      "link": "https://www.corporatecomplianceinsights.com/midterms-changed-congress-state-ag-offices-matter/",
+      "source": "Corporate Compliance Insights",
+      "date": "2026-11-24T12:00:23+00:00",
+      "display_date": "Nov 24, 2026",
+      "summary": "Democrats flipped five attorney general offices, Texas among them for the first time in nearly 30 years The post The Midterms Changed Congress, but State AG Offices Matter, Too appeared first on Corporate Compliance Insights .",
+      "topics": [
+        "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "Schneider Electric EcoStruxure Power Build Rapsody software",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-02",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-11-24T12:00:00+00:00",
+      "display_date": "Nov 24, 2026",
+      "summary": "View CSAF Summary Schneider Electric is aware of a vulnerability in its EcoStruxure™ Power Build Rapsody product. The EcoStruxure™ Power Build Rapsody is used to enter or import the single line diagram, to get the extensive bill of material of your switchboard, including all devi...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "Danfoss AK-SM 8xxA Series",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-03",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-11-24T12:00:00+00:00",
+      "display_date": "Nov 24, 2026",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to execute arbitrary code with webserver privileges. The following versions of Danfoss AK-SM 8xxA Series are affected: AK-SM8xxA <=5.4.0 (CVE-2026-129713) CVSS Vendor Equipment v3 9.8 Danfoss ...",
+      "topics": [
+        "Cybersecurity Risk",
+        "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "AutomationDirect C-More EA9 Programming Software",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-01",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-11-24T12:00:00+00:00",
+      "display_date": "Nov 24, 2026",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow attackers to corrupt application memory and cause instability or a crash, potentially leading to arbitrary code execution, if a user is convinced to open a malicious file. The following versions of Automa...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "BASF Sells Battery Recycling Business to Cylib",
+      "link": "https://www.esgtoday.com/basf-sells-battery-recycling-business-to-cylib/?utm_source=rss&utm_medium=rss&utm_campaign=basf-sells-battery-recycling-business-to-cylib",
+      "source": "ESG Today",
+      "date": "2026-11-24T11:14:48+00:00",
+      "display_date": "Nov 24, 2026",
+      "summary": "Sustainable battery recycling technology company cylib announced an agreement to acquire chemicals giant BASF’s Battery […]",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "After Jensen Huang’s Return, Where Does Corporate Governance Go?",
+      "link": "https://www.wsj.com/business/after-jensen-huangs-return-where-does-corporate-governance-go-8849b43c?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-11-24T10:55:00+00:00",
+      "display_date": "Nov 24, 2026",
+      "summary": "",
+      "topics": [
+        "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "Planet Savers Raises Over $10 Million to Scale Direct Air Capture Carbon Removal Tech in Japan",
+      "link": "https://www.esgtoday.com/planet-savers-raises-over-10-million-to-scale-direct-air-capture-technology-in-japan/?utm_source=rss&utm_medium=rss&utm_campaign=planet-savers-raises-over-10-million-to-scale-direct-air-capture-technology-in-japan",
+      "source": "ESG Today",
+      "date": "2026-11-24T09:19:40+00:00",
+      "display_date": "Nov 24, 2026",
+      "summary": "Direct air capture (DAC) technology startup Planet Savers announced that it has raised over JPY1.6 […]",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "ASX Announcement 24 November 2026 Regulatory approval conditions satisfied in respect of Scheme Reliance Worldwide Corporation L - AFR",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZGpmdkdEaTh0LXZIWExUX3k3MlVRY2ZWZTk5UjVRaGQtX0pVb0VSSjFVQVhiVklzelk2QUZBdUpyTGRBb1J0OUZrUXJaM2p3TkFpaU5xdzF6WFlrV1RuT0xzT1lsaHMxQUxNVTg2c1hVOGtUaGxZZzN5eU1XQlJuSlU0cWdFS05STWxod0VhWQ?oc=5",
+      "source": "AFR",
+      "date": "2026-11-24T09:16:15+00:00",
+      "display_date": "Nov 24, 2026",
+      "summary": "ASX Announcement 24 November 2026 Regulatory approval conditions satisfied in respect of Scheme Reliance Worldwide Corporation L AFR",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "‘BANKRUPT REGIME’: Trump imposes sweeping sanctions on Iran - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRG5OWUxWSXFPcDY4ak5tb2xZaEd6X1A4QnIxVjFMRWRKalRUUGw2R3JjR3Y3NHpydEFaT2paWGw1bEU5SGZTY3VQbHdwV2dxaVNDMVVvRko4bWpyTWV0U0xCaG9NQWRmejQxWFl0bktHSi00WDNfZ2h0MUlDZnBvZjE1SmV6SVhWaU5PdzNqckVmWUE2SzlIUVdTRWtmanplVjU3TkgyN1JJUktFUTRVNUJJNWE3S0dBYmt1c3BHVUFfWnoxTjFuZFhlM3NMZw?oc=5",
+      "source": "The Australian",
+      "date": "2026-11-24T08:47:40+00:00",
+      "display_date": "Nov 24, 2026",
+      "summary": "‘BANKRUPT REGIME’: Trump imposes sweeping sanctions on Iran The Australian",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "Japan accelerates ICC funding as US sanctions threaten court - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeVlqQzhUUnlVXy11enMtemVoQURZSDZ4cFZ4czFBM091NW9GWDZVUmE2dGg2V2xCeHhzS2JINGI3RDdJdGw5N0t5bThLWDNGTk5DUVk0bnZJeEZSYWZTRElIbTQ5dzVMb2NySUhHaVZEZTNPZks2eldrbmt4ckx4YWpXR3UzWnE4bWhmS3BRdE5SZDZlam5vbC1VQndoWnQtcjgzMnhZRzVaalQ1?oc=5",
+      "source": "Reuters",
+      "date": "2026-11-24T08:15:28+00:00",
+      "display_date": "Nov 24, 2026",
+      "summary": "Japan accelerates ICC funding as US sanctions threaten court Reuters",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "Former Indonesian police chief faces death penalty over ‘treason plot’ - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQmtNRFlRVDdfRlEzZ0YwY180TTdmcHdfUm9LWU44cklBUnlzNlN5YkhWeWtoU2NtYXNQOWRnNFQ4aEZENDVSQnJEVm4tcm9zODJVV2JnbGhMUnFrVi0wRm9rNUdid0ZXWDhRTTRwdjVkaU5uSjB3WnBLMm90d2FUdVhWUDI3YTFTTW9UUnpYWHVhYUJyaG5IVml4VXp5dVQxMHNaZkJnNHh3YXNMQTZEVDhsX0pOZU5EdGVCWjlJbm1KQV8tX3d6T3kxMmNFQ1RGTHdnUVVnQWkwLWVsRjE1TWlTRUQ3Zw?oc=5",
+      "source": "The Australian",
+      "date": "2026-11-24T08:13:37+00:00",
+      "display_date": "Nov 24, 2026",
+      "summary": "Former Indonesian police chief faces death penalty over ‘treason plot’ The Australian",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "Snam Issues $1.25 Billion Sustainability-Linked Bonds Tied to Value Chain Decarbonization Goals",
+      "link": "https://www.esgtoday.com/snam-issues-1-25-billion-sustainability-linked-bonds-tied-to-value-chain-decarbonization-goals/?utm_source=rss&utm_medium=rss&utm_campaign=snam-issues-1-25-billion-sustainability-linked-bonds-tied-to-value-chain-decarbonization-goals",
+      "source": "ESG Today",
+      "date": "2026-11-24T08:03:55+00:00",
+      "display_date": "Nov 24, 2026",
+      "summary": "Italian energy infrastructure and services provider Snam announced that is has raised $1.25 billion a […]",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "Amplia opens new front in fight against ovarian cancer",
+      "link": "https://www.smh.com.au/business/companies/amplia-opens-new-front-in-fight-against-ovarian-cancer-20261124-p61gxp.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+      "source": "The Sydney Morning Herald",
+      "date": "2026-11-24T06:02:59+00:00",
+      "display_date": "Nov 24, 2026",
+      "summary": "Amplia Therapeutics has secured ethics approval for its PRROSE ovarian cancer trial, combining its drug narmafotinib with standard chemotherapy to boost response.",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Suncorp accused of 'making a mockery' of people's pain as profit culture exposed",
+      "link": "https://www.abc.net.au/news/2026-11-24/insurer-suncorp-employs-tactics-to-delay-deny-claims-for-profit/107324104",
+      "source": "ABC News Business (AU)",
+      "date": "2026-11-24T05:52:37+00:00",
+      "display_date": "Nov 24, 2026",
+      "summary": "Suncorp insures millions of Australians but a whistleblower says the company has incentivised staff to make claims payouts difficult for customers.",
+      "topics": [
+        "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "CFPB Joins Department of Justice and Other Federal Partners in Anti-Scam Efforts",
+      "link": "https://www.consumerfinance.gov/about-us/newsroom/cfpb-joins-department-of-justice-and-other-federal-partners-in-anti-scam-efforts/",
+      "source": "CFPB Newsroom",
+      "date": "2026-11-24T05:00:00+00:00",
+      "display_date": "Nov 24, 2026",
+      "summary": "The CFPB joined the Department of Justice and federal partners to announce new and ongoing anti-scam efforts and protect consumers from financial fraud.",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "Jensen Huang Got His Job Back. What Message Does It Send to Corporate America?",
       "link": "https://www.wsj.com/business/nvidia-jensen-huang-corporate-culture-23e37147?mod=pls_whats_news_us_business_f",
       "source": "Wall Street Journal",
       "date": "2026-11-24T02:00:00+00:00",
@@ -25,21 +334,10 @@
       ]
     },
     {
-      "title": "HPE Lifts Outlook as AI Demand Boosts Revenue, Profit",
-      "link": "https://www.wsj.com/business/earnings/hpe-lifts-outlook-as-ai-demand-boosts-revenue-profit-1ae221df?mod=pls_whats_news_us_business_f",
-      "source": "Wall Street Journal",
-      "date": "2026-11-23T21:37:00+00:00",
-      "display_date": "Nov 23, 2026",
-      "summary": "Chief Executive Antonio Neri said the revised guidance reflects continued AI demand going into fiscal year 2027.",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "US imposes sanctions on dozens linked to Iran's shadow banking networks - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxON2NaMVlXcGRFQ3BpRFVieGtVRzR4bXFtTXRTRnpSV3JmNzY1REhheG5xNlV5MlptZ1lIM1BQWUhGcTBZNWpHckdxZG1kWUZoZUdxSnRneHJhVzBpUzg0ZGpXQ1lQblItbHg5WXpNUXBqbHpWZ0NqZzdQZEdhNTZKbDZXaHNydXhYM05hd2YtY1lvU0JkVnJBQ3diRVNDV210Z0pZdm5mRnMtUEk4TTNkOXNDMGpvbmpD?oc=5",
       "source": "Reuters",
-      "date": "2026-11-23T19:39:43+00:00",
+      "date": "2026-11-23T19:38:00+00:00",
       "display_date": "Nov 23, 2026",
       "summary": "US imposes sanctions on dozens linked to Iran's shadow banking networks Reuters",
       "topics": [
@@ -85,7 +383,7 @@
       "source": "FCA UK Regulatory News",
       "date": "2026-11-23T14:54:00+00:00",
       "display_date": "Nov 23, 2026",
-      "summary": "On 23 November 2026, Kandoo Car Credit Ltd (Kandoo) was placed into administration. Steve Kenny and Richard Cole of KBL Advisory Limited were appointed as joint administrators. Kandoo Car Credit (firm reference number 936619) operated as a motor finance credit broker arranging fi...",
+      "summary": "On 19 November 2026, Kandoo Car Credit Ltd (Kandoo) was placed into administration. Steve Kenny and Richard Cole of KBL Advisory Limited were appointed as joint administrators. Kandoo Car Credit (firm reference number 936619) operated as a motor finance credit broker arranging fi...",
       "topics": [
         "Regulatory Change"
       ]
@@ -99,6 +397,17 @@
       "summary": "EU adds Rinaldo Nazzaro founder of \"The Base\" to its terrorist sanctions list Reuters",
       "topics": [
         "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "Next Supplier Hit by Cyberattack in Latest UK Retail Breach - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWUoySEgtUTBlU1RBZ3JVV280V1NFUHBzMEZPOE1XcE82amF6QWVod3p1aGNzb0hXZ2Fqak54WGdodnZpUnRuczF5Y1NnZzhfLVJzWlJCZm53NGphSXBIWVhZRWxZRGdBZjlhcDV2TlZSdklNeEZTME04c2lPZGQ3cmszYXBzNjZoYTJBNjUxaWt2dW1sR0F0Q1lucExNa0pmZDF2ZlJ0TFhLeDFuaEx3?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-11-23T12:16:11+00:00",
+      "display_date": "Nov 23, 2026",
+      "summary": "Next Supplier Hit by Cyberattack in Latest UK Retail Breach Bloomberg.com",
+      "topics": [
+        "Cybersecurity Risk"
       ]
     },
     {
@@ -202,12 +511,12 @@
       ]
     },
     {
-      "title": "India Food Regulator Finds Bisleri’s Packaged Drinking Water ‘Unsafe’ - Bloomberg.com",
+      "title": "India Food Regulator Finds Bisleri’s Packaged Drinking Water ‘Unsafe’ - Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRThmU2JXQUNlVnlPTVJlVkVlNWdlM09LQ2p6M2hLTWQzSmdBTEIxY1ZjS3hUYWptMFAxQkhKUnBVX1ZWZWFGRV81SHVhUUVwdy1ZNHFiOVh2NXd1YjVUNGZCOGZ0cGFlRHdmZmdrdElDSVY3WmJnS2VfMGRfRHpSckphUDdoTDVCTk9aZ2ZGbDF4S0k0WmNSSlVyN0M2cl9WSHVDbTZTNVh3VndacmxyN240aEdsaDZHbF9TaTNFRXVRMUhP?oc=5",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "date": "2026-11-23T06:00:00+00:00",
       "display_date": "Nov 23, 2026",
-      "summary": "India Food Regulator Finds Bisleri’s Packaged Drinking Water ‘Unsafe’ Bloomberg.com",
+      "summary": "India Food Regulator Finds Bisleri’s Packaged Drinking Water ‘Unsafe’ Bloomberg",
       "topics": [
         "Regulatory Change"
       ]
@@ -235,17 +544,6 @@
       ]
     },
     {
-      "title": "COP31 Talks Collapse as EU, UK Walk Over Failure to Address Fossil Fuels",
-      "link": "https://www.esgtoday.com/cop31-talks-collapse-as-eu-uk-walk-over-failure-to-address-fossil-fuels/?utm_source=rss&utm_medium=rss&utm_campaign=cop31-talks-collapse-as-eu-uk-walk-over-failure-to-address-fossil-fuels",
-      "source": "ESG Today",
-      "date": "2026-11-22T23:09:39+00:00",
-      "display_date": "Nov 22, 2026",
-      "summary": "After a contentious negotiating session that extended past Friday’s deadline into early Sunday, the COP31 […]",
-      "topics": [
-        "ESG & Sustainability"
-      ]
-    },
-    {
       "title": "Scott Bessent refuses to rule out Jensen Huang’s return to Nvidia - AFR",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVVI2ZjRCaE9jRW5jaGFKanJOMlZiVHZjSjUxbnFyR09BOHpSVTBWNDMtNFVWTDd2bDB6OUlWdVR1cWdMTmZoWXR1cGJFS1NSblp3LW1fYkZ0TlNzRGwtUkVWcno5MFl2aEk1SUY4Tm5ZRWVKcU1ma2ZvbnptMU55TEVFREpMdzlPZXRLWnNRd1dzQ0lJS2JsS21xLVpLMnRUdzBNNWtuN2hta1V1WFpoTWpfZm44VnloOWlfbkxB?oc=5",
       "source": "AFR",
@@ -265,61 +563,6 @@
       "summary": "ACCC examining ‘cartel’ complaint in the building materials sector The Australian",
       "topics": [
         "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "ESG Today: Week in Review",
-      "link": "https://www.esgtoday.com/esg-today-week-in-review-284/?utm_source=rss&utm_medium=rss&utm_campaign=esg-today-week-in-review-284",
-      "source": "ESG Today",
-      "date": "2026-11-22T08:12:50+00:00",
-      "display_date": "Nov 22, 2026",
-      "summary": "This week in ESG news: Sustainable bond issuance on track to rebound to multi-year high […]",
-      "topics": [
-        "ESG & Sustainability"
-      ]
-    },
-    {
-      "title": "'One-in-2,000-year weather' to be investigated post-blackout",
-      "link": "https://www.abc.net.au/news/2026-11-22/eyre-peninsula-blackout-weather-to-be-investigated/107404306",
-      "source": "ABC News Business (AU)",
-      "date": "2026-11-22T06:06:26+00:00",
-      "display_date": "Nov 22, 2026",
-      "summary": "The SA government says the suggestion that a \"one-in-2,000-year weather event\" was responsible for the Eyre Peninsula blackout will be critically examined amid ongoing fallout from the incident.",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "COP31 struggles to reach deal with parties at odds over fossil fuels",
-      "link": "https://www.abc.net.au/news/2026-11-22/cop31-at-odds-over-fossil-fuels/107414330",
-      "source": "ABC News Business (AU)",
-      "date": "2026-11-22T05:04:51+00:00",
-      "display_date": "Nov 22, 2026",
-      "summary": "The language around fossil fuels remains a flashpoint at UN climate talks in Türkiye, where negotiations have gone into a second day past the deadline.",
-      "topics": [
-        "ESG & Sustainability"
-      ]
-    },
-    {
-      "title": "Roast chicken sales scrutinised as Coles appeals ACCC's ban on outback store",
-      "link": "https://www.abc.net.au/news/2026-11-22/coles-appeals-accc-decision-to-reject-kalgoorlie-supermarket/107364094",
-      "source": "ABC News Business (AU)",
-      "date": "2026-11-22T01:55:43+00:00",
-      "display_date": "Nov 22, 2026",
-      "summary": "Supermarket giant Coles argues a decision by Australia's consumer watchdog to block a proposed new supermarket development will have a \"chilling effect\" on future investment in the nation's biggest outback city.",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "30,000-hectare carbon forestry project shoots up on remote island",
-      "link": "https://www.abc.net.au/news/2026-11-22/new-chapter-for-tiwi-forestry-with-eucalyptus-pellita-plantation/107369820",
-      "source": "ABC News Business (AU)",
-      "date": "2026-11-22T01:26:45+00:00",
-      "display_date": "Nov 22, 2026",
-      "summary": "Millions of trees are getting planted on the remote Tiwi Islands as part of an $81 million carbon forestry project.",
-      "topics": [
-        "ESG & Sustainability"
       ]
     },
     {
@@ -481,17 +724,6 @@
       ]
     },
     {
-      "title": "Environmental Defense Fund Appoints Beatriz Da Cunha as Head of Sustainable Finance",
-      "link": "https://www.esgtoday.com/environmental-defense-fund-appoints-beatriz-da-cunha-as-head-of-sustainable-finance/?utm_source=rss&utm_medium=rss&utm_campaign=environmental-defense-fund-appoints-beatriz-da-cunha-as-head-of-sustainable-finance",
-      "source": "ESG Today",
-      "date": "2026-11-20T13:10:59+00:00",
-      "display_date": "Nov 20, 2026",
-      "summary": "Climate change-focused environmental non-profit Environmental Defense Fund (EDF) has appointed Beatriz Da Cunha as its […]",
-      "topics": [
-        "ESG & Sustainability"
-      ]
-    },
-    {
       "title": "5 Questions a Defensible Mexican Supplier File Must Answer",
       "link": "https://www.corporatecomplianceinsights.com/five-questions-defensible-mexican-supplier-file-must-answer/",
       "source": "Corporate Compliance Insights",
@@ -525,28 +757,6 @@
       ]
     },
     {
-      "title": "SFDR 2.0: EU Strikes Deal on New Sustainable Fund Rules",
-      "link": "https://www.esgtoday.com/sfdr-2-0-eu-strikes-deal-on-new-sustainable-investment-product-categories/?utm_source=rss&utm_medium=rss&utm_campaign=sfdr-2-0-eu-strikes-deal-on-new-sustainable-investment-product-categories",
-      "source": "ESG Today",
-      "date": "2026-11-20T10:13:22+00:00",
-      "display_date": "Nov 20, 2026",
-      "summary": "Lawmakers in the European Parliament and EU Member States announced that they have reached a […]",
-      "topics": [
-        "ESG & Sustainability"
-      ]
-    },
-    {
-      "title": "Commercial Bank International Adds Carbon Footprint of Client Spending to Bank Statements",
-      "link": "https://www.esgtoday.com/commercial-bank-international-adds-carbon-footprint-of-client-spending-to-bank-statements/?utm_source=rss&utm_medium=rss&utm_campaign=commercial-bank-international-adds-carbon-footprint-of-client-spending-to-bank-statements",
-      "source": "ESG Today",
-      "date": "2026-11-20T08:21:07+00:00",
-      "display_date": "Nov 20, 2026",
-      "summary": "UAE-based bank Commercial Bank International (CBI) announced the launch of its new Carbon Footprint Report, […]",
-      "topics": [
-        "ESG & Sustainability"
-      ]
-    },
-    {
       "title": "How Russian money launderers and Italian mobsters put Revolut in the regulatory crosshairs - Financial Times",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVFNmNVp1RjNnNmxTNk83NG4wdm00MEpxbEhSR0Z6RmllNHRNckRreE1BYVF6OFdDZWhVTmRfR0FEeFk3dUxBLU55djlVRzNBSkJ6MmtkdmNhb0lEQndtel9ldFFFYlExeGlpZldZV1EzZnliZzM1LW9Zd0NIaWVVanJvSFc?oc=5",
       "source": "Financial Times",
@@ -570,17 +780,6 @@
       ]
     },
     {
-      "title": "Gap Cuts Outlook After Warm Fall Weather Weighs on Sales",
-      "link": "https://www.wsj.com/business/earnings/gap-cuts-outlook-after-warm-fall-weather-weighs-on-sales-ca3ee7c3?mod=pls_whats_news_us_business_f",
-      "source": "Wall Street Journal",
-      "date": "2026-11-19T22:01:00+00:00",
-      "display_date": "Nov 19, 2026",
-      "summary": "The apparel company now expects total sales for the year to be roughly flat, compared with earlier guidance that revenue would increase by 1% to 1.5%.",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "Fed's Barr worried regulatory changes may increase financial sector risks - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObGNlZHpfREZsS2VzTkI1dGxhQ1FLYk9ta0YzRHp6Wl9JRlF2ZVBFZTlJTmo3NjNoZXkyYUdQeFVwYVdGRW9wM25ldlozX3ZnRncyNktWTkk4RGdILXFaWGxnaVRMSUJvY0IzYUhuVGw3VmVyWGl2bmFXTVFZZ1FiblBqLXBsNThZMFRiRWxwYkg4Z2Y5Mk9YYkpWcHoyT1JhdnVXM01KeTYzaVBsUk9TUmZueTEzbU44?oc=5",
       "source": "Reuters",
@@ -589,17 +788,6 @@
       "summary": "Fed's Barr worried regulatory changes may increase financial sector risks Reuters",
       "topics": [
         "Regulatory Change"
-      ]
-    },
-    {
-      "title": "UK faces 'Farage penalty' if it pulls out of Brexit reset deal - The Australian - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOaXlOYlFfdzlMNDR6Ty1STGN2RkViWnFtNjFKRUs3Z2NNYkNadTIzZDk3LTZ2ZjlqU0R6Nml2ZEViRk10cTRUTTExdnItSFc3dC0wbVhBMjlJa01NQy1WY2xFejh0clR2X0lyTnRPLTdDVDdrb3VBdmh4NHJBNHNOZ1dRRXE2azhLVVZvMzBkRVNGR2poMjJaWEU4dEJ0c05qaVdsekJMQ0Foa0ZQcURmWDlhZ2RnV1N6UDZ4dFFyVnduOWxCZTJxeVIxY3ByWkh1Nlp5SXNFZmF2ZXF3dkZHYW5LTTF3YW5E?oc=5",
-      "source": "The Australian",
-      "date": "2026-11-19T18:01:04+00:00",
-      "display_date": "Nov 19, 2026",
-      "summary": "UK faces 'Farage penalty' if it pulls out of Brexit reset deal - The Australian The Australian",
-      "topics": [
-        "Enforcement Actions"
       ]
     },
     {
@@ -683,17 +871,6 @@
       ]
     },
     {
-      "title": "KKR Acquires Stake in Gentari’s India Renewable Energy Platform",
-      "link": "https://www.esgtoday.com/kkr-acquires-stake-in-gentaris-india-renewable-energy-platform/?utm_source=rss&utm_medium=rss&utm_campaign=kkr-acquires-stake-in-gentaris-india-renewable-energy-platform",
-      "source": "ESG Today",
-      "date": "2026-11-19T15:43:23+00:00",
-      "display_date": "Nov 19, 2026",
-      "summary": "Alternative asset manager KKR announced on Thursday the acquisition of a minority stake in Gentari […]",
-      "topics": [
-        "ESG & Sustainability"
-      ]
-    },
-    {
       "title": "Comanchero hit with US sanctions over links to Mexican drug cartels - The Australian",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNX0lQdWczLW1NX1hDTXpyOWwtQXF1el96M3NLNjUxZnFWdUw0R25JbXJ3ZkZ6b2RCTzZ1bGVlcGR6TkdWUVd3eTdZSmpDcTVWVDBpQllMM3NHaFdqeVhxdjhuSmdadm81T0JtMUV3MVUyc3VKdHBCZmVfRHltMHdTT2RqMjFnMHo2aG56X3pVTzhCQTZZMnZUUTdmM3RVUWx5bU5BSEJUTmxZNEVoNUltRTJ4Ull5WExzRVdObHI3cW4tRy1zRmsydkVOMDM4X1ZVRU5GTm5sQnZ4ZEFOUzNwaWdlXzVodw?oc=5",
       "source": "The Australian",
@@ -713,17 +890,6 @@
       "summary": "The Securities and Exchange Commission today charged eight Colorado-based entities, likely operated by individuals located overseas, for defrauding U.S. investors out of more than $37 million. The defendants allegedly lured investors to believe they were…",
       "topics": [
         "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "Pulpex Raises Over $30 Million to Scale Paper-based Bottle Production",
-      "link": "https://www.esgtoday.com/pulpex-raises-over-30-million-to-scale-paper-based-bottle-technology/?utm_source=rss&utm_medium=rss&utm_campaign=pulpex-raises-over-30-million-to-scale-paper-based-bottle-technology",
-      "source": "ESG Today",
-      "date": "2026-11-19T14:37:09+00:00",
-      "display_date": "Nov 19, 2026",
-      "summary": "Sustainable packaging technology company Pulpex announced £24.6 million (USD$32.3 million) in new investments, including £19.6 […]",
-      "topics": [
-        "ESG & Sustainability"
       ]
     },
     {
@@ -760,24 +926,24 @@
       ]
     },
     {
-      "title": "libumqtt",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-03",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-11-19T12:00:00+00:00",
-      "display_date": "Nov 19, 2026",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow a remote attacker to cause a denial of service, memory corruption, or information disclosure. The following versions of libumqtt are affected: libumqtt <=1.1.1 (CVE-2026-125132) CVSS Vendor Equipment v3 8...",
-      "topics": [
-        "Cybersecurity Risk",
-        "Operational & Enterprise Risk"
-      ]
-    },
-    {
       "title": "Autonomy Logic OpenPLC Runtime",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-01",
       "source": "CISA Cybersecurity Advisories",
       "date": "2026-11-19T12:00:00+00:00",
       "display_date": "Nov 19, 2026",
       "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow several unauthenticated admin accounts to be created. The following versions of Autonomy Logic OpenPLC Runtime are affected: OpenPLC Runtime <=4.2.4 (CVE-2026-126088) CVSS Vendor Equipment v3 8.1 Autonomy...",
+      "topics": [
+        "Cybersecurity Risk",
+        "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "libumqtt",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-03",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-11-19T12:00:00+00:00",
+      "display_date": "Nov 19, 2026",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow a remote attacker to cause a denial of service, memory corruption, or information disclosure. The following versions of libumqtt are affected: libumqtt <=1.1.1 (CVE-2026-125132) CVSS Vendor Equipment v3 8...",
       "topics": [
         "Cybersecurity Risk",
         "Operational & Enterprise Risk"
@@ -854,7 +1020,7 @@
       "title": "Apollo scraps planned $2bn loan to Manchester City owner after rule breaches - Financial Times",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORGdSWlloVzAzUVVzeHFjSXlxdnpFeWh0WGtta0R1U3pWVzZGTlFWUEJfNWtGV1ptZEVNYXNPSHlJVWtjaDd0V01uazRBaDd1YzZfVFVyQzhCdXFLQThMckhPZU1CcnhTZWFobVlZb0hMc3J5VXJIUW56VUlvNzdheTQ1aEo?oc=5",
       "source": "Financial Times",
-      "date": "2026-11-19T05:02:08+00:00",
+      "date": "2026-11-19T05:00:28+00:00",
       "display_date": "Nov 19, 2026",
       "summary": "Apollo scraps planned $2bn loan to Manchester City owner after rule breaches Financial Times",
       "topics": [
@@ -1018,17 +1184,6 @@
       ]
     },
     {
-      "title": "Australia sanctions Israeli settlers, organisations over West Bank expansion - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVlFrYWNBX1NLTHhNc00ycmhVV0dFNlRNX0xOcGFKcUhaYmNSU093YzlyTm9xOVlGRGlxblJhajk5ME5HMy0zeXFHc2FQUGFBd3lvUGtaNENWMTB2YVV6eHJ4NzZ1N3pHcjJqam9sQ2kxRk4wNUU4Z1NLbDA4bWQyUVpMakxVa0Q3S2UxeUE1Nm92RmhKUFVHMVl3UUVETHQxMVk4QlYwS0ZhNXRPSGVsUGRQX0F6OFJiZ1N5WGIyb1l5TkliTkhwT2NB?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-18T08:14:10+00:00",
-      "display_date": "Nov 18, 2026",
-      "summary": "Australia sanctions Israeli settlers, organisations over West Bank expansion Reuters",
-      "topics": [
-        "AML & Sanctions"
-      ]
-    },
-    {
       "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
       "link": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
       "source": "Krebs on Security",
@@ -1073,6 +1228,17 @@
       ]
     },
     {
+      "title": "Australia targets Israeli settlements with fresh sanctions - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMU44WVRMajJfMzJaNTVCaDFwdlVadkQ3Qm9CTkVmeXBjTS1TYjhpSTVkajBwSkI4ZUhpQ2twNU9zRkwydVU2ZUE2amZqY2E4cHlKVVJ1WDJoVzBJZFZVUk5kRmNybERCQ2tPS1M3Q1p5Zzd5WC1lN3hEN0Ryc2p1TVJkVXRiY2VLYmRqUTMyQ2F4UHFZUDVrOGtQUkZNNXlJaE4zTDJXV05YOTliTEZwQXU3RFVyaWpxaEhmOVc0QjRPd0VNVmdsSm0yMjR4WG1PQVdyZEtabDdZenBqS3F1Vzhjdw?oc=5",
+      "source": "The Australian",
+      "date": "2026-11-17T20:40:00+00:00",
+      "display_date": "Nov 17, 2026",
+      "summary": "Australia targets Israeli settlements with fresh sanctions The Australian",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
       "title": "Trust Is Built From the Head & the Heart",
       "link": "https://www.corporatecomplianceinsights.com/trust-is-built-from-head-heart/",
       "source": "Corporate Compliance Insights",
@@ -1081,18 +1247,6 @@
       "summary": "A leader who admits a limit can recover from it; one whose integrity is in question often cannot The post Trust Is Built From the Head & the Heart appeared first on Corporate Compliance Insights .",
       "topics": [
         "Operational & Enterprise Risk"
-      ]
-    },
-    {
-      "title": "Britain sanctions Israeli settlement firms in push to protect two-state solution - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcXk4clBMd2ltVDE1T2tJSlJRLUs5dTIzUTVXVVRkVWNMUTRzMEVFR2ZvVHNUelRhZXB5WDZGU2lmV2p3VDIzSWNwdVVRbnl3Y0JCWXQ1VnAtRmQwZWxsdU9GSDJ1ajh3U1pCRDMwRDdTblBYMUs4RE1udnNzSkU1alhwQm1QNHo3aF91M0Zod1JsNVV4RllPcHdkdEoySUxsRkhIZ2x5STF2LWdEbWF4M1czUUNySWJDdGc?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-17T18:03:04+00:00",
-      "display_date": "Nov 17, 2026",
-      "summary": "Britain sanctions Israeli settlement firms in push to protect two-state solution Reuters",
-      "topics": [
-        "Enforcement Actions",
-        "AML & Sanctions"
       ]
     },
     {
@@ -1130,12 +1284,12 @@
       ]
     },
     {
-      "title": "Siemens ROS#",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-06",
+      "title": "Siemens SIMATIC WinCC",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-09",
       "source": "CISA Cybersecurity Advisories",
       "date": "2026-11-17T12:00:00+00:00",
       "display_date": "Nov 17, 2026",
-      "summary": "View CSAF Summary ROS# before version 2.3.1 contains a code injection vulnerability that could allow an attacker that is able to pass a crafted message definition file to the user to inject arbitrary code into the generated program. Siemens has released a new version for ROS# and...",
+      "summary": "View CSAF Summary Graphics Designer of SIMATIC WinCC before V8.2 contains an implicit active content execution vulnerability upon opening files, which could allow an attacker to cause arbitrary code execution on the device. Siemens is preparing fixes and recommends specific mitig...",
       "topics": [
         "Cybersecurity Risk"
       ]
@@ -1196,12 +1350,34 @@
       ]
     },
     {
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/11/17/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-11-17T12:00:00+00:00",
+      "display_date": "Nov 17, 2026",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-115731 Perforce Puppet Enterprise Deserialization of Untrusted Data Vulnerability This type of vulnerability is a frequent attack vector ...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
       "title": "Siemens Simcenter Femap",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-10",
       "source": "CISA Cybersecurity Advisories",
       "date": "2026-11-17T12:00:00+00:00",
       "display_date": "Nov 17, 2026",
       "summary": "View CSAF Summary Simcenter Femap is affected by an out of bounds read vulnerability that could be triggered when the application reads files in X_T format. This could allow an attacker to crash the application or execute arbitrary code. Siemens has released a new version for Sim...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "Siemens ROS#",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-06",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-11-17T12:00:00+00:00",
+      "display_date": "Nov 17, 2026",
+      "summary": "View CSAF Summary ROS# before version 2.3.1 contains a code injection vulnerability that could allow an attacker that is able to pass a crafted message definition file to the user to inject arbitrary code into the generated program. Siemens has released a new version for ROS# and...",
       "topics": [
         "Cybersecurity Risk"
       ]
@@ -1241,34 +1417,12 @@
       ]
     },
     {
-      "title": "Siemens SIMATIC WinCC",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-09",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-11-17T12:00:00+00:00",
-      "display_date": "Nov 17, 2026",
-      "summary": "View CSAF Summary Graphics Designer of SIMATIC WinCC before V8.2 contains an implicit active content execution vulnerability upon opening files, which could allow an attacker to cause arbitrary code execution on the device. Siemens is preparing fixes and recommends specific mitig...",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
       "title": "Siemens meta-iot2050",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-11",
       "source": "CISA Cybersecurity Advisories",
       "date": "2026-11-17T12:00:00+00:00",
       "display_date": "Nov 17, 2026",
       "summary": "View CSAF Summary meta-iot2050 (https://github.com/siemens/meta-iot2050) from V01.03.01 contains a Command Injection vulnerability in the firmware update tool that could allow an attacker which is able to manipulate a configuration file to have arbitrary commands run as root. Sie...",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/11/17/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-11-17T12:00:00+00:00",
-      "display_date": "Nov 17, 2026",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-115731 Perforce Puppet Enterprise Deserialization of Untrusted Data Vulnerability This type of vulnerability is a frequent attack vector ...",
       "topics": [
         "Cybersecurity Risk"
       ]
@@ -1285,17 +1439,6 @@
       ]
     },
     {
-      "title": "Providers fined for NDIS breaches … only to be hired for aged care - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQT1F1NktfemEzLVNQMFU0SGNWbV9NRno5dDloUTZXNkJZT3lpQndwUE92V0N3ZHpac1l2bmEwTUpDZk4zZ3V0WGppY2lDcVE3cFNhdS1aemFSSzNUUHB3WS0tckRHb3pLQmotUHRsVHRlRHktMEhlRkJWeUt6R3FlbHJfZzJFU2ZMMWlLMU9jWXI0Y09PWVJ5RGZOUEs4WHVERVBnZTNfdE1oRkE5VTBXeS1IVzZZY0RMa0NJOXJIR2RVWm5JN2hQTUc0MS15cHlHeVBUSE1fbEFVcnhQYzBJR19Eekxkcm9wNHRUb1RCcmo1YnhFNFlz?oc=5",
-      "source": "The Australian",
-      "date": "2026-11-17T09:29:00+00:00",
-      "display_date": "Nov 17, 2026",
-      "summary": "Providers fined for NDIS breaches … only to be hired for aged care The Australian",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
       "title": "What we’re learning from firms engaging with our innovation services",
       "link": "https://www.fca.org.uk/news/blogs/what-were-learning-firms-engaging-our-innovation-services",
       "source": "FCA UK Regulatory News",
@@ -1304,29 +1447,6 @@
       "summary": "Three themes stand out: the growing use of AI, innovation crossing traditional sector boundaries, and financial inclusion.As firms develop new products, services and business models, many engage with us through our Regulatory Sandbox and Innovation Pathways to understand how regu...",
       "topics": [
         "Regulatory Change"
-      ]
-    },
-    {
-      "title": "ASIC in new private credit probe as fund liquidity dries up - AFR",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQU3BYMW9zSkFBaFd4a05yMHZjSURrY3FpWXQ2Qm51a2NFOGRpdmZOUnBMRC1JYWdNUk81b2dSVGRpVzEyVkQtNTlXXzVzT1FHNno1R1kzdGtOUzMzUGJBdVQzM1Y2SUE2NjVqTlE2d0R5QUpKckFtWlNTTFpZQlJpNVlGZHJ4Y1VwdFd0Q0FZU0poVEgzZC1udGFySnpKSzNNWFNOMVgyeGZpVEtZSVhaRnI3WUd0V2RDUlFTYm9ySHA5RFpS?oc=5",
-      "source": "AFR",
-      "date": "2026-11-17T09:00:00+00:00",
-      "display_date": "Nov 17, 2026",
-      "summary": "ASIC in new private credit probe as fund liquidity dries up AFR",
-      "topics": [
-        "Enforcement Actions",
-        "Operational & Enterprise Risk"
-      ]
-    },
-    {
-      "title": "Universities are their own worst enemies on independent governance - AFR",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWkJYQVFCZGVEeC1SRF93ekttb0lkdTVSc3hPS3BCdzlucXVVeW1RNFRGSl9RZ0FaVlJneW9jd0M0UFZzUVpHemlyS1pjNnJnblBacC1RT3pIRHJWV0FjUWhSRVo0a0VfRnBLWVdoY0FWeGU3ZXAwMTVMZDNNSTh0QUJsSDVsYTgyTEk1U2tSekpHc3ZLb2k1bkRUSDFEdEg5NmNHR3l0R2NkUndiNWVTUHZTbHh6TVVpLWVwVnhEdDBndw?oc=5",
-      "source": "AFR",
-      "date": "2026-11-17T06:18:00+00:00",
-      "display_date": "Nov 17, 2026",
-      "summary": "Universities are their own worst enemies on independent governance AFR",
-      "topics": [
-        "Operational & Enterprise Risk"
       ]
     },
     {
@@ -1347,17 +1467,6 @@
       "date": "2026-11-16T05:07:06+00:00",
       "display_date": "Nov 16, 2026",
       "summary": "Today I want to return to the question of companies refusing to deal with personal AI agents from outside the business, but consider the question through a lens closer to home for compliance officers. Would you accept an internal report generated and submitted by someone’s person...",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Rivian, Lucid, Scout CEOs aren’t counting on Democrats to restore EV federal support after midterm wins",
-      "link": "https://www.cnbc.com/2026/11/15/rivian-lucid-scout-arent-counting-on-dems-to-restore-ev-incentives.html",
-      "source": "CNBC",
-      "date": "2026-11-15T13:00:02+00:00",
-      "display_date": "Nov 15, 2026",
-      "summary": "EV makers have had to contend with flip-flopping regulatory support from Washington over the years.",
       "topics": [
         "Regulatory Change"
       ]
@@ -1405,17 +1514,6 @@
       "summary": "The business of GRC is ever-expanding, GRC technology is one of the fastest-growing segments in enterprise software, and compliance professions are rapidly evolving. Here’s the latest from across the industry. New products & platforms Arcus Compliance released MAVRYX Assistant, a...",
       "topics": [
         "Operational & Enterprise Risk"
-      ]
-    },
-    {
-      "title": "A Democratic Congress Is Drawing Up Its Corporate Subpoena List",
-      "link": "https://www.corporatecomplianceinsights.com/democratic-congress-drawing-up-corporate-subpoena-list/",
-      "source": "Corporate Compliance Insights",
-      "date": "2026-11-13T12:00:51+00:00",
-      "display_date": "Nov 13, 2026",
-      "summary": "Incoming chairs have already named their targets: crypto ventures, surveillance pricing, government equity stakes & AI’s debt-fueled buildout The post A Democratic Congress Is Drawing Up Its Corporate Subpoena List appeared first on Corporate Compliance Insights .",
-      "topics": [
-        "Data Privacy"
       ]
     },
     {
@@ -1628,30 +1726,6 @@
       ]
     },
     {
-      "title": "Post-Quantum Questions to Ask Your Vendors",
-      "link": "https://www.cisa.gov/resources-tools/resources/post-quantum-questions-ask-your-vendors",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-11-05T12:00:00+00:00",
-      "display_date": "Nov 05, 2026",
-      "summary": "CISA, the Australian Signals Directorate’s Australian Cyber Security Centre (ASD’s ACSC) and the National Security Agency (NSA) released joint guidance and an accompanying quick-reference list to help organizations assess vendor readiness for transitioning to post-quantum cryptog...",
-      "topics": [
-        "Regulatory Change",
-        "Cybersecurity Risk",
-        "Operational & Enterprise Risk"
-      ]
-    },
-    {
-      "title": "US Government Partners Urge Hardening Industrial Refrigeration and Cold Chain Monitoring Systems",
-      "link": "https://www.cisa.gov/resources-tools/resources/us-government-partners-urge-hardening-industrial-refrigeration-and-cold-chain-monitoring-systems",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-11-05T12:00:00+00:00",
-      "display_date": "Nov 05, 2026",
-      "summary": "Overview The Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), Health and Human Services (HHS), U.S. Department of Agriculture (USDA), and the Department of Transportation (DoT)—hereafter referred to as “the authoring organizations”—a...",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
       "title": "Looking back to move forward: why reviewing our rules matters",
       "link": "https://www.fca.org.uk/news/blogs/looking-back-move-forward-why-reviewing-our-rules-matters",
       "source": "FCA UK Regulatory News",
@@ -1731,17 +1805,6 @@
       ]
     },
     {
-      "title": "FCA sets expectations for firms making car finance settlement offers",
-      "link": "https://www.fca.org.uk/news/press-releases/fca-sets-expectations-firms-making-car-finance-settlement-offers",
-      "source": "FCA UK Regulatory News",
-      "date": "2026-11-03T09:00:00+00:00",
-      "display_date": "Nov 03, 2026",
-      "summary": "Research shows consumers want the choice, rather than wait for the legal challenges to conclude. Almost 9 out of 10 (89%) car finance customers who have complained or are considering doing so want the choice of an offer of compensation now, rather than waiting for the legal chall...",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
       "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
       "link": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
       "source": "Krebs on Security",
@@ -1815,17 +1878,6 @@
       "date": "2026-10-23T14:10:00+00:00",
       "display_date": "Oct 23, 2026",
       "summary": "The Securities and Exchange Commission today announced the Division of Examinations’ Fiscal Year 2027 examination priorities. The annual report identifies key areas of focus as the Division carries out its mission to promote compliance, prevent fraud,…",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "OCC Announces Enforcement Actions for October 2026",
-      "link": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-93.html",
-      "source": "Office of the Comptroller of the Currency",
-      "date": "2026-10-22T15:00:00+00:00",
-      "display_date": "Oct 22, 2026",
-      "summary": "The Office of the Comptroller of the Currency (OCC) today released enforcement actions for October 2026.",
       "topics": [
         "Enforcement Actions"
       ]
