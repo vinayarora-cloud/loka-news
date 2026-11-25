@@ -1,14 +1,102 @@
 {
-  "last_updated": "November 24, 2026 19:18 UTC",
-  "total_count": 212,
+  "last_updated": "November 25, 2026 03:21 UTC",
+  "total_count": 208,
   "articles": [
     {
-      "title": "Venezuela moves toward possible debt restructuring with release of economic framework - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOakxRRS1xODNKVEMzdlowcjUzd2g4amNoV0JSSzdQc0JEUXg1WWxSbGxOaGhYWDZWSlQzeldBelpvUnpXb3g3bHdMUWd4NWhiZFJRZnEtSWU4TDBXS0Q1Q21CWE9QUkxkT2YxYVI5MzlJNkVJS3FRZ3NuMG90Y0JBMFNKRGEtOEhlOUktTVJwU2hoSHVVVW56NXI0ZlZIOHo3TGt0UTc3VnA4VlV5MGZoTmlfS05qQlpQcWpiUWNtSjI?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-24T18:46:35+00:00",
+      "title": "Huawei Found Guilty of US Criminal Charges in Landmark Case - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcXF1dllwcm1uOWZNWUZIVGMyeTVzTURuTl9aUy1lOUliTVhOZ0NqdzVjc2xYYmZCMjd1cU42V1R6T3MwRDhiVGtrMGs3OU1abS1Wb0hsLTBrZVZ1NlQzU2VaenhFcjR6ZzZQMFZGQWotejdiQ1Z3SUx4cF8xb1pJaFhna2JZa1JtVHdwUGFmZHJwQzJUR0pNN00yeEEtOVQ2RjE0N2c5R2w5dnZfTGJz?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-11-25T02:43:00+00:00",
+      "display_date": "Nov 25, 2026",
+      "summary": "Huawei Found Guilty of US Criminal Charges in Landmark Case Bloomberg.com",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "Enhanced AML/CFT regimes lift Monaco, Bulgaria, Côte d’Ivoire and the DRC off FATF ‘grey’ list",
+      "link": "https://www.complianceweek.com/africa/enhanced-aml-cft-regimes-lift-monaco-bulgaria-cote-divoire-and-the-drc-off-fatf-grey-list/",
+      "source": "Compliance Week",
+      "date": "2026-11-25T01:15:46+00:00",
+      "display_date": "Nov 25, 2026",
+      "summary": "The FATF removed Monaco, Bulgaria, Côte d’Ivoire, and the Democratic Republic of the Congo from its gray list after they strengthened their financial crime regimes. The post Enhanced AML/CFT regimes lift Monaco, Bulgaria, Côte d’Ivoire and the DRC off FATF ‘grey’ list appeared fi...",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "China’s Huawei Convicted of Fraud in U.S. Criminal Trial",
+      "link": "https://www.wsj.com/business/telecom/chinas-huawei-convicted-of-fraud-in-u-s-criminal-trial-20e17ac3?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-11-24T22:41:00+00:00",
       "display_date": "Nov 24, 2026",
-      "summary": "Venezuela moves toward possible debt restructuring with release of economic framework Reuters",
+      "summary": "A federal jury convicted the tech and telecom giant of fraud and other offenses but acquitted it of racketeering conspiracy.",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "Autodesk Boosts Guidance as Construction Spending Drives Revenue",
+      "link": "https://www.wsj.com/business/earnings/autodesk-boosts-guidance-as-construction-spending-drives-revenue-fc3ec140?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-11-24T22:13:00+00:00",
+      "display_date": "Nov 24, 2026",
+      "summary": "The company reported a fiscal third-quarter profit of $563 million, boosted by infrastructure and construction spending across a range of end markets.",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "HP Offers ‘Prudent’ Guidance Amid Rising Memory Costs",
+      "link": "https://www.wsj.com/business/earnings/hp-offers-prudent-guidance-amid-rising-memory-costs-37c67b9d?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-11-24T21:23:00+00:00",
+      "display_date": "Nov 24, 2026",
+      "summary": "The company posted a profit of $769 million in the fiscal fourth quarter and said it is taking a conservative approach to guidance amid high memory and storage costs.",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "OCC Announces Enforcement Actions for November 2026",
+      "link": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-104.html",
+      "source": "Office of the Comptroller of the Currency",
+      "date": "2026-11-24T21:00:00+00:00",
+      "display_date": "Nov 24, 2026",
+      "summary": "The Office of the Comptroller of the Currency (OCC) today released enforcement actions for November 2026.",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "Huawei convicted in US trial that exposed corporate espionage and sanctions evasion - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPT1J2X3AweENxV1VOaTQ2bEFTblFqaDBDWFFnUV8xWFFUbjN5d3N4ajk4LTh6VlVwMkNSSF9YMzlXU0VZYVZzYXlicjZQYnFuR2k1QW9WNVEwQjVIM1dPeEh5VDJCZHczaUJoQ2JYdDh4MlVacGFEMl9mSmJqNF95dmRNY0Y?oc=5",
+      "source": "Financial Times",
+      "date": "2026-11-24T20:43:06+00:00",
+      "display_date": "Nov 24, 2026",
+      "summary": "Huawei convicted in US trial that exposed corporate espionage and sanctions evasion Financial Times",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "OCC gives examiners a six-pillar playbook for bank super intelligence use",
+      "link": "https://www.complianceweek.com/banking/occ-gives-examiners-a-six-pillar-playbook-for-bank-super-intelligence-use/",
+      "source": "Compliance Week",
+      "date": "2026-11-24T19:39:22+00:00",
+      "display_date": "Nov 24, 2026",
+      "summary": "The OCC issued a framework earlier this month to help examiners evaluate banks’ use of Super Intelligence and agentic SI, with associated risks and controls. The post OCC gives examiners a six-pillar playbook for bank super intelligence use appeared first on Compliance Week .",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "Big four employees directed to 'disregard' issues identified during audit",
+      "link": "https://www.abc.net.au/news/2026-11-25/allegations-bullying-sexual-harassment-big-four-firms-complaints/107422694",
+      "source": "ABC News Business (AU)",
+      "date": "2026-11-24T19:24:07+00:00",
+      "display_date": "Nov 24, 2026",
+      "summary": "More than 3,000 complaints were made about conduct at the big four accounting firms, including serious allegations of bullying and sexual harassment, according to a report by the corporate regulator.",
       "topics": [
         "Regulatory Change"
       ]
@@ -19,31 +107,9 @@
       "source": "The Sydney Morning Herald",
       "date": "2026-11-24T18:05:00+00:00",
       "display_date": "Nov 24, 2026",
-      "summary": "The corporate watchdog is investigating dozens of complaints against the Big Four consulting firms, including new allegations of confidential client data misuse.",
+      "summary": "The corporate watchdog is investigating dozens of complaints against the big four consulting firms, including new allegations of confidential client data misuse.",
       "topics": [
         "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "El Niño and climate change double act prompts early coral bleaching warning",
-      "link": "https://www.abc.net.au/news/2026-11-25/scientists-issue-great-barrier-reef-coral-bleaching-warning/107412866",
-      "source": "ABC News Business (AU)",
-      "date": "2026-11-24T18:00:00+00:00",
-      "display_date": "Nov 24, 2026",
-      "summary": "Record-high global ocean temperatures have sparked concerns reef environments along Australia's east coast could endure extreme conditions over summer.",
-      "topics": [
-        "ESG & Sustainability"
-      ]
-    },
-    {
-      "title": "Rise of the celebrity CEO raises questions about corporate governance",
-      "link": "https://www.abc.net.au/news/2026-11-25/the-rise-of-the-celebrity-ceo/107420760",
-      "source": "ABC News Business (AU)",
-      "date": "2026-11-24T18:00:00+00:00",
-      "display_date": "Nov 24, 2026",
-      "summary": "Jensen Huang received a hero's welcome back at Nvidia. But what happens when one of the world's most valuable companies becomes too reliant on one person?",
-      "topics": [
-        "Operational & Enterprise Risk"
       ]
     },
     {
@@ -146,6 +212,17 @@
       ]
     },
     {
+      "title": "UK targets Houthis with new sanctions - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObG8tNFNwdUhidVlhTVFUWHV2TWFqTlV2aWFsMzlpQVpsVm42R1M4UHFzX1pEQ2NxeG1FcXNod0xrdjh2RzhmTGFRVFM1RTZQM3B4M3pzejNfbWc1c0R2MGNMRnNWbE10bC1HOGdsX1FpMzE3QnJQaV9mRmRTcUk2a0xMWmd2dw?oc=5",
+      "source": "Reuters",
+      "date": "2026-11-24T12:04:56+00:00",
+      "display_date": "Nov 24, 2026",
+      "summary": "UK targets Houthis with new sanctions Reuters",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
       "title": "The Midterms Changed Congress, but State AG Offices Matter, Too",
       "link": "https://www.corporatecomplianceinsights.com/midterms-changed-congress-state-ag-offices-matter/",
       "source": "Corporate Compliance Insights",
@@ -157,12 +234,12 @@
       ]
     },
     {
-      "title": "Schneider Electric EcoStruxure Power Build Rapsody software",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-02",
+      "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/11/24/cisa-adds-three-known-exploited-vulnerabilities-catalog",
       "source": "CISA Cybersecurity Advisories",
       "date": "2026-11-24T12:00:00+00:00",
       "display_date": "Nov 24, 2026",
-      "summary": "View CSAF Summary Schneider Electric is aware of a vulnerability in its EcoStruxure™ Power Build Rapsody product. The EcoStruxure™ Power Build Rapsody is used to enter or import the single line diagram, to get the extensive bill of material of your switchboard, including all devi...",
+      "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-131914 Idunno AntiCsrf Deserialization of Untrusted Data Vulnerability CVE-2026-132165 Drupal Core Remote Code Execution Vulnerabilit...",
       "topics": [
         "Cybersecurity Risk"
       ]
@@ -177,6 +254,17 @@
       "topics": [
         "Cybersecurity Risk",
         "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "Schneider Electric EcoStruxure Power Build Rapsody software",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-02",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-11-24T12:00:00+00:00",
+      "display_date": "Nov 24, 2026",
+      "summary": "View CSAF Summary Schneider Electric is aware of a vulnerability in its EcoStruxure™ Power Build Rapsody product. The EcoStruxure™ Power Build Rapsody is used to enter or import the single line diagram, to get the extensive bill of material of your switchboard, including all devi...",
+      "topics": [
+        "Cybersecurity Risk"
       ]
     },
     {
@@ -295,7 +383,7 @@
       "source": "ABC News Business (AU)",
       "date": "2026-11-24T05:52:37+00:00",
       "display_date": "Nov 24, 2026",
-      "summary": "Suncorp insures millions of Australians but a whistleblower says the company has incentivised staff to make claims payouts difficult for customers.",
+      "summary": "Suncorp insures millions of Australians, but a whistleblower says the company has incentivised staff to make claims payouts difficult for customers.",
       "topics": [
         "Operational & Enterprise Risk"
       ]
@@ -466,17 +554,6 @@
       ]
     },
     {
-      "title": "No life jackets, lifeboat or functioning radio on airboat during 2023 crash",
-      "link": "https://www.abc.net.au/news/2026-11-23/matt-wright-kaia-wright-plead-guilty-top-end-safari-camp-charges/107418486",
-      "source": "ABC News Business (AU)",
-      "date": "2026-11-23T08:18:26+00:00",
-      "display_date": "Nov 23, 2026",
-      "summary": "Top End Safari Camp, owned by Matt and Kaia Wright, pleads guilty to breaching NT work safety laws following an airboat crash in 2023, when the watercraft was not fitted with life jackets or a first-aid kit.",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
       "title": "EU, UK Agree to Link Carbon Markets from 2028",
       "link": "https://www.esgtoday.com/eu-uk-agree-to-link-carbon-markets-from-2028/?utm_source=rss&utm_medium=rss&utm_campaign=eu-uk-agree-to-link-carbon-markets-from-2028",
       "source": "ESG Today",
@@ -488,21 +565,10 @@
       ]
     },
     {
-      "title": "Woolworths orders $100k returned to workers over supply chain underpayments",
-      "link": "https://www.abc.net.au/news/2026-11-23/supply-chain-reviews-modern-slavery-report-as-taskforce-formed/107416486",
-      "source": "ABC News Business (AU)",
-      "date": "2026-11-23T06:18:53+00:00",
-      "display_date": "Nov 23, 2026",
-      "summary": "The NSW government announces plans for a modern slavery taskforce as one of the nation's retail giants reveals its own scrutiny led to $100,000 in payments to workers in its fruit and vegetable supply chains.",
-      "topics": [
-        "Operational & Enterprise Risk"
-      ]
-    },
-    {
       "title": "Citi's $35-billion UK error could complicate exit from US regulatory penalty box - Reuters",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOVMxWWx3akhhdTVwTkFRU0pvbUFJSGU0MjhtY0JISTktTmRzNkJwb3B2a1JIWXluU3BZY08tX3JacHJnZjZmVXFkcU5nd2VIdDZhUEdvRFZyUnVHWWx4dGZtYlJ0QzFFX2ZKOHAxYkJselp3dXNkYWFRcGJmZ0VVMUxqNFg3UTduLXFmQThrbWZtRHpYZjhZMlc3WU1QZHdMQVRUaWVnNEEwZTZ2ZjNVU3FKMmtHaGVnaFhFNV90NkxkT1Bk?oc=5",
       "source": "Reuters",
-      "date": "2026-11-23T06:01:00+00:00",
+      "date": "2026-11-23T06:07:27+00:00",
       "display_date": "Nov 23, 2026",
       "summary": "Citi's $35-billion UK error could complicate exit from US regulatory penalty box Reuters",
       "topics": [
@@ -533,14 +599,14 @@
       ]
     },
     {
-      "title": "Climate talks crash a sign of anger with oil lobby, scientist says",
-      "link": "https://www.abc.net.au/news/2026-11-23/cop-climate-change-negotiation-failure-a-sign-of-anger/107415518",
-      "source": "ABC News Business (AU)",
-      "date": "2026-11-23T00:18:49+00:00",
-      "display_date": "Nov 23, 2026",
-      "summary": "Countries have rejected a climate deal that ignores fossil fuels, but experts say that reflects anger rather than indifference.",
+      "title": "ACCC examining ‘cartel’ complaint in the building materials sector - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQYTVLR3ByaU41V0U4TVlIVUtHY1FUM0Y4ejdDTk5BbTk3Zm9McVAxZVlMd2JTRXJhNzEtSTRDeXMtbnVDVVMwODFMdXp2b2czVGoybmRfMF9pUGRZQTdGQk40eHQ1Y0dWbk5UMk8yRmVPem5MckhfSlNkbng5bnhwMGdYMmZlRWdCTW1aaU5NRnpCamEtLW44dngtVm1iRldya0VQdU9iVlQ1VlVHTkl2NDJqTEgzRXFHaUJNWnZ6ZFNQUGNfMG5PRFhUS1QtYmVEcS1wWEVHeTMyZHFCNkJNanlhVTJJQ0lZVlpyYjhhM3BRUlFycFcyZ0pGSUJvcEx5aDZlMXd6N05raklkcV9N?oc=5",
+      "source": "The Australian",
+      "date": "2026-11-22T22:40:00+00:00",
+      "display_date": "Nov 22, 2026",
+      "summary": "ACCC examining ‘cartel’ complaint in the building materials sector The Australian",
       "topics": [
-        "ESG & Sustainability"
+        "Enforcement Actions"
       ]
     },
     {
@@ -552,17 +618,6 @@
       "summary": "Scott Bessent refuses to rule out Jensen Huang’s return to Nvidia AFR",
       "topics": [
         "Regulatory Change"
-      ]
-    },
-    {
-      "title": "ACCC examining ‘cartel’ complaint in the building materials sector - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQYTVLR3ByaU41V0U4TVlIVUtHY1FUM0Y4ejdDTk5BbTk3Zm9McVAxZVlMd2JTRXJhNzEtSTRDeXMtbnVDVVMwODFMdXp2b2czVGoybmRfMF9pUGRZQTdGQk40eHQ1Y0dWbk5UMk8yRmVPem5MckhfSlNkbng5bnhwMGdYMmZlRWdCTW1aaU5NRnpCamEtLW44dngtVm1iRldya0VQdU9iVlQ1VlVHTkl2NDJqTEgzRXFHaUJNWnZ6ZFNQUGNfMG5PRFhUS1QtYmVEcS1wWEVHeTMyZHFCNkJNanlhVTJJQ0lZVlpyYjhhM3BRUlFycFcyZ0pGSUJvcEx5aDZlMXd6N05raklkcV9N?oc=5",
-      "source": "The Australian",
-      "date": "2026-11-22T18:00:00+00:00",
-      "display_date": "Nov 22, 2026",
-      "summary": "ACCC examining ‘cartel’ complaint in the building materials sector The Australian",
-      "topics": [
-        "Enforcement Actions"
       ]
     },
     {
@@ -596,17 +651,6 @@
       "summary": "The chief technology officer and co-founder of ransomwarehelp.com, a six year old Florida business that claimed to use \"advanced cryptographic tools\" to restore data locked by ransomware, has been charged with wire fraud after an FBI sting operation found the company was simply p...",
       "topics": [
         "Enforcement Actions",
-        "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "Opinion | Why China Wants to Control a Yacht Maker",
-      "link": "https://www.wsj.com/opinion/why-china-wants-to-control-a-yacht-maker-69ca60c7?mod=pls_whats_news_us_business_f",
-      "source": "Wall Street Journal",
-      "date": "2026-11-20T23:11:00+00:00",
-      "display_date": "Nov 20, 2026",
-      "summary": "The story of Italy’s Ferretti Group points to a vulnerability in the West’s system to control investment by foreign adversaries.",
-      "topics": [
         "Cybersecurity Risk"
       ]
     },
@@ -994,6 +1038,17 @@
       ]
     },
     {
+      "title": "UK finance sector cyber incidents hit second-highest level in five years - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWDJrc21yelloUmtkYWFwU3g2ZzZxVE04NTVxXzNHNWZoQkFyeEtFNXNJMUdfZzdQdFhJblViWWMwcmUwVmpPamFFZjAydDVLYzUxMlFaQ1ZMYXplcEJKOGp5cjlNNGVWdHR6RlQtOWNUeTdEY0pYeUN1YnRZRDVxelZtTlF2OGJMc3JzVGxWaWhaUkt4elN0WXIyMklRUngwVzh2dFFYQ2d3OUNoc1lhM3c2NnNUTUxIWEt0aGh2NA?oc=5",
+      "source": "Reuters",
+      "date": "2026-11-19T08:49:43+00:00",
+      "display_date": "Nov 19, 2026",
+      "summary": "UK finance sector cyber incidents hit second-highest level in five years Reuters",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
       "title": "UK financial watchdogs clarify cyber expectations as attacks rise",
       "link": "https://www.fca.org.uk/news/press-releases/uk-financial-watchdogs-clarify-cyber-expectations-attacks-rise",
       "source": "FCA UK Regulatory News",
@@ -1020,31 +1075,9 @@
       "title": "Apollo scraps planned $2bn loan to Manchester City owner after rule breaches - Financial Times",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORGdSWlloVzAzUVVzeHFjSXlxdnpFeWh0WGtta0R1U3pWVzZGTlFWUEJfNWtGV1ptZEVNYXNPSHlJVWtjaDd0V01uazRBaDd1YzZfVFVyQzhCdXFLQThMckhPZU1CcnhTZWFobVlZb0hMc3J5VXJIUW56VUlvNzdheTQ1aEo?oc=5",
       "source": "Financial Times",
-      "date": "2026-11-19T05:00:28+00:00",
+      "date": "2026-11-19T05:02:08+00:00",
       "display_date": "Nov 19, 2026",
       "summary": "Apollo scraps planned $2bn loan to Manchester City owner after rule breaches Financial Times",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "UK regulator warns audit firms over independence risks of hyping AI insights to clients",
-      "link": "https://www.complianceweek.com/accounting-auditing/uk-regulator-warns-audit-firms-over-independence-risks-of-hyping-ai-insights-to-clients/",
-      "source": "Compliance Week",
-      "date": "2026-11-19T02:52:52+00:00",
-      "display_date": "Nov 19, 2026",
-      "summary": "The Financial Reporting Council has warned audit firms not to overhype their use of AI and leading tech to sell additional services to clients. The post UK regulator warns audit firms over independence risks of hyping AI insights to clients appeared first on Compliance Week .",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "ECI Compliance Week TPRM 2026: Building a defensible human rights program",
-      "link": "https://www.complianceweek.com/events/eci-compliance-week-tprm-2026-building-a-defensible-human-rights-program/",
-      "source": "Compliance Week",
-      "date": "2026-11-19T00:52:28+00:00",
-      "display_date": "Nov 19, 2026",
-      "summary": "When it comes to human rights compliance, “doing a little due diligence is kind of over.” The post ECI Compliance Week TPRM 2026: Building a defensible human rights program appeared first on Compliance Week .",
       "topics": [
         "Regulatory Change"
       ]
@@ -1150,17 +1183,6 @@
       ]
     },
     {
-      "title": "Russia says US, despite current sanctions, will likely need more of its uranium in future - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPakxrVDZ0bVlHRUhqOGZjaU9henBPVGZfOVp2ZncyQ1NVdlNFVFczc3BSUmoyS1NxYmxxY2xNa0VMNFRYT0VvWGtqN2xWQkpMY2ViRW82UUkyQWlxVmo1dzVBR0NyT1VnM25xV3FhNGw5cVNWY1BqNnlYX3E4TDhJZnZOdVl0aWdSUTNEeXFjV0d3QUJZNTkwLTRtUjdkZUxzdS02ODFiM3p0OXF2Z29YZG9JYlI1bUU?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-18T09:57:43+00:00",
-      "display_date": "Nov 18, 2026",
-      "summary": "Russia says US, despite current sanctions, will likely need more of its uranium in future Reuters",
-      "topics": [
-        "AML & Sanctions"
-      ]
-    },
-    {
       "title": "Xi and Putin blast Western ‘protectionism’, sanctions at APEC - The Australian",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVzd2LVVzS0lpZ3BjaGY1Nk1zaGxscFJyNm9Zb1Exb0t5LXlqb1lQY21EcGNDZGpMRkFUOTJoRUhQTmdQRlQzN2tLV2tZQlhDbEdVU0NxNEYtOE8zQmJIZ1owYUZDTEF3Tk9icXMydGtjeW9yUElZMWxxUHZhaEtiM1BkWTJJOUh4THBwTlJKVnRKdzZxczlXZzRnbGVNNmdJZHpkT0lzVnY5bkt4SmxMcDgySTJRbWJ3NUJ5V19FSXZQWllvNHBDOS0wNTU2N2Ni?oc=5",
       "source": "The Australian",
@@ -1192,50 +1214,6 @@
       "summary": "At least 178 top web destinations unwittingly served a variety of malware exploits against visitors over the past 24 hours thanks to a security vulnerability involving Optimizely, a company that helps websites customize user experiences and test out new features. Experts say the ...",
       "topics": [
         "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "Reaction after Haaland's late penalty sees Denmark miss out on Nations League quarter-finals - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQY0pMczZJZGVGVFNDUWxCUjNRbk5DeG9rMU00UjctQmlwVWQ3ZzJXRzZLcUNxY2ZMcloyTDN2R25pUUJlanZqVFllU0lSVm5YRm5HbnlhTHlhX1Q0dzc5NW9iN0dBVEpLTFI3VEoxbWlMci1jVmstZ1ZTRzFEc1lkWlphYXRIM2xvOTRFelhDTUQ3RU9SbjFPNjlJQXZDX25uc05acVNtakR6LWloeVpvTUw2bXhnMHRfeW5pbVhaXy0waS1ZQ2xGbWhCdVZNNHFRYTdKbU9SS0UwT2ZWZUFLb0oyMnljMHJQcEpxX0U0LTZaVkdfNUJqN0xFREk?oc=5",
-      "source": "The Australian",
-      "date": "2026-11-18T01:21:18+00:00",
-      "display_date": "Nov 18, 2026",
-      "summary": "Reaction after Haaland's late penalty sees Denmark miss out on Nations League quarter-finals The Australian",
-      "topics": [
-        "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "Updated Share Trading and Conflicts Policy - AFR",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZmtySGs5MmlDbkpFLTBSYldkQklUY0hUX3A4YkR6MUw1OTVNb1hodUZ2NkJ2Qjd3NjA5cXRMaXJDd21lOWpfdmdjZERBYWJfbmtQcHVSUzdtRzBnWV82UnRRMlpvVjlQeG5iY19vMUJBME9EQm5yYk9JX2V4M3dTc09PTzdBYmJXdm1LUGt3aw?oc=5",
-      "source": "AFR",
-      "date": "2026-11-17T23:14:53+00:00",
-      "display_date": "Nov 17, 2026",
-      "summary": "Updated Share Trading and Conflicts Policy AFR",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Kalshi suspends Trump speech wagers on US regulatory order - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOUxvREJseXMtOWhTYnY1RUdXZkhROXJrTEtBRjQxaW1VTWJrQkctUm5xZWc5aFAwU1dtS2FwZmd4SmtaVEdrc1lLT0NzNXZ1VUZpaTYtTTVSLTU2UUUyZF92eGZqTGt6U1hNczBVOUpDTUhXUjdraFZFYUF0V250dE45WEVLWWh4Q1NmZkZ2QUg0bWV5ZDJpTUVsbzNQNG1rTlRuRlVCMDY3SURP?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-17T20:56:23+00:00",
-      "display_date": "Nov 17, 2026",
-      "summary": "Kalshi suspends Trump speech wagers on US regulatory order Reuters",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Australia targets Israeli settlements with fresh sanctions - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMU44WVRMajJfMzJaNTVCaDFwdlVadkQ3Qm9CTkVmeXBjTS1TYjhpSTVkajBwSkI4ZUhpQ2twNU9zRkwydVU2ZUE2amZqY2E4cHlKVVJ1WDJoVzBJZFZVUk5kRmNybERCQ2tPS1M3Q1p5Zzd5WC1lN3hEN0Ryc2p1TVJkVXRiY2VLYmRqUTMyQ2F4UHFZUDVrOGtQUkZNNXlJaE4zTDJXV05YOTliTEZwQXU3RFVyaWpxaEhmOVc0QjRPd0VNVmdsSm0yMjR4WG1PQVdyZEtabDdZenBqS3F1Vzhjdw?oc=5",
-      "source": "The Australian",
-      "date": "2026-11-17T20:40:00+00:00",
-      "display_date": "Nov 17, 2026",
-      "summary": "Australia targets Israeli settlements with fresh sanctions The Australian",
-      "topics": [
-        "AML & Sanctions"
       ]
     },
     {
@@ -1284,13 +1262,14 @@
       ]
     },
     {
-      "title": "Siemens SIMATIC WinCC",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-09",
+      "title": "Siemens RUGGEDCOM APE1808",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-07",
       "source": "CISA Cybersecurity Advisories",
       "date": "2026-11-17T12:00:00+00:00",
       "display_date": "Nov 17, 2026",
-      "summary": "View CSAF Summary Graphics Designer of SIMATIC WinCC before V8.2 contains an implicit active content execution vulnerability upon opening files, which could allow an attacker to cause arbitrary code execution on the device. Siemens is preparing fixes and recommends specific mitig...",
+      "summary": "View CSAF Summary Fortinet has published information on a Double Free vulnerability in FortiOS. This advisory lists the related Siemens Industrial products. Siemens recommends to update Fortigate NGFW to V7.6.9 or later following the secure update recommendation procedure. Contac...",
       "topics": [
+        "Regulatory Change",
         "Cybersecurity Risk"
       ]
     },
@@ -1301,6 +1280,17 @@
       "date": "2026-11-17T12:00:00+00:00",
       "display_date": "Nov 17, 2026",
       "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to retrieve sensitive system information, access application data without authorization, recover stored credentials, or intercept and manipulate network communications. The following versio...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/11/17/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-11-17T12:00:00+00:00",
+      "display_date": "Nov 17, 2026",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-115731 Perforce Puppet Enterprise Deserialization of Untrusted Data Vulnerability This type of vulnerability is a frequent attack vector ...",
       "topics": [
         "Cybersecurity Risk"
       ]
@@ -1350,12 +1340,12 @@
       ]
     },
     {
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/11/17/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "title": "Siemens meta-iot2050",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-11",
       "source": "CISA Cybersecurity Advisories",
       "date": "2026-11-17T12:00:00+00:00",
       "display_date": "Nov 17, 2026",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-115731 Perforce Puppet Enterprise Deserialization of Untrusted Data Vulnerability This type of vulnerability is a frequent attack vector ...",
+      "summary": "View CSAF Summary meta-iot2050 (https://github.com/siemens/meta-iot2050) from V01.03.01 contains a Command Injection vulnerability in the firmware update tool that could allow an attacker which is able to manipulate a configuration file to have arbitrary commands run as root. Sie...",
       "topics": [
         "Cybersecurity Risk"
       ]
@@ -1405,24 +1395,12 @@
       ]
     },
     {
-      "title": "Siemens RUGGEDCOM APE1808",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-07",
+      "title": "Siemens SIMATIC WinCC",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-09",
       "source": "CISA Cybersecurity Advisories",
       "date": "2026-11-17T12:00:00+00:00",
       "display_date": "Nov 17, 2026",
-      "summary": "View CSAF Summary Fortinet has published information on a Double Free vulnerability in FortiOS. This advisory lists the related Siemens Industrial products. Siemens recommends to update Fortigate NGFW to V7.6.9 or later following the secure update recommendation procedure. Contac...",
-      "topics": [
-        "Regulatory Change",
-        "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "Siemens meta-iot2050",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-11",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-11-17T12:00:00+00:00",
-      "display_date": "Nov 17, 2026",
-      "summary": "View CSAF Summary meta-iot2050 (https://github.com/siemens/meta-iot2050) from V01.03.01 contains a Command Injection vulnerability in the firmware update tool that could allow an attacker which is able to manipulate a configuration file to have arbitrary commands run as root. Sie...",
+      "summary": "View CSAF Summary Graphics Designer of SIMATIC WinCC before V8.2 contains an implicit active content execution vulnerability upon opening files, which could allow an attacker to cause arbitrary code execution on the device. Siemens is preparing fixes and recommends specific mitig...",
       "topics": [
         "Cybersecurity Risk"
       ]
@@ -1693,17 +1671,6 @@
       ]
     },
     {
-      "title": "Airbnb Raises Outlook as It Remains Insulated from Global Conflicts",
-      "link": "https://www.wsj.com/business/earnings/airbnb-raises-outlook-as-it-remains-insulated-from-global-conflicts-a8ffcbf8?mod=pls_whats_news_us_business_f",
-      "source": "Wall Street Journal",
-      "date": "2026-11-05T21:09:00+00:00",
-      "display_date": "Nov 05, 2026",
-      "summary": "The company now expects annual revenue to increase by a high-teens percentage, up from its prior guidance of mid-teens percentage growth, as demand picked up in the third quarter across its global markets.",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "Federal Bank Regulatory Agencies Release 2025 Small Business, Small Farm, and Community Development Lending Data",
       "link": "https://www.occ.gov/news-issuances/news-releases/2026/nr-ia-2026-98.html",
       "source": "Office of the Comptroller of the Currency",
@@ -1858,17 +1825,6 @@
       "summary": "The Securities and Exchange Commission today charged two foreign-operated, Colorado-incorporated entities, BG Wealth Sharing Ltd and DSJ Exchange Pty Ltd, for orchestrating a fraud scheme that used false SEC filings to boost confidence in their…",
       "topics": [
         "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "Comptroller Gould Discusses Efforts to Support Community Banks",
-      "link": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-94.html",
-      "source": "Office of the Comptroller of the Currency",
-      "date": "2026-10-27T18:00:00+00:00",
-      "display_date": "Oct 27, 2026",
-      "summary": "Comptroller of the Currency Jonathan V. Gould today discussed the Office of the Comptroller of the Currency's (OCC) work to help community banks thrive and remain dynamic as the financial industry evolves in remarks before the Ohio Bankers League.",
-      "topics": [
-        "Operational & Enterprise Risk"
       ]
     },
     {
