@@ -1,7 +1,29 @@
 {
-  "last_updated": "November 27, 2026 13:27 UTC",
-  "total_count": 211,
+  "last_updated": "November 27, 2026 23:53 UTC",
+  "total_count": 210,
   "articles": [
+    {
+      "title": "Oil Futures Settle Lower Ahead of OPEC+ Policy Meeting",
+      "link": "https://www.wsj.com/business/energy-oil/oil-prices-rise-ahead-of-opec-meeting-as-middle-east-supply-risks-persist-63fbb550?mod=pls_whats_news_us_business_f",
+      "source": "Wall Street Journal",
+      "date": "2026-11-27T20:31:00+00:00",
+      "display_date": "Nov 27, 2026",
+      "summary": "Oil futures settled lower with traders weighing renewed threats to Middle Eastern supplies and awaiting a weekend meeting of the Organization of the Petroleum Exporting Countries and its allies to discuss output policy for 2027.",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/11/27/cisa-adds-three-known-exploited-vulnerabilities-catalog",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-11-27T12:00:00+00:00",
+      "display_date": "Nov 27, 2026",
+      "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-120705 OSGeo GeoServer XML Injection Vulnerability CVE-2026-129243 OSGeo GeoServer Incorrect Authorization Vulnerability CVE-2026-136...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
     {
       "title": "EU Commission Simplifies EU Taxonomy Criteria to Classify Sustainable Activities",
       "link": "https://www.esgtoday.com/eu-commission-simplifies-eu-taxonomy-criteria-to-classify-sustainable-activities/?utm_source=rss&utm_medium=rss&utm_campaign=eu-commission-simplifies-eu-taxonomy-criteria-to-classify-sustainable-activities",
@@ -45,6 +67,28 @@
       "summary": "What is Project Dove? KPMG’s new whistleblower mystery AFR",
       "topics": [
         "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "Firebombing linked to IRGC terror agent as sanctions imposed - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNUmJYV3p1OXk4eUk1a3J0MWdhV0x0dG9aQzVIVDVEaWh4cmprakRWdG9oMUQwcGJVS01VY2ZEdUYxSnFkNnYtU05kYzlPRDYxQ085dkRFVms5X01hYmpCeXNRZTFzTm1fcWctYVhBNHN1UVd5NDRwbGFManhmWEJscUFGankwdzFMdVRLaTR2czFDUXpVYk82bUkwdkdXQXpTZnZZU0hvZHBlOHZfbWdqTDE0ajJia1ktSFZ0alFHWC1xYjR3eHhwbTBmMDFTaVV2UG5palRQeDZVSXBVYVYteGpsNjNnMW9qbUUtT0xPYUhsbko1dnZMaWRxaEVuU2NPVWZua2FsYlBsMVE?oc=5",
+      "source": "The Australian",
+      "date": "2026-11-27T08:45:44+00:00",
+      "display_date": "Nov 27, 2026",
+      "summary": "Firebombing linked to IRGC terror agent as sanctions imposed The Australian",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "UK's Entain unit agrees to pay $123 million for breaching Australian anti-money laundering laws - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPem1zM3VKYmxGRnR1OE5lUkFLRER6aGZuRVBUZU45NG5QM1Bpbm9rdW5GU3l3elZ2QTM3ZkxRT2pjMjRXTXhVNW9jMjlQSXZhc3dnc0pUT0dYMEJtMDQyOTUzcWxFWkVqMWtDajhBb2tXcU53ZC1MSS1LVFVJMWpVTy1NaDlWRVBxWnkxUGVxSFFiWW9BMnR3b0MzcHVlZnBZWnZxZWFGeWJZUW80YTZEQklxeXRTQXo3b0hOdU5wZ0twRF9ERUE?oc=5",
+      "source": "Reuters",
+      "date": "2026-11-27T07:41:00+00:00",
+      "display_date": "Nov 27, 2026",
+      "summary": "UK's Entain unit agrees to pay $123 million for breaching Australian anti-money laundering laws Reuters",
+      "topics": [
+        "AML & Sanctions"
       ]
     },
     {
@@ -215,17 +259,6 @@
       ]
     },
     {
-      "title": "StanChart’s Crypto Custody Unit Suffers Data Breach - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPelp2M0xxeVgzWWkweXg0OWRHcllEdGluMFZmYjRpVnlvNERpVWNPNGJpc1liMEhOZFBKTldNOGI3b3A5aUdnWHktSTV3cTZiWThKZGJ0c1Z5Sk56amFQZmhEUEc3U041ODI2V2NCT3VmY2ppdFVjUWx2d0RRZHdtOUpIcEpTUzNfZWRLTmdwNUVINDFaUktROW9pRW9DbnVjS3dmUQ?oc=5",
-      "source": "Bloomberg.com",
-      "date": "2026-11-26T12:24:38+00:00",
-      "display_date": "Nov 26, 2026",
-      "summary": "StanChart’s Crypto Custody Unit Suffers Data Breach Bloomberg.com",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
       "title": "Dutch groups ask court to halt Meta smart glasses sales over privacy concerns - Reuters",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTW1YMnQzOGZCbUZNd2loMlNOS203R0ZwcGg3STdSRTlXcnFraDRvNzFwcG5URDlGMDI4Skt3WDRybmVQUi1mUlBMSGwxakl4eEFkU1NtdEdWb3pHc0w5Z2l6cHA0dUloalM1ZkhJYTRTTzlIdVdSUG41ZkpxRElOMG5UUHdobklDckZCZUt3VkxqV1pOYW13b1c5MTBsaXhKcG1sUmhrNnFjdy00VG9OWWhGUDVjRGxINUZaUWdwck9uY2tNeGc?oc=5",
       "source": "Reuters",
@@ -267,6 +300,17 @@
       "summary": "A third (33%) of UK adults say they have seen an investment promotion in the past year that they believe used artificial intelligence (AI), new research from the FCA shows. Reports of investment fraud to Report Fraud that mention suspected use of AI have risen by nearly 400% in a...",
       "topics": [
         "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "Business turns on Labor’s 2035 climate goal as pressures grow for emissions cuts - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPQzZhbC1qSHVBR3V3NXlDbjI5OWVXNHN6eE5VcmpzY1o3cDF6TUpZVFBOX09QWlBHSm93QkE3TGppak9nS0g2dFJCYjdCcjlySXRaMFVDM0U1V3E2NkxoZVgwdGFMRVRmM0JqZUJqMmtnVkhGWGhBazZ0SUIyUU9WU3prQTZ5aVJaY0JFYzltZ0o2aEhzV0g3S05ST1l2SVZSUzNSTjhVelBrMHo5QVRwTnF1THlBNngwWkZnYzBzVlFZQnc2eUswZVFFZ25TY2h3WkYxc1czYUgwcVZYNmo0SUR1eEVDQ19LRl94RG14MW50VWFQTEpXdW4xZHNFWmRpSEpZN3VB?oc=5",
+      "source": "The Australian",
+      "date": "2026-11-26T08:57:00+00:00",
+      "display_date": "Nov 26, 2026",
+      "summary": "Business turns on Labor’s 2035 climate goal as pressures grow for emissions cuts The Australian",
+      "topics": [
+        "ESG & Sustainability"
       ]
     },
     {
@@ -370,23 +414,12 @@
       ]
     },
     {
-      "title": "Emissions fall, but not fast enough to meet climate target",
-      "link": "https://www.abc.net.au/news/2026-11-26/australia-emissions-fall-short-2035-climate-target/107418552",
-      "source": "ABC News Business (AU)",
-      "date": "2026-11-26T01:50:51+00:00",
-      "display_date": "Nov 26, 2026",
-      "summary": "Australia's greenhouse gas emissions have dropped by 1.3 per cent in the past year, but drastic cuts are necessary to reach the country's 2035 climate goal.",
-      "topics": [
-        "ESG & Sustainability"
-      ]
-    },
-    {
-      "title": "Nvidia at Risk of Rating Cut by S&P Over Governance Concerns - Bloomberg.com",
+      "title": "Nvidia at Risk of Rating Cut by S&P Over Governance Concerns - Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOODhZc1ZaTjRJWFV2emVDd3pSLXljRGVsRXRaSGVTalU5TzFGRVNKdkYweHI5WkdnRGlRZ1c2Z2RuaHZrX1h4dlZzTXFxbkVRdnR4VUp6eFI4YWxmQ21FZUdwMWhlUHI0Q21TSGpxc2trdjFKd1Y0UW9SRTUxdVhFRkt1RVh2R0JuZDFRZG9JTDJRYzlHN1lSVHoxQUJUVU04V1JFSG1rM1pUZjFvQW00em1VWXQ4UQ?oc=5",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "date": "2026-11-25T22:46:11+00:00",
       "display_date": "Nov 25, 2026",
-      "summary": "Nvidia at Risk of Rating Cut by S&P Over Governance Concerns Bloomberg.com",
+      "summary": "Nvidia at Risk of Rating Cut by S&P Over Governance Concerns Bloomberg",
       "topics": [
         "Operational & Enterprise Risk"
       ]
@@ -502,6 +535,17 @@
       ]
     },
     {
+      "title": "Australian regulator finds more suspected audit misconduct at Big Four firms - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcFdTRVJ4aUY2TE5jZWR0aktvVHVsZFRNRWZsVTJIX2NmYTBPQVc1akc3cVBRRGNJV0FEYW5OY2VPUV9EbkhUWlJ2SmcyZFRMOEgxLXpXWnRiYjFlMTZMWlRxNHRQODJXc0p0ZHVhVTVrTkkxOEtGdk5lTFFEWmFxVDZVOVg1cnF1YVlFUHZUZFh4WW52R0lVUDNtcHBFOWg1clB5N3h0TUYtYjg2VXlSS29XRlhYVGtBdlMtTWxkWEE5RXo5?oc=5",
+      "source": "Reuters",
+      "date": "2026-11-25T10:51:24+00:00",
+      "display_date": "Nov 25, 2026",
+      "summary": "Australian regulator finds more suspected audit misconduct at Big Four firms Reuters",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
       "title": "BBVA Launches Transition Finance Framework to Back Decarbonization of Hard-to-Abate Sectors",
       "link": "https://www.esgtoday.com/bbva-launches-transition-finance-framework-to-back-decarbonization-of-hard-to-abate-sectors/?utm_source=rss&utm_medium=rss&utm_campaign=bbva-launches-transition-finance-framework-to-back-decarbonization-of-hard-to-abate-sectors",
       "source": "ESG Today",
@@ -546,23 +590,12 @@
       ]
     },
     {
-      "title": "North Korea expels head of Swiss diplomatic office over sanctions - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPdGRqME9hQnBvemMzdFZZMzNCVEtHSEtqYWRPTk8zbUt1SldhWXJxM3NxUFpzNGZsMW5HX0h0WllzMUpjQmJwS08yNzZGQnEzVW9ZREUtM2cxRUVOZmRPVldlLXMxTjU5R21yS2pPdWF2RnVPY2diRDVuZ0ROa3FvLUUzWElvZ2tPSDdPWjNiV3BlRFh3ai1lNTdyUGJ1YWJ5WlRQZ1h3eXQ1RWoyQm4ya053UWV5WmIwYUhzM01rZzVEb3ZYazZVX01PX2dUOXd6WHQ5VkthaGV0MU1LaG11d2xISG9DdjRBVFhLbk52RFY?oc=5",
-      "source": "The Australian",
-      "date": "2026-11-25T08:25:00+00:00",
-      "display_date": "Nov 25, 2026",
-      "summary": "North Korea expels head of Swiss diplomatic office over sanctions The Australian",
-      "topics": [
-        "AML & Sanctions"
-      ]
-    },
-    {
-      "title": "Huawei Found Guilty of US Criminal Charges in Landmark Case - Bloomberg.com",
+      "title": "Huawei Found Guilty of US Criminal Charges in Landmark Case - Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcXF1dllwcm1uOWZNWUZIVGMyeTVzTURuTl9aUy1lOUliTVhOZ0NqdzVjc2xYYmZCMjd1cU42V1R6T3MwRDhiVGtrMGs3OU1abS1Wb0hsLTBrZVZ1NlQzU2VaenhFcjR6ZzZQMFZGQWotejdiQ1Z3SUx4cF8xb1pJaFhna2JZa1JtVHdwUGFmZHJwQzJUR0pNN00yeEEtOVQ2RjE0N2c5R2w5dnZfTGJz?oc=5",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "date": "2026-11-25T07:36:00+00:00",
       "display_date": "Nov 25, 2026",
-      "summary": "Huawei Found Guilty of US Criminal Charges in Landmark Case Bloomberg.com",
+      "summary": "Huawei Found Guilty of US Criminal Charges in Landmark Case Bloomberg",
       "topics": [
         "Enforcement Actions"
       ]
@@ -656,17 +689,6 @@
       ]
     },
     {
-      "title": "Australian regulator finds more suspected audit misconduct at Big Four firms - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcFdTRVJ4aUY2TE5jZWR0aktvVHVsZFRNRWZsVTJIX2NmYTBPQVc1akc3cVBRRGNJV0FEYW5OY2VPUV9EbkhUWlJ2SmcyZFRMOEgxLXpXWnRiYjFlMTZMWlRxNHRQODJXc0p0ZHVhVTVrTkkxOEtGdk5lTFFEWmFxVDZVOVg1cnF1YVlFUHZUZFh4WW52R0lVUDNtcHBFOWg1clB5N3h0TUYtYjg2VXlSS29XRlhYVGtBdlMtTWxkWEE5RXo5?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-24T18:09:00+00:00",
-      "display_date": "Nov 24, 2026",
-      "summary": "Australian regulator finds more suspected audit misconduct at Big Four firms Reuters",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "OCC Issues First and Second Quarter 2027 CRA Evaluation Schedule",
       "link": "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-103.html",
       "source": "Office of the Comptroller of the Currency",
@@ -684,6 +706,17 @@
       "date": "2026-11-24T17:12:09+00:00",
       "display_date": "Nov 24, 2026",
       "summary": "New York City-based social responsibility-focused Amalgamated Bank announced the appointment of Sean Wright as its […]",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "Alberta gas flaring is rising again as Canada eases climate measures - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUGxNNjVRNTVIdVFTbTBFNHE4eDV0LVJCSjFYMi14YmtxVkxyeElKWXpDZ3NabEM2eG83TmlJV003Y2ZKUnVmcENNUnlQR2o0Vl83T2hrVkNfTzg3UTJwQnh3eVhuTDR6UVJUak9VcWxJVEdLR1pLbDVFaE1GOEpSMUFNbVlGSjFqTGRON2pyeGNPSEpYWTNlVUVCYTZrUEVKVngzZFpnTDVDXzdpQ05MbFdyNlU2TzM2?oc=5",
+      "source": "Reuters",
+      "date": "2026-11-24T16:42:06+00:00",
+      "display_date": "Nov 24, 2026",
+      "summary": "Alberta gas flaring is rising again as Canada eases climate measures Reuters",
       "topics": [
         "ESG & Sustainability"
       ]
@@ -772,17 +805,6 @@
       "date": "2026-11-24T12:00:00+00:00",
       "display_date": "Nov 24, 2026",
       "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow attackers to corrupt application memory and cause instability or a crash, potentially leading to arbitrary code execution, if a user is convinced to open a malicious file. The following versions of Automa...",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/11/24/cisa-adds-three-known-exploited-vulnerabilities-catalog",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-11-24T12:00:00+00:00",
-      "display_date": "Nov 24, 2026",
-      "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-131914 Idunno AntiCsrf Deserialization of Untrusted Data Vulnerability CVE-2026-132165 Drupal Core Remote Code Execution Vulnerabilit...",
       "topics": [
         "Cybersecurity Risk"
       ]
@@ -1077,17 +1099,6 @@
       ]
     },
     {
-      "title": "US Treasury sanctions Iranian 'trustees' collecting oil revenues - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV3NtX0JqMFVBeHBVcTdlV1ZTaXRRMUhnLV9YWmR3VEZqUHVwbFlnOTlFTlZtTTExbUhTNzBsWXR6YTNYQmdMdVg4VGJuTTRYR19wSHhSZUJaTlRxWWpFT0o3SGgzb2JrOXY4b2xMd3cxQ2VlbGZPUzFGU2hJNFJLLTV6YlZLdmlGbUNaY19jMDdMLXVLTGRiT2ZfR2dMY0JuNzc0UzE0akxlelRNNl9sYzhLMkFwczA?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-20T21:53:07+00:00",
-      "display_date": "Nov 20, 2026",
-      "summary": "US Treasury sanctions Iranian 'trustees' collecting oil revenues Reuters",
-      "topics": [
-        "AML & Sanctions"
-      ]
-    },
-    {
       "title": "Investigations of Nvidia mount amid growing questions of AI chip sales and governance",
       "link": "https://www.complianceweek.com/technology/investigations-of-nvidia-mount-amid-growing-questions-of-ai-chip-sales-and-governance/",
       "source": "Compliance Week",
@@ -1130,17 +1141,6 @@
       "summary": "The Securities and Exchange Commission today announced that it has obtained a temporary restraining order, asset freeze, expedited discovery, and other relief against Indianapolis-based Backward Hat Capital, its co-founders Phillip Williams and Devin…",
       "topics": [
         "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "US Treasury presses Singapore and Malaysia on Iran sanctions compliance - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcWpsS2J4X3N5clFTNVhVa3BacUsxZUNmaXAwaHBjRlNVRXZ4XzhlTjBXLThJVlVPN2tMY1hPRmNRR3JWdVFOdi16QmdxYnVDX2lpSlNlZHRiYkh0T2I3VkNiVXNUek9uZWZRbmJHdlM2Skhsbm0xRVhua2N2Y2dDX1VMa1lJNUs4WmZtLWVJQWdfeXg3cVFBTHJ1cmxoQXViTDA0cG9TNmQ1TFhkMkRkc3Vwd2ZtSGtuTjc4?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-20T14:27:44+00:00",
-      "display_date": "Nov 20, 2026",
-      "summary": "US Treasury presses Singapore and Malaysia on Iran sanctions compliance Reuters",
-      "topics": [
-        "AML & Sanctions"
       ]
     },
     {
@@ -1234,6 +1234,18 @@
       ]
     },
     {
+      "title": "libumqtt",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-03",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-11-19T12:00:00+00:00",
+      "display_date": "Nov 19, 2026",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow a remote attacker to cause a denial of service, memory corruption, or information disclosure. The following versions of libumqtt are affected: libumqtt <=1.1.1 (CVE-2026-125132) CVSS Vendor Equipment v3 8...",
+      "topics": [
+        "Cybersecurity Risk",
+        "Operational & Enterprise Risk"
+      ]
+    },
+    {
       "title": "Elecbrakes EB2, VM1, ELBC2000",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-02",
       "source": "CISA Cybersecurity Advisories",
@@ -1251,18 +1263,6 @@
       "date": "2026-11-19T12:00:00+00:00",
       "display_date": "Nov 19, 2026",
       "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow several unauthenticated admin accounts to be created. The following versions of Autonomy Logic OpenPLC Runtime are affected: OpenPLC Runtime <=4.2.4 (CVE-2026-126088) CVSS Vendor Equipment v3 8.1 Autonomy...",
-      "topics": [
-        "Cybersecurity Risk",
-        "Operational & Enterprise Risk"
-      ]
-    },
-    {
-      "title": "libumqtt",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-03",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-11-19T12:00:00+00:00",
-      "display_date": "Nov 19, 2026",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow a remote attacker to cause a denial of service, memory corruption, or information disclosure. The following versions of libumqtt are affected: libumqtt <=1.1.1 (CVE-2026-125132) CVSS Vendor Equipment v3 8...",
       "topics": [
         "Cybersecurity Risk",
         "Operational & Enterprise Risk"
@@ -1437,89 +1437,12 @@
       ]
     },
     {
-      "title": "Siemens Industrial Software Products",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-04",
+      "title": "Siemens SIMATIC",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-08",
       "source": "CISA Cybersecurity Advisories",
       "date": "2026-11-17T12:00:00+00:00",
       "display_date": "Nov 17, 2026",
-      "summary": "View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as \"Node2Shell\" (tracked as CVE-2026-111497). The vulnerability is an out-of-bounds write that...",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "Dorsett Controls InfoScan",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-01",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-11-17T12:00:00+00:00",
-      "display_date": "Nov 17, 2026",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to retrieve sensitive system information, access application data without authorization, recover stored credentials, or intercept and manipulate network communications. The following versio...",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/11/17/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-11-17T12:00:00+00:00",
-      "display_date": "Nov 17, 2026",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-115731 Perforce Puppet Enterprise Deserialization of Untrusted Data Vulnerability This type of vulnerability is a frequent attack vector ...",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "Siemens Mendix Studio Pro",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-05",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-11-17T12:00:00+00:00",
-      "display_date": "Nov 17, 2026",
-      "summary": "View CSAF Summary Mendix Studio Pro contains multiple vulnerabilities in the MCP Server, that could allow an attacker with network access to interact with the server remotely or trick a user's browser into sending unauthorized requests, potentially leading to unauthorized data ac...",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "Siemens .NET Client Library for SIMATIC S7 Webserver API",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-02",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-11-17T12:00:00+00:00",
-      "display_date": "Nov 17, 2026",
-      "summary": "View CSAF Summary .NET Client Library for SIMATIC S7 Webserver API contains multiple vulnerabilities that could allow an attacker to obtain sensitive information or write arbitrary files outside the intended download directory. Siemens has released a new version for .NET Client L...",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "Critical Java Vulnerability Requires Immediate Patching",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/11/17/critical-java-vulnerability-requires-immediate-patching",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-11-17T12:00:00+00:00",
-      "display_date": "Nov 17, 2026",
-      "summary": "Purpose CISA strongly urges organizations to immediately patch the recently disclosed Oracle Java vulnerability CVE-2026-114938 . This critical memory-corruption vulnerability, known as “Java4Shell,” affects the Base64 decoder of the x86-64 HotSpot Java Virtual Machine (JVM), whi...",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "Siemens meta-iot2050",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-11",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-11-17T12:00:00+00:00",
-      "display_date": "Nov 17, 2026",
-      "summary": "View CSAF Summary meta-iot2050 (https://github.com/siemens/meta-iot2050) from V01.03.01 contains a Command Injection vulnerability in the firmware update tool that could allow an attacker which is able to manipulate a configuration file to have arbitrary commands run as root. Sie...",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "Siemens Simcenter Femap",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-10",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-11-17T12:00:00+00:00",
-      "display_date": "Nov 17, 2026",
-      "summary": "View CSAF Summary Simcenter Femap is affected by an out of bounds read vulnerability that could be triggered when the application reads files in X_T format. This could allow an attacker to crash the application or execute arbitrary code. Siemens has released a new version for Sim...",
+      "summary": "View CSAF Summary The products listed below contain an authentication bypass vulnerability that could allow an on-path attacker to take over the session of a legitimate user and execute arbitrary code with the privileges of the victim user. Siemens is preparing fixes and recommen...",
       "topics": [
         "Cybersecurity Risk"
       ]
@@ -1536,23 +1459,12 @@
       ]
     },
     {
-      "title": "Siemens SIMATIC",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-08",
+      "title": "Siemens Simcenter Femap",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-10",
       "source": "CISA Cybersecurity Advisories",
       "date": "2026-11-17T12:00:00+00:00",
       "display_date": "Nov 17, 2026",
-      "summary": "View CSAF Summary The products listed below contain an authentication bypass vulnerability that could allow an on-path attacker to take over the session of a legitimate user and execute arbitrary code with the privileges of the victim user. Siemens is preparing fixes and recommen...",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "Siemens Industrial Automation Software Products",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-03",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-11-17T12:00:00+00:00",
-      "display_date": "Nov 17, 2026",
-      "summary": "View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as \"Node2Shell\" (tracked as CVE-2026-111497). The vulnerability is an out-of-bounds write that...",
+      "summary": "View CSAF Summary Simcenter Femap is affected by an out of bounds read vulnerability that could be triggered when the application reads files in X_T format. This could allow an attacker to crash the application or execute arbitrary code. Siemens has released a new version for Sim...",
       "topics": [
         "Cybersecurity Risk"
       ]
@@ -1570,12 +1482,100 @@
       ]
     },
     {
+      "title": "Siemens meta-iot2050",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-11",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-11-17T12:00:00+00:00",
+      "display_date": "Nov 17, 2026",
+      "summary": "View CSAF Summary meta-iot2050 (https://github.com/siemens/meta-iot2050) from V01.03.01 contains a Command Injection vulnerability in the firmware update tool that could allow an attacker which is able to manipulate a configuration file to have arbitrary commands run as root. Sie...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "Siemens Industrial Software Products",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-04",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-11-17T12:00:00+00:00",
+      "display_date": "Nov 17, 2026",
+      "summary": "View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as \"Node2Shell\" (tracked as CVE-2026-111497). The vulnerability is an out-of-bounds write that...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
       "title": "Siemens SIMATIC WinCC",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-09",
       "source": "CISA Cybersecurity Advisories",
       "date": "2026-11-17T12:00:00+00:00",
       "display_date": "Nov 17, 2026",
       "summary": "View CSAF Summary Graphics Designer of SIMATIC WinCC before V8.2 contains an implicit active content execution vulnerability upon opening files, which could allow an attacker to cause arbitrary code execution on the device. Siemens is preparing fixes and recommends specific mitig...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "Critical Java Vulnerability Requires Immediate Patching",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/11/17/critical-java-vulnerability-requires-immediate-patching",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-11-17T12:00:00+00:00",
+      "display_date": "Nov 17, 2026",
+      "summary": "Purpose CISA strongly urges organizations to immediately patch the recently disclosed Oracle Java vulnerability CVE-2026-114938 . This critical memory-corruption vulnerability, known as “Java4Shell,” affects the Base64 decoder of the x86-64 HotSpot Java Virtual Machine (JVM), whi...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "Siemens .NET Client Library for SIMATIC S7 Webserver API",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-02",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-11-17T12:00:00+00:00",
+      "display_date": "Nov 17, 2026",
+      "summary": "View CSAF Summary .NET Client Library for SIMATIC S7 Webserver API contains multiple vulnerabilities that could allow an attacker to obtain sensitive information or write arbitrary files outside the intended download directory. Siemens has released a new version for .NET Client L...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "Siemens Mendix Studio Pro",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-05",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-11-17T12:00:00+00:00",
+      "display_date": "Nov 17, 2026",
+      "summary": "View CSAF Summary Mendix Studio Pro contains multiple vulnerabilities in the MCP Server, that could allow an attacker with network access to interact with the server remotely or trick a user's browser into sending unauthorized requests, potentially leading to unauthorized data ac...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/11/17/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-11-17T12:00:00+00:00",
+      "display_date": "Nov 17, 2026",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-115731 Perforce Puppet Enterprise Deserialization of Untrusted Data Vulnerability This type of vulnerability is a frequent attack vector ...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "Dorsett Controls InfoScan",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-01",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-11-17T12:00:00+00:00",
+      "display_date": "Nov 17, 2026",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to retrieve sensitive system information, access application data without authorization, recover stored credentials, or intercept and manipulate network communications. The following versio...",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "Siemens Industrial Automation Software Products",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-03",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-11-17T12:00:00+00:00",
+      "display_date": "Nov 17, 2026",
+      "summary": "View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as \"Node2Shell\" (tracked as CVE-2026-111497). The vulnerability is an out-of-bounds write that...",
       "topics": [
         "Cybersecurity Risk"
       ]
@@ -1681,28 +1681,6 @@
       ]
     },
     {
-      "title": "Siemens Building Automation and Energy Products",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-01",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-11-12T12:00:00+00:00",
-      "display_date": "Nov 12, 2026",
-      "summary": "View CSAF Summary On October 21, 2026, the PHP project and security researchers disclosed two critical, unauthenticated remote code execution vulnerabilities in the core PHP language runtime known as \"php2shell\" (tracked as CVE-2026-109618 and CVE-2026-109619). This advisory cove...",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "Siemens Industrial Edge Management",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-03",
-      "source": "CISA Cybersecurity Advisories",
-      "date": "2026-11-12T12:00:00+00:00",
-      "display_date": "Nov 12, 2026",
-      "summary": "View CSAF Summary Siemens is currently assessing the impact of Node2Shell (CVE-2026-111497) on Industrial Edge. Please check your Industrial Edge Management (IEM) setup: - No Management Applications installed: No action is required. Although the affected Brotli library is include...",
-      "topics": [
-        "Cybersecurity Risk"
-      ]
-    },
-    {
       "title": "Siemens Desigo, Gridscale",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-02",
       "source": "CISA Cybersecurity Advisories",
@@ -1711,6 +1689,17 @@
       "summary": "View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as \"Node2Shell\" (tracked as CVE-2026-111497). The vulnerability is an out-of-bounds write that...",
       "topics": [
         "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "Siemens Building Automation and Energy Products",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-01",
+      "source": "CISA Cybersecurity Advisories",
+      "date": "2026-11-12T12:00:00+00:00",
+      "display_date": "Nov 12, 2026",
+      "summary": "View CSAF Summary On October 21, 2026, the PHP project and security researchers disclosed two critical, unauthenticated remote code execution vulnerabilities in the core PHP language runtime known as \"php2shell\" (tracked as CVE-2026-109618 and CVE-2026-109619). This advisory cove...",
+      "topics": [
+        "Regulatory Change"
       ]
     },
     {
