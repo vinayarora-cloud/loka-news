@@ -1,7 +1,140 @@
 {
-  "last_updated": "November 27, 2026 02:38 UTC",
-  "total_count": 203,
+  "last_updated": "November 27, 2026 13:27 UTC",
+  "total_count": 211,
   "articles": [
+    {
+      "title": "EU Commission Simplifies EU Taxonomy Criteria to Classify Sustainable Activities",
+      "link": "https://www.esgtoday.com/eu-commission-simplifies-eu-taxonomy-criteria-to-classify-sustainable-activities/?utm_source=rss&utm_medium=rss&utm_campaign=eu-commission-simplifies-eu-taxonomy-criteria-to-classify-sustainable-activities",
+      "source": "ESG Today",
+      "date": "2026-11-27T10:20:34+00:00",
+      "display_date": "Nov 27, 2026",
+      "summary": "The European Commission announced the adoption of two new delegated acts aimed at simplifying requirements […]",
+      "topics": [
+        "ESG & Sustainability"
+      ]
+    },
+    {
+      "title": "Ladbrokes owner to settle Australia money laundering case - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbVJkSXdJZ1ZUbURGSElDUVY4Mnh5Uk8yeTFPNkR0cmdWLWQ4X0VOek05U2VhWjE1d1N4VXhOTEdRUjNyd3VuNnNwWkFNWDJ4bEE1NUxuVFVfRFBPQU4walRaWl9xNnloMUxmYVU2S1lXTEVxYmJLMVJ6X2U3LVk2UEJQT2o?oc=5",
+      "source": "Financial Times",
+      "date": "2026-11-27T09:51:44+00:00",
+      "display_date": "Nov 27, 2026",
+      "summary": "Ladbrokes owner to settle Australia money laundering case Financial Times",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "Cyber resilience: building confidence as threats evolve",
+      "link": "https://www.fca.org.uk/news/speeches/cyber-resilience-building-confidence-threats-evolve",
+      "source": "FCA UK Regulatory News",
+      "date": "2026-11-27T09:34:00+00:00",
+      "display_date": "Nov 27, 2026",
+      "summary": "Speech by Mark Francis, director of specialists at the Cyber Security in Financial Services Summit. There is no shortage of material for a speech about cyber security at the moment.Recent months have provided some stark reminders of just how interconnected our digital economy has...",
+      "topics": [
+        "Cybersecurity Risk",
+        "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "What is Project Dove? KPMG’s new whistleblower mystery - AFR",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaTNySXdOdEhxTlVieWxvWEQ0X3FPM21sbVN1ZmhxM3ZkUDdoMm1WMWNCdkIyVDZKTkluY0pPNUpGUHN4eW9sVTljZVRyMnBmQmE5dURaNHJWNnNxTFlBZGp2bHUwaGlJcjJWZE10WHdGZGJjM2lqQW9QQXY3NjJlRkJKWFE0UnFnd20wbGlIUkYxZVpEUUxOSDJIOFR6em04LThsZDNLeEtIcjZJYzMzZjFwNVFKWXBSZzg4dVdn?oc=5",
+      "source": "AFR",
+      "date": "2026-11-27T09:00:00+00:00",
+      "display_date": "Nov 27, 2026",
+      "summary": "What is Project Dove? KPMG’s new whistleblower mystery AFR",
+      "topics": [
+        "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "Entain to settle AUSTRAC money-laundering case for $185m - AFR",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZWNfN0lDcFVfQ1J1RV9fWnFISjNUdDdmN0RFRl9lbzBxMzBmenlkWFdwd0FfQ3ItcnlWTmtZbkk2Sy1teGk3RUFvX2FpYlNqZ2tWX09EV1JXRVBmLUNyZVZXa2JOSWk3Z2tNMXJQc283R1lsTlgxS3dNWU1BYXgzQkJTWGdmTXJjSUpud0JVSjQwejctQ3gyeDhDT3NPZ1JtZF93Zm83TmRCLVc3dldtM0RSZHJlV3RQbUtqbA?oc=5",
+      "source": "AFR",
+      "date": "2026-11-27T07:32:00+00:00",
+      "display_date": "Nov 27, 2026",
+      "summary": "Entain to settle AUSTRAC money-laundering case for $185m AFR",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "ACCC finds no evidence of misleading food label claims aired on Four Corners",
+      "link": "https://www.abc.net.au/news/2026-11-27/accc-concludes-food-fraud-inquiries-after-four-corners-episode/107435478",
+      "source": "ABC News Business (AU)",
+      "date": "2026-11-27T06:04:15+00:00",
+      "display_date": "Nov 27, 2026",
+      "summary": "Australia's consumer watchdog says it has concluded its inquiries into allegations of food fraud aired by Four Corners, finding no evidence of misleading labelling on two types of food products.",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "Fuse lit on Bathla fire sales as lenders feel regulatory heat - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQTTlCWjNrOGJHN25sSFFDcjVheWNpeE9ISDk3b2MxWTR4bkVrVjUzZENkYld2OU85elVkUFNwY0ZFUGNteldKRzlYRHM1ZEFGVEg2cnYwRzlzTDZObTNlQVFnOTZQcUU3Q21jSHJoeTczWnpfaHl1RVc2dHQ5VXpYeE5aSjU3ZHFwa2VnOFVzaV9hWGI3aFdJQXhTX1cybHZ2d3hMMFdhOEYyV21FbkZMd1Y4eFo0Ynh4U0xENmlWbHctcmJKNEZ6RUdMS0VCNE1hUUpiTHRKbk1la05JX1NlLWZzcUJQS0ZIZTcyaExUUjd1RG8?oc=5",
+      "source": "The Australian",
+      "date": "2026-11-27T05:46:48+00:00",
+      "display_date": "Nov 27, 2026",
+      "summary": "Fuse lit on Bathla fire sales as lenders feel regulatory heat The Australian",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "ASIC hauled in Morgans over ‘far from routine’ Firmus float flop - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPcVZKVmZlUXZSM3RINEVzbkFPZ004dTJoWTB5TUViRm1pS0FYWHhmcHktQ2VRQWtkV0lXb0E0eTBGcHotb0dRM2xfZWdXRE9tS0xMODM5UGtHVUE3b2VFVG5ubmVxamkwNDBMVV9tWXp2MFNoNzRXOHo2WGQ1OTEyREpIT1RkUmVSdDFyS3lGOXVkYk5faVhWMEVqbENaMDJtS2g2Szkwc0lfRVlYdmFJeXNTYndGUXdLNFNBUnVrdVpzLUlzQ05hUnJ4cEd3dUZaU0dPbHNFdnRqdFhSOUEyWnNSdGNvZXlHNVYwczFxeDluZHJOc2VoZlNaS2N1dUpY?oc=5",
+      "source": "The Australian",
+      "date": "2026-11-27T05:45:33+00:00",
+      "display_date": "Nov 27, 2026",
+      "summary": "ASIC hauled in Morgans over ‘far from routine’ Firmus float flop The Australian",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "The $500 Billion Sand Mining Industry Has a Regulation Problem - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1wZmZ0b3N2bk1xT1p1dUVpWXgySTh5RklZMDZVS05yYy02Nl9Bd1JhY0U5NExyRUl1bWh2Y0lQT2dyMW53bHJUYWFZcG1kMHdpMEt6NzBrUEZJNXZkaUtoeUV3?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-11-27T05:21:00+00:00",
+      "display_date": "Nov 27, 2026",
+      "summary": "The $500 Billion Sand Mining Industry Has a Regulation Problem Bloomberg.com",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "TPG begs judge to forgive ‘inadvertent’ ASIC lodgment fail - AFR",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPb3Y3dXBhMjdfUldyVE1RaXhxYVpVSVRZRjZwQWc2S0EyTlBNYS02eG5vdVVaMklBX2c0MGZocWluUWZBMmtOY2RQbGZ6NTkzeWtJd2xZNWhMMHVBMVV4S1ZQcDdTbjhHUWhyVTg0cVQ1Um5SNW1ncGJrejJCNFdNbkJ4Y0JpN2Njdndlb0JSaHd6QTI4TmNHOWJTSkVSbWI2a0RzRDlHeVh2SHh5U1k1M3hac0VuTnM?oc=5",
+      "source": "AFR",
+      "date": "2026-11-27T04:03:00+00:00",
+      "display_date": "Nov 27, 2026",
+      "summary": "TPG begs judge to forgive ‘inadvertent’ ASIC lodgment fail AFR",
+      "topics": [
+        "Enforcement Actions"
+      ]
+    },
+    {
+      "title": "Australia sanctions alleged Iranian agents suspected of directing antisemitic attacks - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSHBtblZnbWZBQUo5LVNGb2sxQkpHOFdJTGI0YlozM0YxUGh0bnZkLWZOeWJrMFBoX0h3aGNkTEtCVVA3Zjg0WEpuYi1MdjBEa2dKVDg3Rk5yWFJCNEs1NDFnYTRrVmpJeVQ1Y1lMR0daaDItcWczSEhzT3VfVTRxVno4Zm9HVGdTN2RDT2NtYmk5NlZqTGJnekNMSTI5dERMY1dZaFpFUy1IM01aVUFjbzI3MDEteXFNS2FvaEhFLTJhZnBvRTVRbzln?oc=5",
+      "source": "Reuters",
+      "date": "2026-11-27T03:17:00+00:00",
+      "display_date": "Nov 27, 2026",
+      "summary": "Australia sanctions alleged Iranian agents suspected of directing antisemitic attacks Reuters",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "Media regulator raps ABC over ‘Jew’ answer in Hard Quiz episode",
+      "link": "https://www.smh.com.au/business/companies/media-regulator-raps-abc-over-jew-answer-in-hard-quiz-episode-20261127-p61hv1.html?ref=rss&utm_medium=rss&utm_source=rss_business",
+      "source": "The Sydney Morning Herald",
+      "date": "2026-11-27T02:52:18+00:00",
+      "display_date": "Nov 27, 2026",
+      "summary": "The media regulator investigated an episode of Hard Quiz over a question relating to The Social Network, a biopic about Mark Zuckerberg.",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
     {
       "title": "Nvidia clamps down on export rules with new National Security and Export Control Oversight Committee",
       "link": "https://www.complianceweek.com/risk-management/nvidia-clamps-down-on-export-rules-with-new-national-security-and-export-control-oversight-committee/",
@@ -48,14 +181,15 @@
       ]
     },
     {
-      "title": "Dutch groups ask court to halt Meta smart glasses sales over privacy concerns - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTW1YMnQzOGZCbUZNd2loMlNOS203R0ZwcGg3STdSRTlXcnFraDRvNzFwcG5URDlGMDI4Skt3WDRybmVQUi1mUlBMSGwxakl4eEFkU1NtdEdWb3pHc0w5Z2l6cHA0dUloalM1ZkhJYTRTTzlIdVdSUG41ZkpxRElOMG5UUHdobklDckZCZUt3VkxqV1pOYW13b1c5MTBsaXhKcG1sUmhrNnFjdy00VG9OWWhGUDVjRGxINUZaUWdwck9uY2tNeGc?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-26T15:20:42+00:00",
+      "title": "Black Friday AI warning",
+      "link": "https://www.abc.net.au/news/2026-11-27/asx-markets-business-news-live-updates/107430390",
+      "source": "ABC News Business (AU)",
+      "date": "2026-11-26T20:27:46+00:00",
       "display_date": "Nov 26, 2026",
-      "summary": "Dutch groups ask court to halt Meta smart glasses sales over privacy concerns Reuters",
+      "summary": "Ahead of Victoria's election tomorrow, we have expert analysis on the economic impacts from Daniel Ziffer and Sequoia gets a grilling from the Senate, as did ASIC on how it handles whistleblower reports into the Big 4.",
       "topics": [
-        "Data Privacy"
+        "Enforcement Actions",
+        "Operational & Enterprise Risk"
       ]
     },
     {
@@ -81,6 +215,28 @@
       ]
     },
     {
+      "title": "StanChart’s Crypto Custody Unit Suffers Data Breach - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPelp2M0xxeVgzWWkweXg0OWRHcllEdGluMFZmYjRpVnlvNERpVWNPNGJpc1liMEhOZFBKTldNOGI3b3A5aUdnWHktSTV3cTZiWThKZGJ0c1Z5Sk56amFQZmhEUEc3U041ODI2V2NCT3VmY2ppdFVjUWx2d0RRZHdtOUpIcEpTUzNfZWRLTmdwNUVINDFaUktROW9pRW9DbnVjS3dmUQ?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-11-26T12:24:38+00:00",
+      "display_date": "Nov 26, 2026",
+      "summary": "StanChart’s Crypto Custody Unit Suffers Data Breach Bloomberg.com",
+      "topics": [
+        "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "Dutch groups ask court to halt Meta smart glasses sales over privacy concerns - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTW1YMnQzOGZCbUZNd2loMlNOS203R0ZwcGg3STdSRTlXcnFraDRvNzFwcG5URDlGMDI4Skt3WDRybmVQUi1mUlBMSGwxakl4eEFkU1NtdEdWb3pHc0w5Z2l6cHA0dUloalM1ZkhJYTRTTzlIdVdSUG41ZkpxRElOMG5UUHdobklDckZCZUt3VkxqV1pOYW13b1c5MTBsaXhKcG1sUmhrNnFjdy00VG9OWWhGUDVjRGxINUZaUWdwck9uY2tNeGc?oc=5",
+      "source": "Reuters",
+      "date": "2026-11-26T11:44:00+00:00",
+      "display_date": "Nov 26, 2026",
+      "summary": "Dutch groups ask court to halt Meta smart glasses sales over privacy concerns Reuters",
+      "topics": [
+        "Data Privacy"
+      ]
+    },
+    {
       "title": "Flight Centre investigating mass cyber breach",
       "link": "https://www.abc.net.au/news/2026-11-26/flight-centre-investigating-cyber-breach-passports-details/107432534",
       "source": "ABC News Business (AU)",
@@ -100,17 +256,6 @@
       "summary": "North Korea expels Swiss diplomat over sanctions weeks after office reopening Reuters",
       "topics": [
         "AML & Sanctions"
-      ]
-    },
-    {
-      "title": "Business turns on Labor’s 2035 climate goal as pressures grow for emissions cuts - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPQzZhbC1qSHVBR3V3NXlDbjI5OWVXNHN6eE5VcmpzY1o3cDF6TUpZVFBOX09QWlBHSm93QkE3TGppak9nS0g2dFJCYjdCcjlySXRaMFVDM0U1V3E2NkxoZVgwdGFMRVRmM0JqZUJqMmtnVkhGWGhBazZ0SUIyUU9WU3prQTZ5aVJaY0JFYzltZ0o2aEhzV0g3S05ST1l2SVZSUzNSTjhVelBrMHo5QVRwTnF1THlBNngwWkZnYzBzVlFZQnc2eUswZVFFZ25TY2h3WkYxc1czYUgwcVZYNmo0SUR1eEVDQ19LRl94RG14MW50VWFQTEpXdW4xZHNFWmRpSEpZN3VB?oc=5",
-      "source": "The Australian",
-      "date": "2026-11-26T09:19:42+00:00",
-      "display_date": "Nov 26, 2026",
-      "summary": "Business turns on Labor’s 2035 climate goal as pressures grow for emissions cuts The Australian",
-      "topics": [
-        "ESG & Sustainability"
       ]
     },
     {
@@ -161,7 +306,7 @@
       "title": "ACCC clears supermarkets of ‘food fraud’ after finding no evidence in ABC probe - The Australian",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNMVlKTjhQcEpvNElReDRINTF5dXZQMmFVZ0tQdUtWQjBlQWs1RUhIMlB5eHZIY1B6QWtZUHpjZzV2Q3otQkVvbUotakJuUUNRSnB4TlF5aTdoTTRnZUs0amx5VUptdDlTdVE4TVF6aHVCQTJBUlpoVFJIVWdPZ2w4d1hialJiajhEcjJQdzRzU0RFN2M5ZWtvTGtlZ0d5OUhtRmo4U1hxRDM2V0RzSnM3bzNKbGZua0RHLW1nNkJlRlAyczhQUDN1TWgweFFjX0lwUkdQeXRTeWZuZmJUdVpzYWVzZVpHSVMwMF9wMTl2T2REdHIyNWkwM1BZZEdfZw?oc=5",
       "source": "The Australian",
-      "date": "2026-11-26T06:04:19+00:00",
+      "date": "2026-11-26T06:00:00+00:00",
       "display_date": "Nov 26, 2026",
       "summary": "ACCC clears supermarkets of ‘food fraud’ after finding no evidence in ABC probe The Australian",
       "topics": [
@@ -236,14 +381,14 @@
       ]
     },
     {
-      "title": "Anthropic's first data centre in Australia given environmental approval",
-      "link": "https://www.abc.net.au/news/2026-11-26/western-downs-digital-park-federal-environmental-approval/107428970",
-      "source": "ABC News Business (AU)",
-      "date": "2026-11-26T00:48:51+00:00",
-      "display_date": "Nov 26, 2026",
-      "summary": "The National Environmental Protection Agency has determined the $32 billion data centre is unlikely to significantly affect protected animals and plants.",
+      "title": "Nvidia at Risk of Rating Cut by S&P Over Governance Concerns - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOODhZc1ZaTjRJWFV2emVDd3pSLXljRGVsRXRaSGVTalU5TzFGRVNKdkYweHI5WkdnRGlRZ1c2Z2RuaHZrX1h4dlZzTXFxbkVRdnR4VUp6eFI4YWxmQ21FZUdwMWhlUHI0Q21TSGpxc2trdjFKd1Y0UW9SRTUxdVhFRkt1RVh2R0JuZDFRZG9JTDJRYzlHN1lSVHoxQUJUVU04V1JFSG1rM1pUZjFvQW00em1VWXQ4UQ?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-11-25T22:46:11+00:00",
+      "display_date": "Nov 25, 2026",
+      "summary": "Nvidia at Risk of Rating Cut by S&P Over Governance Concerns Bloomberg.com",
       "topics": [
-        "ESG & Sustainability"
+        "Operational & Enterprise Risk"
       ]
     },
     {
@@ -398,6 +543,17 @@
       "summary": "McCormick’s proposed sale of the Colman’s brand could remedy competition concerns following a probe into its planned $65 billion tie-up with Unilever Foods.",
       "topics": [
         "Regulatory Change"
+      ]
+    },
+    {
+      "title": "North Korea expels head of Swiss diplomatic office over sanctions - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPdGRqME9hQnBvemMzdFZZMzNCVEtHSEtqYWRPTk8zbUt1SldhWXJxM3NxUFpzNGZsMW5HX0h0WllzMUpjQmJwS08yNzZGQnEzVW9ZREUtM2cxRUVOZmRPVldlLXMxTjU5R21yS2pPdWF2RnVPY2diRDVuZ0ROa3FvLUUzWElvZ2tPSDdPWjNiV3BlRFh3ai1lNTdyUGJ1YWJ5WlRQZ1h3eXQ1RWoyQm4ya053UWV5WmIwYUhzM01rZzVEb3ZYazZVX01PX2dUOXd6WHQ5VkthaGV0MU1LaG11d2xISG9DdjRBVFhLbk52RFY?oc=5",
+      "source": "The Australian",
+      "date": "2026-11-25T08:25:00+00:00",
+      "display_date": "Nov 25, 2026",
+      "summary": "North Korea expels head of Swiss diplomatic office over sanctions The Australian",
+      "topics": [
+        "AML & Sanctions"
       ]
     },
     {
@@ -677,17 +833,6 @@
       ]
     },
     {
-      "title": "Planet Savers Raises Over $10 Million to Scale Direct Air Capture Carbon Removal Tech in Japan",
-      "link": "https://www.esgtoday.com/planet-savers-raises-over-10-million-to-scale-direct-air-capture-technology-in-japan/?utm_source=rss&utm_medium=rss&utm_campaign=planet-savers-raises-over-10-million-to-scale-direct-air-capture-technology-in-japan",
-      "source": "ESG Today",
-      "date": "2026-11-24T09:19:40+00:00",
-      "display_date": "Nov 24, 2026",
-      "summary": "Direct air capture (DAC) technology startup Planet Savers announced that it has raised over JPY1.6 […]",
-      "topics": [
-        "ESG & Sustainability"
-      ]
-    },
-    {
       "title": "ASX Announcement 24 November 2026 Regulatory approval conditions satisfied in respect of Scheme Reliance Worldwide Corporation L - AFR",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZGpmdkdEaTh0LXZIWExUX3k3MlVRY2ZWZTk5UjVRaGQtX0pVb0VSSjFVQVhiVklzelk2QUZBdUpyTGRBb1J0OUZrUXJaM2p3TkFpaU5xdzF6WFlrV1RuT0xzT1lsaHMxQUxNVTg2c1hVOGtUaGxZZzN5eU1XQlJuSlU0cWdFS05STWxod0VhWQ?oc=5",
       "source": "AFR",
@@ -932,29 +1077,6 @@
       ]
     },
     {
-      "title": "Wall Street regulator proposes to take control of market surveillance tool - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOc3l1VEx5NmltZXJvc3o2Y1NROE95b09yOTJfOWpZaTFlQnh1Wjl3Slh3RHltX3l6Y3lfLVVHSEJRcjI4Nl9ieHRMdE5PYTFqNVRBN2RwcElIMEpNMGVSZ0NialFOcjRLajRsdWlEUzRkWlRxaC1Hc0xLemEtdklLeUU4eGM0Ums2MzFvSUhTWjNjY25wbDFSUFI4dlhONnduRGI5OUdzd3dvZUhEODV3VW5ReGJXcnRycm1n?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-20T22:43:44+00:00",
-      "display_date": "Nov 20, 2026",
-      "summary": "Wall Street regulator proposes to take control of market surveillance tool Reuters",
-      "topics": [
-        "Regulatory Change",
-        "Data Privacy"
-      ]
-    },
-    {
-      "title": "Nvidia faces US regulator’s probe into its accounting - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZWJsU0wwemxtMW1PcWVVZlpsNXdhODhIZkZSZGd5NGNacmE5UWhTVnphVUR2NGVuWmhpQnJtUUsxQ1VLRnJkTUl6QVhjdDFEak96YUhwbVpmUHA4WGwtY3czNWstelpTdnhaTk1zSkE2SGhfTmtsNlROVE9BNHhMNnZwX1Y?oc=5",
-      "source": "Financial Times",
-      "date": "2026-11-20T21:58:08+00:00",
-      "display_date": "Nov 20, 2026",
-      "summary": "Nvidia faces US regulator’s probe into its accounting Financial Times",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "US Treasury sanctions Iranian 'trustees' collecting oil revenues - Reuters",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV3NtX0JqMFVBeHBVcTdlV1ZTaXRRMUhnLV9YWmR3VEZqUHVwbFlnOTlFTlZtTTExbUhTNzBsWXR6YTNYQmdMdVg4VGJuTTRYR19wSHhSZUJaTlRxWWpFT0o3SGgzb2JrOXY4b2xMd3cxQ2VlbGZPUzFGU2hJNFJLLTV6YlZLdmlGbUNaY19jMDdMLXVLTGRiT2ZfR2dMY0JuNzc0UzE0akxlelRNNl9sYzhLMkFwczA?oc=5",
       "source": "Reuters",
@@ -1052,17 +1174,6 @@
       "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2025-42884 SAP NetWeaver Improper Neutralization of Special Elements in Data Query Logic Vulnerability CVE-2026-76466 Cisco Expressway Seri...",
       "topics": [
         "Cybersecurity Risk"
-      ]
-    },
-    {
-      "title": "How Russian money launderers and Italian mobsters put Revolut in the regulatory crosshairs - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVFNmNVp1RjNnNmxTNk83NG4wdm00MEpxbEhSR0Z6RmllNHRNckRreE1BYVF6OFdDZWhVTmRfR0FEeFk3dUxBLU55djlVRzNBSkJ6MmtkdmNhb0lEQndtel9ldFFFYlExeGlpZldZV1EzZnliZzM1LW9Zd0NIaWVVanJvSFc?oc=5",
-      "source": "Financial Times",
-      "date": "2026-11-20T05:07:40+00:00",
-      "display_date": "Nov 20, 2026",
-      "summary": "How Russian money launderers and Italian mobsters put Revolut in the regulatory crosshairs Financial Times",
-      "topics": [
-        "Regulatory Change"
       ]
     },
     {
@@ -1702,34 +1813,12 @@
       ]
     },
     {
-      "title": "Lyft’s Bookings Rise on Strength in Partnerships, New Products",
-      "link": "https://www.wsj.com/business/earnings/lyfts-bookings-rise-on-strength-in-partnerships-new-products-d8953f77?mod=pls_whats_news_us_business_f",
-      "source": "Wall Street Journal",
-      "date": "2026-11-05T21:12:00+00:00",
-      "display_date": "Nov 05, 2026",
-      "summary": "However, the ride-hailing platform’s top and bottom lines were dented by legal, tax and regulatory reserve changes and settlements.",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
       "title": "Federal Bank Regulatory Agencies Release 2025 Small Business, Small Farm, and Community Development Lending Data",
       "link": "https://www.occ.gov/news-issuances/news-releases/2026/nr-ia-2026-98.html",
       "source": "Office of the Comptroller of the Currency",
       "date": "2026-11-05T16:00:00+00:00",
       "display_date": "Nov 05, 2026",
       "summary": "Federal Bank Regulatory Agencies Release 2025 Small Business, Small Farm, and Community Development Lending Data The federal bank regulatory agencies, as members of the Federal Financial Institutions Examination Council (FFIEC), today released data on small business, small farm, ...",
-      "topics": [
-        "Regulatory Change"
-      ]
-    },
-    {
-      "title": "FCA acts to protect consumers facing demands for disguised remuneration scheme loan repayments",
-      "link": "https://www.fca.org.uk/news/statements/fca-acts-protect-consumers-demands-disguised-remuneration-scheme-loan-repayments",
-      "source": "FCA UK Regulatory News",
-      "date": "2026-11-05T13:46:00+00:00",
-      "display_date": "Nov 05, 2026",
-      "summary": "We've intervened and Ethica Resolve Limited (Ethica), an FCA authorised firm that services and collects debt on behalf of creditors, has agreed to restrictions. These follow demands it made for people to repay loans, or purported loans, provided as part of disguised remuneration ...",
       "topics": [
         "Regulatory Change"
       ]
