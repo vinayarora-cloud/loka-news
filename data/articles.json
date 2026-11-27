@@ -1,7 +1,52 @@
 {
-  "last_updated": "November 26, 2026 18:06 UTC",
-  "total_count": 202,
+  "last_updated": "November 27, 2026 02:38 UTC",
+  "total_count": 203,
   "articles": [
+    {
+      "title": "Nvidia clamps down on export rules with new National Security and Export Control Oversight Committee",
+      "link": "https://www.complianceweek.com/risk-management/nvidia-clamps-down-on-export-rules-with-new-national-security-and-export-control-oversight-committee/",
+      "source": "Compliance Week",
+      "date": "2026-11-26T22:24:16+00:00",
+      "display_date": "Nov 26, 2026",
+      "summary": "Nvidia created a board-level export control oversight committee following questions about CEO Jensen Huang’s affair with an alleged Chinese spy and related export compliance concerns. The post Nvidia clamps down on export rules with new National Security and Export Control Oversi...",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
+      "title": "New standard-setting body created to streamline how financial institutions assess third-party technology service providers",
+      "link": "https://www.complianceweek.com/third-party-risk/new-standard-setting-body-created-to-streamline-how-financial-institutions-assess-third-party-technology-service-providers/",
+      "source": "Compliance Week",
+      "date": "2026-11-26T22:10:40+00:00",
+      "display_date": "Nov 26, 2026",
+      "summary": "A newly launched voluntary, standard-setting organization, the Third-Party Assessments and Standards Council, aims to streamline assessments of third-party technology service providers in the financial services sector. The post New standard-setting body created to streamline how ...",
+      "topics": [
+        "Regulatory Change",
+        "Operational & Enterprise Risk"
+      ]
+    },
+    {
+      "title": "The top AML fines 2020-26 and why compliance should brace for more",
+      "link": "https://www.complianceweek.com/aml/the-top-aml-fines-2020-26-and-why-compliance-should-brace-for-more/",
+      "source": "Compliance Week",
+      "date": "2026-11-26T21:25:51+00:00",
+      "display_date": "Nov 26, 2026",
+      "summary": "Facilitating, or failing to prevent, money laundering has often proved expensive for financial sector organizations. Now, AML regulations are expanding to other sectors, and authorities are treating money laundering risks as a symptom of lax controls elsewhere. The post The top A...",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "Rocket Mortgage pays $6.75M to NYDFS over alleged cybersecurity lapses",
+      "link": "https://www.complianceweek.com/regulatory-enforcement/rocket-mortgage-pays-6-75m-to-nydfs-over-alleged-cybersecurity-lapses/",
+      "source": "Compliance Week",
+      "date": "2026-11-26T21:20:29+00:00",
+      "display_date": "Nov 26, 2026",
+      "summary": "Rocket Mortgage and Nationstar Mortgage will pay $6.75 million to settle NYDFS allegations that they failed to promptly report cybersecurity incidents and protect customers’ data. The post Rocket Mortgage pays $6.75M to NYDFS over alleged cybersecurity lapses appeared first on Co...",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
     {
       "title": "Dutch groups ask court to halt Meta smart glasses sales over privacy concerns - Reuters",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTW1YMnQzOGZCbUZNd2loMlNOS203R0ZwcGg3STdSRTlXcnFraDRvNzFwcG5URDlGMDI4Skt3WDRybmVQUi1mUlBMSGwxakl4eEFkU1NtdEdWb3pHc0w5Z2l6cHA0dUloalM1ZkhJYTRTTzlIdVdSUG41ZkpxRElOMG5UUHdobklDckZCZUt3VkxqV1pOYW13b1c5MTBsaXhKcG1sUmhrNnFjdy00VG9OWWhGUDVjRGxINUZaUWdwck9uY2tNeGc?oc=5",
@@ -25,14 +70,14 @@
       ]
     },
     {
-      "title": "StanChart’s Crypto Custody Unit Suffers Data Breach - Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPelp2M0xxeVgzWWkweXg0OWRHcllEdGluMFZmYjRpVnlvNERpVWNPNGJpc1liMEhOZFBKTldNOGI3b3A5aUdnWHktSTV3cTZiWThKZGJ0c1Z5Sk56amFQZmhEUEc3U041ODI2V2NCT3VmY2ppdFVjUWx2d0RRZHdtOUpIcEpTUzNfZWRLTmdwNUVINDFaUktROW9pRW9DbnVjS3dmUQ?oc=5",
-      "source": "Bloomberg",
-      "date": "2026-11-26T12:24:38+00:00",
+      "title": "FIFA Says Hackers Accessed Personal Data in Cyberattack - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWlFyR1RsWjEyejFRdXlWSVN4QXphaEE0dFp6R1FyaWJNLVBIUVFKc09kcGh3Q2xaV0VOdDRpWTRZVFBlLVoxVEtmV3cxclpNaE9BZU02ZXZaSWhJbnlCWVBWN2VseXdjUVowaW9nSWRqRjhMRWI2NXh0TWV3b1NkNE1nQkxmVnozRFZBbVNVT3hKS0ZpSHVuWmhfTEh4S25FdG9Md0o1OVU4UQ?oc=5",
+      "source": "Bloomberg.com",
+      "date": "2026-11-26T13:42:17+00:00",
       "display_date": "Nov 26, 2026",
-      "summary": "StanChart’s Crypto Custody Unit Suffers Data Breach Bloomberg",
+      "summary": "FIFA Says Hackers Accessed Personal Data in Cyberattack Bloomberg.com",
       "topics": [
-        "Cybersecurity Risk"
+        "Data Privacy"
       ]
     },
     {
@@ -44,6 +89,28 @@
       "summary": "The travel agency has apologised as it investigates a cyber breach believed to have exposed a significant number of customer records, including passport details.",
       "topics": [
         "Cybersecurity Risk"
+      ]
+    },
+    {
+      "title": "North Korea expels Swiss diplomat over sanctions weeks after office reopening - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNUNWNUd3TUtJYTY3OEc0TGI5U1NhNDdFREhNdzVxU3pnV2ZoaDgybzlaS0lvbVRXNWVxeG5uZFRRVEswT2s3V25GLWppMEJtLUZvSTJ3UVVVTE8tMUtGVFVSempYNmhyMmdjTXJGb0RGTFdMcVc0ZTJaUkVENC1tWk1Mbl9LYlBGZUYyRUJqejhCRXdyWGdhVVdxNnJjRTA1dlVmdUxHd0JOalNrWXBLQ2hGQktJalJjQmhqMkVBT1ZNWlFqa2xWeHFiMWdaRmZtRV9EYkNibTczZw?oc=5",
+      "source": "Reuters",
+      "date": "2026-11-26T10:29:41+00:00",
+      "display_date": "Nov 26, 2026",
+      "summary": "North Korea expels Swiss diplomat over sanctions weeks after office reopening Reuters",
+      "topics": [
+        "AML & Sanctions"
+      ]
+    },
+    {
+      "title": "Business turns on Labor’s 2035 climate goal as pressures grow for emissions cuts - The Australian",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPQzZhbC1qSHVBR3V3NXlDbjI5OWVXNHN6eE5VcmpzY1o3cDF6TUpZVFBOX09QWlBHSm93QkE3TGppak9nS0g2dFJCYjdCcjlySXRaMFVDM0U1V3E2NkxoZVgwdGFMRVRmM0JqZUJqMmtnVkhGWGhBazZ0SUIyUU9WU3prQTZ5aVJaY0JFYzltZ0o2aEhzV0g3S05ST1l2SVZSUzNSTjhVelBrMHo5QVRwTnF1THlBNngwWkZnYzBzVlFZQnc2eUswZVFFZ25TY2h3WkYxc1czYUgwcVZYNmo0SUR1eEVDQ19LRl94RG14MW50VWFQTEpXdW4xZHNFWmRpSEpZN3VB?oc=5",
+      "source": "The Australian",
+      "date": "2026-11-26T09:19:42+00:00",
+      "display_date": "Nov 26, 2026",
+      "summary": "Business turns on Labor’s 2035 climate goal as pressures grow for emissions cuts The Australian",
+      "topics": [
+        "ESG & Sustainability"
       ]
     },
     {
@@ -124,6 +191,17 @@
       ]
     },
     {
+      "title": "India orders tougher surveillance of packaged water, scrutiny set to cover PepsiCo, Coca-Cola - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWGpnUFlKQjNQWFVLc2puYVVuczBUMGxBUzh6WGtQZzBKQjY4bkJmSnBIV2I4dEhzS1JaRjd2LUhVNVN3MFJPamRNd3NCWUJHWWIwQXIxWUN1NDZ5XzhpWUxjQk9tRTJKbWJJdnpobHFTREIzUFhJdF92bWM1LUM0ZkdLWmVHenVOVXVXRmRRZGZNcjVDdXhrZUlQQmRsNkpZdmVlQmYxSzlYVlNOR2VhRW15Q1FYcWF1UDYwaVRpYWlaZkIxZ0hkcS1laUFDUjRpOWt2TUdsWEJDVFpKZVpxa2theW00dUE?oc=5",
+      "source": "Reuters",
+      "date": "2026-11-26T05:28:00+00:00",
+      "display_date": "Nov 26, 2026",
+      "summary": "India orders tougher surveillance of packaged water, scrutiny set to cover PepsiCo, Coca-Cola Reuters",
+      "topics": [
+        "Data Privacy"
+      ]
+    },
+    {
       "title": "ASIC sues major insurer over complaints handling and claims delays",
       "link": "https://www.abc.net.au/news/2026-11-26/corporate-regulator-asic-sues-aig-failing-to-manage-complaints/107398204",
       "source": "ABC News Business (AU)",
@@ -169,17 +247,6 @@
       ]
     },
     {
-      "title": "Nvidia at Risk of Rating Cut by S&P Over Governance Concerns - Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOODhZc1ZaTjRJWFV2emVDd3pSLXljRGVsRXRaSGVTalU5TzFGRVNKdkYweHI5WkdnRGlRZ1c2Z2RuaHZrX1h4dlZzTXFxbkVRdnR4VUp6eFI4YWxmQ21FZUdwMWhlUHI0Q21TSGpxc2trdjFKd1Y0UW9SRTUxdVhFRkt1RVh2R0JuZDFRZG9JTDJRYzlHN1lSVHoxQUJUVU04V1JFSG1rM1pUZjFvQW00em1VWXQ4UQ?oc=5",
-      "source": "Bloomberg",
-      "date": "2026-11-25T22:46:11+00:00",
-      "display_date": "Nov 25, 2026",
-      "summary": "Nvidia at Risk of Rating Cut by S&P Over Governance Concerns Bloomberg",
-      "topics": [
-        "Operational & Enterprise Risk"
-      ]
-    },
-    {
       "title": "U.S. Officials Say There’s No Evidence China Coordinated Jensen Huang’s Affair",
       "link": "https://www.wsj.com/business/u-s-officials-say-theres-no-evidence-china-coordinated-jensen-huangs-affair-52fa4961?mod=pls_whats_news_us_business_f",
       "source": "Wall Street Journal",
@@ -210,17 +277,6 @@
       "summary": "The sale was initially sparked after the Trump administration slapped sanctions on Lukoil assets to pressure Moscow in negotiations over the war in Ukraine.",
       "topics": [
         "AML & Sanctions"
-      ]
-    },
-    {
-      "title": "Kmart sued over 'dupes' three times in 18 months",
-      "link": "https://www.abc.net.au/news/2026-11-26/kmart-sued-three-times-for-dupes/107296574",
-      "source": "ABC News Business (AU)",
-      "date": "2026-11-25T18:00:00+00:00",
-      "display_date": "Nov 25, 2026",
-      "summary": "Kmart has been sued three times in the past 18 months for its \"dupes\", but as demand grows, can the law protect creators?",
-      "topics": [
-        "Enforcement Actions"
       ]
     },
     {
@@ -345,23 +401,12 @@
       ]
     },
     {
-      "title": "North Korea expels head of Swiss diplomatic office over sanctions - The Australian",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPdGRqME9hQnBvemMzdFZZMzNCVEtHSEtqYWRPTk8zbUt1SldhWXJxM3NxUFpzNGZsMW5HX0h0WllzMUpjQmJwS08yNzZGQnEzVW9ZREUtM2cxRUVOZmRPVldlLXMxTjU5R21yS2pPdWF2RnVPY2diRDVuZ0ROa3FvLUUzWElvZ2tPSDdPWjNiV3BlRFh3ai1lNTdyUGJ1YWJ5WlRQZ1h3eXQ1RWoyQm4ya053UWV5WmIwYUhzM01rZzVEb3ZYazZVX01PX2dUOXd6WHQ5VkthaGV0MU1LaG11d2xISG9DdjRBVFhLbk52RFY?oc=5",
-      "source": "The Australian",
-      "date": "2026-11-25T08:25:00+00:00",
-      "display_date": "Nov 25, 2026",
-      "summary": "North Korea expels head of Swiss diplomatic office over sanctions The Australian",
-      "topics": [
-        "AML & Sanctions"
-      ]
-    },
-    {
-      "title": "Huawei Found Guilty of US Criminal Charges in Landmark Case - Bloomberg",
+      "title": "Huawei Found Guilty of US Criminal Charges in Landmark Case - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcXF1dllwcm1uOWZNWUZIVGMyeTVzTURuTl9aUy1lOUliTVhOZ0NqdzVjc2xYYmZCMjd1cU42V1R6T3MwRDhiVGtrMGs3OU1abS1Wb0hsLTBrZVZ1NlQzU2VaenhFcjR6ZzZQMFZGQWotejdiQ1Z3SUx4cF8xb1pJaFhna2JZa1JtVHdwUGFmZHJwQzJUR0pNN00yeEEtOVQ2RjE0N2c5R2w5dnZfTGJz?oc=5",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "date": "2026-11-25T07:36:00+00:00",
       "display_date": "Nov 25, 2026",
-      "summary": "Huawei Found Guilty of US Criminal Charges in Landmark Case Bloomberg",
+      "summary": "Huawei Found Guilty of US Criminal Charges in Landmark Case Bloomberg.com",
       "topics": [
         "Enforcement Actions"
       ]
@@ -386,17 +431,6 @@
       "summary": "",
       "topics": [
         "Enforcement Actions"
-      ]
-    },
-    {
-      "title": "North Korea expels Swiss diplomat over sanctions weeks after office reopening - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNUNWNUd3TUtJYTY3OEc0TGI5U1NhNDdFREhNdzVxU3pnV2ZoaDgybzlaS0lvbVRXNWVxeG5uZFRRVEswT2s3V25GLWppMEJtLUZvSTJ3UVVVTE8tMUtGVFVSempYNmhyMmdjTXJGb0RGTFdMcVc0ZTJaUkVENC1tWk1Mbl9LYlBGZUYyRUJqejhCRXdyWGdhVVdxNnJjRTA1dlVmdUxHd0JOalNrWXBLQ2hGQktJalJjQmhqMkVBT1ZNWlFqa2xWeHFiMWdaRmZtRV9EYkNibTczZw?oc=5",
-      "source": "Reuters",
-      "date": "2026-11-25T03:19:00+00:00",
-      "display_date": "Nov 25, 2026",
-      "summary": "North Korea expels Swiss diplomat over sanctions weeks after office reopening Reuters",
-      "topics": [
-        "AML & Sanctions"
       ]
     },
     {
@@ -898,6 +932,29 @@
       ]
     },
     {
+      "title": "Wall Street regulator proposes to take control of market surveillance tool - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOc3l1VEx5NmltZXJvc3o2Y1NROE95b09yOTJfOWpZaTFlQnh1Wjl3Slh3RHltX3l6Y3lfLVVHSEJRcjI4Nl9ieHRMdE5PYTFqNVRBN2RwcElIMEpNMGVSZ0NialFOcjRLajRsdWlEUzRkWlRxaC1Hc0xLemEtdklLeUU4eGM0Ums2MzFvSUhTWjNjY25wbDFSUFI4dlhONnduRGI5OUdzd3dvZUhEODV3VW5ReGJXcnRycm1n?oc=5",
+      "source": "Reuters",
+      "date": "2026-11-20T22:43:44+00:00",
+      "display_date": "Nov 20, 2026",
+      "summary": "Wall Street regulator proposes to take control of market surveillance tool Reuters",
+      "topics": [
+        "Regulatory Change",
+        "Data Privacy"
+      ]
+    },
+    {
+      "title": "Nvidia faces US regulator’s probe into its accounting - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZWJsU0wwemxtMW1PcWVVZlpsNXdhODhIZkZSZGd5NGNacmE5UWhTVnphVUR2NGVuWmhpQnJtUUsxQ1VLRnJkTUl6QVhjdDFEak96YUhwbVpmUHA4WGwtY3czNWstelpTdnhaTk1zSkE2SGhfTmtsNlROVE9BNHhMNnZwX1Y?oc=5",
+      "source": "Financial Times",
+      "date": "2026-11-20T21:58:08+00:00",
+      "display_date": "Nov 20, 2026",
+      "summary": "Nvidia faces US regulator’s probe into its accounting Financial Times",
+      "topics": [
+        "Regulatory Change"
+      ]
+    },
+    {
       "title": "US Treasury sanctions Iranian 'trustees' collecting oil revenues - Reuters",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV3NtX0JqMFVBeHBVcTdlV1ZTaXRRMUhnLV9YWmR3VEZqUHVwbFlnOTlFTlZtTTExbUhTNzBsWXR6YTNYQmdMdVg4VGJuTTRYR19wSHhSZUJaTlRxWWpFT0o3SGgzb2JrOXY4b2xMd3cxQ2VlbGZPUzFGU2hJNFJLLTV6YlZLdmlGbUNaY19jMDdMLXVLTGRiT2ZfR2dMY0JuNzc0UzE0akxlelRNNl9sYzhLMkFwczA?oc=5",
       "source": "Reuters",
@@ -917,18 +974,6 @@
       "summary": "Nvidia Corp. sold at least 879,000 high-powered AI chips to companies linked to the Chinese military after receiving approval from the Commerce Department, the House Foreign Affairs Committee said Thursday. The post Investigations of Nvidia mount amid growing questions of AI chip...",
       "topics": [
         "Operational & Enterprise Risk"
-      ]
-    },
-    {
-      "title": "UK government promises overhaul of water regulation and companies after report exposes environmental failures",
-      "link": "https://www.complianceweek.com/energy-and-utilities/uk-government-promises-overhaul-of-water-regulation-and-companies-after-report-exposes-environmental-failures/",
-      "source": "Compliance Week",
-      "date": "2026-11-20T20:31:24+00:00",
-      "display_date": "Nov 20, 2026",
-      "summary": "The UK government has promised to overhaul water company regulation after a series of financial, infrastructure and environmental crises exposed fundamental weaknesses across the industry. The post UK government promises overhaul of water regulation and companies after report exp...",
-      "topics": [
-        "Regulatory Change",
-        "ESG & Sustainability"
       ]
     },
     {
@@ -1021,18 +1066,6 @@
       ]
     },
     {
-      "title": "New York AG launches AI enforcement unit as states crack down on AI risks",
-      "link": "https://www.complianceweek.com/artificial-intelligence/new-york-ag-launches-ai-enforcement-unit-as-states-crack-down-on-ai-risks/",
-      "source": "Compliance Week",
-      "date": "2026-11-19T22:35:54+00:00",
-      "display_date": "Nov 19, 2026",
-      "summary": "The New York attorney general established a new unit to protect New York residents’ safety and privacy from potential harms of AI. The post New York AG launches AI enforcement unit as states crack down on AI risks appeared first on Compliance Week .",
-      "topics": [
-        "Enforcement Actions",
-        "Data Privacy"
-      ]
-    },
-    {
       "title": "Geordie Shore star and illegal finfluencer sentenced for promoting high-risk investments on social media",
       "link": "https://www.fca.org.uk/news/press-releases/geordie-shore-star-illegal-finfluencer-sentenced-promoting-high-risk-investments-social-media",
       "source": "FCA UK Regulatory News",
@@ -1041,18 +1074,6 @@
       "summary": "Aaron Chalmers, a reality TV star and social media content creator, and finfluencer Jason Agbodza have been sentenced for illegally promoting an unauthorised foreign exchange trading scheme on social media. Chalmers, 39 and from Newcastle, was sentenced at City of London Magistra...",
       "topics": [
         "Regulatory Change"
-      ]
-    },
-    {
-      "title": "California privacy agency proposes independent audits for data brokers",
-      "link": "https://www.complianceweek.com/data-privacy/california-privacy-agency-proposes-independent-audits-for-data-brokers/",
-      "source": "Compliance Week",
-      "date": "2026-11-19T17:00:00+00:00",
-      "display_date": "Nov 19, 2026",
-      "summary": "Data brokers would be required to hire outside auditors to assess their compliance with California’s consumer opt-out rule, under a proposal by the California Privacy Protection Agency. The post California privacy agency proposes independent audits for data brokers appeared first...",
-      "topics": [
-        "Regulatory Change",
-        "Data Privacy"
       ]
     },
     {
@@ -1076,17 +1097,6 @@
       "summary": "Before we all forget, last week the Justice Department settled yet another False Claims Act lawsuit with a government contractor over poor cybersecurity. That itself is not really news any longer — but when we consider who the whistleblower in the case was, and the myriad IT outa...",
       "topics": [
         "Cybersecurity Risk",
-        "Operational & Enterprise Risk"
-      ]
-    },
-    {
-      "title": "Governance and culture failings at UK power grid operator putting network supply transparency at risk",
-      "link": "https://www.complianceweek.com/energy-and-utilities/governance-and-culture-failings-at-uk-power-grid-operator-putting-network-supply-transparency-at-risk/",
-      "source": "Compliance Week",
-      "date": "2026-11-19T16:00:00+00:00",
-      "display_date": "Nov 19, 2026",
-      "summary": "Serious governance and culture failings at the UK National Energy System Operator are undermining transparency and oversight of critical electricity supplies, a new report says. The post Governance and culture failings at UK power grid operator putting network supply transparency...",
-      "topics": [
         "Operational & Enterprise Risk"
       ]
     },
